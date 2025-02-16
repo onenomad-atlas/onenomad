@@ -2,7 +2,8 @@
 One Nomad is a comprehensive digital wiki that serves as a dynamic platform offering exhaustive information about the world through a single, richly detailed online resource.
 ***
 ## Contents
-
+|                        |                        |                    |
+|-|-|-|
 | [💼 Accounting & Budget](#accountingbudget) | [🛒 Amazon](#amazon)                | [💻 App & Web Development](#appwebdevelopment) |
 | [👗 Apparel](#apparel)              | [📱 Apps](#apps)                   | [🏛️ Architecture](#architecture)      |
 | [🎖️ Army & Military](#armyandmilitary) | [🤖 Artificial Intelligence](#artificialintelligence) | [💰 Auctions](#auctions)               |
