@@ -36,44 +36,44 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Accounting and Budget
 ## Amazon
-## App -and- Web Development
+## App and Web Development
 ## Apparel
 ## Apps
 ## Architecture
-## Army -and- Military
+## Army and Military
 ## Artificial Intelligence
 ## Auctions
-## Audio -and- Music
-## Aviation -and- Flight
-## Bath -and- Beauty
+## Audio and Music
+## Aviation and Flight
+## Bath and Beauty
 ## Bed
 ## Books
 ## Business
 ## Buyer Clubs
-## Cell Phone -and- MVNO Plans
+## Cell Phone and MVNO Plans
 ## China
 ## Chrome Extensions
 ## Credit Cards
 ## Crypto
 ## Custom Products
-## Design -and- Creativity
-## Discounts -and- Deals
-## Docs -and- Files
+## Design and Creativity
+## Discounts and Deals
+## Docs and Files
 ## Dupes
-## Education -and- Courses
+## Education and Courses
 ## Electricity
 ## Entertainment
 ## Finance
-## Financial Markets -and- Trading
+## Financial Markets and Trading
 ## Fitness
-## Food -and- Drinks
+## Food and Drinks
 ## Footwear
 ## Fragrances
-## Furniture -and- Home Decor
+## Furniture and Home Decor
 ## Futuristic Products
 ## Glasses
 ## Grocery
-## Health -and- Medicine
+## Health and Medicine
 ## History
 ## Home
 ## Images
@@ -83,31 +83,31 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Kitchen
 ## Kodi
 ## Local
-## Meetings -and- Video Calls
-## Money Transfer -and- Exchange
-## Movies -and- TV
-## News -and- Articles
+## Meetings and Video Calls
+## Money Transfer and Exchange
+## Movies and TV
+## News and Articles
 ## Newsletters
 ## Open Source
 ## Pakistan
 ## Personal Growth
-## Podcasts -and- Software
+## Podcasts and Software
 ## Privacy
 ## Productivity
-## R-and-om
+## Random
 ## Read it Later
 ## Recipes
-## Shopping -and- Products
-## Silver/Gold -and- Other Currency
+## Shopping and Products
+## Silver/Gold and Other Currency
 ## Sports
-## Startup Investment -and- Crowdfunding
+## Startup Investment and Crowdfunding
 ## Tech
 ## Tools
 ## Travel
 ## United Arab Emirates
-## US -and- Government
+## US and Government
 ## Vehicles
-## Video -and- Animation
+## Video and Animation
 ## Watches
 ## Weather
 ## Windows
