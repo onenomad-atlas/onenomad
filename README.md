@@ -193,6 +193,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Apps
 *Only for android*
+
 [photoroom](https://www.photoroom.com/) - Edit product photos  
 [NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
 [speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
