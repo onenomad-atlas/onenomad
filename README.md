@@ -3,158 +3,158 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ***
 ## Contents
 
-[Accounting & Budget](#accountingbudget)
+[💼 Accounting & Budget](#accountingbudget)
 
-[Amazon](#amazon)
+[🛒 Amazon](#amazon)
 
-[App & Web Development](#appwebdevelopment)
+[💻 App & Web Development](#appwebdevelopment)
 
-[Apparel](#apparel)
+[👗 Apparel](#apparel)
 
-[Apps](#apps)
+[📱 Apps](#apps)
 
-[Architecture](#architecture)
+[🏛️ Architecture](#architecture)
 
-[Army & Military](#armyandmilitary)
+[🎖️ Army & Military](#armyandmilitary)
 
-[Artificial Intelligence](#artificialintelligence)
+[🤖 Artificial Intelligence](#artificialintelligence)
 
-[Auctions](#auctions)
+[💰 Auctions](#auctions)
 
-[Audio & Music](#audioandmusic)
+[🎧 Audio & Music](#audioandmusic)
 
-[Aviation and Flight](#aviationandflight)
+[✈️ Aviation and Flight](#aviationandflight)
 
-[Bath & Beauty](#bathandbeauty)
+[🛁 Bath & Beauty](#bathandbeauty)
 
-[Bed](#bed)
+[🛏️ Bed](#bed)
 
-[Books](#books)
+[📚 Books](#books)
 
-[Business](#business)
+[💼 Business](#business)
 
-[Buyer Clubs](#buyerclubs)
+[🛍️ Buyer Clubs](#buyerclubs)
 
-[Cell Phone & MVNO Plans](#cellphoneandmvnoplans)
+[📱 Cell Phone & MVNO Plans](#cellphoneandmvnoplans)
 
-[China](#china)
+[🇨🇳 China](#china)
 
-[Chrome Extensions](#chromeextensions)
+[🔧 Chrome Extensions](#chromeextensions)
 
-[Credit Cards](#creditcards)
+[💳 Credit Cards](#creditcards)
 
-[Crypto](#crypto)
+[🪙 Crypto](#crypto)
 
-[Custom Products](#customproducts)
+[🎨 Custom Products](#customproducts)
 
-[Design & Creativity](#designandcreativity)
+[🎨 Design & Creativity](#designandcreativity)
 
-[Discounts & Deals](#discountsanddeals)
+[💸 Discounts & Deals](#discountsanddeals)
 
-[Docs & Files](#docsandfiles)
+[📄 Docs & Files](#docsandfiles)
 
-[Dupes](#dupes)
+[🔍 Dupes](#dupes)
 
-[Education & Courses](#educationandcourses)
+[🎓 Education & Courses](#educationandcourses)
 
-[Electricity](#electricity)
+[⚡ Electricity](#electricity)
 
-[Entertainment](#entertainment)
+[🎬 Entertainment](#entertainment)
 
-[Finance](#finance)
+[💵 Finance](#finance)
 
-[Financial Markets & Trading](#financialmarketsandtrading)
+[📈 Financial Markets & Trading](#financialmarketsandtrading)
 
-[Fitness](#fitness)
+[💪 Fitness](#fitness)
 
-[Food & Drinks](#foodanddrinks)
+[🍔 Food & Drinks](#foodanddrinks)
 
-[Footwear](#footwear)
+[👠 Footwear](#footwear)
 
-[Fragrances](#fragrances)
+[💐 Fragrances](#fragrances)
 
-[Furniture & Home Decor](#furnitureandhomedecor)
+[🏠 Furniture & Home Decor](#furnitureandhomedecor)
 
-[Futuristic Products](#futuristicproducts)
+[🚀 Futuristic Products](#futuristicproducts)
 
-[Glasses](#glasses)
+[🕶️ Glasses](#glasses)
 
-[Grocery](#grocery)
+[🥗 Grocery](#grocery)
 
-[Health & Medicine](#healthandmedicine)
+[💊 Health & Medicine](#healthandmedicine)
 
-[History](#history)
+[📜 History](#history)
 
-[Home](#home)
+[🏠 Home](#home)
 
-[Images](#images)
+[🖼️ Images](#images)
 
-[India](#india)
+[🇮🇳 India](#india)
 
-[International Companies](#internationalcompanies)
+[🌍 International Companies](#internationalcompanies)
 
-[Jewelry](#jewelry)
+[💍 Jewelry](#jewelry)
 
-[Kitchen](#kitchen)
+[🍴 Kitchen](#kitchen)
 
-[Kodi](#kodi)
+[🎥 Kodi](#kodi)
 
-[Local](#local)
+[🌍 Local](#local)
 
-[Meetings & Video Calls](#meetingsandvideocalls)
+[📞 Meetings & Video Calls](#meetingsandvideocalls)
 
-[Money Transfer & Exchange](#moneytransferandexchange)
+[💸 Money Transfer & Exchange](#moneytransferandexchange)
 
-[Movies & TV](#moviesandtv)
+[🎥 Movies & TV](#moviesandtv)
 
-[News & Articles](#newsandarticles)
+[📰 News & Articles](#newsandarticles)
 
-[Newsletters](#newsletters)
+[📧 Newsletters](#newsletters)
 
-[Open Source](#opensource)
+[💻 Open Source](#opensource)
 
-[Pakistan](#pakistan)
+[🇵🇰 Pakistan](#pakistan)
 
-[Personal Growth](#personalgrowth)
+[🌱 Personal Growth](#personalgrowth)
 
-[Podcasts & Software](#podcastsandsoftware)
+[🎧 Podcasts & Software](#podcastsandsoftware)
 
-[Privacy](#privacy)
+[🔒 Privacy](#privacy)
 
-[Productivity](#productivity)
+[📅 Productivity](#productivity)
 
-[Random](#random)
+[🎲 Random](#random)
 
-[Read it Later](#readitlater)
+[📚 Read it Later](#readitlater)
 
-[Recipes](#recipes)
+[🍽️ Recipes](#recipes)
 
-[Shopping & Products](#shoppingandproducts)
+[🛍️ Shopping & Products](#shoppingandproducts)
 
-[Silver/Gold & Other Currency](#silvergoldandothercurrency)
+[💰 Silver/Gold & Other Currency](#silvergoldandothercurrency)
 
-[Sports](#sports)
+[⚽ Sports](#sports)
 
-[Startup Investment & Crowdfunding](#startupinvestmentandcrowdfunding)
+[🚀 Startup Investment & Crowdfunding](#startupinvestmentandcrowdfunding)
 
-[Tech](#tech)
+[🖥️ Tech](#tech)
 
-[Tools](#tools)
+[🛠️ Tools](#tools)
 
-[Travel](#travel)
+[🌍 Travel](#travel)
 
-[United Arab Emirates](#unitedarabemirates)
+[🇦🇪 United Arab Emirates](#unitedarabemirates)
 
-[US & Government](#usandgovernment)
+[🇺🇸 US & Government](#usandgovernment)
 
-[Vehicles](#vehicles)
+[🚗 Vehicles](#vehicles)
 
-[Video & Animation](#videoandanimation)
+[🎞️ Video & Animation](#videoandanimation)
 
-[Watches](#watches)
+[⌚ Watches](#watches)
 
-[Weather](#weather)
+[🌦️ Weather](#weather)
 
-[Windows](#windows)
+[💻 Windows](#windows)
 
-[World Data](#worlddata)
+[🌎 World Data](#worlddata)
