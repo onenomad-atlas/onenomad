@@ -6,10 +6,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [💼 Accounting and Budget](#accountingandbudget) | [🛒 Amazon](#amazon)                | [💻 App and Web Development](#appandweb development)
 :-----------------------------------|:------------------------------------|:------------------------------------
 [👗 Apparel](#apparel)              | [📱 Apps](#apps)                   | [🏛️ Architecture](#architecture)
-[🎖️ Army and Military](#armyandmilitary) | [🤖 Artificial Intelligence](#artificialintelligence) | [💰 Auctions](#auctions)
-[🎧 Audio and Music](#audioandmusic)  | [✈️ Aviation and Flight](#aviationandflight) | [🛁 Bath and Beauty](#bathandbeauty)
+[🎖️ Army and Military](#army-and-military) | [🤖 Artificial Intelligence](#artificial-intelligence) | [💰 Auctions](#auctions)
+[🎧 Audio and Music](#audio-and-music)  | [✈️ Aviation and Flight](#aviation-and-flight) | [🛁 Bath and Beauty](#bath-and-beauty)
 [🛏️ Bed](#bed)                     | [📚 Books](#books)                 | [💼 Business](#business)
-[🛍️ Buyer Clubs](#buyerclubs)      | [📱 Cell Phone and MVNO Plans](#cellphoneandmvnoplans) | [🇨🇳 China](#china)
+[🛍️ Buyer Clubs](#buyer-clubs)      | [📱 Cell Phone and MVNO Plans](#cellphone-and-mvno-plans) | [🇨🇳 China](#china)
 [🔧 Chrome Extensions](#chromeextensions) | [💳 Credit Cards](#creditcards)     | [🪙 Crypto](#crypto)
 [🎨 Custom Products](#customproducts) | [🎨 Design and Creativity](#designandcreativity) | [💸 Discounts and Deals](#discountsanddeals)
 [📄 Docs and Files](#docsandfiles)   | [🔍 Dupes](#dupes)                 | [🎓 Education and Courses](#educationandcourses)
