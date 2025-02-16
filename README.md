@@ -34,7 +34,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 </CENTER>
 
 
-## Accounting -and- Budget
+## Accounting and Budget
 ## Amazon
 ## App -and- Web Development
 ## Apparel
