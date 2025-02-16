@@ -109,7 +109,42 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [junglescout](https://www.junglescout.com/) - Amazon Seller Software & Product Research  
 [cjdropshipping](https://cjdropshipping.com/) - Dropshipping  
 [inventorysource](https://www.inventorysource.com/) - Dropship Automation Software
+
 ## App and Web Development
+
+[lovable](https://lovable.dev/)  
+[builder](https://www.builder.io/)  
+[warp](https://www.warp.dev/)  
+[webflow](https://webflow.com/)  
+[firebase](https://firebase.google.com/)  
+[flutterflow](https://www.flutterflow.io/)  
+[co](https://www.co.dev/)  
+[hackertab](https://hackertab.dev/) - Developer news  
+
+**Web Platforms**
+
+[carrd](http://www.carrd.co/)  
+[squarespace](https://www.squarespace.com/)  
+[shopify](https://www.shopify.com/)  
+[square](https://squareup.com/us/en)  
+[wix](https://www.wix.com/)  
+[weebly](https://www.weebly.com/websites?c=mkt_w_chnl:semb_geo:US_prtnr:ggl_camp:G-S-Brand-EM-US_campid:257473334_ag:weebly_agid:15054213254_kw:weebly_mt:e_dvc:c&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_ZcU7aB3a-TrdGF-mD95aBEQldZwbLWP0u_wL1F3b5JnWugHCYEj0aAlz_EALw_wcB)  
+[godaddy](https://www.godaddy.com/) - Domain  
+[mailchimp](https://mailchimp.com/)  
+[wordpress](https://wordpress.com/)  
+[bigcommerce](https://www.bigcommerce.com/)  
+
+**Coding**
+
+[freecodecamp.org](https://www.freecodecamp.org/)  
+[Geekforgeeks](https://www.geeksforgeeks.org/)  
+[W3schools](https://www.w3schools.com/)  
+[Hackerrank](https://www.hackerrank.com/)  
+[Leetcode](https://leetcode.com/)  
+[Code wars](https://www.codewars.com/)  
+[Mulesoft](https://www.mulesoft.com/)  
+[hacksplaining](https://www.hacksplaining.com/)
+
 ## Apparel
 ## Apps
 ## Architecture
