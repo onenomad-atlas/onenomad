@@ -1,8 +1,6 @@
 # One Nomad
 One Nomad is a comprehensive digital wiki that serves as a dynamic platform offering exhaustive information about the world through a single, richly detailed online resource.
 ***
-<CENTER>
-:-----------------------------------|:------------------------------------|:------------------------------------
 
 [💼 Accounting and Budget](#accounting-and-budget) | [🛒 Amazon](#amazon)                | [💻 App and Web Development](#app-and-web-development)
 :-----------------------------------|:------------------------------------|:------------------------------------
@@ -32,7 +30,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [🚗 Vehicles](#vehicles)           | [🎞️ Video and Animation](#video-and-animation) | [⌚ Watches](#watches)
 [🌦️ Weather](#weather)            | [💻 Windows](#windows)             | [🌎 World Data](#world-data)
 
-</CENTER>
 
 
 ## Accounting and Budget
