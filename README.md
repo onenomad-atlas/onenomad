@@ -238,7 +238,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Apparel**
 
-[rangerjoes](https://rangerjoes.com/) 
+[rangerjoes](https://rangerjoes.com/) <br>
 [armysurplusworld](https://www.armysurplusworld.com/)
 
 ## Artificial Intelligence
