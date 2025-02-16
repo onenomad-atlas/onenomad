@@ -334,7 +334,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Bed
 
-## Mattresses
+**Mattresses**
 
 [purple](https://purple.com/)  
 [avocadogreenmattress](https://www.avocadogreenmattress.com/)  
@@ -353,7 +353,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [lumasleep](https://lumasleep.com/)  
 [dreamcloud](https://www.dreamcloudsleep.com/)  
 
-## Bedsheets
+**Bedsheets**
 
 [brooklinen](https://www.brooklinen.com/)  
 [mellanni](https://mellanni.com/)  
@@ -362,7 +362,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [rh](https://rh.com/)  
 [ethanallen](https://www.ethanallen.com/)  
 
-## Resources
+**Resources**
 
 [sleeplikethedead](https://www.sleeplikethedead.com/)  
 ## Books
