@@ -63,7 +63,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   * [backcountry](https://www.backcountry.com/)
   * [rei](https://www.rei.com/)
     
-  **Other**
+*  **Other**
   * [alphabroder](http://www.alphabroder.com/) - wholesale
   * [Jomashop](https://www.jomashop.com/) - best prices on products
   * [tiebar](http://www.thetiebar.com/) - quality made menswear
