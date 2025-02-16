@@ -437,6 +437,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   [Google Fi](https://fi.google.com/)  
 
 ## China
+
+[deepseek](https://www.deepseek.com/) - Chatgpt alternative
+[byd](https://www.byd.com/us) - electric cars, sedans, suvs
+[nio](https://www.nio.com/) - vehicles & tech
+[huawei](https://www.huawei.com/en/) - smartphones & tech
+[tencent](https://www.tencent.com/en-us/index.html) - tech company
+[foxconn](https://www.foxconn.com/en-us) - electronics distributor
+
 ## Chrome Extensions
 ## Credit Cards
 ## Crypto
