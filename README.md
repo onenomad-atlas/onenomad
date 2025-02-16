@@ -242,6 +242,66 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [armysurplusworld](https://www.armysurplusworld.com/)
 
 ## Artificial Intelligence
+[thebricks](https://www.thebricks.com/) - AI Spreadsheet
+
+[voicenotes](https://voicenotes.com/?via=website)
+
+[getpickle](https://getpickle.ai/) - Your AI Body Double
+
+[kompas](https://kompas.ai/dashboard/landing) - generate a report
+
+[vetted](https://vetted.ai/) - shopping assistant
+
+[cursor](https://www.cursor.com/) - The AI Code Editor
+
+[stowaway](https://www.stowaway.io/) - Take your business where you already are.
+
+[runwayml](https://runwayml.com/) - tools for human imagination 
+
+[recraft](https://www.recraft.ai/) - premium image generation & editing tool
+
+[speechcentral](https://speechcentral.net/) - The world leading text-to-speech AI app
+
+[claude](https://claude.ai/login) - Privacy-first AI that helps you create in confidence.
+
+[snipd](https://www.snipd.com/) - discover and save highlights in podcasts
+
+[curiosity.ai](https://curiosity.ai/) - search everything everywhere
+
+[Github Copilot](https://github.com/features/copilot) - AI Pair Programmer
+
+[character](https://beta.character.ai/) - create Characters and talk to them
+
+[elevenlabs.io](https://elevenlabs.io/) - Text to Speech & AI Voice Generator
+
+[speedwrite](https://speedwrite.com/) - automatic text generator
+
+[hotpot.ai](https://hotpot.ai/) - makes graphic design and image editing easy
+
+[openai](https://openai.com/) - AI research and deployment company
+
+[comma.ai](https://comma.ai/) - open source driver assistance system
+
+[metaphysic.ai](https://metaphysic.ai/) - hyperreal metaverse AI-generated content & web3 infrastructure
+
+[omakaseai](https://omakaseai.com/) - Create your personal shopper AI agent with just a URL
+
+[jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources
+
+[wellsaidlabs](https://wellsaidlabs.com/) - AI Text to Speech
+
+[hypnogram.xyz](https://hypnogram.xyz/) - Generate images from text descriptions using AI
+
+[craiyon](https://www.craiyon.com/) - AI model that can draw images from any text prompt
+
+[beatoven](https://www.beatoven.ai/) - advanced AI music generation
+[generated.photos](https://generated.photos/) - Unique, worry-free model photos
+[beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you
+[imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate Image Using Text
+[speechify](https://speechify.com/hero-v2/?landing_url=https%3A%2F%2Fspeechify.com%2Fhero-v2%2F) - AI text to speech
+[photoroom](https://www.photoroom.com/) - Magic photo studio on the go
+[firefly.adobe](https://firefly.adobe.com/)
+[perplexity](https://www.perplexity.ai/)
 ## Auctions
 ## Audio and Music
 ## Aviation and Flight
