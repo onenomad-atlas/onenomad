@@ -223,6 +223,17 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [localsend](https://localsend.org/) - Share files to nearby devices  
 
 ## Architecture
+
+**Architecture Firm**
+
+[som](https://www.som.com/) - Skidmore, Owings & Merrill  
+[kpf](https://www.kpf.com/) - Kohn Pedersen Fox  
+[gensler](https://www.gensler.com/)  
+[smithgill](http://smithgill.com/) - Adrian Smith + Gordon Gill Architecture  
+[fosterandpartners](https://www.fosterandpartners.com/)  
+[perkinswill](https://perkinswill.com/)  
+[big.dk](https://big.dk/#projects)
+
 ## Army and Military
 ## Artificial Intelligence
 ## Auctions
