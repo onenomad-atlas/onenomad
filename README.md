@@ -9,7 +9,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [🎖️ Army and Military](#army-and-military) | [🤖 Artificial Intelligence](#artificial-intelligence) | [💰 Auctions](#auctions)
 [🎧 Audio and Music](#audio-and-music)  | [✈️ Aviation and Flight](#aviation-and-flight) | [🛁 Bath and Beauty](#bath-and-beauty)
 [🛏️ Bed](#bed)                     | [📚 Books](#books)                 | [💼 Business](#business)
-[🛍️ Buyer Clubs](#buyer-clubs)      | [📱 Cell Phone and MVNO Plans](#cellphone-and-mvno-plans) | [🇨🇳 China](#china)
+[🛍️ Buyer Clubs](#buyer-clubs)      | [📱 Cell Phone and MVNO Plans](#cell-phone-and-mvno-plans) | [🇨🇳 China](#china)
 [🔧 Chrome Extensions](#chromeextensions) | [💳 Credit Cards](#creditcards)     | [🪙 Crypto](#crypto)
 [🎨 Custom Products](#customproducts) | [🎨 Design and Creativity](#designandcreativity) | [💸 Discounts and Deals](#discountsanddeals)
 [📄 Docs and Files](#docsandfiles)   | [🔍 Dupes](#dupes)                 | [🎓 Education and Courses](#educationandcourses)
