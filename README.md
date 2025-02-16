@@ -1,81 +1,65 @@
 # One Nomad
 One Nomad is a comprehensive digital wiki that serves as a dynamic platform offering exhaustive information about the world through a single, richly detailed online resource.
 ***
-## Contents
+| **💼 Accounting & Budget** | **🛒 Amazon**                | **💻 App & Web Development** |
+|----------------------------|-----------------------------|-----------------------------|
+| [💼 Accounting & Budget](#accounting-and-budget) | [🛒 Amazon](#amazon)                | [💻 App & Web Development](#app-web-development) |
+| **👗 Apparel**              | **📱 Apps**                 | **🏛️ Architecture**         |
+| [👗 Apparel](#apparel)      | [📱 Apps](#apps)            | [🏛️ Architecture](#architecture) |
+| **🎖️ Army & Military**     | **🤖 Artificial Intelligence** | **💰 Auctions**             |
+| [🎖️ Army & Military](#army-and-military) | [🤖 Artificial Intelligence](#artificial-intelligence) | [💰 Auctions](#auctions) |
+| **🎧 Audio & Music**        | **✈️ Aviation and Flight** | **🛁 Bath & Beauty**         |
+| [🎧 Audio & Music](#audio-and-music) | [✈️ Aviation and Flight](#aviation-and-flight) | [🛁 Bath & Beauty](#bath-and-beauty) |
+| **🛏️ Bed**                 | **📚 Books**                | **💼 Business**             |
+| [🛏️ Bed](#bed)             | [📚 Books](#books)          | [💼 Business](#business)    |
+| **🛍️ Buyer Clubs**         | **📱 Cell Phone & MVNO Plans** | **🇨🇳 China**             |
+| [🛍️ Buyer Clubs](#buyer-clubs) | [📱 Cell Phone & MVNO Plans](#cell-phone-and-mvno-plans) | [🇨🇳 China](#china) |
+| **🔧 Chrome Extensions**    | **💳 Credit Cards**         | **🪙 Crypto**               |
+| [🔧 Chrome Extensions](#chrome-extensions) | [💳 Credit Cards](#credit-cards) | [🪙 Crypto](#crypto) |
+| **🎨 Custom Products**      | **🎨 Design & Creativity**  | **💸 Discounts & Deals**    |
+| [🎨 Custom Products](#custom-products) | [🎨 Design & Creativity](#design-and-creativity) | [💸 Discounts & Deals](#discounts-and-deals) |
+| **📄 Docs & Files**        | **🔍 Dupes**                | **🎓 Education & Courses**  |
+| [📄 Docs & Files](#docs-and-files) | [🔍 Dupes](#dupes)            | [🎓 Education & Courses](#education-and-courses) |
+| **⚡ Electricity**          | **🎬 Entertainment**        | **💵 Finance**              |
+| [⚡ Electricity](#electricity) | [🎬 Entertainment](#entertainment) | [💵 Finance](#finance) |
+| **📈 Financial Markets & Trading** | **💪 Fitness**            | **🍔 Food & Drinks**        |
+| [📈 Financial Markets & Trading](#financial-markets-and-trading) | [💪 Fitness](#fitness) | [🍔 Food & Drinks](#food-and-drinks) |
+| **👠 Footwear**             | **💐 Fragrances**           | **🏠 Furniture & Home Decor** |
+| [👠 Footwear](#footwear)    | [💐 Fragrances](#fragrances) | [🏠 Furniture & Home Decor](#furniture-and-home-decor) |
+| **🚀 Futuristic Products** | **🕶️ Glasses**             | **🥗 Grocery**              |
+| [🚀 Futuristic Products](#futuristic-products) | [🕶️ Glasses](#glasses) | [🥗 Grocery](#grocery) |
+| **💊 Health & Medicine**   | **📜 History**              | **🏠 Home**                 |
+| [💊 Health & Medicine](#health-and-medicine) | [📜 History](#history)  | [🏠 Home](#home)           |
+| **🖼️ Images**              | **🇮🇳 India**               | **🌍 International Companies** |
+| [🖼️ Images](#images)       | [🇮🇳 India](#india)         | [🌍 International Companies](#international-companies) |
+| **💍 Jewelry**              | **🍴 Kitchen**              | **🎥 Kodi**                 |
+| [💍 Jewelry](#jewelry)     | [🍴 Kitchen](#kitchen)      | [🎥 Kodi](#kodi)           |
+| **🌍 Local**                | **📞 Meetings & Video Calls** | **💸 Money Transfer & Exchange** |
+| [🌍 Local](#local)         | [📞 Meetings & Video Calls](#meetings-and-video-calls) | [💸 Money Transfer & Exchange](#money-transfer-and-exchange) |
+| **🎥 Movies & TV**         | **📰 News & Articles**      | **📧 Newsletters**          |
+| [🎥 Movies & TV](#movies-and-tv) | [📰 News & Articles](#news-and-articles) | [📧 Newsletters](#newsletters) |
+| **💻 Open Source**         | **🇵🇰 Pakistan**            | **🌱 Personal Growth**      |
+| [💻 Open Source](#open-source) | [🇵🇰 Pakistan](#pakistan)   | [🌱 Personal Growth](#personal-growth) |
+| **🎧 Podcasts & Software** | **🔒 Privacy**              | **📅 Productivity**         |
+| [🎧 Podcasts & Software](#podcasts-and-software) | [🔒 Privacy](#privacy)   | [📅 Productivity](#productivity) |
+| **🎲 Random**              | **📚 Read it Later**        | **🍽️ Recipes**             |
+| [🎲 Random](#random)       | [📚 Read it Later](#read-it-later) | [🍽️ Recipes](#recipes) |
+| **🛍️ Shopping & Products** | **💰 Silver/Gold & Other Currency** | **⚽ Sports**            |
+| [🛍️ Shopping & Products](#shopping-and-products) | [💰 Silver/Gold & Other Currency](#silvergold-and-other-currency) | [⚽ Sports](#sports) |
+| **🚀 Startup Investment & Crowdfunding** | **🖥️ Tech**             | **🛠️ Tools**               |
+| [🚀 Startup Investment & Crowdfunding](#startup-investment-and-crowdfunding) | [🖥️ Tech](#tech)          | [🛠️ Tools](#tools)       |
+| **🌍 Travel**              | **🇦🇪 United Arab Emirates** | **🇺🇸 US & Government**     |
+| [🌍 Travel](#travel)       | [🇦🇪 United Arab Emirates](#united-arab-emirates) | [🇺🇸 US & Government](#us-and-government) |
+| **🚗 Vehicles**            | **🎞️ Video & Animation**   | **⌚ Watches**              |
+| [🚗 Vehicles](#vehicles)   | [🎞️ Video & Animation](#video-and-animation) | [⌚ Watches](#watches)  |
+| **🌦️ Weather**            | **💻 Windows**              | **🌎 World Data**           |
+| [🌦️ Weather](#weather)    | [💻 Windows](#windows)      | [🌎 World Data](#world-data) |
 
-[💼 Accounting & Budget](#accounting-and-budget) | [🛒 Amazon](#amazon)                | [💻 App & Web Development](#appwebdevelopment)
------------------------------------|------------------------------------|------------------------------------
-[👗 Apparel](#apparel)              | [📱 Apps](#apps)                   | [🏛️ Architecture](#architecture)
-[🎖️ Army & Military](#armyandmilitary) | [🤖 Artificial Intelligence](#artificialintelligence) | [💰 Auctions](#auctions)
-[🎧 Audio & Music](#audioandmusic)  | [✈️ Aviation and Flight](#aviationandflight) | [🛁 Bath & Beauty](#bathandbeauty)
-[🛏️ Bed](#bed)                     | [📚 Books](#books)                 | [💼 Business](#business)
-[🛍️ Buyer Clubs](#buyerclubs)      | [📱 Cell Phone & MVNO Plans](#cellphoneandmvnoplans) | [🇨🇳 China](#china)
-[🔧 Chrome Extensions](#chromeextensions) | [💳 Credit Cards](#creditcards)     | [🪙 Crypto](#crypto)
-[🎨 Custom Products](#customproducts) | [🎨 Design & Creativity](#designandcreativity) | [💸 Discounts & Deals](#discountsanddeals)
-[📄 Docs & Files](#docsandfiles)   | [🔍 Dupes](#dupes)                 | [🎓 Education & Courses](#educationandcourses)
-[⚡ Electricity](#electricity)      | [🎬 Entertainment](#entertainment) | [💵 Finance](#finance)
-[📈 Financial Markets & Trading](#financialmarketsandtrading) | [💪 Fitness](#fitness)              | [🍔 Food & Drinks](#foodanddrinks)
-[👠 Footwear](#footwear)            | [💐 Fragrances](#fragrances)       | [🏠 Furniture & Home Decor](#furnitureandhomedecor)
-[🚀 Futuristic Products](#futuristicproducts) | [🕶️ Glasses](#glasses)           | [🥗 Grocery](#grocery)
-[💊 Health & Medicine](#healthandmedicine) | [📜 History](#history)           | [🏠 Home](#home)
-[🖼️ Images](#images)               | [🇮🇳 India](#india)                | [🌍 International Companies](#internationalcompanies)
-[💍 Jewelry](#jewelry)              | [🍴 Kitchen](#kitchen)             | [🎥 Kodi](#kodi)
-[🌍 Local](#local)                  | [📞 Meetings & Video Calls](#meetingsandvideocalls) | [💸 Money Transfer & Exchange](#moneytransferandexchange)
-[🎥 Movies & TV](#moviesandtv)      | [📰 News & Articles](#newsandarticles) | [📧 Newsletters](#newsletters)
-[💻 Open Source](#opensource)       | [🇵🇰 Pakistan](#pakistan)           | [🌱 Personal Growth](#personalgrowth)
-[🎧 Podcasts & Software](#podcastsandsoftware) | [🔒 Privacy](#privacy)             | [📅 Productivity](#productivity)
-[🎲 Random](#random)               | [📚 Read it Later](#readitlater)   | [🍽️ Recipes](#recipes)
-[🛍️ Shopping & Products](#shoppingandproducts) | [💰 Silver/Gold & Other Currency](#silvergoldandothercurrency) | [⚽ Sports](#sports)
-[🚀 Startup Investment & Crowdfunding](#startupinvestmentandcrowdfunding) | [🖥️ Tech](#tech)               | [🛠️ Tools](#tools)
-[🌍 Travel](#travel)               | [🇦🇪 United Arab Emirates](#unitedarabemirates) | [🇺🇸 US & Government](#usandgovernment)
-[🚗 Vehicles](#vehicles)           | [🎞️ Video & Animation](#videoandanimation) | [⌚ Watches](#watches)
-[🌦️ Weather](#weather)            | [💻 Windows](#windows)             | [🌎 World Data](#worlddata)
-
+---
 
 ## Accounting & Budget
 ## Amazon
 ## App & Web Development
-
-## Apparel
-
-* **Activewear**
-  * [lululemon](https://shop.lululemon.com/)
-  * [hylete](https://www.hylete.com/)
-  * [athleta](https://athleta.gap.com/)
-  * [vuori](https://vuoriclothing.com/)
-  * [aloyoga](https://www.aloyoga.com/)
-  * [alphalete](https://alphaleteathletics.com/)
-
-* **Casual & Formal**
-  * [ae](https://www.ae.com/us/en)
-  * [everlane](https://www.everlane.com/)
-  * [mango](https://shop.mango.com/us)
-  * [zara](https://www.zara.com/us/)
-  * [charlestyrwhitt](https://www.charlestyrwhitt.com/)
-    
-* **Lifestyle**
-  * [billabong](https://www.billabong.com/mens/)
-  * [carhartt](https://www.carhartt.com/)
-  * [kith](https://kith.com/)
-  * [huckberry](https://huckberry.com/?utm_source=search&utm_medium=googlep&utm_campaign=search-brand&utm_campaignid=348018922&gad_source=1&gclid=Cj0KCQiAo5u6BhDJARIsAAVoDWvs1FweZoOFdpU9xzQWieQ2EYcVIMHN2qoNhjR5S3MOPhPnaUcase0aAnLMEALw_wcB)
-  * [mackweldon](https://mackweldon.com/)
-  * [everlane](https://www.everlane.com/)
-  * [thenormalbrand](https://thenormalbrand.com/)
-
-* **Outerwear**
-  * [northface](https://www.thenorthface.com/)
-  * [patagonia](https://www.patagonia.com/home/)
-  * [backcountry](https://www.backcountry.com/)
-  * [rei](https://www.rei.com/)
-    
-* **Other**
-  * [alphabroder](http://www.alphabroder.com/) - wholesale
-  * [Jomashop](https://www.jomashop.com/) - best prices on products
-  * [tiebar](http://www.thetiebar.com/) - quality made menswear
-  * [shein](https://us.shein.com/) - exclusive discounts and latest trends
-  * [italic](https://italic.com/) - luxury without labels
-
-
 ## Apparel
 ## Apps
 ## Architecture
@@ -149,5 +133,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Video & Animation
 ## Watches
 ## Weather
+## Windows
+## World Data
+
 ## Windows
 ## World Data
