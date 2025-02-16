@@ -32,7 +32,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [🌦️ Weather](#weather)            | [💻 Windows](#windows)             | [🌎 World Data](#worlddata)
 
 
-
+## Accounting & Budget
+## Amazon
+## App & Web Development
 
 ## Apparel
 
@@ -73,9 +75,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   * [shein](https://us.shein.com/) - exclusive discounts and latest trends
   * [italic](https://italic.com/) - luxury without labels
 
-## Accounting & Budget
-## Amazon
-## App & Web Development
+
 ## Apparel
 ## Apps
 ## Architecture
