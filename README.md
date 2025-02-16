@@ -3,6 +3,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ***
 ## Contents
 
+[Go to Installation Section](#installation)
+
 Accounting & Budget
 
 Amazon
@@ -158,3 +160,5 @@ Weather
 Windows
 
 World Data
+
+##installation
