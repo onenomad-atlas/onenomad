@@ -5,7 +5,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 [💼 Accounting & Budget](#accountingbudget) | [🛒 Amazon](#amazon)                | [💻 App & Web Development](#appwebdevelopment)
 -----------------------------------|------------------------------------|------------------------------------
-[👗 Apparel](#apparel)              | [📱 Apps](#apps)                   | [🏛️ Architecture](#architecture)
+[👗 Apparel](#apparel lol)              | [📱 Apps](#apps)                   | [🏛️ Architecture](#architecture)
 [🎖️ Army & Military](#armyandmilitary) | [🤖 Artificial Intelligence](#artificialintelligence) | [💰 Auctions](#auctions)
 [🎧 Audio & Music](#audioandmusic)  | [✈️ Aviation and Flight](#aviationandflight) | [🛁 Bath & Beauty](#bathandbeauty)
 [🛏️ Bed](#bed)                     | [📚 Books](#books)                 | [💼 Business](#business)
@@ -76,7 +76,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Accounting-&-Budget  
 ## Amazon  
 ## App-&-Web-Development  
-## Apparel  
+## Apparel lol  
 ## Apps  
 ## Architecture  
 ## Army-&-Military  
