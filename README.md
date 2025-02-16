@@ -376,6 +376,38 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
 
 ## Business
+
+[clay](https://clay.earth/) - manage all your personal and professional relationships  
+[dex](https://getdex.com/) - one place for all your relationships  
+[stable](https://www.usestable.com/) - virtual mailbox & manage your business from anywhere  
+[ipostal1](https://ipostal1.com/) - digital mailbox service  
+[pietrastudio](https://www.pietrastudio.com/) - all-in-one tool to build your business  
+[homebase](http://www.joinhomebase.com/) - manage your work schedules, time clock, payroll, HR & more  
+[squareup](http://www.squareup.com/) - accept payments  
+[revenuecat](https://www.revenuecat.com/) - build and grow your subscription business  
+[proof](https://www.proof.com/) - identity-centric security platform  
+[stripe](https://stripe.com/) - financial infrastructure  
+[mintlify](https://mintlify.com/) - meet the modern standard for documentation  
+[nira](https://nira.com/templates/) - free resources for getting work done  
+[indoorway](https://www.indoorway.com/) - provides real-time location system  
+[chatfuel](https://chatfuel.com/) - automate workflow  
+[importyeti](https://www.importyeti.com/) - check any company’s suppliers  
+[mailcharts](https://www.mailcharts.com/) - campaign intelligence for eCommerce teams  
+[tango](https://www.tango.us/) - create how-to guides  
+[mixkit](https://mixkit.co/) - free assets for your next video project  
+[pixelhunter](https://pixelhunter.io/) - free AI image resizer  
+[creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)  
+[milled](https://milled.com/) - search engine for email newsletters  
+[trends.pinterest](https://trends.pinterest.com/) - find trends on Pinterest  
+[builtwith](https://builtwith.com/) - find what websites are built with  
+[faire](https://www.faire.com/) - your one-stop shop for wholesale  
+[Novo](https://www.novo.co/) - business banking  
+[oberlo](https://www.oberlo.com/) - dropshipping  
+[microsaasidea](https://microsaasidea.com/) - newsletter for techies and marketers  
+[answerthepublic](https://answerthepublic.com/) - discover what people are asking about  
+[opencorporates](https://opencorporates.com/) - company data  
+
+
 ## Buyer Clubs
 ## Cell Phone and MVNO Plans
 ## China
