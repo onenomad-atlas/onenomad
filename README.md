@@ -42,7 +42,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   * [alphalete](https://alphaleteathletics.com/)
 
 * **Casual & Formal**
-
   * [ae](https://www.ae.com/us/en)
   * [everlane](https://www.everlane.com/)
   * [mango](https://shop.mango.com/us)
@@ -50,7 +49,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   * [charlestyrwhitt](https://www.charlestyrwhitt.com/)
     
 * **Lifestyle**
-
   * [billabong](https://www.billabong.com/mens/)
   * [carhartt](https://www.carhartt.com/)
   * [kith](https://kith.com/)
@@ -60,14 +58,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   * [thenormalbrand](https://thenormalbrand.com/)
 
 * **Outerwear**
-
   * [northface](https://www.thenorthface.com/)
   * [patagonia](https://www.patagonia.com/home/)
   * [backcountry](https://www.backcountry.com/)
   * [rei](https://www.rei.com/)
     
   **Other**
-
   * [alphabroder](http://www.alphabroder.com/) - wholesale
   * [Jomashop](https://www.jomashop.com/) - best prices on products
   * [tiebar](http://www.thetiebar.com/) - quality made menswear
