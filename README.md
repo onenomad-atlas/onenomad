@@ -3,162 +3,158 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ***
 ## Contents
 
-[Go to Installation Section](#installation)
+[Accounting & Budget](#accountingbudget)
 
-Accounting & Budget
+[Amazon](#amazon)
 
-Amazon
+[App & Web Development](#appwebdevelopment)
 
-App & Web Development
+[Apparel](#apparel)
 
-Apparel
+[Apps](#apps)
 
-Apps
+[Architecture](#architecture)
 
-Architecture
+[Army & Military](#armyandmilitary)
 
-Army & Military
+[Artificial Intelligence](#artificialintelligence)
 
-Artificial Intelligence
+[Auctions](#auctions)
 
-Auctions
+[Audio & Music](#audioandmusic)
 
-Audio & Music
+[Aviation and Flight](#aviationandflight)
 
-Aviation and Flight
+[Bath & Beauty](#bathandbeauty)
 
-Bath & Beauty
+[Bed](#bed)
 
-Bed
+[Books](#books)
 
-Books
+[Business](#business)
 
-Business
+[Buyer Clubs](#buyerclubs)
 
-Buyer Clubs
+[Cell Phone & MVNO Plans](#cellphoneandmvnoplans)
 
-Cell Phone & MVNO Plans
+[China](#china)
 
-China
+[Chrome Extensions](#chromeextensions)
 
-Chrome Extensions
+[Credit Cards](#creditcards)
 
-Credit Cards
+[Crypto](#crypto)
 
-Crypto
+[Custom Products](#customproducts)
 
-Custom Products
+[Design & Creativity](#designandcreativity)
 
-Design & Creativity
+[Discounts & Deals](#discountsanddeals)
 
-Discounts & Deals
+[Docs & Files](#docsandfiles)
 
-Docs & Files
+[Dupes](#dupes)
 
-Dupes
+[Education & Courses](#educationandcourses)
 
-Education & Courses
+[Electricity](#electricity)
 
-Electricity
+[Entertainment](#entertainment)
 
-Entertainment
+[Finance](#finance)
 
-Finance
+[Financial Markets & Trading](#financialmarketsandtrading)
 
-Financial Markets & Trading
+[Fitness](#fitness)
 
-Fitness
+[Food & Drinks](#foodanddrinks)
 
-Food & Drinks
+[Footwear](#footwear)
 
-Footwear
+[Fragrances](#fragrances)
 
-Fragrances
+[Furniture & Home Decor](#furnitureandhomedecor)
 
-Furniture & Home Decor
+[Futuristic Products](#futuristicproducts)
 
-Futuristic Products
+[Glasses](#glasses)
 
-Glasses
+[Grocery](#grocery)
 
-Grocery
+[Health & Medicine](#healthandmedicine)
 
-Health & Medicine
+[History](#history)
 
-History
+[Home](#home)
 
-Home
+[Images](#images)
 
-Images
+[India](#india)
 
-India
+[International Companies](#internationalcompanies)
 
-International Companies
+[Jewelry](#jewelry)
 
-Jewelry
+[Kitchen](#kitchen)
 
-Kitchen
+[Kodi](#kodi)
 
-Kodi
+[Local](#local)
 
-Local
+[Meetings & Video Calls](#meetingsandvideocalls)
 
-Meetings & Video Calls
+[Money Transfer & Exchange](#moneytransferandexchange)
 
-Money Transfer & Exchange
+[Movies & TV](#moviesandtv)
 
-Movies & TV
+[News & Articles](#newsandarticles)
 
-News & Articles
+[Newsletters](#newsletters)
 
-Newsletters
+[Open Source](#opensource)
 
-Open Source
+[Pakistan](#pakistan)
 
-Pakistan
+[Personal Growth](#personalgrowth)
 
-Personal Growth
+[Podcasts & Software](#podcastsandsoftware)
 
-Podcasts & Software
+[Privacy](#privacy)
 
-Privacy
+[Productivity](#productivity)
 
-Productivity
+[Random](#random)
 
-Random
+[Read it Later](#readitlater)
 
-Read it Later
+[Recipes](#recipes)
 
-Recipes
+[Shopping & Products](#shoppingandproducts)
 
-Shopping & Products
+[Silver/Gold & Other Currency](#silvergoldandothercurrency)
 
-Silver/Gold & Other Currency
+[Sports](#sports)
 
-Sports
+[Startup Investment & Crowdfunding](#startupinvestmentandcrowdfunding)
 
-Startup Investment & Crowdfunding
+[Tech](#tech)
 
-Tech
+[Tools](#tools)
 
-Tools
+[Travel](#travel)
 
-Travel
+[United Arab Emirates](#unitedarabemirates)
 
-United Arab Emirates
+[US & Government](#usandgovernment)
 
-US & Government
+[Vehicles](#vehicles)
 
-Vehicles
+[Video & Animation](#videoandanimation)
 
-Video & Animation
+[Watches](#watches)
 
-Watches
+[Weather](#weather)
 
-Weather
+[Windows](#windows)
 
-Windows
-
-World Data
-
-## installation
+[World Data](#worlddata)
