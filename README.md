@@ -235,6 +235,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [big.dk](https://big.dk/#projects)
 
 ## Army and Military
+
+**Apparel**
+
+[rangerjoes](https://rangerjoes.com/)
+[armysurplusworld](https://www.armysurplusworld.com/)
+
 ## Artificial Intelligence
 ## Auctions
 ## Audio and Music
