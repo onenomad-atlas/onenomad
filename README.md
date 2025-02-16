@@ -93,6 +93,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Monarch Money](https://www.monarchmoney.com/) - The modern way to manage money  
 [Quicken](https://www.quicken.com/)  
 [NetSuite](https://www.netsuite.com/portal/home.shtml?noredirect=T)
+
 ## Amazon
 
 **Buyer**
@@ -102,6 +103,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Amazon Outlet](https://www.amazon.com/outlet) - Online deals and find low prices on markdowns and overstocks for items  
 
 **Seller**
+
 [Helium10](https://www.helium10.com/) - Software for Amazon FBA Sellers & Walmart Sellers  
 [Keepa](https://keepa.com/#!) - Amazon Price Tracker  
 [fbatoolkit](https://fbatoolkit.com/) - Comprehensive set of tools for sellers  
@@ -110,6 +112,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [inventorysource](https://www.inventorysource.com/) - Dropship Automation Software
 
 ## App and Web Development
+
 [lovable](https://lovable.dev/)  
 [builder](https://www.builder.io/)  
 [warp](https://www.warp.dev/)  
@@ -120,6 +123,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [hackertab](https://hackertab.dev/) - Developer news  
 
 **Web Platforms**
+
 [carrd](http://www.carrd.co/)  
 [squarespace](https://www.squarespace.com/)  
 [shopify](https://www.shopify.com/)  
@@ -132,6 +136,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [bigcommerce](https://www.bigcommerce.com/)  
 
 **Coding**
+
 [freecodecamp.org](https://www.freecodecamp.org/)  
 [Geekforgeeks](https://www.geeksforgeeks.org/)  
 [W3schools](https://www.w3schools.com/)  
