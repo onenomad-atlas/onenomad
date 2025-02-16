@@ -319,6 +319,20 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [flightradar24](https://www.flightradar24.com/51.47,0.46/6)
 
 ## Bath and Beauty
+
+[harrys](http://www.harrys.com/)
+[dollarshaveclub](http://www.dollarshaveclub.com/)
+[burtsbees](http://www.burtsbees.com/)
+[sheamoisture](http://www.sheamoisture.com/)
+[villagenaturalstherapy](http://www.villagenaturalstherapy.com/)
+[native](https://www.nativecos.com/)
+[hello](https://www.hello-products.com/)
+[myro](https://www.mymyro.com/)
+[flamingo](https://www.shopflamingo.com/en/us)
+[rawsugarliving](https://rawsugarliving.com/)
+[method](https://methodproducts.com/)
+
+
 ## Bed
 ## Books
 ## Business
