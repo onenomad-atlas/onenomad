@@ -39,7 +39,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   * [athleta](https://athleta.gap.com/)
   * [vuori](https://vuoriclothing.com/)
   * [aloyoga](https://www.aloyoga.com/)
-
   * [alphalete](https://alphaleteathletics.com/)
 
 * **Casual & Formal**
