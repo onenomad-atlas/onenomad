@@ -192,6 +192,35 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [italic](https://italic.com/) - Luxury without labels
 
 ## Apps
+*Only for android*
+[photoroom](https://www.photoroom.com/) - Edit product photos  
+[NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
+[speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
+[Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
+[Samsung Band Selection](https://play.google.com/store/apps/details?id=com.ray.samsungbandselection&hl=en_US&gl=US) - Switch your 5G band to 4G or 3G  
+[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en_US&gl=US) - EPUB Reader  
+[Video to Wallpaper](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Set any video as your phone wallpaper  
+[Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines  
+[CapCut](https://www.capcut.net/) - Video Editor  
+[Clipt](https://www.onelab.studio/work/clipt) - Instantly share between devices  
+[iLovePDF](https://play.google.com/store/apps/details?id=com.ilovepdf.www&hl=en_US&gl=US) - PDF Scanner & Editor  
+[Medium](https://medium.com/) - Blogging platform  
+[Wallberry](https://play.google.com/store/apps/details?id=com.raj_arya.wallberry&hl=en_US&gl=US) - Wallpaper App  
+[Passport Photo Editor](https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US) - Passport size photo at home  
+[Overdrop](https://play.google.com/store/apps/details?id=widget.dd.com.overdrop.free&hl=en_US&gl=US) - Weather App  
+[Font](https://forum.xda-developers.com/t/google-product-sans-for-android-10-oneui-2-5-samsung-phone.4203153/) - Install any font on Samsung  
+[snapdrop](https://snapdrop.net/) - Instantly share files  
+[pikashow](https://pikashows.com/) - Watch movies & TV shows  
+[cloudstream](https://github.com/recloudstream/cloudstream) - Movies and TV shows  
+[hdo](https://hdo.app/) - Movies and TV shows  
+[Seal](https://github.com/JunkFood02/Seal) - Audio and video downloader  
+[snaptube](https://www.snaptubeapp.com/) - Audio and video downloader  
+[video.downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader&hl=en_US&gl=US)  
+[rapidstreamz](https://www.rapidstreamz.tv/) - Live TV  
+[tvtap](https://tvtap-pro.net/) - Live TV  
+[livenettv](https://www.livenettv.vip/) - Live TV  
+[localsend](https://localsend.org/) - Share files to nearby devices  
+
 ## Architecture
 ## Army and Military
 ## Artificial Intelligence
