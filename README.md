@@ -32,7 +32,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [🌦️ Weather](#weather)            | [💻 Windows](#windows)             | [🌎 World Data](#worlddata)
 
 
-## Accounting & Budget {#accounting-and-budget}
+## Accounting & Budget
 ## Amazon
 ## App & Web Development
 
