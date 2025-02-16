@@ -409,7 +409,33 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 ## Buyer Clubs
+
+[PFS Buyers Club](https://pfsbuyersclub.com/)  
+[MYS Buying Group](https://www.mysbuyinggroup.com/p/home/_version/TE9HT1VU.1651172892.1651248638.0.0.0.0.en)  
+[BuyForMeRetail](https://www.buyformeretail.com/)  
+[Pack Your Bags With Points](https://packyourbagwithpoints.com/)  
+
+
 ## Cell Phone and MVNO Plans
+
+[28mobile](https://28mobile.com/) - purchase international phones  
+
+**MVNO - reseller for wireless communications services**  
+
+[**Verizon**](https://www.verizon.com/)  
+  [Visible Mobile](https://www.visible.com/)  
+  [US Mobile](https://www.usmobile.com/)  
+  [Xfinity Mobile](https://www.xfinity.com/mobile/)  
+
+[**AT&T**](https://www.att.com/wireless/)  
+  [Cricket Wireless](https://www.cricketwireless.com/)  
+
+[**T-Mobile**](https://www.t-mobile.com/)  
+  [Mint Mobile](https://www.mintmobile.com/)  
+  [Metro](https://www.metrobyt-mobile.com/)  
+  [Boost Mobile](https://www.boostmobile.com/)  
+  [Google Fi](https://fi.google.com/)  
+
 ## China
 ## Chrome Extensions
 ## Credit Cards
