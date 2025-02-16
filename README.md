@@ -6,9 +6,16 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 Accounting & Budget
 
 Amazon
+
 App & Web Development
+
 Apparel
+
 Apps
+
 Architecture
+
 Artificial Intelligence
+
 Auctions
+
