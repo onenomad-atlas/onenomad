@@ -44,50 +44,33 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 * **Casual & Formal**
 
   * [ae](https://www.ae.com/us/en)
-
   * [everlane](https://www.everlane.com/)
-
   * [mango](https://shop.mango.com/us)
-
   * [zara](https://www.zara.com/us/)
-
   * [charlestyrwhitt](https://www.charlestyrwhitt.com/)
     
 * **Lifestyle**
 
   * [billabong](https://www.billabong.com/mens/)
-
   * [carhartt](https://www.carhartt.com/)
-
   * [kith](https://kith.com/)
-
   * [huckberry](https://huckberry.com/?utm_source=search&utm_medium=googlep&utm_campaign=search-brand&utm_campaignid=348018922&gad_source=1&gclid=Cj0KCQiAo5u6BhDJARIsAAVoDWvs1FweZoOFdpU9xzQWieQ2EYcVIMHN2qoNhjR5S3MOPhPnaUcase0aAnLMEALw_wcB)
-
   * [mackweldon](https://mackweldon.com/)
-
   * [everlane](https://www.everlane.com/)
-
   * [thenormalbrand](https://thenormalbrand.com/)
 
 * **Outerwear**
 
   * [northface](https://www.thenorthface.com/)
-
   * [patagonia](https://www.patagonia.com/home/)
-
   * [backcountry](https://www.backcountry.com/)
-
   * [rei](https://www.rei.com/)
     
   **Other**
 
   * [alphabroder](http://www.alphabroder.com/) - wholesale
-
   * [Jomashop](https://www.jomashop.com/) - best prices on products
-
   * [tiebar](http://www.thetiebar.com/) - quality made menswear
-
   * [shein](https://us.shein.com/) - exclusive discounts and latest trends
-
   * [italic](https://italic.com/) - luxury without labels
 
