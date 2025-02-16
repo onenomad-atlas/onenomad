@@ -73,82 +73,81 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   * [shein](https://us.shein.com/) - exclusive discounts and latest trends
   * [italic](https://italic.com/) - luxury without labels
 
-## Accounting & Budget  
+## Accounting-&-Budget  
 ## Amazon  
-## App & Web Development  
+## App-&-Web-Development  
 ## Apparel  
 ## Apps  
 ## Architecture  
-## Army & Military  
-## Artificial Intelligence  
+## Army-&-Military  
+## Artificial-Intelligence  
 ## Auctions  
-## Audio & Music  
-## Aviation and Flight  
-## Bath & Beauty  
+## Audio-&-Music  
+## Aviation-and-Flight  
+## Bath-&-Beauty  
 ## Bed  
 ## Books  
 ## Business  
-## Buyer Clubs  
-## Cell Phone & MVNO Plans  
+## Buyer-Clubs  
+## Cell-Phone-&-MVNO-Plans  
 ## China  
-## Chrome Extensions  
-## Credit Cards  
+## Chrome-Extensions  
+## Credit-Cards  
 ## Crypto  
-## Custom Products  
-## Design & Creativity  
-## Discounts & Deals  
-## Docs & Files  
+## Custom-Products  
+## Design-&-Creativity  
+## Discounts-&-Deals  
+## Docs-&-Files  
 ## Dupes  
-## Education & Courses  
+## Education-&-Courses  
 ## Electricity  
 ## Entertainment  
 ## Finance  
-## Financial Markets & Trading  
+## Financial-Markets-&-Trading  
 ## Fitness  
-## Food & Drinks  
+## Food-&-Drinks  
 ## Footwear  
 ## Fragrances  
-## Furniture & Home Decor  
-## Futuristic Products  
+## Furniture-&-Home-Decor  
+## Futuristic-Products  
 ## Glasses  
 ## Grocery  
-## Health & Medicine  
+## Health-&-Medicine  
 ## History  
 ## Home  
 ## Images  
 ## India  
-## International Companies  
+## International-Companies  
 ## Jewelry  
 ## Kitchen  
 ## Kodi  
 ## Local  
-## Meetings & Video Calls  
-## Money Transfer & Exchange  
-## Movies & TV  
-## News & Articles  
+## Meetings-&-Video-Calls  
+## Money-Transfer-&-Exchange  
+## Movies-&-TV  
+## News-&-Articles  
 ## Newsletters  
-## Open Source  
+## Open-Source  
 ## Pakistan  
-## Personal Growth  
-## Podcasts & Software  
+## Personal-Growth  
+## Podcasts-&-Software  
 ## Privacy  
 ## Productivity  
 ## Random  
-## Read it Later  
+## Read-it-Later  
 ## Recipes  
-## Shopping & Products  
-## Silver/Gold & Other Currency  
+## Shopping-&-Products  
+## Silver/Gold-&-Other-Currency  
 ## Sports  
-## Startup Investment & Crowdfunding  
+## Startup-Investment-&-Crowdfunding  
 ## Tech  
 ## Tools  
 ## Travel  
-## United Arab Emirates  
-## US & Government  
+## United-Arab-Emirates  
+## US-&-Government  
 ## Vehicles  
-## Video & Animation  
+## Video-&-Animation  
 ## Watches  
 ## Weather  
 ## Windows  
-## World Data
-
+## World-Data
