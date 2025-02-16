@@ -279,7 +279,51 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [perplexity](https://www.perplexity.ai/)
 
 ## Auctions
+
+[ha](https://www.ha.com/) - Auction house  
+[Copart](https://www.copart.com/) - Cars and other vehicles  
+[IAAI](https://www.iaai.com/) - Cars and other vehicles  
+[liveauctioneers](https://www.liveauctioneers.com/) - One-of-a-kind art, antiques & luxury goods
+
 ## Audio and Music
+
+**Products**
+
+[moondroplab](https://moondroplab.com/en/home)  
+
+[wh1000xm5](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b?srsltid=AfmBOopoTGcg4eZ14yrnTRkZOPInE6v4TKENorZFDrcxm4ajzi-y46xt)  
+
+---
+
+[tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another  
+
+[soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another  
+
+[epidemicsound](https://www.epidemicsound.com/) - Bring your story to life with music and sounds  
+
+[Artlist](https://artlist.io/) - Royalty-free music and SFX for your videos  
+
+[poolside](https://poolsuite.net/) - Relaxing music playlist  
+
+[NewPipe](https://newpipe.net/) - Android  
+
+[ytmp3.cc](https://ytmp3.cc/) - YouTube to MP3 downloader  
+
+[y2mate.is](https://y2mate.is/) - YouTube to MP4 downloader  
+
+[vocalremover](https://vocalremover.org/) - Vocal Remover and Isolation  
+
+[soundguys](https://www.soundguys.com/) - Voice for the world of consumer audio users  
+
+[radio.garden](http://radio.garden/?r=1) - Listen to the world’s radios  
+
+[image-line](https://www.image-line.com/) - FL Studio  
+
+[audacity](https://www.audacityteam.org/) - Audio editor  
+
+[cobalt.tools](https://cobalt.tools/) - Download music & video from any site
+
+
 ## Aviation and Flight
 ## Bath and Beauty
 ## Bed
