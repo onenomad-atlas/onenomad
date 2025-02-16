@@ -1,33 +1,37 @@
 # One Nomad
 One Nomad is a comprehensive digital wiki that serves as a dynamic platform offering exhaustive information about the world through a single, richly detailed online resource.
 ***
-|----------------------------|-----------------------------|-----------------------------|
-| [💼 Accounting & Budget](#accounting-and-budget) | [🛒 Amazon](#amazon)                | [💻 App & Web Development](#app-web-development) |
-| [👗 Apparel](#apparel)      | [📱 Apps](#apps)            | [🏛️ Architecture](#architecture) |
-| [🎖️ Army & Military](#army-and-military) | [🤖 Artificial Intelligence](#artificial-intelligence) | [💰 Auctions](#auctions) |
-| [🎧 Audio & Music](#audio-and-music) | [✈️ Aviation and Flight](#aviation-and-flight) | [🛁 Bath & Beauty](#bath-and-beauty) |
-| [🛏️ Bed](#bed)             | [📚 Books](#books)          | [💼 Business](#business)    |
-| [🛍️ Buyer Clubs](#buyer-clubs) | [📱 Cell Phone & MVNO Plans](#cell-phone-and-mvno-plans) | [🇨🇳 China](#china) |
-| [🔧 Chrome Extensions](#chrome-extensions) | [💳 Credit Cards](#credit-cards) | [🪙 Crypto](#crypto) |
-| [🎨 Custom Products](#custom-products) | [🎨 Design & Creativity](#design-and-creativity) | [💸 Discounts & Deals](#discounts-and-deals) |
-| [📄 Docs & Files](#docs-and-files) | [🔍 Dupes](#dupes)            | [🎓 Education & Courses](#education-and-courses) |
-| [⚡ Electricity](#electricity) | [🎬 Entertainment](#entertainment) | [💵 Finance](#finance) |
-| [📈 Financial Markets & Trading](#financial-markets-and-trading) | [💪 Fitness](#fitness) | [🍔 Food & Drinks](#food-and-drinks) |
-| [👠 Footwear](#footwear)    | [💐 Fragrances](#fragrances) | [🏠 Furniture & Home Decor](#furniture-and-home-decor) |
-| [🚀 Futuristic Products](#futuristic-products) | [🕶️ Glasses](#glasses) | [🥗 Grocery](#grocery) |
-| [💊 Health & Medicine](#health-and-medicine) | [📜 History](#history)  | [🏠 Home](#home)           |
-| [🖼️ Images](#images)       | [🇮🇳 India](#india)         | [🌍 International Companies](#international-companies) |
-| [💍 Jewelry](#jewelry)     | [🍴 Kitchen](#kitchen)      | [🎥 Kodi](#kodi)           |
-| [🌍 Local](#local)         | [📞 Meetings & Video Calls](#meetings-and-video-calls) | [💸 Money Transfer & Exchange](#money-transfer-and-exchange) |
-| [🎥 Movies & TV](#movies-and-tv) | [📰 News & Articles](#news-and-articles) | [📧 Newsletters](#newsletters) |
-| [💻 Open Source](#open-source) | [🇵🇰 Pakistan](#pakistan)   | [🌱 Personal Growth](#personal-growth) |
-| [🎧 Podcasts & Software](#podcasts-and-software) | [🔒 Privacy](#privacy)   | [📅 Productivity](#productivity) |
-| [🎲 Random](#random)       | [📚 Read it Later](#read-it-later) | [🍽️ Recipes](#recipes) |
-| [🛍️ Shopping & Products](#shopping-and-products) | [💰 Silver/Gold & Other Currency](#silvergold-and-other-currency) | [⚽ Sports](#sports) |
-| [🚀 Startup Investment & Crowdfunding](#startup-investment-and-crowdfunding) | [🖥️ Tech](#tech)          | [🛠️ Tools](#tools)       |
-| [🌍 Travel](#travel)       | [🇦🇪 United Arab Emirates](#united-arab-emirates) | [🇺🇸 US & Government](#us-and-government) |
-| [🚗 Vehicles](#vehicles)   | [🎞️ Video & Animation](#video-and-animation) | [⌚ Watches](#watches)  |
-| [🌦️ Weather](#weather)    | [💻 Windows](#windows)      | [🌎 World Data](#world-data) |
+Log in
+
+Sign up
+You said:
+[💼 Accounting & Budget](#accounting-and-budget) | [🛒 Amazon](#amazon)                | [💻 App & Web Development](#appwebdevelopment)
+-----------------------------------|------------------------------------|------------------------------------
+[👗 Apparel](#apparel)              | [📱 Apps](#apps)                   | [🏛️ Architecture](#architecture)
+[🎖️ Army & Military](#armyandmilitary) | [🤖 Artificial Intelligence](#artificialintelligence) | [💰 Auctions](#auctions)
+[🎧 Audio & Music](#audioandmusic)  | [✈️ Aviation and Flight](#aviationandflight) | [🛁 Bath & Beauty](#bathandbeauty)
+[🛏️ Bed](#bed)                     | [📚 Books](#books)                 | [💼 Business](#business)
+[🛍️ Buyer Clubs](#buyerclubs)      | [📱 Cell Phone & MVNO Plans](#cellphoneandmvnoplans) | [🇨🇳 China](#china)
+[🔧 Chrome Extensions](#chromeextensions) | [💳 Credit Cards](#creditcards)     | [🪙 Crypto](#crypto)
+[🎨 Custom Products](#customproducts) | [🎨 Design & Creativity](#designandcreativity) | [💸 Discounts & Deals](#discountsanddeals)
+[📄 Docs & Files](#docsandfiles)   | [🔍 Dupes](#dupes)                 | [🎓 Education & Courses](#educationandcourses)
+[⚡ Electricity](#electricity)      | [🎬 Entertainment](#entertainment) | [💵 Finance](#finance)
+[📈 Financial Markets & Trading](#financialmarketsandtrading) | [💪 Fitness](#fitness)              | [🍔 Food & Drinks](#foodanddrinks)
+[👠 Footwear](#footwear)            | [💐 Fragrances](#fragrances)       | [🏠 Furniture & Home Decor](#furnitureandhomedecor)
+[🚀 Futuristic Products](#futuristicproducts) | [🕶️ Glasses](#glasses)           | [🥗 Grocery](#grocery)
+[💊 Health & Medicine](#healthandmedicine) | [📜 History](#history)           | [🏠 Home](#home)
+[🖼️ Images](#images)               | [🇮🇳 India](#india)                | [🌍 International Companies](#internationalcompanies)
+[💍 Jewelry](#jewelry)              | [🍴 Kitchen](#kitchen)             | [🎥 Kodi](#kodi)
+[🌍 Local](#local)                  | [📞 Meetings & Video Calls](#meetingsandvideocalls) | [💸 Money Transfer & Exchange](#moneytransferandexchange)
+[🎥 Movies & TV](#moviesandtv)      | [📰 News & Articles](#newsandarticles) | [📧 Newsletters](#newsletters)
+[💻 Open Source](#opensource)       | [🇵🇰 Pakistan](#pakistan)           | [🌱 Personal Growth](#personalgrowth)
+[🎧 Podcasts & Software](#podcastsandsoftware) | [🔒 Privacy](#privacy)             | [📅 Productivity](#productivity)
+[🎲 Random](#random)               | [📚 Read it Later](#readitlater)   | [🍽️ Recipes](#recipes)
+[🛍️ Shopping & Products](#shoppingandproducts) | [💰 Silver/Gold & Other Currency](#silvergoldandothercurrency) | [⚽ Sports](#sports)
+[🚀 Startup Investment & Crowdfunding](#startupinvestmentandcrowdfunding) | [🖥️ Tech](#tech)               | [🛠️ Tools](#tools)
+[🌍 Travel](#travel)               | [🇦🇪 United Arab Emirates](#unitedarabemirates) | [🇺🇸 US & Government](#usandgovernment)
+[🚗 Vehicles](#vehicles)           | [🎞️ Video & Animation](#videoandanimation) | [⌚ Watches](#watches)
+[🌦️ Weather](#weather)            | [💻 Windows](#windows)             | [🌎 World Data](#worlddata)
 
 ---
 
