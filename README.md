@@ -366,6 +366,15 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 [sleeplikethedead](https://www.sleeplikethedead.com/)  
 ## Books
+
+[libgen.li](https://libgen.li/)  
+[z-lib](https://z-lib.org/)  
+[archive.org](https://archive.org/)  
+[annas-archive](https://annas-archive.org/) - largest truly open library in human history  
+[tinywow](https://tinywow.com/)  
+[openlibrary](https://openlibrary.org/)  
+[booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
+
 ## Business
 ## Buyer Clubs
 ## Cell Phone and MVNO Plans
