@@ -458,19 +458,23 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Credit Cards
 
 **Resources**
+
 [Rankt](https://rankt.com/)  
 [Cardpointers](https://cardpointers.com/)  
 
 **Networks**
+
 [**Amex**](https://www.americanexpress.com/en-us/benefits/)  
 [**Discover**](https://www.discover.com/credit-cards/member-benefits/)  
 
 **Visa**
+
 [**Visa - Offers**](https://usa.visa.com/en_us/visa-offers-and-perks/)  
 [Visa Signature](https://usa.visa.com/pay-with-visa/cards/visa-credit-cards/visa-signature-credit-cards.html)  
 [Visa Infinite](https://usa.visa.com/pay-with-visa/cards/visa-credit-cards/visa-infinite-credit-cards.html)  
 
 **Mastercard**
+
 [Mastercard World](https://www.mastercard.us/en-us/personal/find-a-card/world-mastercard-credit.html)  
 [Mastercard World Elite](https://www.mastercard.us/en-us/personal/find-a-card/world-elite-mastercard-credit.html)
 
