@@ -590,7 +590,36 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [ID.me](https://shop.id.me/) - Discounts for teachers, military and more.
 
 ## Docs and Files
+
+[send-anywhere](https://send-anywhere.com/)  
+[Smash file transfer](https://fromsmash.com/)  
+[pdf](https://pdf.wondershare.com/) - Smart PDF Solutions  
+[notarize](https://www.notarize.com/) - Notarize online. Anywhere. Anytime.  
+[zamzar](https://www.zamzar.com/)  
+[Ilovepdf](https://www.ilovepdf.com/)  
+[iloveimg](https://www.iloveimg.com/)  
+[dochub](https://dochub.com/) - sign documents  
+[snapdrop](https://snapdrop.net/)  
+[tinywow](https://tinywow.com/) - best pdf editor  
+[blip](https://blip.net/) - fastest way to send files across devices  
+[localsend](https://localsend.org/) - Share files to nearby devices.  
+[howtoconvert](https://howtoconvert.co/)
+
 ## Dupes
+
+**Fragrance Clones**  
+[Alt Fragrances](https://altfragrances.com/)  
+[Oakcha](https://www.oakcha.com/)  
+[Dua Brand](https://theduabrand.com/)  
+[Dossier](https://dossier.co/)  
+[oilperfumery](https://us.oilperfumery.com/) - 20% off: **OP20**  
+[alexandriafragrances](https://alexandriafragrances.com/)  
+[lazyroyal](https://www.lazyroyal.com/) - 25% off: **LAZYOIL**  
+
+[amazingdupes](https://www.amazingdupes.com/) - cheap designer alternatives  
+[italic](https://italic.com/) - luxury without labels  
+[dupe](https://dupe.com/) - find similar products for less
+
 ## Education and Courses
 ## Electricity
 ## Entertainment
