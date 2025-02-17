@@ -480,6 +480,23 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 ## Crypto
+
+**Platforms**
+
+[Coinbase](https://www.coinbase.com/)  
+[Robinhood](https://robinhood.com/us/en/)  
+[Webull](https://www.webull.com/)  
+[Crypto](https://crypto.com/)  
+[Gemini](https://www.gemini.com/)  
+[Binance](https://www.binance.com/en)  
+
+**Resources**
+
+[CoinMarketCap](https://coinmarketcap.com/)  
+[CryptoRank](https://cryptorank.io/heatmaps)  
+[CoinGecko](https://www.coingecko.com/)  
+[CryptoPanic](https://cryptopanic.com/)
+
 ## Custom Products
 ## Design and Creativity
 ## Discounts and Deals
