@@ -621,9 +621,39 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [dupe](https://dupe.com/) - find similar products for less
 
 ## Education and Courses
+
+[khanacademy](https://www.khanacademy.org/)  
+[edx](https://www.edx.org/)  
+[harvard](https://pll.harvard.edu/catalog/free)  
+[stanford](https://online.stanford.edu/free-courses)  
+[coursera](https://www.coursera.org/courses?query=free)  
+[core](https://core.ac.uk/)  
+[arxiv](https://arxiv.org/)
+
 ## Electricity
+
+[comparepower](https://comparepower.com/) - search multiple electric companies  
+[powertochoose](https://www.powertochoose.org/)  
+[poweroutage](https://poweroutage.us/)
+
 ## Entertainment
+
+[emulatorgames](https://emulatorgames.online/) - play retro & old school games  
+[beforeiplay](https://beforeiplay.com/index.php?title=Main_Page) - tells you things before you play the game  
+[emuos](https://emupedia.net/beta/emuos/) - old windows os  
+[futureme](https://www.futureme.org/) - write a letter to the future you  
+[tasteatlas](https://www.tasteatlas.com/) - Discover local ingredients, traditional dishes & authentic restaurants  
+[atlasobscura](https://www.atlasobscura.com/) - explore the world’s hidden wonders  
+[freeriderhd](https://www.freeriderhd.com/) - draw tracks and race bikes  
+[mylifeelsewhere](https://www.mylifeelsewhere.com/) - compare the quality of life
+
 ## Finance
+
+[klarna](https://www.klarna.com/us/)  
+[affirm](https://www.affirm.com/)  
+[snapfinance](https://snapfinance.com/)  
+[afterpay](https://www.afterpay.com/en-US)
+
 ## Financial Markets and Trading
 ## Fitness
 ## Food and Drinks
