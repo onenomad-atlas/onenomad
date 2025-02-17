@@ -462,8 +462,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Cardpointers](https://cardpointers.com/)  
 
 **Networks**
-
-[**Amex**](https://www.americanexpress.com/en-us/benefits/)
+[**Amex**](https://www.americanexpress.com/en-us/benefits/)  
 [**Discover**](https://www.discover.com/credit-cards/member-benefits/)  
 
 **Visa**
@@ -474,6 +473,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Mastercard**
 [Mastercard World](https://www.mastercard.us/en-us/personal/find-a-card/world-mastercard-credit.html)  
 [Mastercard World Elite](https://www.mastercard.us/en-us/personal/find-a-card/world-elite-mastercard-credit.html)
+
 
 ## Crypto
 ## Custom Products
