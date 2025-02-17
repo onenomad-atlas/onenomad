@@ -548,6 +548,47 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 ## Discounts and Deals
+
+**Student**  
+[studentbeans](http://www.studentbeans.com/)  
+[myunidays](http://www.myunidays.com/)  
+
+**Extensions**  
+[Rakuten](https://www.rakuten.com/) - Cash back at thousands of stores  
+[Honey](https://get.joinhoney.com/page/dr-us-simplified-yellow-general/?utm_source=goog&utm_medium=sem&utm_campaign=GOOG_US_210928_Brand_All_All_Brand-Pure-TargetImprShare_ETA_DR-US-Simplified-Yellow-General&utm_content=DR-US-Simplified-Yellow-General&gclid=Cj0KCQjwvLOTBhCJARIsACVldV3g4L1FF5QXBFKzhPgWTw3iLn33J5tcaWrNRGIXDWKtsczP07pYndUaAtEvEALw_wcB&from=r) & [RetailMeNot](https://www.retailmenot.com/) - Promo Codes Instantly  
+
+**Coupons**  
+[lozo](https://lozo.com/)  
+
+**Work**  
+[heb.perkspot](http://heb.perkspot.com/)  
+[ticketsatwork](http://www.ticketsatwork.com/)  
+
+**Savings Sites**  
+[retailmenot](http://www.retailmenot.com/)  
+[mommysavesbig](http://www.mommysavesbig.com/)  
+[chaseexperiences](https://www.chase.com/personal/credit-cards/experiences)  
+[Slickdeals](https://slickdeals.net/)  
+[Brickseek](https://brickseek.com/)  
+[Ibotta](https://home.ibotta.com/)  
+[doctorofcredit](https://www.doctorofcredit.com/)  
+[dansdeals](https://www.dansdeals.com/)  
+[craigslist](https://www.craigslist.org/)  
+[fatfingers](http://fatfingers.com/)  
+[capitaloneshopping](https://capitaloneshopping.com/)  
+[Grabr](https://grabr.io/en/) - International purchasers prepay for you to buy items locally  
+[Fluz](https://fluz.app/) - Cash back at thousands of stores + referral bonuses  
+[Seated](https://www.seatedapp.io/) - 20%+ back at partnered restaurants  
+[Dosh](https://www.dosh.com/) - Additional rewards shop, dine, and book. Can be stacked with Seated and other dining portals  
+[Cashback Monitor](https://www.cashbackmonitor.com/) - Portal to find cash and points back for online retailers.  
+[SearchTempest](https://www.searchtempest.com/) - Search the whole USA on Craigslist  
+[Savendeals](https://www.savendeals.com/) - Coupons for Crate & Barrel, Lowes and Home Depot  
+[MyVegas Rewards](https://www.mgmresorts.com/en/mgm-rewards/preferred-partners/myvegas-rewards.html) - Get points towards free things in vegas  
+[Frequent Miler](https://frequentmiler.com/) - Blog with great points + miles content  
+[Doctor Of Credit](https://www.doctorofcredit.com/) - Blog with great points + miles content  
+[Pay1040.com](https://www.pay1040.com/#/) - Pay taxes with your credit card  
+[ID.me](https://shop.id.me/) - Discounts for teachers, military and more.
+
 ## Docs and Files
 ## Dupes
 ## Education and Courses
