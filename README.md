@@ -498,7 +498,55 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [CryptoPanic](https://cryptopanic.com/)
 
 ## Custom Products
+
+[Gooten](http://www.gooten.com/)  
+[Printful](http://www.printful.com/)  
+[Apliiq](http://www.apliiq.com/)  
+[DiscountMugs](https://www.discountmugs.com/)  
+[StickerMule](http://www.stickermule.com/)  
+[CustomInk](http://www.customink.com/)  
+[Zazzle](http://www.zazzle.com/)  
+[Shutterfly](http://www.shutterfly.com/)  
+[ThingsRemembered](http://www.thingsremembered.com/)  
+[eGrandstand](http://www.egrandstand.com/)  
+[Shapeways](http://www.shapeways.com/)  
+[Vistaprint](https://www.vistaprint.com/)  
+[Zazzle](https://www.zazzle.com/)  
+[Printify](https://printify.com/)
+[Captivaco](https://www.captivaco.com/)
+
 ## Design and Creativity
+
+**Design Inspiration**  
+[mobbin](https://mobbin.com/)  
+[behance](https://www.behance.net/)  
+[dribbble](https://dribbble.com/)
+
+[dreamina](https://dreamina.capcut.com/?ref=producthunt) - turn inspiration into art  
+[lwks](https://lwks.com/) - video editing  
+[canva](http://www.canva.com/)  
+[pixlr](http://www.pixlr.com/)  
+[figma](http://www.figma.com/)  
+[thenounproject](https://thenounproject.com/)  
+[Freedesignresources](http://freedesignresources.net/) - freebies  
+[fireship.io](https://fireship.io/)  
+[glorifyapp](https://www.glorifyapp.com/)  
+[Studio.design](https://studio.design/)  
+[Bravo Studio](https://www.bravostudio.app/)  
+[Adobe substance](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)  
+[Elfsight](https://elfsight.com/)  
+[sketchup](https://www.sketchup.com/)  
+[artboard.studio](http://www.artboard.studio/)  
+[photopea](https://www.photopea.com/)  
+[awwwards](https://www.awwwards.com/)  
+[jemi](https://jemi.so/)  
+[clipchamp](https://clipchamp.com/en/)  
+[scribehow](https://scribehow.com/)  
+[create.vista](https://create.vista.com/)  
+[unscreen](https://www.unscreen.com/)  
+[clipdrop](https://clipdrop.co/)
+
+
 ## Discounts and Deals
 ## Docs and Files
 ## Dupes
