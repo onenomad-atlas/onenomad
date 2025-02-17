@@ -655,6 +655,45 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [afterpay](https://www.afterpay.com/en-US)
 
 ## Financial Markets and Trading
+
+**Platforms**  
+[robinhood](http://www.robinhood.com/)  
+[Webull](https://www.webull.com/)  
+[masterworks](https://www.masterworks.io/)  
+[Fundrise](https://fundrise.com/)
+
+[finbar](https://finbar.com/about)  
+[Gurufocus](http://gurufocus.com/)  
+[Moneyshow](http://moneyshow.com/)  
+[Optionalpha](http://optionalpha.com/)  
+[Barchart](http://barchart.com/)  
+[Katusaresearch](http://katusaresearch.com/)  
+[Tradingview](http://tradingview.com/)  
+[Morningstar](http://morningstar.com/)  
+[Tipranks](http://tipranks.com/)  
+[benzinga](https://m.benzinga.com/)  
+[aidedtrade](https://www.aidedtrade.com/)  
+[optionsizzle](https://www.optionsizzle.com/)  
+[Memebergterminal](http://memebergterminal.com/)  
+[Stock charts](https://stockcharts.com/)  
+[Quiverquant](https://www.quiverquant.com/)  
+[markiteconomics.com/Public/Release/PressReleases](https://www.markiteconomics.com/Public/Release/PressReleases)  
+[JPMorgan guide to the markets](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L8DJBeVv95Nrus_ngA8FvwKzLyEwLxdl7oqErtMBj-UkxcSXWqWJHAaAqlXEALw_wcB&gclsrc=aw.ds)  
+[Whale Wisdom](https://whalewisdom.com/)  
+[finviz](http://www.finviz.com/)  
+[tradingview](http://www.tradingview.com/)  
+[chartmill](http://www.chartmill.com/)  
+[tipranks](http://www.tipranks.com/)  
+[tradingeconomics](http://www.tradingeconomics.com/)  
+[optionsprofitcalculator](https://www.optionsprofitcalculator.com/)  
+[bitwala](https://www.bitwala.com/)  
+[Simplywallst](https://simplywall.st/)  
+[Gurufocus](https://www.gurufocus.com/)  
+[FRED](https://fred.stlouisfed.org/)  
+[Quantconnect](https://www.quantconnect.com/)  
+[Koyfin](https://www.koyfin.com/)  
+[shiftsearch](https://www.shiftsearch.com/)
+
 ## Fitness
 ## Food and Drinks
 ## Footwear
