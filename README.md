@@ -447,6 +447,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 ## Chrome Extensions
+
+[Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - Adblocker  
+[Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites  
+[Clipt](https://chrome.google.com/webstore/detail/clipt/ngpicahlgepngcpigiiebnheihgbaenh) - Clipboard in the cloud  
+[Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammar check and writing app  
+[Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Capture articles, videos, and anything else you find on the web  
+[Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards
+
 ## Credit Cards
 ## Crypto
 ## Custom Products
