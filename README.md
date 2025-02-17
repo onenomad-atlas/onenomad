@@ -462,7 +462,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Cardpointers](https://cardpointers.com/)  
 
 **Networks**
-[**Amex**](https://www.americanexpress.com/en-us/benefits/)  
+
+[**Amex**](https://www.americanexpress.com/en-us/benefits/)
 [**Discover**](https://www.discover.com/credit-cards/member-benefits/)  
 
 **Visa**
