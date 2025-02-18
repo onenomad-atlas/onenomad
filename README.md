@@ -3,9 +3,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ❓[Suggestions and Feedback](https://broken-infinity-a6f.notion.site/18e56238083b80279503d1d8863a7f51)  | Column 2 |
 
-
-❓[Suggestions and Feedback](https://broken-infinity-a6f.notion.site/18e56238083b80279503d1d8863a7f51) 
-
 ***
 
 - [💼 Accounting and Budget](#accounting-and-budget)
