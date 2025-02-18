@@ -1,7 +1,12 @@
 # One Nomad
 One Nomad is a comprehensive digital wiki that serves as a dynamic platform offering exhaustive information about the world through a single, richly detailed online resource.
 
-❓[Suggestions and Feedback](https://broken-infinity-a6f.notion.site/18e56238083b80279503d1d8863a7f51)
+| ❓[Suggestions and Feedback](https://broken-infinity-a6f.notion.site/18e56238083b80279503d1d8863a7f51)  | Column 2 |
+|----------|----------|
+| Content 1 | Content 2 |
+| Content 3 | Content 4 |
+
+❓[Suggestions and Feedback](https://broken-infinity-a6f.notion.site/18e56238083b80279503d1d8863a7f51) 
 
 ***
 
