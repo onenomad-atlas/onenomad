@@ -695,7 +695,35 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [shiftsearch](https://www.shiftsearch.com/)
 
 ## Fitness
+
+[naboso](https://www.naboso.com/)
+[therabody](https://www.therabody.com/)
+[onepeloton](https://www.onepeloton.com/)
+[mirror](https://www.mirror.co/) 
+
 ## Food and Drinks
+
+**Healthy**
+
+[roots-harmony](https://roots-harmony.com/)
+[barukas](https://barukas.com/)
+[woodenspoonherbs](https://woodenspoonherbs.com/)
+[thealkalinedictionary](https://thealkalinedictionary.com/)
+
+**Restaurants - Shipped**
+
+[katzsdelicatessen](https://katzsdelicatessen.com/)
+[wafels](https://wafels.com/)
+[jimssouthstreet](https://jimssouthstreet.com/)
+[levainbakery](https://levainbakery.com/)
+[difarapizzany](https://www.difarapizzany.com/)
+[patskingofsteaks](https://www.patskingofsteaks.com/)
+[portillos](https://www.portillos.com/index.html)
+[russanddaughters](https://www.russanddaughters.com/)
+[juniorscheesecake](https://www.juniorscheesecake.com/)
+[joesstonecrab](https://joesstonecrab.com/)
+[saltlickbbq](https://saltlickbbq.com/)
+
 ## Footwear
 ## Fragrances
 ## Furniture and Home Decor
