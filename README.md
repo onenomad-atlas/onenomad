@@ -457,8 +457,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Credit Cards
 
-**Resources**
-
+**Resources**  
 [Rankt](https://rankt.com/)  
 [Cardpointers](https://cardpointers.com/)  
 
@@ -696,10 +695,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Fitness
 
-[naboso](https://www.naboso.com/)
-[therabody](https://www.therabody.com/)
-[onepeloton](https://www.onepeloton.com/)
-[mirror](https://www.mirror.co/) 
+[naboso](https://www.naboso.com/)  
+[therabody](https://www.therabody.com/)  
+[onepeloton](https://www.onepeloton.com/)  
+[mirror](https://www.mirror.co/)   
+[move u](https://moveu.com/) - fix your pain at home or on the go
 
 ## Food and Drinks
 
