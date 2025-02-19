@@ -815,8 +815,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Piper Sandals](https://www.pipersandals.com) – made in Texas  
 
 **Baby Shoes**
-[Cade & Co](https://www.cadeandco.com) – made in Utah  
-[Kepner Scott](https://www.kepnerscott.com) – made in Pennsylvania  
+[Cade & Co](https://www.cadeandco.com) – made in Utah    
+[Kepner Scott](https://www.kepnerscott.com) – made in Pennsylvania    
 
 ## Fragrances
 ## Furniture and Home Decor
