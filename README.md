@@ -725,8 +725,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Footwear
 
-**Hiking and Work Boots**
-
+**Hiking and Work Boots**  
 [All American Clothing Co.](https://www.allamericanclothing.com) – men’s  
 [Belleville](https://www.bellevilleboot.com) – military and tactical  
 [Carolina](https://www.carolinashoe.com) – men’s, select styles  
@@ -746,8 +745,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [White’s Boots](https://www.whitesboots.com) – men’s  
 [Wolverine](https://www.wolverine.com) – men’s, select styles made in Alabama and Tennessee  
 
-# Cowboy Boots
-
+**Cowboy Boots**  
 [Abilene](https://www.abileneboots.com) – made in Pennsylvania  
 [Babiones Wilson Boots](https://www.wilsonboots.com) – made in Montana  
 [Caboots](https://www.caboots.com) – made in Texas  
@@ -758,8 +756,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Orvis](https://www.orvis.com) – made in Vermont  
 [Tony Lama](https://www.tonylama.com) – select styles  
 
-# Casual Wear
-
+ **Casual Wear**  
 [Aldo](https://www.aldoshoes.com)  
 [Hey Dude](https://www.heydude.com)  
 [Aurora Shoe Co](https://www.aurorashoeco.com) – made in New York  
@@ -787,8 +784,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Walk-Over](https://www.walkover.com) – men’s  
 [Zuzii Footwear](https://www.zuzii.com) – made in California  
 
-# Sneakers & Running Shoes
-
+**Sneakers & Running Shoes**  
 [Brooks Running](https://www.brooksrunning.com)  
 [On Running](https://www.on-running.com)  
 [Opie Way](https://www.opieway.com) – very stylish, made in North Carolina  
@@ -797,8 +793,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Psudo Sneakers](https://www.psudo.com) – printed slip-on sneakers  
 [New Balance](https://www.newbalance.com) – select styles only  
 
-# Formal Shoes
-
+**Formal Shoes**  
 [Alden](https://www.aldenshoe.com) – men’s, made in Massachusetts  
 [Allen Edmonds](https://www.allenedmonds.com) – men’s, made in Wisconsin  
 [Calleen Cordero](https://www.calleencordero.com) – women’s, made in California  
@@ -809,8 +804,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Perry Ercolino](https://www.perryercolino.com) – made in Pennsylvania  
 [Rancourt & Co](https://www.rancourtandcompany.com) – men’s, made in Maine  
 
-# Sandals
-
+**Sandals**  
 [Earth Runners Sandals](https://www.earthrunners.com) – made in California  
 [Gurkee’s](https://www.gurkees.com) – made in West Virginia  
 [Island Slipper](https://www.islandslipper.com) – made in Hawaii  
@@ -820,8 +814,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Okabashi](https://www.okabashi.com) – made in Georgia  
 [Piper Sandals](https://www.pipersandals.com) – made in Texas  
 
-# Baby Shoes
-
+**Baby Shoes**
 [Cade & Co](https://www.cadeandco.com) – made in Utah  
 [Kepner Scott](https://www.kepnerscott.com) – made in Pennsylvania  
 
