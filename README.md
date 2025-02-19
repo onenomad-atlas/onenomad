@@ -705,24 +705,24 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Healthy**
 
-[Roots Harmony](https://roots-harmony.com/)
-[Barukas](https://barukas.com/)
-[Wooden Spoon Herbs](https://woodenspoonherbs.com/)
-[The Alkaline Dictionary](https://thealkalinedictionary.com/)
+[Roots Harmony](https://roots-harmony.com/) 
+[Barukas](https://barukas.com/) 
+[Wooden Spoon Herbs](https://woodenspoonherbs.com/) 
+[The Alkaline Dictionary](https://thealkalinedictionary.com/) 
 
 **Restaurants Shipped**
 
-[Katz's Delicatessen](https://katzsdelicatessen.com/)
-[Wafels](https://wafels.com/)
-[Jim's South Street](https://jimssouthstreet.com/)
-[Levain Bakery](https://levainbakery.com/)
-[Di Fara Pizza](https://www.difarapizzany.com/)
-[Pat's King of Steaks](https://www.patskingofsteaks.com/)
-[Portillo's](https://www.portillos.com/index.html)
-[Russ & Daughters](https://www.russanddaughters.com/)
-[Junior's Cheesecake](https://www.juniorscheesecake.com/)
-[Joe's Stone Crab](https://joesstonecrab.com/)
-[Salt Lick BBQ](https://saltlickbbq.com/)
+[Katz's Delicatessen](https://katzsdelicatessen.com/) 
+[Wafels](https://wafels.com/) 
+[Jim's South Street](https://jimssouthstreet.com/) 
+[Levain Bakery](https://levainbakery.com/) 
+[Di Fara Pizza](https://www.difarapizzany.com/) 
+[Pat's King of Steaks](https://www.patskingofsteaks.com/) 
+[Portillo's](https://www.portillos.com/index.html) 
+[Russ & Daughters](https://www.russanddaughters.com/) 
+[Junior's Cheesecake](https://www.juniorscheesecake.com/) 
+[Joe's Stone Crab](https://joesstonecrab.com/) 
+[Salt Lick BBQ](https://saltlickbbq.com/) 
 
 
 ## Footwear
