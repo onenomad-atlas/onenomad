@@ -723,9 +723,108 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [saltlickbbq](https://saltlickbbq.com/) - Texas  
 
 
-
-
 ## Footwear
+
+**Hiking and Work Boots**
+
+[All American Clothing Co.](https://www.allamericanclothing.com) – men’s  
+[Belleville](https://www.bellevilleboot.com) – military and tactical  
+[Carolina](https://www.carolinashoe.com) – men’s, select styles  
+[Chippewa](https://www.chippewaboots.com) – select styles  
+[Corcoran](https://www.corcoranboots.com) – military and tactical  
+[CYDWOQ](https://www.cydwoq.com) – made in California  
+[Danner](https://www.danner.com) – some models made in Oregon  
+[Hathorn Explorer](https://www.whitesboots.com) – made in Washington  
+[Hoffman Boots](https://www.hoffmanboots.com) – made in Idaho  
+[L.L. Bean](https://www.llbean.com) – select styles, made in Maine  
+[Red Wing](https://www.redwingshoes.com) – select styles, made in Minnesota  
+[Nicks Handmade Boots](https://www.nicksboots.com) – made in Washington  
+[Schnee’s](https://www.schnees.com) – made in Montana  
+[Sloggers](https://www.sloggers.com) – women’s rain boots, made in California  
+[Thorogood](https://www.thorogoodusa.com) – men’s  
+[Truman Boot Co.](https://www.trumanboot.com) – made in Oregon  
+[White’s Boots](https://www.whitesboots.com) – men’s  
+[Wolverine](https://www.wolverine.com) – men’s, select styles made in Alabama and Tennessee  
+
+# Cowboy Boots
+
+[Abilene](https://www.abileneboots.com) – made in Pennsylvania  
+[Babiones Wilson Boots](https://www.wilsonboots.com) – made in Montana  
+[Caboots](https://www.caboots.com) – made in Texas  
+[Double-H](https://www.doublehboots.com) – made in Pennsylvania  
+[Justin](https://www.justinboots.com) – select styles  
+[Lucchese](https://www.lucchese.com) – select styles  
+[Nocona](https://www.nocona.com) – select styles  
+[Orvis](https://www.orvis.com) – made in Vermont  
+[Tony Lama](https://www.tonylama.com) – select styles  
+
+# Casual Wear
+
+[Aldo](https://www.aldoshoes.com)  
+[Hey Dude](https://www.heydude.com)  
+[Aurora Shoe Co](https://www.aurorashoeco.com) – made in New York  
+[Capps Shoe Company](https://www.cappsshoe.com) – airline uniform shoes, made in Virginia  
+[Eastland](https://www.eastlandshoe.com) – made in Maine  
+[Footwear by Footskins](https://www.footskins.com) – made in Minnesota  
+[Frye](https://www.thefryecompany.com) – select styles  
+[Helm Boots](https://www.helmboots.com) – made in Texas  
+[Mohop](https://www.mohop.com) – women’s, made in Illinois  
+[Munro](https://www.munroshoes.com) – women’s, select styles made in Arkansas  
+[Oakstreet Bootmakers](https://www.oakstreetbootmakers.com) – made in Illinois  
+[Onex](https://www.onexshoes.com) – women’s, made in California  
+[Pierrepont Hicks](https://www.pierreponthicks.com) – women’s, made in Maine  
+[PW Minor](https://www.pwminor.com) – made in New York  
+[Quoddy](https://www.quoddy.com) – made in Maine  
+[Russell Moccasin Co](https://www.russellmoccasin.com) – made in Wisconsin  
+[Salpy Shoes](https://www.salpyshoes.com) – made in California  
+[SAS (San Antonio Shoes)](https://www.sasshoes.com) – made in Texas  
+[Scandic Footwear](https://www.scandicfootwear.com) – made in New England  
+[Softstar](https://www.softstarshoes.com) – made in Oregon  
+[Steger Mukluks and Moccasins](https://www.mukluks.com) – made in Minnesota  
+[Sven](https://www.svenclogs.com) – clogs, made in Minnesota  
+[The Palatines](https://www.thepalatines.com) – made in California  
+[The Vintage Shoe Company](https://www.vintageshoecompany.com) – made in Pennsylvania  
+[Walk-Over](https://www.walkover.com) – men’s  
+[Zuzii Footwear](https://www.zuzii.com) – made in California  
+
+# Sneakers & Running Shoes
+
+[Brooks Running](https://www.brooksrunning.com)  
+[On Running](https://www.on-running.com)  
+[Opie Way](https://www.opieway.com) – very stylish, made in North Carolina  
+[Hersey Custom Shoe Company](https://www.herseycustomshoe.com) – made in Massachusetts  
+[SOM Footwear](https://www.somfootwear.com) – minimalist design, made in Colorado  
+[Psudo Sneakers](https://www.psudo.com) – printed slip-on sneakers  
+[New Balance](https://www.newbalance.com) – select styles only  
+
+# Formal Shoes
+
+[Alden](https://www.aldenshoe.com) – men’s, made in Massachusetts  
+[Allen Edmonds](https://www.allenedmonds.com) – men’s, made in Wisconsin  
+[Calleen Cordero](https://www.calleencordero.com) – women’s, made in California  
+[Esquivel](https://www.esquivelshoes.com) – made in California  
+[Gateway Shoes](https://www.gatewayfootwear.com) – made in Missouri  
+[Jen + Kim](https://www.jenandkim.com) – women’s, made in California  
+[Newbark](https://www.newbark.com) – women’s, made in California  
+[Perry Ercolino](https://www.perryercolino.com) – made in Pennsylvania  
+[Rancourt & Co](https://www.rancourtandcompany.com) – men’s, made in Maine  
+
+# Sandals
+
+[Earth Runners Sandals](https://www.earthrunners.com) – made in California  
+[Gurkee’s](https://www.gurkees.com) – made in West Virginia  
+[Island Slipper](https://www.islandslipper.com) – made in Hawaii  
+[Jack Rogers Navajo Sandals](https://www.jackrogersusa.com) – made in Florida, select styles  
+[MyChacos by Chacos](https://www.chacos.com) – made in Michigan (other Chacos not made in USA)  
+[Oka-B](https://www.oka-b.com) – made in Georgia  
+[Okabashi](https://www.okabashi.com) – made in Georgia  
+[Piper Sandals](https://www.pipersandals.com) – made in Texas  
+
+# Baby Shoes
+
+[Cade & Co](https://www.cadeandco.com) – made in Utah  
+[Kepner Scott](https://www.kepnerscott.com) – made in Pennsylvania  
+
 ## Fragrances
 ## Furniture and Home Decor
 ## Futuristic Products
