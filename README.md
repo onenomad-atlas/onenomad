@@ -713,16 +713,16 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Restaurants - Shipped**
 
 [katzsdelicatessen](https://katzsdelicatessen.com/) - New York    
-[wafels](https://wafels.com/) - New York
-[jimssouthstreet](https://jimssouthstreet.com/) - Philadelphia
-[levainbakery](https://levainbakery.com/) - New York
-[difarapizzany](https://www.difarapizzany.com/) - New York
-[patskingofsteaks](https://www.patskingofsteaks.com/) - Phildelphia
-[portillos](https://www.portillos.com/index.html) - Illinois
-[russanddaughters](https://www.russanddaughters.com/) - New York
-[juniorscheesecake](https://www.juniorscheesecake.com/) - New York
-[joesstonecrab](https://joesstonecrab.com/) - Florida
-[saltlickbbq](https://saltlickbbq.com/) - Texas
+[wafels](https://wafels.com/) - New York  
+[jimssouthstreet](https://jimssouthstreet.com/) - Philadelphia  
+[levainbakery](https://levainbakery.com/) - New York  
+[difarapizzany](https://www.difarapizzany.com/) - New York  
+[patskingofsteaks](https://www.patskingofsteaks.com/) - Phildelphia  
+[portillos](https://www.portillos.com/index.html) - Illinois  
+[russanddaughters](https://www.russanddaughters.com/) - New York  
+[juniorscheesecake](https://www.juniorscheesecake.com/) - New York  
+[joesstonecrab](https://joesstonecrab.com/) - Florida  
+[saltlickbbq](https://saltlickbbq.com/) - Texas  
 
 
 
