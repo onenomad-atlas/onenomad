@@ -814,7 +814,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Okabashi](https://www.okabashi.com) – made in Georgia  
 [Piper Sandals](https://www.pipersandals.com) – made in Texas  
 
-**Baby Shoes**
+**Baby Shoes**  
 [Cade & Co](https://www.cadeandco.com) – made in Utah    
 [Kepner Scott](https://www.kepnerscott.com) – made in Pennsylvania    
 
