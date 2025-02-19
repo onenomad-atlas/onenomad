@@ -703,15 +703,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Food and Drinks
 
-**Healthy**
-
+**Healthy**  
 [roots-harmony](https://roots-harmony.com/)  
 [barukas](https://barukas.com/)  
 [woodenspoonherbs](https://woodenspoonherbs.com/)  
 [thealkalinedictionary](https://thealkalinedictionary.com/)
 
-**Restaurants - Shipped**
-
+**Restaurants - Shipped**  
 [katzsdelicatessen](https://katzsdelicatessen.com/) - New York    
 [wafels](https://wafels.com/) - New York  
 [jimssouthstreet](https://jimssouthstreet.com/) - Philadelphia  
