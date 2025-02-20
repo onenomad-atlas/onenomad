@@ -1096,9 +1096,46 @@ https://troypoint.com/crew-kodi-addon/
 [teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Microsoft  
 [screen.studio](https://screen.studio/) - Beautiful Screen Recordings in Minutes
 
-
 ## Money Transfer and Exchange
+
+[remitly](https://www.remitly.com/) - best exchange rates  
+[westernunion](https://www.westernunion.com/us/en/home.html)  
+[wise](https://wise.com/) - connect your money worldwide  
+[revolut](https://www.revolut.com/en-US/)
+
+**Best Card For International Travel - Currency**: [**Schwab Bank High Yield Investor Debit Card**](https://www.schwab.com/checking)  
+- **Unlimited ATM fee rebates** worldwide  
+- No fees or account minimums  
+- No foreign transaction fees
+
 ## Movies and TV
+
+**Movies**  
+[musichq](https://www4.musichq.net/)  
+[moviefire](http://moviefire.net/) - download movies & tv shows  
+[123-movies](https://www.123-movies.gdn/)  
+[freek](https://freek.to/)  
+[olgply](https://olgply.com/)- movies & tv shows  
+[osee.in](https://osee.in/) - movies  
+[einthusan](https://einthusan.tv/intro/) - indian  
+[soap2day](https://soap2day.to/) - movies and tv shows  
+[justwatch](https://www.justwatch.com/)  
+[squeezebox](https://movie.squeezebox.dev/#/search/movie)
+
+**TV Shows**  
+[swatchseries](https://swatchseries.is/)  
+[wcofun](https://wcofun.net/) - watch cartoons from your childhood
+
+**Cable TV**  
+[123tv](http://123tv.live/)  
+[Ustvgo.tv](http://ustvgo.tv/) - web
+
+**Apps**  
+[**stremio**](Movies%20&%20TV%200b08475bffdc4d029412682431135fcd.md)
+    *Addons*  
+      [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
+      [torrentio](https://torrentio.strem.fun/configure)
+
 ## News and Articles
 ## Newsletters
 ## Open Source
