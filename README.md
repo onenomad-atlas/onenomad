@@ -1401,7 +1401,7 @@ https://troypoint.com/crew-kodi-addon/
 [point.me](https://www.point.me/?source=juicy-miles)  
 [roame](https://roame.travel/)  
 
-**Hotels & Resorts**  
+**Luxury Hotels & Resorts**  
 [quintessentially](https://www.quintessentially.com/)  
 [aman](https://www.aman.com/)  
 [sixsenses](https://www.sixsenses.com/en)  
