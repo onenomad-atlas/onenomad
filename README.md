@@ -1218,11 +1218,11 @@ https://troypoint.com/crew-kodi-addon/
 [creators](https://creators.spotify.com/)
 
 ## Privacy
+
 [sia.tech](https://sia.tech/)
 [cryptomator](https://cryptomator.org/)
 [hat.sh](https://hat.sh/)
 [signal](https://signal.org/)
-[hat](https://hat.sh/)
 [ipfs](https://ipfs.io/)
 [ente](https://ente.io/)
 [crypt.ee](https://crypt.ee/)
@@ -1232,13 +1232,13 @@ https://troypoint.com/crew-kodi-addon/
 [keepassxc](https://keepassxc.org/)
 [puri.sm](https://puri.sm/)
 [keybase](https://keybase.io/)
-[tailscale](https://tailscale.com/)
+[tailscale](https://tailscale.com/)  
 
 **Feed**
-
 [privacytools](https://www.privacytools.io/)
 [awesome-privacy](https://github.com/pluja/awesome-privacy)
 [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
+
 
 ## Productivity
 ## Random
