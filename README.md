@@ -830,7 +830,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [vitruvi](https://vitruvi.com/)  
 [earthley](https://www.earthley.com/)  
 
-**Other Sites**
+**Other Sites**  
 [intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
 [fragrantica](https://www.fragrantica.com/) - research  
 [thewhitecompany](https://www.thewhitecompany.com/us/) - UK   
