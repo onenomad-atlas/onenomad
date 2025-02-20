@@ -1175,8 +1175,48 @@ https://troypoint.com/crew-kodi-addon/
 [opensourcealternative](https://www.opensourcealternative.to/)
 
 ## Pakistan
-## Personal Growth
+
+**Real Estate**  
+
+[bahriatown](https://bahriatown.com/)
+
+**Apparel & Accessories**  
+
+[bata](https://www.bata.com.pk/?srsltid=AfmBOooGiD63P59drO9KAC0g8-ldULwGKQN7naWWNd-9xugnE3Rme4DQ)  
+[stylo](https://stylo.pk/)  
+[unze](https://unze.com.pk/)  
+[saeedghani](https://saeedghani.pk/)  
+[jafferjees](https://jafferjees.com/pages/pk)  
+[generation](https://generation.pk/)  
+[outfitters](https://outfitters.com.pk/)  
+[diners](https://diners.com.pk/)  
+[cambridge](https://thecambridgeshop.com/)  
+[almirah](https://almirah.com.pk/)  
+[saya](https://saya.pk/)  
+[bonanzasatrangi](https://bonanzasatrangi.com/)  
+[junaidjamshed](https://www.junaidjamshed.com/)  
+[beechtree](https://beechtree.pk/)  
+[khaadi](https://us.khaadi.com/)  
+[dhanak](https://dhanak.com.pk/)  
+[crossstitch](https://www.crossstitch.pk/)  
+[chinyere](https://www.chinyere.pk/)  
+[limelight](https://www.limelight.pk/)  
+[gulahmedshop](https://www.gulahmedshop.com/)  
+[sapphire](https://sapphire-online.com/)  
+[edenrobe](https://edenrobe.com/)  
+[threadsandmotifs](https://www.threadsandmotifs.com/)  
+[ego](https://wearego.com/)  
+[aghanoor](https://aghanoorofficial.com/)  
+[alkaramstudio](https://us.alkaramstudio.com/)  
+[almas](https://www.almas.pk/)  
+[orient](https://www.shopatorient.com/)  
+   
 ## Podcasts and Software
+
+**Podcast Softwares**   
+[podcastle](https://podcastle.ai/)  
+[creators](https://creators.spotify.com/)
+
 ## Privacy
 ## Productivity
 ## Random
