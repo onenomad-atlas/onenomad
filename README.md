@@ -849,7 +849,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Spirit Of Dubai](https://www.thespiritofdubai.com/)  
 [Swiss Arabian](https://swissarabian.com/)  
 [Rasasi](http://www.rasasi.com/)  
-[Afnan](https://www.afnan.com/)
+[Afnan](https://www.afnan.com/)    
 [YUSUF BHAI](https://yusufbhaifragrances.com/)
 
 ## Furniture and Home Decor  
