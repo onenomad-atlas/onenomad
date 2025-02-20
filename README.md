@@ -1071,8 +1071,32 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [ninjakitchen](https://www.ninjakitchen.com/)
 
 ## Kodi
-## Local
+
+**Indian/Pakistani/American TV Channels**  
+https://www.firesticktricks.com/tvone-kodi-addon.html
+
+**Indian Movies**  
+https://eintamil.github.io/
+
+**Deccan Delight**  
+https://www.kodi-guide.com/deccan-delight-kodi-addon-indian/
+
+**Movies**  
+https://troypoint.com/crew-kodi-addon/
+
+## Local  
+[booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
+[citizen](https://citizen.com/) - Where people protect each other
+
 ## Meetings and Video Calls
+
+[loom](https://www.loom.com/) - screen record and share  
+[zoom](https://www.zoom.com/)  
+[meet](https://meet.google.com/landing) - Google Meet  
+[teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Microsoft  
+[screen.studio](https://screen.studio/) - Beautiful Screen Recordings in Minutes
+
+
 ## Money Transfer and Exchange
 ## Movies and TV
 ## News and Articles
