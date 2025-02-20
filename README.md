@@ -911,6 +911,20 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [christopher-cloos](https://christopher-cloos.com/)
 
 ## Grocery
+
+[flipp](https://flipp.com/home) - weekly flyers for grocery stores & other stores  
+
+**Grocery Delivery Services**  
+[Whole Foods](https://www.wholefoodsmarket.com/) - delivered through Amazon Prime  
+[Walmart Grocery](https://www.walmart.com/) - delivered through Walmart Plus  
+[Target](https://www.target.com/) - delivered through Shipt  
+[Thrive Market](https://thrivemarket.com/)  
+[Instacart](https://www.instacart.com/)  
+[Shipt](https://www.shipt.com/)  
+[Boxed](https://www.boxed.com/)  
+[Misfits Market](https://www.misfitsmarket.com/)  
+[Gopuff](https://gopuff.com/)
+
 ## Health and Medicine
 ## History
 ## Home
