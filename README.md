@@ -1242,8 +1242,7 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Productivity
 
-**Productivity Apps**
-
+**Productivity Apps**  
 [notion](https://www.notion.com/product)  
 [flylighter](https://flylighter.com/) - Capture articles, highlights, and notes to Notion.  
 [evernote](https://evernote.com/)  
