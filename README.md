@@ -1158,7 +1158,7 @@ https://troypoint.com/crew-kodi-addon/
 [Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
 [hacker news](https://news.ycombinator.com/) - tech  
 
-**Bypass Paywalls**
+**Bypass Paywalls**  
 [archive](https://archive.is/) - time capsule for web pages  
 [bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls  
 [medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
