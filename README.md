@@ -1178,11 +1178,9 @@ https://troypoint.com/crew-kodi-addon/
 ## Pakistan
 
 **Real Estate**  
-
 [bahriatown](https://bahriatown.com/)
 
 **Apparel & Accessories**  
-
 [bata](https://www.bata.com.pk/?srsltid=AfmBOooGiD63P59drO9KAC0g8-ldULwGKQN7naWWNd-9xugnE3Rme4DQ)  
 [stylo](https://stylo.pk/)  
 [unze](https://unze.com.pk/)  
@@ -1291,7 +1289,7 @@ https://troypoint.com/crew-kodi-addon/
 [instapaper](https://www.instapaper.com/)  
 [readwise](https://readwise.io/read)
 
-## Recipes
+
 ## Shipping
 
 [Freightos](https://www.freightos.com/)  
@@ -1326,6 +1324,8 @@ https://troypoint.com/crew-kodi-addon/
 ## Sports
 
 [athletic](https://www.nytimes.com/athletic/) - sports news  
+
+**Streaming**  
 [crichd.tv](http://crichd.tv/)  
 [firstrowsportș](https://xn--firstrowsport-8xe.eu/)  
 [livetv](http://livetv.sx/)
