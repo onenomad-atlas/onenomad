@@ -11,7 +11,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [👚 Apparel](#apparel)
 - [📱 Apps](#apps)
 - [🏛️ Architecture](#architecture)
-- [🎖️ Army and Military](#army-and-military)
 - [🤖 Artificial Intelligence](#artificial-intelligence)
 - [💸 Auctions](#auctions)
 - [🎶 Audio and Music](#audio-and-music)
@@ -136,8 +135,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [wordpress](https://wordpress.com/)  
 [bigcommerce](https://www.bigcommerce.com/)  
 
-**Coding**
-
+**Coding**  
 [freecodecamp.org](https://www.freecodecamp.org/)  
 [Geekforgeeks](https://www.geeksforgeeks.org/)  
 [W3schools](https://www.w3schools.com/)  
@@ -149,8 +147,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Apparel
 
-**Activewear**
-
+**Activewear**  
 [lululemon](https://shop.lululemon.com/)  
 [hylete](https://www.hylete.com/)  
 [athleta](https://athleta.gap.com/)  
@@ -158,16 +155,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [aloyoga](https://www.aloyoga.com/)  
 [alphalete](https://alphaleteathletics.com/)  
 
-**Casual & Formal**
-
+**Casual & Formal**  
 [ae](https://www.ae.com/us/en)  
 [everlane](https://www.everlane.com/)  
 [mango](https://shop.mango.com/us)  
 [zara](https://www.zara.com/us/)  
 [charlestyrwhitt](https://www.charlestyrwhitt.com/)  
 
-**Lifestyle**
-
+**Lifestyle**  
 [billabong](https://www.billabong.com/mens/)  
 [carhartt](https://www.carhartt.com/)  
 [kith](https://kith.com/)  
@@ -176,15 +171,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [everlane](https://www.everlane.com/)  
 [thenormalbrand](https://thenormalbrand.com/)  
 
-**Outerwear**
-
+**Outerwear**  
 [northface](https://www.thenorthface.com/)  
 [patagonia](https://www.patagonia.com/home/)  
 [backcountry](https://www.backcountry.com/)  
 [rei](https://www.rei.com/)  
 
-**Other**
-
+**Other**  
 [alphabroder](http://www.alphabroder.com/) - Wholesale  
 [Jomashop](https://www.jomashop.com/) - Best prices on products  
 [tiebar](http://www.thetiebar.com/) - Quality made menswear  
@@ -224,8 +217,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Architecture
 
-**Architecture Firm**
-
+**Architecture Firm**  
 [som](https://www.som.com/) - Skidmore, Owings & Merrill  
 [kpf](https://www.kpf.com/) - Kohn Pedersen Fox  
 [gensler](https://www.gensler.com/)  
@@ -233,13 +225,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [fosterandpartners](https://www.fosterandpartners.com/)  
 [perkinswill](https://perkinswill.com/)  
 [big.dk](https://big.dk/#projects)
-
-## Army and Military
-
-**Apparel**
-
-[rangerjoes](https://rangerjoes.com/) <br>
-[armysurplusworld](https://www.armysurplusworld.com/)
 
 ## Artificial Intelligence
 
@@ -1505,7 +1490,11 @@ https://troypoint.com/crew-kodi-addon/
 **Departments**  
 [fbi](https://www.fbi.gov/) - Federal Bureau of Investigation  
 [nsa](https://www.nsa.gov/) - National Security Agency  
-[loc](https://www.loc.gov/) - Library of Congress
+[loc](https://www.loc.gov/) - Library of Congress  
+
+**Apparel**  
+[rangerjoes](https://rangerjoes.com/) <br>
+[armysurplusworld](https://www.armysurplusworld.com/)
 
 ## Vehicles
 
