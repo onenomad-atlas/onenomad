@@ -514,6 +514,20 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Printify](https://printify.com/)
 [Captivaco](https://www.captivaco.com/)
 
+## Currency and Metals  
+
+[jmbullion](https://www.jmbullion.com/)  
+[sdbullion](https://sdbullion.com/)  
+[monumentmetals](https://monumentmetals.com/)  
+[silvergoldbull](https://silvergoldbull.com/)  
+[apmex](https://www.apmex.com/)  
+
+**International Mints**  
+
+[usmint](https://www.usmint.gov/)  
+[royalmint](https://www.royalmint.com/)  
+[mint.ca](https://www.mint.ca/store/template/home.jsp)  
+
 ## Design and Creativity
 
 **Design Inspiration**  
@@ -1308,22 +1322,7 @@ https://troypoint.com/crew-kodi-addon/
 
 [shopgoodwill](https://shopgoodwill.com/home) - Shop Goodwill online  
 [jomashop](https://www.jomashop.com/)  
-[honestbrandreviews](https://www.honestbrandreviews.com/)
-
-
-## Silver/Gold and Other Currency
-
-[jmbullion](https://www.jmbullion.com/)  
-[sdbullion](https://sdbullion.com/)  
-[monumentmetals](https://monumentmetals.com/)  
-[silvergoldbull](https://silvergoldbull.com/)  
-[apmex](https://www.apmex.com/)  
-
-**International Mints**  
-
-[usmint](https://www.usmint.gov/)  
-[royalmint](https://www.royalmint.com/)  
-[mint.ca](https://www.mint.ca/store/template/home.jsp)
+[honestbrandreviews](https://www.honestbrandreviews.com/)  
 
 ## Sports
 
@@ -1454,14 +1453,21 @@ https://troypoint.com/crew-kodi-addon/
     [oceanairtravels](https://www.oceanairtravels.com/)  
     [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica  
 
-**Traveler Programs** 
-[Mobile Passport Control - App](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)    
+**Traveler Programs**   
+[Mobile Passport Control](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)    
 [Global Entry](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry)  
 [TSA PreCheck](https://www.tsa.gov/precheck)  
 [Clear](https://www.clearme.com/)  
 
 **Lounges**  
-[Priority Pass](https://www.prioritypass.com/)    
+[Priority Pass](https://www.prioritypass.com/)  
+[Escape Lounges](https://escapelounges.com/)
+[Plaza Premium Lounges](https://www.plazapremiumlounge.com/en-uk)
+[Delta Sky Club](https://www.delta.com/us/en/delta-sky-club/locations)
+[AMEX Centurion](https://global.americanexpress.com/lounge-access/the-platinum-card)
+[Capital One](https://capitalonetravel.com/airport-lounges)
+[Chase Sapphire](https://account.chase.com/sapphire-airport-lounge)
+
 
 **Useful Products & Websites**
 
