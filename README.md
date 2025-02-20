@@ -849,7 +849,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Spirit Of Dubai](https://www.thespiritofdubai.com/)  
 [Swiss Arabian](https://swissarabian.com/)  
 [Rasasi](http://www.rasasi.com/)  
-[Afnan](https://www.afnan.com/)  
+[Afnan](https://www.afnan.com/)
+[YUSUF BHAI](https://yusufbhaifragrances.com/)
 
 ## Furniture and Home Decor  
 [Wayfair](https://www.wayfair.com/)  
@@ -1001,7 +1002,29 @@ Hampton Bay
 [tineye](https://tineye.com/) - reverse image search
 
 ## India
+
+**Indian Clothing**  
+[Roopkalsarees](http://roopkalsarees.com/)  
+[Seasonsindia](http://seasonsindia.com/)  
+[Manyavar](http://manyavar.com/)  
+
+**Indian Construction Companies**  
+[Oberoi](https://www.oberoirealty.com/)  
+[Hiranandani](https://www.houseofhiranandani.com/)  
+[Rustomjee](https://www.rustomjee.com/)  
+[K raheja corp](https://www.krahejacorp.com/)  
+[L&T realty](https://www.lntrealty.com/)
+
 ## International Companies
+
+**Germany**  
+[**ART+COM Studios**](https://artcom.de/en/)  
+Notable Works - [Terravision](https://artcom.de/en/?project=terravision)
+
+**United States**  
+George Hotz  
+Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai/)
+
 ## Jewelry
 ## Kitchen
 ## Kodi
