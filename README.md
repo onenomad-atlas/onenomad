@@ -1233,8 +1233,10 @@ https://troypoint.com/crew-kodi-addon/
 [keepassxc](https://keepassxc.org/) - Password Manager
 [puri.sm](https://puri.sm/) - Products that respect your digital life
 [keybase](https://keybase.io/) - End-to-end encryption for secure messaging and file-sharing
-[tailscale](https://tailscale.com/) - Best VPN service for secure networks  
+[tailscale](https://tailscale.com/) - Best VPN service for secure networks
+
 **Feed**
+
 [privacytools](https://www.privacytools.io/)
 [awesome-privacy](https://github.com/pluja/awesome-privacy)
 [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
