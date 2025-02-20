@@ -1026,7 +1026,50 @@ George Hotz
 Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai/)
 
 ## Jewelry
+
+[brilliantearth](https://www.brilliantearth.com/)  
+[vrai](https://www.vrai.com/)  
+[ross-simons](https://www.ross-simons.com/)  
+[bluenile](https://www.bluenile.com/)  
+[gabrielny](https://www.gabrielny.com/)  
+[swarovski](https://www.swarovski.com/en-US/)
+
 ## Kitchen
+
+**Tools & Gadgets**  
+[homewild](https://homewild.shop/)  
+[babi.sh](https://www.babi.sh/)  
+[natashaskitchen](https://www.amazon.com/shop/natashaskitchen/list/1IPEJWJ6FO7MD?ref_=aip_sf_list_spv_ofs_mixed_d)  
+[shopstcg](https://shopstcg.com/)  
+[lifebymikeg](https://www.amazon.com/shop/lifebymikeg)  
+[cookwell](https://www.cookwell.com/shop)
+
+**Resources**  
+[supercook](https://www.supercook.com/#/desktop) - find a recipe with the ingredients you have
+
+**Ingredients**  
+[King Arthur Flour](https://www.kingarthurbaking.com/)  
+[Saltverk Salt](https://saltverk.com/)  
+[Celtic Sea Salt](https://www.celticseasalt.com/)  
+[Enjoy Life Chocolate](https://enjoylifefoods.com/collections/chocolate?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_5tYehkhcYSBPc1LqCMeEvR64yuDSnCWphQ9gGk6EuFWoeNE6hXWsaAhV8EALw_wcB)  
+[Bragg Apple Cider Vinegar](https://www.bragg.com/collections/apple-cider-vinegar)  
+[bobsredmill](https://www.bobsredmill.com/)  
+[foodforlife](https://www.foodforlife.com/)  
+[frontiercoop](https://www.frontiercoop.com/)
+
+**Superfood**  
+[navitasorganics](https://navitasorganics.com/)  
+[selinanaturally](https://www.selinanaturally.com/)  
+[bigtreefarms](https://bigtreefarms.com/)  
+[vivapura](https://www.vivapura.com/)  
+[aduna](https://aduna.com/)  
+[barukas](https://barukas.com/)
+
+**Machines**  
+[vitamix](https://www.vitamix.com/us/en_us)  
+[kitchenaid](https://www.kitchenaid.com/)  
+[ninjakitchen](https://www.ninjakitchen.com/)
+
 ## Kodi
 ## Local
 ## Meetings and Video Calls
