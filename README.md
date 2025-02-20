@@ -1132,9 +1132,10 @@ https://troypoint.com/crew-kodi-addon/
 
 **Apps**  
 [**stremio**](Movies%20&%20TV%200b08475bffdc4d029412682431135fcd.md)
-    *Addons*  
-      [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
-      [torrentio](https://torrentio.strem.fun/configure)
+
+*Addons for Stremio  
+[Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
+[torrentio](https://torrentio.strem.fun/configure)
 
 ## News and Articles
 ## Newsletters
