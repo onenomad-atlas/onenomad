@@ -1233,6 +1233,7 @@ https://troypoint.com/crew-kodi-addon/
 [puri.sm](https://puri.sm/)  
 [keybase](https://keybase.io/)  
 [tailscale](https://tailscale.com/)  
+
 **Feed**  
 [privacytools](https://www.privacytools.io/)  
 [awesome-privacy](https://github.com/pluja/awesome-privacy)  
@@ -1240,6 +1241,29 @@ https://troypoint.com/crew-kodi-addon/
 
 
 ## Productivity
+
+**Productivity Apps**
+
+[notion](https://www.notion.com/product)  
+[flylighter](https://flylighter.com/) - Capture articles, highlights, and notes to Notion.  
+[evernote](https://evernote.com/)  
+[notes](https://www.icloud.com/notes/)  
+[tana](https://tana.inc/)  
+[clickup](https://clickup.com/)  
+[todoist](https://www.todoist.com/)  
+[kortex](https://www.kortex.co/)  
+[mymind](https://mymind.com/)  
+[lifestack](https://lifestack.ai/)  
+[audionotes](https://www.audionotes.app/)  
+[kosmik](https://www.kosmik.app/) - full visual research platform  
+[superhuman](https://superhuman.com/) - email app  
+[motion](https://www.usemotion.com/)  
+[lunatask](https://lunatask.app/)  
+[fabric](https://fabric.so/)  
+[kortex](https://www.kortex.co/)  
+[bydesign](https://www.bydesign.io/)  
+[saga](https://saga.so/)
+
 ## Random
 ## Read it Later
 ## Recipes
