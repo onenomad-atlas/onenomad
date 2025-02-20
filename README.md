@@ -404,9 +404,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 [28mobile](https://28mobile.com/) - purchase international phones
 
-**eSIMs for International Travel**
-[airalo](https://www.airalo.com/)
-[Saily](https://saily.com/)
+**eSIMs for International Travel**  
+[airalo](https://www.airalo.com/)  
+[Saily](https://saily.com/)  
 
 **MVNO - reseller for wireless communications services**  
 
