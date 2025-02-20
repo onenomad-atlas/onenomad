@@ -1459,23 +1459,21 @@ https://troypoint.com/crew-kodi-addon/
 [TSA PreCheck](https://www.tsa.gov/precheck)  
 [Clear](https://www.clearme.com/)  
 
-**Lounges**  
-[Priority Pass](https://www.prioritypass.com/)  
-[Escape Lounges](https://escapelounges.com/)
-[Plaza Premium Lounges](https://www.plazapremiumlounge.com/en-uk)
-[Delta Sky Club](https://www.delta.com/us/en/delta-sky-club/locations)
-[AMEX Centurion](https://global.americanexpress.com/lounge-access/the-platinum-card)
-[Capital One](https://capitalonetravel.com/airport-lounges)
-[Chase Sapphire](https://account.chase.com/sapphire-airport-lounge)
+**Lounges**   
+[Priority Pass](https://www.prioritypass.com/)   
+[Escape Lounges](https://escapelounges.com/)  
+[Plaza Premium Lounges](https://www.plazapremiumlounge.com/en-uk)  
+[Delta Sky Club](https://www.delta.com/us/en/delta-sky-club/locations)  
+[AMEX Centurion](https://global.americanexpress.com/lounge-access/the-platinum-card)  
+[Capital One](https://capitalonetravel.com/airport-lounges)  
+[Chase Sapphire](https://account.chase.com/sapphire-airport-lounge)  
 
 
-**Useful Products & Websites**
-
+**Useful Products & Websites**  
 [airalo](https://www.airalo.com/) - esim for any country  
 [roadtrippers](https://roadtrippers.com/) - Road Trip  
 
-**Private Jet & Luxury Lifestyle**
-
+**Private Jet & Luxury Lifestyle**  
 [jsx](https://www.jsx.com/) - book a shared private jet  
 [villiersjets](https://www.villiersjets.com/)  
 [flyxo](https://flyxo.com/)  
@@ -1485,8 +1483,7 @@ https://troypoint.com/crew-kodi-addon/
 
 ## United Arab Emirates
 
-**Real Estate**
-
+**Real Estate**  
 [emaar](https://www.emaar.com/)  
 [meraas](https://meraas.com/en)  
 [deyaar](https://www.deyaar.ae/en/)  
@@ -1499,8 +1496,7 @@ https://troypoint.com/crew-kodi-addon/
 
 [potustracker](https://potustracker.us/) - track the US president  
 
-**Departments**
-
+**Departments**  
 [fbi](https://www.fbi.gov/) - Federal Bureau of Investigation  
 [nsa](https://www.nsa.gov/) - National Security Agency  
 [loc](https://www.loc.gov/) - Library of Congress
@@ -1521,8 +1517,7 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Watches
 
-**Watches**
-
+**Watches**  
 [citizen](https://www.citizenwatch.com/us/en/)  
 [movado](https://www.movado.com/)  
 [fossil](https://www.fossil.com/en-us/)  
@@ -1534,8 +1529,7 @@ https://troypoint.com/crew-kodi-addon/
 [patek](https://www.patek.com/en/home)  
 [audemarspiguet](https://www.audemarspiguet.com/com/en/home.html)  
 
-**Smartwatches**
-
+**Smartwatches**  
 [Apple Watch](https://www.apple.com/watch/)  
 [Samsung Galaxy Watch](https://www.samsung.com/us/mobile/wearables/all-wearables/)  
 [Fossil](https://www.fossil.com/en-us/smartwatches/smartwatches/)  
