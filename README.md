@@ -868,6 +868,23 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [cantoni](https://www.cantoni.com/) - italian  
 
 ## Futuristic Products
+
+**Mind**  
+[Neuralink](https://neuralink.com/)  
+[next-mind](https://www.next-mind.com/)  
+
+**Tech**  
+[ouraring](https://ouraring.com/)  
+[owogame](https://owogame.com/)  
+[Nimo Smart Glasses](https://www.nimoplanet.com/)  
+[Actronika](https://www.actronika.com/)  
+[magicleap](https://www.magicleap.com/)  
+
+**Vehicles**  
+[rivian](https://rivian.com/)  
+[lightyear.one](https://lightyear.one/)  
+[lucidmotors](https://lucidmotors.com/)
+
 ## Glasses
 ## Grocery
 ## Health and Medicine
