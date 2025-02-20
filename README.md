@@ -926,9 +926,80 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Gopuff](https://gopuff.com/)
 
 ## Health and Medicine
+
+**Health Resources**  
+[healthline](https://www.healthline.com/)  
+[ada health](https://ada.com/)
+
+**Medicine**  
+[costplusdrugs](https://costplusdrugs.com/)  
+[goodrx](https://www.goodrx.com/)  
+[nowrx](https://nowrx.com/)  
+[Amazon Pharmacy](https://www.amazon.com/b?node=23435487011)  
+[pillpack](https://www.pillpack.com/)  
+[blinkhealth](https://www.blinkhealth.com/)
+
+**Vitamins**  
+[ritual](https://ritual.com/)  
+[personanutrition](https://www.personanutrition.com/)  
+[lovewellness](https://lovewellness.com/)  
+[humnutrition](https://www.humnutrition.com/)  
+[bluebonnetnutrition](https://bluebonnetnutrition.com/)  
+[newchapter](https://newchapter.com/)  
+[ancientnutrition](https://ancientnutrition.com/)
+
 ## History
+
+[britishpathe](https://www.britishpathe.com/) - Explore the world's finest newsreel archives.  
+[archive](https://archive.org/) - search the digital archive  
+[archives](https://www.archives.gov/) - search the national digital archive & records
+
 ## Home
+
+[californiadesignden](https://www.californiadesignden.com/) - bed sheets & accessories  
+[dusk](https://us.dusk.com/) - bed sheets  
+[safavieh](https://safavieh.com/) - rugs & home furnishing  
+[ownwell](https://www.ownwell.com/) - reduce your property taxes  
+
+**Alarm**  
+[cove](https://www.covesmart.com/)  
+[Xfinity Home](https://www.xfinity.com/learn/home-security)  
+[ring](https://ring.com/security-system)  
+[simplisafe](https://simplisafe.com/)  
+[goabode](https://goabode.com/)  
+[vivint](https://www.vivint.com/)  
+[adt](https://www.adt.com/)  
+[brinks](https://brinkshome.com/)  
+[frontpoint](https://www.frontpointsecurity.com/)  
+
+**Solar**  
+[elevation](https://www.poweredbyelevation.com/)  
+[sunlux](https://sunlux.com/)  
+[tesla](https://www.tesla.com/energy)  
+[zenernet](https://zenernet.com/)  
+[sunpower](https://us.sunpower.com/)  
+
+**Other**  
+[bldr](https://www.bldr.com/)  
+
+**Products in Your Home**  
+PVB Valve  
+
+**Top Fan Brands**  
+Hunter  
+Casablanca  
+Hampton Bay
+
 ## Images
+
+[ente](https://ente.io/) - end to end cloud storage  
+[gettyimages](https://www.gettyimages.com/)  
+[unsplash](https://unsplash.com/) - internet’s source for visuals  
+[pixabay](https://pixabay.com/)  
+[shutterstock](https://www.shutterstock.com/)  
+[pexels](https://www.pexels.com/)  
+[tineye](https://tineye.com/) - reverse image search
+
 ## India
 ## International Companies
 ## Jewelry
