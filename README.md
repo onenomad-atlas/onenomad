@@ -1135,11 +1135,12 @@ https://troypoint.com/crew-kodi-addon/
 [Ustvgo.tv](http://ustvgo.tv/) - web
 
 **Apps**  
-[**stremio**](Movies%20&%20TV%200b08475bffdc4d029412682431135fcd.md)
+[Stremio](https://www.stremio.com/)
 
 **Addons for Stremio**  
 [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
 [torrentio](https://torrentio.strem.fun/configure)
+[Stremio Addons Collection](https://stremio-addons.com/)  
 
 ## News and Articles
 
@@ -1157,6 +1158,8 @@ https://troypoint.com/crew-kodi-addon/
 [slowernews](https://www.slowernews.com/)  
 [Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
 [hacker news](https://news.ycombinator.com/) - tech  
+
+**Bypass Paywalls**
 [archive](https://archive.is/) - time capsule for web pages  
 [bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls  
 [medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
@@ -1181,7 +1184,7 @@ https://troypoint.com/crew-kodi-addon/
 ## Pakistan
 
 **Real Estate**  
-[bahriatown](https://bahriatown.com/)
+[bahriatown](https://bahriatown.com/)  
 
 **Apparel & Accessories**  
 [bata](https://www.bata.com.pk/?srsltid=AfmBOooGiD63P59drO9KAC0g8-ldULwGKQN7naWWNd-9xugnE3Rme4DQ)  
@@ -1218,6 +1221,9 @@ https://troypoint.com/crew-kodi-addon/
 **Podcast Softwares**   
 [podcastle](https://podcastle.ai/)  
 [creators](https://creators.spotify.com/)
+
+**Podcasts**
+  - 
 
 ## Privacy
 
