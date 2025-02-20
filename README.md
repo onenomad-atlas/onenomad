@@ -1336,8 +1336,7 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Startup Investment and Crowdfunding
 
-**Investments**
-
+**Investments**  
 [startengine](https://www.startengine.com/)  
 [republic](https://republic.com/)  
 [wefunder](https://wefunder.com/)  
@@ -1349,8 +1348,7 @@ https://troypoint.com/crew-kodi-addon/
 [fundersclub](https://fundersclub.com/)  
 [equityzen](https://equityzen.com/) - private companies  
 
-**Crowdfunding**
-
+**Crowdfunding**  
 [kickstarter](https://www.kickstarter.com/)  
 [indiegogo](https://www.indiegogo.com/)  
 [patreon](https://www.patreon.com/)  
@@ -1363,8 +1361,7 @@ https://troypoint.com/crew-kodi-addon/
 [unraid](https://unraid.net/) - operating system for servers and NAS  
 [truenas](https://www.truenas.com/) - open source NAS software  
 
-**Shopping**
-
+**Shopping**  
 [apple education](https://www.apple.com/us-edu/store)  
 [bhphotovideo](https://www.bhphotovideo.com/)  
 [newegg](https://www.newegg.com/)  
@@ -1376,23 +1373,20 @@ https://troypoint.com/crew-kodi-addon/
 
 [ifixit](https://www.ifixit.com/) - free repair manual  
 
-**Home Tools**
-
+**Home Tools**  
 [ryobi](https://www.ryobitools.com/)  
 [dewalt](https://www.dewalt.com/)  
 [craftsman](https://www.craftsman.com/)  
 [milwaukeetool](https://www.milwaukeetool.com/)  
 [stanleytools](https://www.stanleytools.com/)  
 
-**Knife Sharpener**
-
+**Knife Sharpener**  
 [speedysharp](https://www.speedysharp.com/)  
 [knifeaid](https://knifeaid.com/)
 
 ## Travel
 
-**Blogs & Resources**
-
+**Blogs & Resources**  
 [frequentmiler](https://frequentmiler.com/)  
 [thepointsguy](https://thepointsguy.com/)  
 [status matcher](https://www.statusmatcher.com/)  
@@ -1408,8 +1402,7 @@ https://troypoint.com/crew-kodi-addon/
 [point.me](https://www.point.me/?source=juicy-miles)  
 [roame](https://roame.travel/)  
 
-**Hotels & Resorts**
-
+**Hotels & Resorts**  
 [quintessentially](https://www.quintessentially.com/)  
 [aman](https://www.aman.com/)  
 [sixsenses](https://www.sixsenses.com/en)  
@@ -1420,8 +1413,7 @@ https://troypoint.com/crew-kodi-addon/
 
 **Search**
 
-- **Hotels & Resorts**
-    
+- **Hotels & Resorts**  
     [expedia](https://www.expedia.com/)  
     [airbnb](https://www.airbnb.com/)  
     [vrbo](https://www.vrbo.com/)  
@@ -1432,8 +1424,7 @@ https://troypoint.com/crew-kodi-addon/
     [booking](https://www.booking.com/)  
     [tripadvisor](https://www.tripadvisor.com/)  
 
-- **Flights**
-    
+- **Flights**  
     [flighthub](http://www.flighthub.com/)  
     [matrixitasoftware](https://matrix.itasoftware.com/search)  
     [skiplagged](https://skiplagged.com/)  
@@ -1444,8 +1435,7 @@ https://troypoint.com/crew-kodi-addon/
     [Google Flights](https://www.google.com/travel/flights)  
     [seatguru](https://seatguru.com/)  
 
-- **Car Rentals & Transportation**
-    
+- **Car Rentals & Transportation**  
     [autoslash](https://www.autoslash.com/)  
     [avis](https://www.avis.com/en/home)  
     [turo](https://turo.com/)  
@@ -1458,25 +1448,20 @@ https://troypoint.com/crew-kodi-addon/
     [citymapper](https://citymapper.com/) - app for transportation  
     [megabus](https://us.megabus.com/?gclid=EAIaIQobChMI-_CrpbfE9wIVo2xvBB20yQVEEAAYASAAEgKWcPD_BwE) - travel by bus  
 
-- **Tours**
-    
+- **Tours**  
     [getyourguide](https://www.getyourguide.com/)  
     [raynatours](https://www.raynatours.com/)  
     [oceanairtravels](https://www.oceanairtravels.com/)  
     [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica  
 
-**Traveler Programs**
+**Traveler Programs** 
+[Mobile Passport Control - App](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)    
+[Global Entry](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry)  
+[TSA PreCheck](https://www.tsa.gov/precheck)  
+[Clear](https://www.clearme.com/)  
 
-[Mobile Passport Control - App](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)  
-
-Global Entry  
-[https://www.cbp.gov/travel/trusted-traveler-programs/global-entry](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry)
-
-TSA PreCheck  
-[https://www.tsa.gov/precheck](https://www.tsa.gov/precheck)
-
-Clear  
-[www.clearme.com](https://www.clearme.com/)
+**Lounges**  
+[Priority Pass](https://www.prioritypass.com/)    
 
 **Useful Products & Websites**
 
