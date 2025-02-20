@@ -1219,27 +1219,24 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Privacy
 
-[sia.tech](https://sia.tech/)
-[cryptomator](https://cryptomator.org/)
-[hat.sh](https://hat.sh/)
-[signal](https://signal.org/)
-[ipfs](https://ipfs.io/)
-[ente](https://ente.io/)
-[crypt.ee](https://crypt.ee/)
-[f-droid](https://f-droid.org/)
-[priductive](https://priductive.com/)
-[syncthing](https://syncthing.net/)
-[keepassxc](https://keepassxc.org/)
-[puri.sm](https://puri.sm/)
-[keybase](https://keybase.io/)
+[sia.tech](https://sia.tech/)  
+[cryptomator](https://cryptomator.org/)  
+[hat.sh](https://hat.sh/)  
+[signal](https://signal.org/)  
+[ipfs](https://ipfs.io/)  
+[ente](https://ente.io/)  
+[crypt.ee](https://crypt.ee/)  
+[f-droid](https://f-droid.org/)  
+[priductive](https://priductive.com/)  
+[syncthing](https://syncthing.net/)  
+[keepassxc](https://keepassxc.org/)  
+[puri.sm](https://puri.sm/)  
+[keybase](https://keybase.io/)  
 [tailscale](https://tailscale.com/)  
-
-**Feed**
-[privacytools](https://www.privacytools.io/)
-[awesome-privacy](https://github.com/pluja/awesome-privacy)
+**Feed**  
+[privacytools](https://www.privacytools.io/)  
+[awesome-privacy](https://github.com/pluja/awesome-privacy)  
 [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
-
-
 
 
 ## Productivity
