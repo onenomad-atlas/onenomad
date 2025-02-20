@@ -1264,6 +1264,10 @@ https://troypoint.com/crew-kodi-addon/
 [bydesign](https://www.bydesign.io/)  
 [saga](https://saga.so/)
 
+**Feeds and Resources**  
+[Awesome Productivity](https://github.com/BlaiseLabs/awesome-productivity?tab=readme-ov-file#tools-and-apps)
+[Tool Finder](https://toolfinder.co/)
+
 ## Random
 
 [crystalage](https://www.crystalage.com/online_store/stone_type/) - find info on crystals, fossils, gemstones, and other minerals  
