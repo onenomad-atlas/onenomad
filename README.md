@@ -1232,12 +1232,13 @@ https://troypoint.com/crew-kodi-addon/
 [keepassxc](https://keepassxc.org/)
 [puri.sm](https://puri.sm/)
 [keybase](https://keybase.io/)
-[tailscale](https://tailscale.com/)  
+[tailscale](https://tailscale.com/)
 
 **Feed**
 [privacytools](https://www.privacytools.io/)
 [awesome-privacy](https://github.com/pluja/awesome-privacy)
 [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
+
 
 
 ## Productivity
