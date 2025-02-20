@@ -68,6 +68,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🎲 Random](#random)
 - [📖 Read it Later](#read-it-later)
 - [🍽️ Recipes](#recipes)
+- [Shipping](#shipping)
 - [🛍️ Shopping and Products](#shopping-and-products)
 - [💰 Silver/Gold and Other Currency](#silvergold-and-other-currency)
 - [⚽ Sports](#sports)
@@ -1264,20 +1265,299 @@ https://troypoint.com/crew-kodi-addon/
 [saga](https://saga.so/)
 
 ## Random
+
+[crystalage](https://www.crystalage.com/online_store/stone_type/) - find info on crystals, fossils, gemstones, and other minerals  
+[getstation](http://www.getstation.com/)  
+[workona](https://workona.com/)  
+[arrests](http://arrests.org/)  
+[gethuman](https://gethuman.com/) - Get a rep on the phone faster  
+[filecr](https://filecr.com/en/?id=95360682816) - the biggest software store  
+[flowcv](https://app.flowcv.com/) - resume builder  
+[remoteok](https://remoteok.com/) - remote jobs  
+[mugshots.zone](https://mugshots.zone/)  
+[neverinstall](https://neverinstall.com/)  
+[pov.camera](https://pov.camera/) - A camera to capture every perspective  
+[fmhy](https://fmhy.net/) - The largest collection of free stuff on the internet!
+
 ## Read it Later
+
+[pocket](https://getpocket.com/en/)  
+[omnivore](https://omnivore.app/)  
+[matter](https://hq.getmatter.com/)  
+[instapaper](https://www.instapaper.com/)  
+[readwise](https://readwise.io/read)
+
 ## Recipes
+## Shipping
+
+[Freightos](https://www.freightos.com/)  
+[pirateship](https://www.pirateship.com/)  
+[shipping station](https://www.shipstation.com/?ref=gppc_us-branded-ar_shipstation-exact_shipstation_exact&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_nbx5PIZB96kad04E6h0-Ij4M-T_4fHZA9Tm-ev-vM0yIFT6yaz68aArlAEALw_wcB&gclsrc=aw.ds)  
+[forestshipping](https://forestshipping.com/)  
+[crossborderpickups](https://www.crossborderpickups.ca/) - Affordable USA to Canada Shipping  
+[veeqo](https://www.veeqo.com/)  
+[cns](https://reg.usps.com/entreg/LoginAction_input?app=GSS&appURL=https://cns.usps.com/) - USPS
+
 ## Shopping and Products
+
+[shopgoodwill](https://shopgoodwill.com/home) - Shop Goodwill online  
+[jomashop](https://www.jomashop.com/)  
+[honestbrandreviews](https://www.honestbrandreviews.com/)
+
+
 ## Silver/Gold and Other Currency
+
+[jmbullion](https://www.jmbullion.com/)  
+[sdbullion](https://sdbullion.com/)  
+[monumentmetals](https://monumentmetals.com/)  
+[silvergoldbull](https://silvergoldbull.com/)  
+[apmex](https://www.apmex.com/)  
+
+**International Mints**  
+
+[usmint](https://www.usmint.gov/)  
+[royalmint](https://www.royalmint.com/)  
+[mint.ca](https://www.mint.ca/store/template/home.jsp)
+
 ## Sports
+
+[athletic](https://www.nytimes.com/athletic/) - sports news  
+[crichd.tv](http://crichd.tv/)  
+[firstrowsportș](https://xn--firstrowsport-8xe.eu/)  
+[livetv](http://livetv.sx/)
+
 ## Startup Investment and Crowdfunding
+
+**Investments**
+
+[startengine](https://www.startengine.com/)  
+[republic](https://republic.com/)  
+[wefunder](https://wefunder.com/)  
+[seedinvest](https://www.seedinvest.com/)  
+[angellist](https://www.angellist.com/)  
+[microventures](https://microventures.com/)  
+[crowdcube](https://www.crowdcube.com/) - European  
+[ourcrowd](https://www.ourcrowd.com/)  
+[fundersclub](https://fundersclub.com/)  
+[equityzen](https://equityzen.com/) - private companies  
+
+**Crowdfunding**
+
+[kickstarter](https://www.kickstarter.com/)  
+[indiegogo](https://www.indiegogo.com/)  
+[patreon](https://www.patreon.com/)  
+[fundrazr](https://fundrazr.com/)  
+[fundly](https://fundly.com/)  
+[gofundme](https://www.gofundme.com/)
+
 ## Tech
+
+[unraid](https://unraid.net/) - operating system for servers and NAS  
+[truenas](https://www.truenas.com/) - open source NAS software  
+
+**Shopping**
+
+[apple education](https://www.apple.com/us-edu/store)  
+[bhphotovideo](https://www.bhphotovideo.com/)  
+[newegg](https://www.newegg.com/)  
+[microcenter](https://www.microcenter.com/)  
+[swappa](https://swappa.com/)  
+[digikey](https://www.digikey.com/)
+
 ## Tools
+
+[ifixit](https://www.ifixit.com/) - free repair manual  
+
+**Home Tools**
+
+[ryobi](https://www.ryobitools.com/)  
+[dewalt](https://www.dewalt.com/)  
+[craftsman](https://www.craftsman.com/)  
+[milwaukeetool](https://www.milwaukeetool.com/)  
+[stanleytools](https://www.stanleytools.com/)  
+
+**Knife Sharpener**
+
+[speedysharp](https://www.speedysharp.com/)  
+[knifeaid](https://knifeaid.com/)
+
 ## Travel
+
+**Blogs & Resources**
+
+[frequentmiler](https://frequentmiler.com/)  
+[thepointsguy](https://thepointsguy.com/)  
+[status matcher](https://www.statusmatcher.com/)  
+[upgraded points](https://upgradedpoints.com/)  
+[millionmilesecrets](https://millionmilesecrets.com/)  
+[onemileatatime](https://onemileatatime.com/)  
+[uponarriving](https://www.uponarriving.com/)  
+[travel & leisure](https://www.travelandleisure.com/)  
+[flyertalk](https://www.flyertalk.com/)  
+[passport index](https://www.passportindex.org/)  
+[flightconnections](https://www.flightconnections.com/)  
+[expertflyer](https://www.expertflyer.com/)  
+[point.me](https://www.point.me/?source=juicy-miles)  
+[roame](https://roame.travel/)  
+
+**Hotels & Resorts**
+
+[quintessentially](https://www.quintessentially.com/)  
+[aman](https://www.aman.com/)  
+[sixsenses](https://www.sixsenses.com/en)  
+[mandarinoriental](https://www.mandarinoriental.com/)  
+[fourseasons](https://www.fourseasons.com/)  
+[belmond](https://www.belmond.com/)  
+[oneandonlyresorts](https://www.oneandonlyresorts.com/)  
+
+**Search**
+
+- **Hotels & Resorts**
+    
+    [expedia](https://www.expedia.com/)  
+    [airbnb](https://www.airbnb.com/)  
+    [vrbo](https://www.vrbo.com/)  
+    [getaway.house](https://getaway.house/)  
+    [awardmapper](https://awardmapper.com/)  
+    [costcotravel](https://www.costcotravel.com/)  
+    [hotels](https://www.hotels.com/)  
+    [booking](https://www.booking.com/)  
+    [tripadvisor](https://www.tripadvisor.com/)  
+
+- **Flights**
+    
+    [flighthub](http://www.flighthub.com/)  
+    [matrixitasoftware](https://matrix.itasoftware.com/search)  
+    [skiplagged](https://skiplagged.com/)  
+    [skyscanner](http://www.skyscanner.com/)  
+    [kayak](http://www.kayak.com/)  
+    [cheap flights - app](https://www.cheapflights.com/?lang=en&skipapp=true&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_fxyp98hZGCJCTv-r3sDqH8RQne-1WhsomZwjrE-mNJkKOAyL4qUUaAt9KEALw_wcB&aid=131348740301)  
+    [point.me](https://www.point.me/)  
+    [Google Flights](https://www.google.com/travel/flights)  
+    [seatguru](https://seatguru.com/)  
+
+- **Car Rentals & Transportation**
+    
+    [autoslash](https://www.autoslash.com/)  
+    [avis](https://www.avis.com/en/home)  
+    [turo](https://turo.com/)  
+    [enterprise](https://www.enterprise.com/en/home.html)  
+    [hertz](https://www.hertz.com/rentacar/reservation/)  
+    [alamo](https://www.alamo.com/en/home.html)  
+    [budget](https://www.budget.com/en/home)  
+    [sixt](https://www.sixt.com/#/)  
+    [silvercar](https://www.silvercar.com/) - rent an audi  
+    [citymapper](https://citymapper.com/) - app for transportation  
+    [megabus](https://us.megabus.com/?gclid=EAIaIQobChMI-_CrpbfE9wIVo2xvBB20yQVEEAAYASAAEgKWcPD_BwE) - travel by bus  
+
+- **Tours**
+    
+    [getyourguide](https://www.getyourguide.com/)  
+    [raynatours](https://www.raynatours.com/)  
+    [oceanairtravels](https://www.oceanairtravels.com/)  
+    [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica  
+
+**Traveler Programs**
+
+[Mobile Passport Control - App](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)  
+
+Global Entry  
+[https://www.cbp.gov/travel/trusted-traveler-programs/global-entry](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry)
+
+TSA PreCheck  
+[https://www.tsa.gov/precheck](https://www.tsa.gov/precheck)
+
+Clear  
+[www.clearme.com](https://www.clearme.com/)
+
+**Useful Products & Websites**
+
+[airalo](https://www.airalo.com/) - esim for any country  
+[roadtrippers](https://roadtrippers.com/) - Road Trip  
+
+**Private Jet & Luxury Lifestyle**
+
+[jsx](https://www.jsx.com/) - book a shared private jet  
+[villiersjets](https://www.villiersjets.com/)  
+[flyxo](https://flyxo.com/)  
+[flyvictor](https://www.flyvictor.com/en-us/)  
+[openpoint.co](https://openpoint.co/#/main/)  
+[cuvee](https://www.cuvee.com/)
+
 ## United Arab Emirates
+
+**Real Estate**
+
+[emaar](https://www.emaar.com/)  
+[meraas](https://meraas.com/en)  
+[deyaar](https://www.deyaar.ae/en/)  
+[omniyat](https://www.omniyat.com/?utm_source=google_inhouse&utm_medium=cpc&utm_term=omniyat&utm_content=695716681594&utm_campaign=Omniyat_UAE_Brand_EN__21164021701&gad_source=1&gclid=CjwKCAiAnpy9BhAkEiwA-P8N4sSnnjckseNThx_x8niKDR1G4hmusKt2qKbz-HwQDv8l2lFn6DLC8xoCOqQQAvD_BwE)  
+[sobharealty](https://www.sobharealty.com/)  
+[damacproperties](https://www.damacproperties.com/en/)  
+[dp](https://www.dp.ae/)
+
 ## US and Government
+
+[potustracker](https://potustracker.us/) - track the US president  
+
+**Departments**
+
+[fbi](https://www.fbi.gov/) - Federal Bureau of Investigation  
+[nsa](https://www.nsa.gov/) - National Security Agency  
+[loc](https://www.loc.gov/) - Library of Congress
+
 ## Vehicles
+
+[lucid](https://lucidmotors.com/)  
+[rivian](https://rivian.com/)
+
 ## Video and Animation
+
+[davinciresolve](https://www.blackmagicdesign.com/products/davinciresolve)  
+[blender](https://www.blender.org/)  
+[maya](https://www.autodesk.com/products/maya/free-trial)  
+[vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)  
+[unrealengine](https://www.unrealengine.com/en-US)  
+[unity](https://unity.com/)
+
 ## Watches
+
+**Watches**
+
+[citizen](https://www.citizenwatch.com/us/en/)  
+[movado](https://www.movado.com/)  
+[fossil](https://www.fossil.com/en-us/)  
+[gshock](https://gshock.casio.com/us/)  
+[seiko](https://seikousa.com/)  
+[tudor](https://www.tudorwatch.com/en)  
+[rolex](https://www.rolex.com/)  
+[omega](https://www.omegawatches.com/en-us/)  
+[patek](https://www.patek.com/en/home)  
+[audemarspiguet](https://www.audemarspiguet.com/com/en/home.html)  
+
+**Smartwatches**
+
+[Apple Watch](https://www.apple.com/watch/)  
+[Samsung Galaxy Watch](https://www.samsung.com/us/mobile/wearables/all-wearables/)  
+[Fossil](https://www.fossil.com/en-us/smartwatches/smartwatches/)  
+[Fitbit](https://www.fitbit.com/global/us/home)  
+[Garmin](https://www.garmin.com/en-US/c/wearables-smartwatches/)  
+[Amazfit](https://www.amazfit.com/us/)
+
 ## Weather
+
+[earth](https://earth.nullschool.net/) - global map of wind, weather, and ocean conditions  
+[noaa](https://www.noaa.gov/) - US Government Agency  
+[weathernext](https://deepmind.google/technologies/weathernext/#access-weathernext) - Google’s AI weather forecast tech  
+[zoom.earth](https://zoom.earth/) - live weather map
+
 ## Windows
+
+
 ## World Data
+
+[luminocity3d](https://www.luminocity3d.org/)  
+[atlas](https://atlas.co/)  
+[visualcapitalist](https://www.visualcapitalist.com/)  
+[voronoi](https://www.voronoiapp.com/)
+
