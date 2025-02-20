@@ -312,11 +312,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Aviation and Flight
 
-**Flight Tracker**
-
+**Flight Tracker**  
 [adsbexchange](https://globe.adsbexchange.com/)  
 [flightaware](https://www.flightaware.com/)  
 [flightradar24](https://www.flightradar24.com/51.47,0.46/6)
+[Flighty](https://flighty.com/) - Live Flight Tracker
 
 ## Bath and Beauty
 
@@ -334,8 +334,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Bed
 
-**Mattresses**
-
+**Mattresses**  
 [purple](https://purple.com/)  
 [avocadogreenmattress](https://www.avocadogreenmattress.com/)  
 [tuftandneedle](https://www.tuftandneedle.com/)  
@@ -353,18 +352,19 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [lumasleep](https://lumasleep.com/)  
 [dreamcloud](https://www.dreamcloudsleep.com/)  
 
-**Bedsheets**
-
+**Bedsheets**  
 [brooklinen](https://www.brooklinen.com/)  
 [mellanni](https://mellanni.com/)  
 [southshorefinelinens](https://southshorefinelinens.com/)  
 [scandiahome](https://www.scandiahome.com/)  
 [rh](https://rh.com/)  
 [ethanallen](https://www.ethanallen.com/)  
+[California Design Den](https://www.californiadesignden.com/)  
+[Dusk](https://us.dusk.com/)  
 
-**Resources**
-
+**Resources**  
 [sleeplikethedead](https://www.sleeplikethedead.com/)  
+
 ## Books
 
 [libgen.li](https://libgen.li/)  
@@ -418,7 +418,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Cell Phone and MVNO Plans
 
-[28mobile](https://28mobile.com/) - purchase international phones  
+[28mobile](https://28mobile.com/) - purchase international phones
+
+**eSIMs for International Travel**
+[airalo](https://www.airalo.com/)
+[Saily](https://saily.com/)
 
 **MVNO - reseller for wireless communications services**  
 
@@ -435,6 +439,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   [Metro](https://www.metrobyt-mobile.com/)  
   [Boost Mobile](https://www.boostmobile.com/)  
   [Google Fi](https://fi.google.com/)  
+
+
 
 ## China
 
