@@ -1298,11 +1298,11 @@ https://troypoint.com/crew-kodi-addon/
 [veeqo](https://www.veeqo.com/)  
 [cns](https://reg.usps.com/entreg/LoginAction_input?app=GSS&appURL=https://cns.usps.com/) - USPS
 
-[UPS](https://www.ups.com/us/en/home)
-[FedEx](https://www.fedex.com/en-us/home.html)
-[USPS](https://www.usps.com/)
-[DHL](https://www.dhl.com/us-en/home.html)
-[OnTrac](https://www.ontrac.com/)
+[UPS](https://www.ups.com/us/en/home)  
+[FedEx](https://www.fedex.com/en-us/home.html)  
+[USPS](https://www.usps.com/)  
+[DHL](https://www.dhl.com/us-en/home.html)  
+[OnTrac](https://www.ontrac.com/)  
 
 ## Shopping and Products
 
