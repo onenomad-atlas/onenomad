@@ -820,6 +820,37 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Kepner Scott](https://www.kepnerscott.com) – made in Pennsylvania    
 
 ## Fragrances
+
+**Essential Oils**  
+[aromatechscent](https://aromatechscent.com/)  
+[youngliving](https://www.youngliving.com/us/en/)  
+[doterra](https://www.doterra.com/US/en)  
+[planttherapy](https://www.planttherapy.com/)  
+[auracacia](https://www.auracacia.com/)  
+[vitruvi](https://vitruvi.com/)  
+[earthley](https://www.earthley.com/)  
+
+**Other Sites**
+[intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
+[fragrantica](https://www.fragrantica.com/) - research  
+[thewhitecompany](https://www.thewhitecompany.com/us/) - UK   
+
+**American Fragrances**  
+[Tom Ford](https://www.tomford.com/beauty/)  
+
+**European Fragrances**  
+[Roja Parfums](https://rojaparfums.com/)  
+[Creed](https://creedboutique.com/)  
+
+**Middle Eastern Fragrances**  
+[Arabian Oud](https://corp.arabianoud.com/en/)  
+[Ajmal](https://shop.ajmalperfume.com/uae_en/)  
+[Al Haramain](https://ahp.alharamainperfumes.com/)  
+[Spirit Of Dubai](https://www.thespiritofdubai.com/)  
+[Swiss Arabian](https://swissarabian.com/)  
+[Rasasi](http://www.rasasi.com/)  
+[Afnan](https://www.afnan.com/)  
+
 ## Furniture and Home Decor
 ## Futuristic Products
 ## Glasses
