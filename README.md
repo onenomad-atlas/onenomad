@@ -357,6 +357,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
 [tinywow](https://tinywow.com/)  
 [openlibrary](https://openlibrary.org/)  
+[SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
 [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
 
 ## Business
@@ -411,18 +412,18 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **MVNO - reseller for wireless communications services**  
 
 [**Verizon**](https://www.verizon.com/)  
-  [Visible Mobile](https://www.visible.com/)  
-  [US Mobile](https://www.usmobile.com/)  
-  [Xfinity Mobile](https://www.xfinity.com/mobile/)  
+-  [Visible Mobile](https://www.visible.com/)  
+-  [US Mobile](https://www.usmobile.com/)  
+-  [Xfinity Mobile](https://www.xfinity.com/mobile/)  
 
 [**AT&T**](https://www.att.com/wireless/)  
-  [Cricket Wireless](https://www.cricketwireless.com/)  
+-  [Cricket Wireless](https://www.cricketwireless.com/)  
 
 [**T-Mobile**](https://www.t-mobile.com/)  
-  [Mint Mobile](https://www.mintmobile.com/)  
-  [Metro](https://www.metrobyt-mobile.com/)  
-  [Boost Mobile](https://www.boostmobile.com/)  
-  [Google Fi](https://fi.google.com/)  
+-  [Mint Mobile](https://www.mintmobile.com/)  
+-  [Metro](https://www.metrobyt-mobile.com/)  
+-  [Boost Mobile](https://www.boostmobile.com/)  
+-  [Google Fi](https://fi.google.com/)  
 
 
 
@@ -1572,8 +1573,9 @@ https://troypoint.com/crew-kodi-addon/
 [weathernext](https://deepmind.google/technologies/weathernext/#access-weathernext) - Google’s AI weather forecast tech  
 [zoom.earth](https://zoom.earth/) - live weather map
 
-## Windows
-
+## Windows  
+[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US)  
+[rainmeter](https://www.rainmeter.net/)
 
 ## World Data
 
