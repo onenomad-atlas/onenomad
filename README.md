@@ -1218,6 +1218,27 @@ https://troypoint.com/crew-kodi-addon/
 [creators](https://creators.spotify.com/)
 
 ## Privacy
+
+[sia.tech](https://sia.tech/)
+[cryptomator](https://cryptomator.org/) - Encrypt your cloud
+[hat.sh](https://hat.sh/) - Simple, fast, secure client-side file encryption
+[signal](https://signal.org/) - Message privately
+[hat](https://hat.sh/) - Simple, fast, secure client-side file encryption
+[ipfs](https://ipfs.io/) - Powers the distributed web
+[ente](https://ente.io/) - Secure backups for photos and videos
+[crypt.ee](https://crypt.ee/) - Encrypted and secure photo and document service
+[f-droid](https://f-droid.org/) - Google Play store’s alternative
+[priductive](https://priductive.com/) - One-stop shop for all your productivity apps and tools
+[syncthing](https://syncthing.net/) - Sync files between your phone and computer
+[keepassxc](https://keepassxc.org/) - Password Manager
+[puri.sm](https://puri.sm/) - Products that respect your digital life
+[keybase](https://keybase.io/) - End-to-end encryption for secure messaging and file-sharing
+[tailscale](https://tailscale.com/) - Best VPN service for secure networks  
+**Feed**
+[privacytools](https://www.privacytools.io/)
+[awesome-privacy](https://github.com/pluja/awesome-privacy)
+[privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
+
 ## Productivity
 ## Random
 ## Read it Later
