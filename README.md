@@ -1219,26 +1219,26 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Privacy
 [sia.tech](https://sia.tech/)
-[cryptomator](https://cryptomator.org/) - Encrypt your cloud
-[hat.sh](https://hat.sh/) - Simple, fast, secure client-side file encryption
-[signal](https://signal.org/) - message privately
-[ipfs](https://ipfs.io/) - powers the distributed web
-[ente](https://ente.io/) - secure backups for photos and videos
-[crypt.ee](https://crypt.ee/) - encrypted and secure photo and document service
-[f-droid](https://f-droid.org/) - google play store’s alternative
-[priductive](https://priductive.com/) - one-stop shop for all your productivity apps and tools
-[syncthing](https://syncthing.net/) - sync files between your phone and computer
-[keepassxc](https://keepassxc.org/) - Password Manager
-[puri.sm](https://puri.sm/) - products that respect your digital life
-[keybase](https://keybase.io/) - end to end encryption for secure messaging and file-sharing
-[tailscale](https://tailscale.com/) - Best VPN Service for Secure Networks
-**Feed**  
+[cryptomator](https://cryptomator.org/)
+[hat.sh](https://hat.sh/)
+[signal](https://signal.org/)
+[hat](https://hat.sh/)
+[ipfs](https://ipfs.io/)
+[ente](https://ente.io/)
+[crypt.ee](https://crypt.ee/)
+[f-droid](https://f-droid.org/)
+[priductive](https://priductive.com/)
+[syncthing](https://syncthing.net/)
+[keepassxc](https://keepassxc.org/)
+[puri.sm](https://puri.sm/)
+[keybase](https://keybase.io/)
+[tailscale](https://tailscale.com/)
+
+**Feed**
 
 [privacytools](https://www.privacytools.io/)
 [awesome-privacy](https://github.com/pluja/awesome-privacy)
 [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
-
-
 
 ## Productivity
 ## Random
