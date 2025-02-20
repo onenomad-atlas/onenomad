@@ -1133,13 +1133,47 @@ https://troypoint.com/crew-kodi-addon/
 **Apps**  
 [**stremio**](Movies%20&%20TV%200b08475bffdc4d029412682431135fcd.md)
 
-*Addons for Stremio  
+**Addons for Stremio**  
 [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
 [torrentio](https://torrentio.strem.fun/configure)
 
 ## News and Articles
+
+[zerohedge](https://www.zerohedge.com/)  
+[nytimes](https://www.nytimes.com/)  
+[guardian](https://www.theguardian.com/us)  
+[rt](https://www.rt.com/)  
+[economist](https://www.economist.com/)  
+[reuters](https://www.reuters.com/)  
+[wsj](https://www.wsj.com/)  
+[ft](https://www.ft.com/)  
+[aljazeera](https://www.aljazeera.com/)  
+[washingtonpost](https://www.washingtonpost.com/)  
+[apnews](https://apnews.com/)  
+[slowernews](https://www.slowernews.com/)  
+[Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
+[hacker news](https://news.ycombinator.com/) - tech  
+[archive](https://archive.is/) - time capsule for web pages  
+[bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls  
+[medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
+[burles](http://burles.co/en/) - Read news without subscribing, bypass the paywall  
+[freedium](https://freedium.cfd/) - bypass Medium’s paywall
+
 ## Newsletters
+
+[morningbrew](https://www.morningbrew.com/) - tech  
+[qz](https://qz.com/emails/daily-brief) - daily briefing on the economy  
+[12ft](https://12ft.io/) - bypass ads & popups  
+[microsaasidea](https://microsaasidea.com/)  
+[superhuman](https://www.superhuman.ai/subscribe?rdt_cid=4805499825531898028&utm_medium=Misc&utm_source=redditads) - Master AI Tools, Tutorials & News  
+[allthehacks](https://allthehacks.kit.com/newslettersub?redirect_from=podpage) - Weekly hacks to help you spend less, save more, and upgrade your life  
+[sahilbloom](https://www.sahilbloom.com/#Newsletter) - for growth minded individuals
+
 ## Open Source
+
+**Resources**   
+[opensourcealternative](https://www.opensourcealternative.to/)
+
 ## Pakistan
 ## Personal Growth
 ## Podcasts and Software
