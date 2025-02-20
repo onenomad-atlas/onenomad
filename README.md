@@ -886,6 +886,30 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [lucidmotors](https://lucidmotors.com/)
 
 ## Glasses
+
+**Eyeglasses**  
+[kits](https://www.kits.com/)  
+[lenskart.us](https://www.lenskart.us/)  
+[warbyparker](https://www.warbyparker.com/)  
+[eyebuydirect](https://www.eyebuydirect.com/)  
+[lookoptic](https://www.lookoptic.com/)  
+[zennioptical](https://www.zennioptical.com/)  
+[glassesusa](https://www.glassesusa.com/)  
+[eyebobs](https://www.eyebobs.com/)  
+
+**Sunglasses**  
+[Ray-Ban](https://www.ray-ban.com/usa)  
+[Oakley](https://www.oakley.com/en-us)  
+[sunglasshut](https://www.sunglasshut.com/)  
+[diffeyewear](https://www.diffeyewear.com/)  
+[raen](https://raen.com/)  
+[persol](https://www.persol.com/usa)  
+[costadelmar](https://www.costadelmar.com/en-us)  
+[westwardleaning](https://westwardleaning.com/)  
+[solsticesunglasses](https://solsticesunglasses.com/)  
+[fostergrant](https://www.fostergrant.com/)  
+[christopher-cloos](https://christopher-cloos.com/)
+
 ## Grocery
 ## Health and Medicine
 ## History
