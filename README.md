@@ -851,7 +851,22 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Rasasi](http://www.rasasi.com/)  
 [Afnan](https://www.afnan.com/)  
 
-## Furniture and Home Decor
+## Furniture and Home Decor  
+[Wayfair](https://www.wayfair.com/)  
+[Overstock](https://www.overstock.com/)  
+[Etsy](https://www.etsy.com/)  
+[livefeather](https://www.livefeather.com/)  
+[Spoken.io](https://www.spoken.io/)  
+[containerstore](https://www.containerstore.com/welcome.htm)  
+[potterybarn](https://www.potterybarn.com/)  
+[rh](https://rh.com/)  
+[crateandbarrel](https://www.crateandbarrel.com/)  
+[westelm](https://www.westelm.com/)  
+[livingspaces](https://www.livingspaces.com/)  
+[kirklands](https://www.kirklands.com/)  
+[worldmarket](https://www.worldmarket.com/)  
+[cantoni](https://www.cantoni.com/) - italian  
+
 ## Futuristic Products
 ## Glasses
 ## Grocery
