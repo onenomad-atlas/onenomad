@@ -60,14 +60,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [📧 Newsletters](#newsletters)
 - [💻 Open Source](#open-source)
 - [🇵🇰 Pakistan](#pakistan)
-- [🎙️ Podcasts and Software](#podcasts-and-software)
+- [🎙️ Podcasts and Software](#Podcasts-and-Software)
 - [🔒 Privacy](#privacy)
 - [📅 Productivity](#productivity)
 - [🎲 Random](#random)
 - [📖 Read it Later](#read-it-later)
 - [📦Shipping](#shipping)
 - [🛍️ Shopping and Products](#shopping-and-products)
-- [💰 Silver/Gold and Other Currency](#silvergold-and-other-currency)
 - [⚽ Sports](#sports)
 - [💡 Startup Investment and Crowdfunding](#startup-investment-and-crowdfunding)
 - [🖥️ Tech](#tech)
@@ -1220,10 +1219,9 @@ https://troypoint.com/crew-kodi-addon/
 
 **Podcast Softwares**   
 [podcastle](https://podcastle.ai/)  
-[creators](https://creators.spotify.com/)
+[creators](https://creators.spotify.com/)  
 
 **Podcasts**
-  - 
 
 ## Privacy
 
