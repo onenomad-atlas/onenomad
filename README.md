@@ -989,15 +989,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [sunpower](https://us.sunpower.com/)  
 
 **Other**  
-[bldr](https://www.bldr.com/)  
-
-**Products in Your Home**  
-PVB Valve  
+[bldr](https://www.bldr.com/)   
 
 **Top Fan Brands**  
-Hunter  
-Casablanca  
-Hampton Bay
+[Hunter](https://www.hunterfan.com/)   
+[Casablanca](https://www.hunterfan.com/pages/casablanca?srsltid=AfmBOoqRxAgKljam-ozDVOLY5lwTM1oT3uOdlEV1Agida0VTObdqyZws)    
+[Hampton Bay](https://thehamptonbay.com/)  
 
 ## Images
 
