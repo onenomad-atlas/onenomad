@@ -964,10 +964,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [archive](https://archive.org/) - search the digital archive  
 [archives](https://www.archives.gov/) - search the national digital archive & records
 
-## Home
-
-[californiadesignden](https://www.californiadesignden.com/) - bed sheets & accessories  
-[dusk](https://us.dusk.com/) - bed sheets 
+## Home  
+ 
 [ownwell](https://www.ownwell.com/) - reduce your property taxes  
 
 **Alarm**  
