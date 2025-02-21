@@ -120,7 +120,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [firebase](https://firebase.google.com/)  
 [flutterflow](https://www.flutterflow.io/)  
 [co](https://www.co.dev/)  
-[IDX](https://idx.google.com) - Start building your app in the cloud  
+[IDX](https://idx.google.com) - Start building your app in the cloud   
 [hackertab](https://hackertab.dev/) - Developer news  
 
 **Web Platforms**
@@ -144,7 +144,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Leetcode](https://leetcode.com/)  
 [Code wars](https://www.codewars.com/)  
 [Mulesoft](https://www.mulesoft.com/)  
-[hacksplaining](https://www.hacksplaining.com/)
+[hacksplaining](https://www.hacksplaining.com/)  
 [Visual Studio](https://code.visualstudio.com/)  
 
 ## Apparel
