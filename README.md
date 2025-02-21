@@ -1029,7 +1029,7 @@ Notable Works - [Terravision](https://artcom.de/en/?project=terravision)
 
 **United States**  
 George Hotz  
-Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai/)
+Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai/), [tinygrad](https://tinygrad.org/)  
 
 ## Jewelry
 
