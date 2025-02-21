@@ -56,6 +56,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [📞 Meetings and Video Calls](#meetings-and-video-calls)
 - [💸 Money Transfer and Exchange](#money-transfer-and-exchange)
 - [🎬 Movies and TV](#movies-and-tv)
+- [Navigation and Maps](#navigation-and-maps)
 - [📰 News and Articles](#news-and-articles)
 - [📧 Newsletters](#newsletters)
 - [💻 Open Source](#open-source)
@@ -119,6 +120,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [firebase](https://firebase.google.com/)  
 [flutterflow](https://www.flutterflow.io/)  
 [co](https://www.co.dev/)  
+[IDX](https://idx.google.com) - Start building your app in the cloud  
 [hackertab](https://hackertab.dev/) - Developer news  
 
 **Web Platforms**
@@ -649,7 +651,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [tasteatlas](https://www.tasteatlas.com/) - Discover local ingredients, traditional dishes & authentic restaurants  
 [atlasobscura](https://www.atlasobscura.com/) - explore the world’s hidden wonders  
 [freeriderhd](https://www.freeriderhd.com/) - draw tracks and race bikes  
-[mylifeelsewhere](https://www.mylifeelsewhere.com/) - compare the quality of life
+[mylifeelsewhere](https://www.mylifeelsewhere.com/) - compare the quality of life  
+[WatchParty](https://www.watchparty.me)  
 
 ## Finance
 
@@ -1010,7 +1013,7 @@ Hampton Bay
 **Indian Clothing**  
 [Roopkalsarees](http://roopkalsarees.com/)  
 [Seasonsindia](http://seasonsindia.com/)  
-[Manyavar](http://manyavar.com/)
+[Manyavar](http://manyavar.com/)  
 [Tirumala Designers](https://tirumaladesigners.in)
 
 **Indian Construction Companies**  
@@ -1142,6 +1145,10 @@ https://troypoint.com/crew-kodi-addon/
 [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
 [torrentio](https://torrentio.strem.fun/configure)
 [Stremio Addons Collection](https://stremio-addons.com/)  
+
+
+## Navigation and Maps  
+
 
 ## News and Articles
 
