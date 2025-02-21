@@ -216,6 +216,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [tvtap](https://tvtap-pro.net/) - Live TV  
 [livenettv](https://www.livenettv.vip/) - Live TV  
 [localsend](https://localsend.org/) - Share files to nearby devices  
+[Modyolo](https://modyolo.com/) - modded apps
+
 
 ## Architecture
 
