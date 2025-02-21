@@ -5,7 +5,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ***
 
-- [📊 Accounting and Budget](#accounting-and-budget)
+- [📊 Accounting and Budget](#📊-accounting-and-budget)
 - [🛍️ Amazon](#amazon)
 - [🖥️ App and Web Development](#app-and-web-development)
 - [👚 Apparel](#apparel)
