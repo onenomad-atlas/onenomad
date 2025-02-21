@@ -84,7 +84,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 
-## Accounting and Budget
+## 📊 Accounting and Budget
 [WaveApps](https://www.waveapps.com/) - Free alternative to QuickBooks  
 [Mint](https://mint.intuit.com/) - Personal financial management website  
 [QuickBooks](https://quickbooks.intuit.com/) - Accounting software  
