@@ -145,6 +145,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Code wars](https://www.codewars.com/)  
 [Mulesoft](https://www.mulesoft.com/)  
 [hacksplaining](https://www.hacksplaining.com/)
+[Visual Studio](https://code.visualstudio.com/)  
 
 ## Apparel
 
@@ -874,6 +875,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [kirklands](https://www.kirklands.com/)  
 [worldmarket](https://www.worldmarket.com/)  
 [cantoni](https://www.cantoni.com/) - italian  
+[safavieh](https://safavieh.com/) - rugs & home furnishing  
 
 ## Futuristic Products
 
@@ -965,8 +967,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Home
 
 [californiadesignden](https://www.californiadesignden.com/) - bed sheets & accessories  
-[dusk](https://us.dusk.com/) - bed sheets  
-[safavieh](https://safavieh.com/) - rugs & home furnishing  
+[dusk](https://us.dusk.com/) - bed sheets 
 [ownwell](https://www.ownwell.com/) - reduce your property taxes  
 
 **Alarm**  
@@ -1149,6 +1150,10 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Navigation and Maps  
 
+[Maps](https://www.loc.gov/maps/collections) - check old maps with the Library of Congress
+[OsmAnd](https://osmand.net/) - offline maps and navigation
+[OpenStreetMap](https://www.openstreetmap.org/) - map of the world
+[Magic Earth](https://www.magicearth.com/) - free maps & navigation
 
 ## News and Articles
 
