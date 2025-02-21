@@ -1010,7 +1010,8 @@ Hampton Bay
 **Indian Clothing**  
 [Roopkalsarees](http://roopkalsarees.com/)  
 [Seasonsindia](http://seasonsindia.com/)  
-[Manyavar](http://manyavar.com/)  
+[Manyavar](http://manyavar.com/)
+[Tirumala Designers](https://tirumaladesigners.in)
 
 **Indian Construction Companies**  
 [Oberoi](https://www.oberoirealty.com/)  
@@ -1300,7 +1301,7 @@ https://troypoint.com/crew-kodi-addon/
 [saga](https://saga.so/)
 
 **Feeds and Resources**  
-[Awesome Productivity](https://github.com/BlaiseLabs/awesome-productivity?tab=readme-ov-file#tools-and-apps)
+[Awesome Productivity](https://github.com/BlaiseLabs/awesome-productivity?tab=readme-ov-file#tools-and-apps)  
 [Tool Finder](https://toolfinder.co/)
 
 ## Random
