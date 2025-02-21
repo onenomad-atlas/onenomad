@@ -1128,6 +1128,7 @@ https://troypoint.com/crew-kodi-addon/
 [soap2day](https://soap2day.to/) - movies and tv shows  
 [justwatch](https://www.justwatch.com/)  
 [squeezebox](https://movie.squeezebox.dev/#/search/movie)
+[TVpass](https://tvpass.org/)
 
 **TV Shows**  
 [swatchseries](https://swatchseries.is/)  
@@ -1586,7 +1587,12 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Windows  
 [PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US)  
-[rainmeter](https://www.rainmeter.net/)
+[rainmeter](https://www.rainmeter.net/)   
+[Winutil](https://github.com/ChrisTitusTech/winutil)  
+[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)  
+[Rectify11](https://rectify11.net/home)  
+[Files](https://files.community/)  
+
 
 ## World Data
 
