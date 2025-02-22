@@ -8,7 +8,7 @@
 - [Local Send](https://localsend.org/) - share files to nearby devices
 - [Stremio](https://www.stremio.com/) - streaming platform
     - Addons  
-          - [Torrentio](stremio://torrentio.strem.fun/manifest.json)
+         [Torrentio](stremio://torrentio.strem.fun/manifest.json)
           - 
 
 ### Products
