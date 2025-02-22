@@ -8,7 +8,8 @@
 - [Local Send](https://localsend.org/) - Share files to nearby devices  
 - [Stremio](https://www.stremio.com/) - Streaming platform  
   - [Addons for Stremio](https://stremio-addons.com/)  
-    - Movies  
+    - Torrentio
+    - Orion
 
 
 ### Products
