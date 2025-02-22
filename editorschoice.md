@@ -6,9 +6,8 @@
 
 ### Web
 - [Local Send](https://localsend.org/) - share files to nearby devices
-- [Stremio](https://www.stremio.com/) - streaming platform
-    - Addons  
-      -- [Torrentio](stremio://torrentio.strem.fun/manifest.json)
+- [Stremio](https://www.stremio.com/) - streaming platform - addons listed below
+      - [Torrentio](stremio://torrentio.strem.fun/manifest.json) - Provides torrent streams from scraped torrent providers
           - 
 
 ### Products
