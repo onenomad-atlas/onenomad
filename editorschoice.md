@@ -5,6 +5,7 @@
 *All our recommendations, ranging from household products to online resources, are included below.*
 
 ### Web
+- [Local Send](https://localsend.org/)
 
 ### Products
 
