@@ -1340,7 +1340,7 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Recipes  
 
-[paprika](https://www.paprikaapp.com/)  
+[paprika](https://www.paprikaapp.com/) - recipe manager
 
 
 ## Shipping
