@@ -18,12 +18,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🛁 Bath and Beauty](#bath-and-beauty)
 - [🛏️ Bed](#bed)
 - [📚 Books](#books)
-- [Browser and Extensions](#browser-and-Extensions)
+- [🌍 Browser and Extensions](#browser-and-Extensions)
 - [📈 Business](#business)
 - [🛍️ Buyer Clubs](#buyer-clubs)
 - [📱 Cell Phone and MVNO Plans](#cell-phone-and-mvno-plans)
-- [🇨🇳 China](#china)
-- [🛠️ Chrome Extensions](#chrome-extensions)
+- [🇨🇳 China](#china)  
 - [💳 Credit Cards](#credit-cards)
 - [🪙 Crypto](#crypto)
 - [🎨 Custom Products](#custom-products)
@@ -358,6 +357,15 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 ## Browser and Extensions   
+
+[Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - Adblocker  
+[Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites  
+[Clipt](https://chrome.google.com/webstore/detail/clipt/ngpicahlgepngcpigiiebnheihgbaenh) - Clipboard in the cloud  
+[Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammar check and writing app  
+[Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Capture articles, videos, and anything else you find on the web  
+[Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards  
+
+
 ## Books
 
 [libgen.li](https://libgen.li/)  
@@ -443,17 +451,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Nio](https://www.nio.com/) - Vehicles & tech  
 [Huawei](https://www.huawei.com/en/) - Smartphones & tech  
 [Tencent](https://www.tencent.com/en-us/index.html) - Tech company  
-[Foxconn](https://www.foxconn.com/en-us) - Electronics distributor
-
-
-## Chrome Extensions
-
-[Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - Adblocker  
-[Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites  
-[Clipt](https://chrome.google.com/webstore/detail/clipt/ngpicahlgepngcpigiiebnheihgbaenh) - Clipboard in the cloud  
-[Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammar check and writing app  
-[Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Capture articles, videos, and anything else you find on the web  
-[Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards
+[Foxconn](https://www.foxconn.com/en-us) - Electronics distributor  
 
 ## Credit Cards
 
