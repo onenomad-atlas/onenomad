@@ -18,6 +18,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🛁 Bath and Beauty](#bath-and-beauty)
 - [🛏️ Bed](#bed)
 - [📚 Books](#books)
+- [Browser and Extensions](#browser-and-Extensions)
 - [📈 Business](#business)
 - [🛍️ Buyer Clubs](#buyer-clubs)
 - [📱 Cell Phone and MVNO Plans](#cell-phone-and-mvno-plans)
@@ -355,6 +356,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Resources**  
 [sleeplikethedead](https://www.sleeplikethedead.com/)  
 
+
+## Browser and Extensions   
 ## Books
 
 [libgen.li](https://libgen.li/)  
