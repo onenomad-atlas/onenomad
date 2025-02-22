@@ -8,9 +8,9 @@
 
 ### Products
 
-**Bath**
-**Bedroom**
-**Garage**
-**Grocery**
-**Kitchen**
+**Bath**  
+**Bedroom**  
+**Garage**  
+**Grocery**  
+**Kitchen**  
 
