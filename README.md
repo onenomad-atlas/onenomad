@@ -1338,6 +1338,10 @@ https://troypoint.com/crew-kodi-addon/
 [instapaper](https://www.instapaper.com/)  
 [readwise](https://readwise.io/read)
 
+## Recipes  
+
+[paprika](https://www.paprikaapp.com/)  
+
 
 ## Shipping
 
