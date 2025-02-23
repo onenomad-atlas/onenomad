@@ -69,6 +69,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🍽️ Recipes](#recipes)
 - [📦Shipping](#shipping)
 - [🛍️ Shopping and Products](#shopping-and-products)
+- [🏠 Smart Home](#smart-home)
 - [⚽ Sports](#sports)
 - [💡 Startup Investment and Crowdfunding](#startup-investment-and-crowdfunding)
 - [🖥️ Tech](#tech)
@@ -122,7 +123,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [flutterflow](https://www.flutterflow.io/)  
 [co](https://www.co.dev/)  
 [IDX](https://idx.google.com) - Start building your app in the cloud   
-[hackertab](https://hackertab.dev/) - Developer news  
+[hackertab](https://hackertab.dev/) - Developer news    
+[Zoo](https://zoo.dev/) - creates infrastructure for hardware design
 
 **Web Platforms**
 
@@ -233,13 +235,16 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Artificial Intelligence
 
-[thebricks](https://www.thebricks.com/) - AI Spreadsheet  
+[thebricks](https://www.thebricks.com/) - AI Spreadsheet    
+[Hugging Face](https://huggingface.co/) - the AI community building the future
 [voicenotes](https://voicenotes.com/?via=website)  
 [getpickle](https://getpickle.ai/) - Your AI Body Double  
 [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
 [vetted](https://vetted.ai/) - Shopping assistant  
 [cursor](https://www.cursor.com/) - The AI Code Editor  
+[Gamma]([gamma](https://gamma.app/) - create presentations & websites with AI    
 [stowaway](https://www.stowaway.io/) - Take your business where you already are  
+[Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world   
 [runwayml](https://runwayml.com/) - Tools for human imagination  
 [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
 [speechcentral](https://speechcentral.net/) - The world leading text-to-speech AI app  
@@ -655,7 +660,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Entertainment
 
-[emulatorgames](https://emulatorgames.online/) - play retro & old school games  
+[emulatorgames](https://emulatorgames.online/) - play retro & old school games    
+[Netflix Codes](https://www.netflix-codes.com/) - find specific categories for Netflix films & tv shows   
+[Teleparty](https://www.teleparty.com/) - way to watch TV together   
 [beforeiplay](https://beforeiplay.com/index.php?title=Main_Page) - tells you things before you play the game  
 [emuos](https://emupedia.net/beta/emuos/) - old windows os  
 [futureme](https://www.futureme.org/) - write a letter to the future you  
@@ -663,7 +670,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [atlasobscura](https://www.atlasobscura.com/) - explore the world’s hidden wonders  
 [freeriderhd](https://www.freeriderhd.com/) - draw tracks and race bikes  
 [mylifeelsewhere](https://www.mylifeelsewhere.com/) - compare the quality of life  
-[WatchParty](https://www.watchparty.me)  
+[WatchParty](https://www.watchparty.me)    
+[Fitgirl](https://fitgirl-repacks.site/popular-repacks/) - download videogames
+[ColorifyAI](https://colorifyai.art/) - AI Coloring Page Generator   
+[Playclassic](https://playclassic.games/) - play classic games on the web    
 
 ## Finance
 
@@ -1127,6 +1137,7 @@ https://troypoint.com/crew-kodi-addon/
 **Movies**  
 [musichq](https://www4.musichq.net/)  
 [moviefire](http://moviefire.net/) - download movies & tv shows  
+[oomoye](https://oomoye.guru/) - download movies   
 [123-movies](https://www.123-movies.gdn/)  
 [freek](https://freek.to/)  
 [olgply](https://olgply.com/)- movies & tv shows  
@@ -1159,7 +1170,8 @@ https://troypoint.com/crew-kodi-addon/
 [Maps](https://www.loc.gov/maps/collections) - check old maps with the Library of Congress
 [OsmAnd](https://osmand.net/) - offline maps and navigation
 [OpenStreetMap](https://www.openstreetmap.org/) - map of the world
-[Magic Earth](https://www.magicearth.com/) - free maps & navigation
+[Magic Earth](https://www.magicearth.com/) - free maps & navigation   
+[True Size](https://www.thetruesize.com/) - find the true size of your country   
 
 ## News and Articles
 
@@ -1287,7 +1299,8 @@ https://troypoint.com/crew-kodi-addon/
 [keepassxc](https://keepassxc.org/)  
 [puri.sm](https://puri.sm/)  
 [keybase](https://keybase.io/)  
-[tailscale](https://tailscale.com/)  
+[tailscale](https://tailscale.com/)   
+[Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
 
 **Feed**  
 [privacytools](https://www.privacytools.io/)  
@@ -1316,7 +1329,8 @@ https://troypoint.com/crew-kodi-addon/
 [fabric](https://fabric.so/)  
 [kortex](https://www.kortex.co/)  
 [bydesign](https://www.bydesign.io/)  
-[saga](https://saga.so/)
+[saga](https://saga.so/)     
+
 
 **Feeds and Resources**  
 [Awesome Productivity](https://github.com/BlaiseLabs/awesome-productivity?tab=readme-ov-file#tools-and-apps)  
@@ -1330,7 +1344,9 @@ https://troypoint.com/crew-kodi-addon/
 [arrests](http://arrests.org/)  
 [gethuman](https://gethuman.com/) - Get a rep on the phone faster  
 [filecr](https://filecr.com/en/?id=95360682816) - the biggest software store  
+[Manual](https://www.manualslib.com/) - the ultimate manual library   
 [flowcv](https://app.flowcv.com/) - resume builder  
+[Rxresume](https://rxresu.me/) - free and open source resume builder
 [remoteok](https://remoteok.com/) - remote jobs  
 [mugshots.zone](https://mugshots.zone/)  
 [neverinstall](https://neverinstall.com/)  
@@ -1347,7 +1363,11 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Recipes  
 
-[paprika](https://www.paprikaapp.com/) - recipe manager
+[paprika](https://www.paprikaapp.com/) - recipe manager   
+[cliprecipe](https://cliprecipe.com/) - pull recipes from any site    
+[noods](https://noods.io/) - Your Recipe Collection, Reimagined   
+[Vidcook](https://vidcook.net/) - stop wasting time watching cooking videos   
+[Recipescal](https://recipescal.com/) - random recipe generator   
 
 
 ## Shipping
@@ -1370,7 +1390,12 @@ https://troypoint.com/crew-kodi-addon/
 
 [shopgoodwill](https://shopgoodwill.com/home) - Shop Goodwill online  
 [jomashop](https://www.jomashop.com/)  
-[honestbrandreviews](https://www.honestbrandreviews.com/)  
+[honestbrandreviews](https://www.honestbrandreviews.com/)   
+
+## Smart Home 
+
+[Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
+
 
 ## Sports
 
@@ -1556,7 +1581,9 @@ https://troypoint.com/crew-kodi-addon/
 ## Vehicles
 
 [lucid](https://lucidmotors.com/)  
-[rivian](https://rivian.com/)
+[rivian](https://rivian.com/)    
+
+[Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts   
 
 ## Video and Animation
 
@@ -1602,7 +1629,9 @@ https://troypoint.com/crew-kodi-addon/
 [Winutil](https://github.com/ChrisTitusTech/winutil)  
 [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)  
 [Rectify11](https://rectify11.net/home)  
-[Files](https://files.community/)  
+[Files](https://files.community/)    
+[Notepad++](https://notepad-plus-plus.org/) - free source code editor and Notepad replacement that supports several languages    
+[Windhawk](https://windhawk.net/) - The customization marketplace for Windows and programs    
 
 
 ## World Data
