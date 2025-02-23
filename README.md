@@ -1398,7 +1398,10 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Sports
 
-[athletic](https://www.nytimes.com/athletic/) - sports news  
+**News**
+[athletic](https://www.nytimes.com/athletic/)   
+[Ringer](https://www.theringer.com/)   
+
 
 **Streaming**  
 [crichd.tv](http://crichd.tv/)  
