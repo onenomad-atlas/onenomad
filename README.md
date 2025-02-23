@@ -358,6 +358,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Browser and Extensions   
 
+**Browsers**  
+[Arc](https://arc.net/) - chrome replacement you've been waiting for  
+[Zen](https://zen-browser.app/) - calmer internet  
+
+**Chrome Extensions**  
 [Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - Adblocker  
 [Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites  
 [Clipt](https://chrome.google.com/webstore/detail/clipt/ngpicahlgepngcpigiiebnheihgbaenh) - Clipboard in the cloud  
@@ -615,6 +620,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [blip](https://blip.net/) - fastest way to send files across devices  
 [localsend](https://localsend.org/) - Share files to nearby devices.  
 [howtoconvert](https://howtoconvert.co/)
+[Pdfgear](https://www.pdfgear.com/)   
 
 ## Dupes
 
