@@ -126,8 +126,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [hackertab](https://hackertab.dev/) - Developer news    
 [Zoo](https://zoo.dev/) - creates infrastructure for hardware design
 
-**Web Platforms**
-
+**Web Platforms**   
 [carrd](http://www.carrd.co/)  
 [squarespace](https://www.squarespace.com/)  
 [shopify](https://www.shopify.com/)  
