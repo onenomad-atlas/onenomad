@@ -232,27 +232,34 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [perkinswill](https://perkinswill.com/)  
 [big.dk](https://big.dk/#projects)
 
-## Artificial Intelligence
+## Artificial Intelligence   
+
+**AI Conversational**    
+[ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software    
+[Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine     
+[Grok](https://x.ai/) - AI Software led by Elon Musk   
+[Deepseek](https://www.deepseek.com/) - AI Search Engine From China   
+[Claude](https://claude.ai/) - AI writing assistant   
+[Vetted](https://vetted.ai/) - AI shopping assistant   
+
 
 [thebricks](https://www.thebricks.com/) - AI Spreadsheet    
 [Hugging Face](https://huggingface.co/) - the AI community building the future
 [voicenotes](https://voicenotes.com/?via=website)  
 [getpickle](https://getpickle.ai/) - Your AI Body Double  
 [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
-[vetted](https://vetted.ai/) - Shopping assistant  
-[cursor](https://www.cursor.com/) - The AI Code Editor  
+[cursor](https://www.cursor.com/) - The AI Code Editor   
 [Gamma]([gamma](https://gamma.app/) - create presentations & websites with AI    
 [stowaway](https://www.stowaway.io/) - Take your business where you already are  
 [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world   
 [runwayml](https://runwayml.com/) - Tools for human imagination  
 [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
 [speechcentral](https://speechcentral.net/) - The world leading text-to-speech AI app  
-[claude](https://claude.ai/login) - Privacy-first AI that helps you create in confidence  
 [snipd](https://www.snipd.com/) - Discover and save highlights in podcasts  
 [curiosity.ai](https://curiosity.ai/) - Search everything everywhere  
 [Github Copilot](https://github.com/features/copilot) - AI Pair Programmer  
 [character](https://beta.character.ai/) - Create characters and talk to them  
-[elevenlabs.io](https://elevenlabs.io/) - Text to Speech & AI Voice Generator  
+[elevenlabs.io](https://elevenlabs.io/) - Text to Speech & AI Voice Generator    
 [speedwrite](https://speedwrite.com/) - Automatic text generator  
 [hotpot.ai](https://hotpot.ai/) - Makes graphic design and image editing easy  
 [openai](https://openai.com/) - AI research and deployment company  
@@ -269,9 +276,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate image using text  
 [speechify](https://speechify.com/hero-v2/?landing_url=https%3A%2F%2Fspeechify.com%2Fhero-v2%2F) - AI text to speech  
 [photoroom](https://www.photoroom.com/) - Magic photo studio on the go  
-[firefly.adobe](https://firefly.adobe.com/)  
-[perplexity](https://www.perplexity.ai/)
-
+[firefly.adobe](https://firefly.adobe.com/)    
 ## Auctions
 
 [ha](https://www.ha.com/) - Auction house  
