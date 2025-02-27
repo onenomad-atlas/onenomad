@@ -1258,34 +1258,37 @@ https://troypoint.com/crew-kodi-addon/
 [creators](https://creators.spotify.com/)  
 
 ### Podcasts
-**ACQ2 by Acquired**: ACQ2 by Acquired is a companion series that dives deeper into the stories behind major business acquisitions and exits, hosted by the Acquired podcast team.  
-**Acquired**: Acquired is a business podcast that explores the journeys of companies—from humble beginnings to landmark acquisitions—hosted by David Rosenthal and Ben Gilbert.  
-**All The Hacks**: All The Hacks is a podcast that reveals unconventional strategies and practical tips for optimizing business and life, hosted by a rotating panel of industry experts.  
-**Conspiracy Theories**: Conspiracy Theories is a show that investigates and explains popular conspiracy narratives and their cultural impact, hosted by a team of investigative storytellers.  
-**Discover Daily By Perplexity**: Discover Daily By Perplexity is a concise daily news digest that highlights intriguing facts and current events, hosted by the Perplexity team.  
-**Empire**: Empire is a film-focused podcast offering reviews, behind-the-scenes insights, and industry news, hosted by the editorial team of Empire magazine.  
-**Frequent Miler On The Air**: Frequent Miler On The Air is a podcast sharing personal finance strategies, investment insights, and frugal living tips, hosted by the author behind Frequent Miler.  
-**Flagrant**: Flagrant is a no-holds-barred podcast blending sports commentary, pop culture, and humor, hosted by comedian Andrew Schulz alongside co-host Aka.  
-**Founders**: Founders is a podcast featuring candid interviews with startup founders about their entrepreneurial journeys, hosted by a seasoned entrepreneur.  
-**How I Built This**: How I Built This is an inspiring series that uncovers the stories behind iconic companies and innovators, hosted by Guy Raz.  
-**Huberman Lab**: Huberman Lab is a science podcast that breaks down neuroscience, health, and performance optimization topics, hosted by Dr. Andrew Huberman.  
-**Jocko Podcast**: Jocko Podcast is a show on leadership, discipline, and personal development that also delves into military history, hosted by retired Navy SEAL Jocko Willink.  
-**Lex Fridman Podcast**: Lex Fridman Podcast is an in-depth conversation series on technology, AI, science, and philosophy, hosted by researcher Lex Fridman.  
-**Morning Brew Daily**: Morning Brew Daily is a brisk news podcast that delivers the top business and tech headlines each day, hosted by the Morning Brew team.  
-**On Purpose With Jay Shetty**: On Purpose With Jay Shetty is a motivational podcast exploring mindfulness, personal growth, and life purpose, hosted by Jay Shetty.  
-**Onward, A Fundrise Production**: Onward, A Fundrise Production is a podcast that tells compelling stories of real estate development and investment, hosted by Fundrise experts.  
-**Power Law with John Coogan**: Power Law with John Coogan is a venture capital podcast that discusses tech investments and startup strategies, hosted by John Coogan.  
-**Rethink Retail**: Rethink Retail is a podcast that examines the evolving landscape of retail and consumer behavior, hosted by industry experts.  
-**Superlife with Darin Olien**: Superlife with Darin Olien is a wellness podcast focusing on nutrition, fitness, and lifestyle optimization, hosted by Darin Olien.  
-**The Best One Yet**: The Best One Yet is a podcast that curates exceptional success stories and innovative ideas, hosted by a dynamic media personality.  
-**The Colin and Samir Show**: The Colin and Samir Show is a podcast that delves into the creative process behind digital content and media, hosted by filmmakers Colin and Samir.  
-**The Daily Stoic**: The Daily Stoic is a show offering practical wisdom and timeless insights from Stoic philosophy for everyday living, hosted by Ryan Holiday.  
-**The Darin Olien Show**: The Darin Olien Show is a podcast dedicated to health, wellness, and lifestyle transformation, hosted by wellness expert Darin Olien.  
-**The Joe Rogan Experience**: The Joe Rogan Experience is a long-form conversational podcast that spans topics from comedy to current events, hosted by Joe Rogan.  
-**The Rest Is History**: The Rest Is History is a podcast that explores significant historical events and narratives with insightful analysis, hosted by historians Tom Holland and Dominic Sandbrook.  
-**The Tucker Carlson Show**: The Tucker Carlson Show is a political commentary podcast that offers conservative perspectives on current affairs, hosted by Tucker Carlson.  
-**The Wim Hof Podcast**: The Wim Hof Podcast is a wellness and self-improvement series that delves into cold exposure, mindset, and performance, hosted by Wim Hof.  
-**Y Combinator**: Y Combinator is a podcast featuring insightful interviews with startup founders and investors sharing lessons on entrepreneurship, hosted by the Y Combinator team.
+
+# Podcast List   
+
+**[ACQ2 by Acquired](https://www.acquired.fm/)**  
+**[Acquired](https://www.acquired.fm/)**  
+**[All The Hacks](https://www.allthehacks.com/)**   
+**[Conspiracy Theories](https://www.iheart.com/podcast/282-conspiracy-theories-30209045/)**  
+**[Discover Daily By Perplexity](https://www.perplexity.com/)**  
+**[Empire](https://www.empireonline.com/podcast/)**  
+**[Frequent Miler On The Air](https://www.frequentmiler.com/)**  
+**[Flagrant](https://www.fla-grant.com/)**  
+**[Founders](https://founderspodcast.com/)**  
+**[How I Built This](https://www.npr.org/sections/how-i-built-this/)**  
+**[Huberman Lab](https://www.hubermanlab.com/)**  
+**[Jocko Podcast](https://www.jockopodcast.com/)**  
+**[Lex Fridman Podcast](https://lexfridman.com/podcast/)**  
+**[Morning Brew Daily](https://www.morningbrew.com/daily)**   
+**[On Purpose With Jay Shetty](https://jayshetty.me/podcast/)**   
+**[Onward, A Fundrise Production](https://www.fundrise.com/onward)**   
+**[Power Law with John Coogan](https://www.powerlawpodcast.com/)**   
+**[Rethink Retail](https://www.rethink.industries/)**   
+**[Superlife with Darin Olien](https://superlifepodcast.com/)**    
+**[The Best One Yet](https://www.thebestoneyet.com/)**     
+**[The Colin and Samir Show](https://www.colinandsamir.com/)**            
+**[The Daily Stoic](https://dailystoic.com/podcast/)**   
+**[The Darin Olien Show](https://darinolien.com/podcast/)**   
+**[The Joe Rogan Experience](https://www.joerogan.com/)**   
+**[The Rest Is History](https://www.restishistorypod.com/)**  
+**[The Tucker Carlson Show](https://www.tuckercarson.com/)**  
+**[The Wim Hof Podcast](https://www.wimhofmethod.com/podcast)**  
+**[Y Combinator](https://www.ycombinator.com/podcast/)**    
 
 
 ## Privacy
