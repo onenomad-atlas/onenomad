@@ -122,6 +122,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [firebase](https://firebase.google.com/)  
 [flutterflow](https://www.flutterflow.io/)  
 [co](https://www.co.dev/)  
+[Vercel](https://vercel.com/) - Your complete platform for the web    
 [IDX](https://idx.google.com) - Start building your app in the cloud   
 [hackertab](https://hackertab.dev/) - Developer news    
 [Zoo](https://zoo.dev/) - creates infrastructure for hardware design
@@ -252,6 +253,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Gamma]([gamma](https://gamma.app/) - create presentations & websites with AI    
 [stowaway](https://www.stowaway.io/) - Take your business where you already are  
 [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world   
+[synthesia](https://www.synthesia.io/) - free AI Video Generator
 [runwayml](https://runwayml.com/) - Tools for human imagination  
 [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
 [speechcentral](https://speechcentral.net/) - The world leading text-to-speech AI app  
@@ -309,13 +311,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [cobalt.tools](https://cobalt.tools/) - Download music & video from any site
 
 
-## Aviation and Flight
+## Aviation and Vessel Tracker
 
 **Flight Tracker**  
 [adsbexchange](https://globe.adsbexchange.com/)  
 [flightaware](https://www.flightaware.com/)  
 [flightradar24](https://www.flightradar24.com/51.47,0.46/6)
 [Flighty](https://flighty.com/) - Live Flight Tracker
+[Vessel Finder](https://www.vesselfinder.com/) - ship & container tracking   
 
 ## Bath and Beauty
 
@@ -434,7 +437,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Cell Phone and MVNO Plans
 
-[28mobile](https://28mobile.com/) - purchase international phones
+[28mobile](https://28mobile.com/) - purchase international phones   
+[FCC National Broadband Map](https://broadbandmap.fcc.gov/provider-detail/fixed?version=jun2024&zoom=4&br=r&speed=0_0&pct_cvg=0) - check your provider's network map   
 
 **eSIMs for International Travel**  
 [airalo](https://www.airalo.com/)  
@@ -552,10 +556,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [canva](http://www.canva.com/)  
 [pixlr](http://www.pixlr.com/)  
 [figma](http://www.figma.com/)  
+[Home By Me](https://home.by.me/en/) - design your home in 3D    
 [thenounproject](https://thenounproject.com/)  
 [Freedesignresources](http://freedesignresources.net/) - freebies  
 [fireship.io](https://fireship.io/)  
-[glorifyapp](https://www.glorifyapp.com/)  
+[glorifyapp](https://www.glorifyapp.com/)   
 [Studio.design](https://studio.design/)  
 [Bravo Studio](https://www.bravostudio.app/)  
 [Adobe substance](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)  
@@ -740,7 +745,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [roots-harmony](https://roots-harmony.com/)  
 [barukas](https://barukas.com/)  
 [woodenspoonherbs](https://woodenspoonherbs.com/)  
-[thealkalinedictionary](https://thealkalinedictionary.com/)
+[thealkalinedictionary](https://thealkalinedictionary.com/)    
 
 **Restaurants - Shipped**  
 [katzsdelicatessen](https://katzsdelicatessen.com/) - New York    
@@ -754,6 +759,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [juniorscheesecake](https://www.juniorscheesecake.com/) - New York  
 [joesstonecrab](https://joesstonecrab.com/) - Florida  
 [saltlickbbq](https://saltlickbbq.com/) - Texas  
+
+**Resources**
+[Hack The Menu](https://hackthemenu.com/) - the ultimate collection of secret menus   
 
 
 ## Footwear
@@ -1583,6 +1591,7 @@ https://troypoint.com/crew-kodi-addon/
 [fbi](https://www.fbi.gov/) - Federal Bureau of Investigation  
 [nsa](https://www.nsa.gov/) - National Security Agency  
 [loc](https://www.loc.gov/) - Library of Congress  
+[noaa](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration    
 
 **Apparel**  
 [rangerjoes](https://rangerjoes.com/) <br>
@@ -1628,8 +1637,7 @@ https://troypoint.com/crew-kodi-addon/
 
 ## Weather
 
-[earth](https://earth.nullschool.net/) - global map of wind, weather, and ocean conditions  
-[noaa](https://www.noaa.gov/) - US Government Agency  
+[earth](https://earth.nullschool.net/) - global map of wind, weather, and ocean conditions    
 [weathernext](https://deepmind.google/technologies/weathernext/#access-weathernext) - Google’s AI weather forecast tech  
 [zoom.earth](https://zoom.earth/) - live weather map
 
@@ -1642,6 +1650,9 @@ https://troypoint.com/crew-kodi-addon/
 [Files](https://files.community/)    
 [Notepad++](https://notepad-plus-plus.org/) - free source code editor and Notepad replacement that supports several languages    
 [Windhawk](https://windhawk.net/) - The customization marketplace for Windows and programs    
+[Libre Office](https://www.libreoffice.org/) - Your private, free office suite   
+[Flow Launcher](https://www.flowlauncher.com/) -  Quick File Search & App Launcher for Windows    
+[Windows 11 Perfect Install](https://christitus.com/windows-11-perfect-install/) - debloat Windows   
 
 
 ## World Data
