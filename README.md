@@ -1161,16 +1161,16 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 **Addon Collection for Stremio**  
 [Stremio Addons](https://stremio-addons.com/) - collections of addons     
 
-**Movies and TV Shows**
-[Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
-[torrentio](https://torrentio.strem.fun/configure)
+**Movies and TV Shows**   
+[Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)    
+[torrentio](https://torrentio.strem.fun/configure)    
 
-**Live TV**
+**Live TV**   
 [USA TV](https://stremio-addons.com/usa-tv.html)     
 [MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)     
 **UDP TV** - Add this addon from the Stremio's addon catalog
 
-### Kodi
+### [Kodi](https://kodi.tv/)
  
 **Indian/Pakistani/American TV Channels**  
   https://www.firesticktricks.com/tvone-kodi-addon.html
