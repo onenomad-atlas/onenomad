@@ -1158,12 +1158,14 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 ### **APPS FOR YOUR DEVICES**     
 ### [Stremio](https://www.stremio.com/)    
 
- **Addon Collection for Stremio**  
-    [Stremio Addons Collection](https://stremio-addons.com/) - collections of addons     
- **Movies and TV Shows**
+**Addon Collection for Stremio**  
+- [Stremio Addons](https://stremio-addons.com/) - collections of addons     
+
+**Movies and TV Shows**
   - [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
-  - [torrentio](https://torrentio.strem.fun/configure)     
- **Live TV**
+  - [torrentio](https://torrentio.strem.fun/configure)
+
+**Live TV**
   - [USA TV](https://stremio-addons.com/usa-tv.html)     
   - [MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)     
   - **UDP TV** - Add this addon from the Stremio's addon catalog
