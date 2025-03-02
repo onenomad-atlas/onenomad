@@ -284,7 +284,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [ha](https://www.ha.com/) - Auction house  
 [Copart](https://www.copart.com/) - Cars and other vehicles  
 [IAAI](https://www.iaai.com/) - Cars and other vehicles  
-[liveauctioneers](https://www.liveauctioneers.com/) - One-of-a-kind art, antiques & luxury goods
+[liveauctioneers](https://www.liveauctioneers.com/) - One-of-a-kind art, antiques & luxury goods   
+[sothebys](https://www.sothebys.com/en/) - world’s premier destination for art and luxury   
+[rmsothebys](https://rmsothebys.com) - luxury cars for auction  
 
 ## Audio and Music
 
@@ -1603,6 +1605,7 @@ https://troypoint.com/crew-kodi-addon/
 [rivian](https://rivian.com/)    
 
 [Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts   
+[exclusivecarregistry](https://exclusivecarregistry.com/) - Preserving history about every unique car   
 
 ## Video and Animation
 
