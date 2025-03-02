@@ -1183,7 +1183,7 @@ https://troypoint.com/crew-kodi-addon/
 **LIVE TV**
 - [USA TV](https://stremio-addons.com/usa-tv.html)    
 - [MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)    
-- [UDP TV] - Add this addon from the Stremio's addon catalog   
+- **UDP TV** - Add this addon from the Stremio's addon catalog   
 
 ## Navigation and Maps  
 
