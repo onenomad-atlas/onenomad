@@ -244,16 +244,16 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 [thebricks](https://www.thebricks.com/) - AI Spreadsheet    
-[Hugging Face](https://huggingface.co/) - the AI community building the future
+[Hugging Face](https://huggingface.co/) - the AI community building the future    
 [voicenotes](https://voicenotes.com/?via=website)  
 [getpickle](https://getpickle.ai/) - Your AI Body Double  
 [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
 [cursor](https://www.cursor.com/) - The AI Code Editor   
 [Gamma]([gamma](https://gamma.app/) - create presentations & websites with AI    
 [stowaway](https://www.stowaway.io/) - Take your business where you already are  
-[Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world   
-[synthesia](https://www.synthesia.io/) - free AI Video Generator
-[runwayml](https://runwayml.com/) - Tools for human imagination  
+[Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world    
+[synthesia](https://www.synthesia.io/) - free AI Video Generator    
+[runwayml](https://runwayml.com/) - Tools for human imagination    
 [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
 [speechcentral](https://speechcentral.net/) - The world leading text-to-speech AI app  
 [snipd](https://www.snipd.com/) - Discover and save highlights in podcasts  
@@ -315,11 +315,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Aviation and Vessel Tracker
 
 **Flight Tracker**  
-[adsbexchange](https://globe.adsbexchange.com/)  
-[flightaware](https://www.flightaware.com/)  
-[flightradar24](https://www.flightradar24.com/51.47,0.46/6)
-[Flighty](https://flighty.com/) - Live Flight Tracker
-[Vessel Finder](https://www.vesselfinder.com/) - ship & container tracking   
+[adsbexchange](https://globe.adsbexchange.com/)    
+[flightaware](https://www.flightaware.com/)    
+[flightradar24](https://www.flightradar24.com/51.47,0.46/6)    
+[Flighty](https://flighty.com/) - Live Flight Tracker    
+[Vessel Finder](https://www.vesselfinder.com/) - ship & container tracking     
 
 ## Bath and Beauty
 
@@ -681,7 +681,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [freeriderhd](https://www.freeriderhd.com/) - draw tracks and race bikes  
 [mylifeelsewhere](https://www.mylifeelsewhere.com/) - compare the quality of life  
 [WatchParty](https://www.watchparty.me)    
-[Fitgirl](https://fitgirl-repacks.site/popular-repacks/) - download videogames
+[Fitgirl](https://fitgirl-repacks.site/popular-repacks/) - download videogames     
 [ColorifyAI](https://colorifyai.art/) - AI Coloring Page Generator   
 [Playclassic](https://playclassic.games/) - play classic games on the web    
 
@@ -715,8 +715,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Memebergterminal](http://memebergterminal.com/)  
 [Stock charts](https://stockcharts.com/)  
 [Quiverquant](https://www.quiverquant.com/)  
-[markiteconomics.com/Public/Release/PressReleases](https://www.markiteconomics.com/Public/Release/PressReleases)  
-[JPMorgan guide to the markets](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L8DJBeVv95Nrus_ngA8FvwKzLyEwLxdl7oqErtMBj-UkxcSXWqWJHAaAqlXEALw_wcB&gclsrc=aw.ds)  
+[markiteconomics](https://www.markiteconomics.com/Public/Release/PressReleases)  
+[JPMorgan's guide to the markets](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L8DJBeVv95Nrus_ngA8FvwKzLyEwLxdl7oqErtMBj-UkxcSXWqWJHAaAqlXEALw_wcB&gclsrc=aw.ds)  
 [Whale Wisdom](https://whalewisdom.com/)  
 [finviz](http://www.finviz.com/)  
 [tradingview](http://www.tradingview.com/)  
@@ -761,7 +761,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [joesstonecrab](https://joesstonecrab.com/) - Florida  
 [saltlickbbq](https://saltlickbbq.com/) - Texas  
 
-**Resources**
+**Resources**    
 [Hack The Menu](https://hackthemenu.com/) - the ultimate collection of secret menus   
 
 
@@ -1369,7 +1369,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [filecr](https://filecr.com/en/?id=95360682816) - the biggest software store  
 [Manual](https://www.manualslib.com/) - the ultimate manual library   
 [flowcv](https://app.flowcv.com/) - resume builder  
-[Rxresume](https://rxresu.me/) - free and open source resume builder
+[Rxresume](https://rxresu.me/) - free and open source resume builder    
 [remoteok](https://remoteok.com/) - remote jobs  
 [mugshots.zone](https://mugshots.zone/)  
 [neverinstall](https://neverinstall.com/)  
