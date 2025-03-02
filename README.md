@@ -1155,7 +1155,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [123tv](http://123tv.live/)  
 [Ustvgo.tv](http://ustvgo.tv/) - web
 
-**APPS FOR YOUR DEVICES**     
+### **APPS FOR YOUR DEVICES**     
 ### [Stremio](https://www.stremio.com/)
 
 **Addons for Stremio**  
