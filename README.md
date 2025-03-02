@@ -1662,6 +1662,7 @@ https://troypoint.com/crew-kodi-addon/
 [Libre Office](https://www.libreoffice.org/) - Your private, free office suite   
 [Flow Launcher](https://www.flowlauncher.com/) -  Quick File Search & App Launcher for Windows    
 [Windows 11 Perfect Install](https://christitus.com/windows-11-perfect-install/) - debloat Windows   
+[Rufus](https://rufus.ie/en/) - create bootable usbs the easy way    
 
 
 ## World Data
