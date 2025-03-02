@@ -1171,7 +1171,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 - **UDP TV** - Add this addon from the Stremio's addon catalog
 
 
-## Kodi
+### Kodi
 
 **Indian/Pakistani/American TV Channels**  
 https://www.firesticktricks.com/tvone-kodi-addon.html
