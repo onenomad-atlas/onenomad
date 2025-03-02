@@ -1105,21 +1105,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 **Machines**  
 [vitamix](https://www.vitamix.com/us/en_us)  
 [kitchenaid](https://www.kitchenaid.com/)  
-[ninjakitchen](https://www.ninjakitchen.com/)
-
-## Kodi
-
-**Indian/Pakistani/American TV Channels**  
-https://www.firesticktricks.com/tvone-kodi-addon.html
-
-**Indian Movies**  
-https://eintamil.github.io/
-
-**Deccan Delight**  
-https://www.kodi-guide.com/deccan-delight-kodi-addon-indian/
-
-**Movies**  
-https://troypoint.com/crew-kodi-addon/
+[ninjakitchen](https://www.ninjakitchen.com/)     
 
 ## Local  
 [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
@@ -1182,15 +1168,30 @@ https://troypoint.com/crew-kodi-addon/
 **LIVE TV**
 - [USA TV](https://stremio-addons.com/usa-tv.html)    
 - [MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)    
-- **UDP TV** - Add this addon from the Stremio's addon catalog   
+- **UDP TV** - Add this addon from the Stremio's addon catalog
+
+
+## Kodi
+
+**Indian/Pakistani/American TV Channels**  
+https://www.firesticktricks.com/tvone-kodi-addon.html
+
+**Indian Movies**  
+https://eintamil.github.io/
+
+**Deccan Delight**  
+https://www.kodi-guide.com/deccan-delight-kodi-addon-indian/
+
+**Movies**  
+https://troypoint.com/crew-kodi-addon/     
 
 ## Navigation and Maps  
 
-[Maps](https://www.loc.gov/maps/collections) - check old maps with the Library of Congress
-[OsmAnd](https://osmand.net/) - offline maps and navigation
-[OpenStreetMap](https://www.openstreetmap.org/) - map of the world
-[Magic Earth](https://www.magicearth.com/) - free maps & navigation   
-[True Size](https://www.thetruesize.com/) - find the true size of your country   
+[Maps](https://www.loc.gov/maps/collections) - check old maps with the Library of Congress    
+[OsmAnd](https://osmand.net/) - offline maps and navigation    
+[OpenStreetMap](https://www.openstreetmap.org/) - map of the world     
+[Magic Earth](https://www.magicearth.com/) - free maps & navigation      
+[True Size](https://www.thetruesize.com/) - find the true size of your country      
 
 ## News and Articles
 
