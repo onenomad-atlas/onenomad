@@ -1156,34 +1156,34 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [Ustvgo.tv](http://ustvgo.tv/) - web
 
 ### **APPS FOR YOUR DEVICES**     
-### [Stremio](https://www.stremio.com/)
+- ### [Stremio](https://www.stremio.com/)
 
-**Addons for Stremio**  
-[Stremio Addons Collection](https://stremio-addons.com/) - collections of addons   
+ **Addons for Stremio**  
+    [Stremio Addons Collection](https://stremio-addons.com/) - collections of addons   
 
-**MOVIES & TV SHOWS**
-- [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
-- [torrentio](https://torrentio.strem.fun/configure)
+ **MOVIES & TV SHOWS**
+  - [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
+  - [torrentio](https://torrentio.strem.fun/configure)
 
-**LIVE TV**
-- [USA TV](https://stremio-addons.com/usa-tv.html)    
-- [MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)    
-- **UDP TV** - Add this addon from the Stremio's addon catalog
+ **LIVE TV**
+  - [USA TV](https://stremio-addons.com/usa-tv.html)    
+  - [MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)    
+  - **UDP TV** - Add this addon from the Stremio's addon catalog
 
 
-### Kodi
+- ### Kodi
 
-**Indian/Pakistani/American TV Channels**  
-https://www.firesticktricks.com/tvone-kodi-addon.html
-
-**Indian Movies**  
-https://eintamil.github.io/
-
-**Deccan Delight**  
-https://www.kodi-guide.com/deccan-delight-kodi-addon-indian/
-
-**Movies**  
-https://troypoint.com/crew-kodi-addon/     
+  **Indian/Pakistani/American TV Channels**  
+  https://www.firesticktricks.com/tvone-kodi-addon.html
+  
+  **Indian Movies**  
+  https://eintamil.github.io/
+  
+  **Deccan Delight**  
+  https://www.kodi-guide.com/deccan-delight-kodi-addon-indian/
+  
+  **Movies**  
+  https://troypoint.com/crew-kodi-addon/     
 
 ## Navigation and Maps  
 
