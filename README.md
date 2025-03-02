@@ -1171,7 +1171,7 @@ https://troypoint.com/crew-kodi-addon/
 [Ustvgo.tv](http://ustvgo.tv/) - web
 
 **Apps**  
-[Stremio](https://www.stremio.com/)
+## [Stremio](https://www.stremio.com/)
 
 **Addons for Stremio**  
 [Stremio Addons Collection](https://stremio-addons.com/) - collections of addons   
