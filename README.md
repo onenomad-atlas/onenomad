@@ -1038,7 +1038,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [pixabay](https://pixabay.com/)  
 [shutterstock](https://www.shutterstock.com/)  
 [pexels](https://www.pexels.com/)  
-[tineye](https://tineye.com/) - reverse image search
+[tineye](https://tineye.com/) - reverse image search  
+[Photoscan](https://www.google.com/photos/scan/) - Photos from the past, meet scanner from the future    
 
 ## India
 
