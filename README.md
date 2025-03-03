@@ -221,7 +221,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [tvtap](https://tvtap-pro.net/) - Live TV  
 [livenettv](https://www.livenettv.vip/) - Live TV  
 [localsend](https://localsend.org/) - Share files to nearby devices  
-[Modyolo](https://modyolo.com/) - modded apps
+[Modyolo](https://modyolo.com/) - modded apps    
+[Liteapks](https://liteapks.com/) - modded apps    
+[TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
 
 
 ## Architecture
@@ -243,7 +245,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Grok](https://x.ai/) - AI Software led by Elon Musk   
 [Deepseek](https://www.deepseek.com/) - AI Search Engine From China   
 [Claude](https://claude.ai/) - AI writing assistant   
-[Vetted](https://vetted.ai/) - AI shopping assistant   
+[Vetted](https://vetted.ai/) - AI shopping assistant    
+[Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot   
 
 
 [thebricks](https://www.thebricks.com/) - AI Spreadsheet    
@@ -281,8 +284,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [speechify](https://speechify.com/hero-v2/?landing_url=https%3A%2F%2Fspeechify.com%2Fhero-v2%2F) - AI text to speech  
 [photoroom](https://www.photoroom.com/) - Magic photo studio on the go  
 [firefly.adobe](https://firefly.adobe.com/)    
-## Auctions
 
+## Auctions    
+ 
 [ha](https://www.ha.com/) - Auction house  
 [Copart](https://www.copart.com/) - Cars and other vehicles  
 [IAAI](https://www.iaai.com/) - Cars and other vehicles  
@@ -1212,7 +1216,8 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [apnews](https://apnews.com/)  
 [slowernews](https://www.slowernews.com/)  
 [Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
-[hacker news](https://news.ycombinator.com/) - tech  
+[hacker news](https://news.ycombinator.com/) - tech   
+[Lifehacker](https://lifehacker.com/) - do everything better    
 
 **Bypass Paywalls**  
 [archive](https://archive.is/) - time capsule for web pages  
@@ -1234,7 +1239,14 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 ## Open Source
 
 **Resources**   
-[opensourcealternative](https://www.opensourcealternative.to/)
+[opensourcealternative](https://www.opensourcealternative.to/)     
+
+[Docuseal](https://www.docuseal.com/) - Document Signing     
+[OpenProject](https://www.openproject.org/) - project management software    
+[Nextcloud](https://nextcloud.com/) - content collaboration platform    
+[Appflowy](https://appflowy.com/) - AI collaborative workspace     
+[Coolify](https://coolify.io/) - Self-hosting with superpowers      
+[NocoDB](https://nocodb.com/) - Build Databases - Alternative to Airtable    
 
 ## Pakistan
 
