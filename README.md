@@ -46,7 +46,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [💊 Health and Medicine](#health-and-medicine)
 - [📜 History](#history)
 - [🏠 Home](#home)
-- [🖼️ Images](#images)
+- [🖼️ Images and Photos](#images-and-photos)
 - [🇮🇳 India](#india)
 - [🌍 International Companies](#international-companies)
 - [💍 Jewelry](#jewelry)
@@ -1030,7 +1030,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Casablanca](https://www.hunterfan.com/pages/casablanca?srsltid=AfmBOoqRxAgKljam-ozDVOLY5lwTM1oT3uOdlEV1Agida0VTObdqyZws)    
 [Hampton Bay](https://thehamptonbay.com/)  
 
-## Images
+## Images and Photos
 
 [ente](https://ente.io/) - end to end cloud storage  
 [gettyimages](https://www.gettyimages.com/)  
