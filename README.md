@@ -149,7 +149,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [hacksplaining](https://www.hacksplaining.com/)  
 [Visual Studio](https://code.visualstudio.com/)  
 
-## rel
+## Apparel
 
 **Activewear**  
 [lululemon](https://shop.lululemon.com/)  
