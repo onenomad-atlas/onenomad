@@ -149,7 +149,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [hacksplaining](https://www.hacksplaining.com/)  
 [Visual Studio](https://code.visualstudio.com/)  
 
-## Apparel
+## rel
 
 **Activewear**  
 [lululemon](https://shop.lululemon.com/)  
@@ -157,14 +157,17 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [athleta](https://athleta.gap.com/)  
 [vuori](https://vuoriclothing.com/)  
 [aloyoga](https://www.aloyoga.com/)  
-[alphalete](https://alphaleteathletics.com/)  
+[alphalete](https://alphaleteathletics.com/)   
+[Vorzani](https://vorzani.com/)    
+[CRZ Yoga](https://us.crzyoga.com/)     
 
 **Casual & Formal**  
 [ae](https://www.ae.com/us/en)  
 [everlane](https://www.everlane.com/)  
 [mango](https://shop.mango.com/us)  
 [zara](https://www.zara.com/us/)  
-[charlestyrwhitt](https://www.charlestyrwhitt.com/)  
+[charlestyrwhitt](https://www.charlestyrwhitt.com/)     
+[Todd Snyder](https://www.toddsnyder.com/)     
 
 **Lifestyle**  
 [billabong](https://www.billabong.com/mens/)  
