@@ -1027,7 +1027,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [sunpower](https://us.sunpower.com/)  
 
 **Other**  
-[bldr](https://www.bldr.com/)   
+[bldr](https://www.bldr.com/)     
+[Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products       
 
 **Top Fan Brands**  
 [Hunter](https://www.hunterfan.com/)   
@@ -1081,7 +1082,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ## Kitchen
 
-**Tools & Gadgets**  
+**Tools & Gadgets**      
 [homewild](https://homewild.shop/)  
 [babi.sh](https://www.babi.sh/)  
 [natashaskitchen](https://www.amazon.com/shop/natashaskitchen/list/1IPEJWJ6FO7MD?ref_=aip_sf_list_spv_ofs_mixed_d)  
