@@ -422,6 +422,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [mailcharts](https://www.mailcharts.com/) - campaign intelligence for eCommerce teams  
 [tango](https://www.tango.us/) - create how-to guides  
 [mixkit](https://mixkit.co/) - free assets for your next video project  
+[paddle](https://www.paddle.com/) - Put your billing operations on autopilot    
 [pixelhunter](https://pixelhunter.io/) - free AI image resizer  
 [creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)  
 [milled](https://milled.com/) - search engine for email newsletters  
