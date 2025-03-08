@@ -815,6 +815,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Truman Boot Co.](https://www.trumanboot.com) – made in Oregon  
 [White’s Boots](https://www.whitesboots.com) – men’s  
 [Wolverine](https://www.wolverine.com) – men’s, select styles made in Alabama and Tennessee  
+[Thursday Boots](https://thursdayboots.com/) - Highest quality, honest prices      
 
 **Cowboy Boots**  
 [Abilene](https://www.abileneboots.com) – made in Pennsylvania  
@@ -937,6 +938,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [potterybarn](https://www.potterybarn.com/)  
 [rh](https://rh.com/)  
 [crateandbarrel](https://www.crateandbarrel.com/)  
+[Chita Living](https://chitaliving.com/)     
 [westelm](https://www.westelm.com/)  
 [livingspaces](https://www.livingspaces.com/)  
 [kirklands](https://www.kirklands.com/)  
@@ -1056,6 +1058,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Other**  
 [bldr](https://www.bldr.com/)     
 [Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products       
+[Vornado](https://www.vornado.com/) - revolutionizing home comfort    
 
 **Top Fan Brands**  
 [Hunter](https://www.hunterfan.com/)   
@@ -1138,10 +1141,11 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [aduna](https://aduna.com/)  
 [barukas](https://barukas.com/)
 
-**Machines**  
+**Appliances**  
 [vitamix](https://www.vitamix.com/us/en_us)  
 [kitchenaid](https://www.kitchenaid.com/)  
 [ninjakitchen](https://www.ninjakitchen.com/)     
+[Miele](https://www.mieleusa.com/)     
 
 ## Local  
 [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
