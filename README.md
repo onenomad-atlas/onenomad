@@ -527,6 +527,21 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [CoinGecko](https://www.coingecko.com/)  
 [CryptoPanic](https://cryptopanic.com/)
 
+## Currency and Metals  
+
+[jmbullion](https://www.jmbullion.com/)  
+[sdbullion](https://sdbullion.com/)  
+[monumentmetals](https://monumentmetals.com/)  
+[silvergoldbull](https://silvergoldbull.com/)  
+[apmex](https://www.apmex.com/)  
+
+**International Mints**    
+[USA Mint](https://www.usmint.gov/)  
+[United Kingdom Mint](https://www.royalmint.com/)  
+[Canadian Mint](https://www.mint.ca/store/template/home.jsp)      
+[Switzerland Mint](https://www.swissmint.ch/en)        
+[Australian Mint](https://www.perthmint.com/)    
+
 ## Custom Products
 
 [Gooten](http://www.gooten.com/)  
@@ -545,20 +560,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Printify](https://printify.com/)
 [Captivaco](https://www.captivaco.com/)
 
-## Currency and Metals  
-
-[jmbullion](https://www.jmbullion.com/)  
-[sdbullion](https://sdbullion.com/)  
-[monumentmetals](https://monumentmetals.com/)  
-[silvergoldbull](https://silvergoldbull.com/)  
-[apmex](https://www.apmex.com/)  
-
-**International Mints**    
-[USA Mint](https://www.usmint.gov/)  
-[United Kingdom Mint](https://www.royalmint.com/)  
-[Canadian Mint](https://www.mint.ca/store/template/home.jsp)      
-[Switzerland Mint](https://www.swissmint.ch/en)        
-[Australian Mint](https://www.perthmint.com/)    
 
 ## Design and Creativity
 
