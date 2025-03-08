@@ -400,10 +400,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [tinywow](https://tinywow.com/)  
 [openlibrary](https://openlibrary.org/)  
 [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
-[booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
-[calibre](https://calibre-ebook.com/) - one-stop solutions for all your e-book needs
+[booksalefinder](https://www.booksalefinder.com/) - find a book sale near you     
 
-**E-Readers**
+**E-Readers**     
 [calibre](https://calibre-ebook.com/) - one-stop solutions for all your e-book needs    
 [kindle](https://read.amazon.com/landing)    
 [onyxbook](https://onyxboox.com/)     
