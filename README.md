@@ -883,6 +883,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
 [fragrantica](https://www.fragrantica.com/) - research  
 [thewhitecompany](https://www.thewhitecompany.com/us/) - UK   
+[oriental fragrance](https://www.oriental-fragrance.com/en/)     
+[Ajmal US](https://ajmalperfumeus.com/)    
+[MyPerfumeSelectUSA](https://www.myperfumesselectusa.com/)     
+[perfumedefrance](https://perfumedefrance.com/)     
+
 
 **American Fragrances**  
 [Tom Ford](https://www.tomford.com/beauty/)  
