@@ -1501,6 +1501,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [milwaukeetool](https://www.milwaukeetool.com/)  
 [stanleytools](https://www.stanleytools.com/)  
 [acmetools](https://www.acmetools.com/)    
+[Hilti](https://www.hilti.com/)    
 
 **Knife Sharpener**  
 [speedysharp](https://www.speedysharp.com/)  
