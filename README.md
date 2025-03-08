@@ -543,6 +543,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Switzerland Mint](https://www.swissmint.ch/en)        
 [France Mint](https://www.monnaiedeparis.fr/fr)     
 [Australian Mint](https://www.ramint.gov.au/)    
+[Perth Mint](https://www.perthmint.com/) - Australian Mint
 [Mexican Mint](https://www.banxico.org.mx/)    
 [New Zealand Mint](https://newzealandmint.com/)    
 [China Mint](https://www.cmc.gov.tw/en)    
