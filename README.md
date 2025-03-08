@@ -513,8 +513,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Crypto
 
-**Platforms**
-
+**Platforms**    
 [Coinbase](https://www.coinbase.com/)  
 [Robinhood](https://robinhood.com/us/en/)  
 [Webull](https://www.webull.com/)  
@@ -522,8 +521,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Gemini](https://www.gemini.com/)  
 [Binance](https://www.binance.com/en)  
 
-**Resources**
-
+**Resources**   
 [CoinMarketCap](https://coinmarketcap.com/)  
 [CryptoRank](https://cryptorank.io/heatmaps)  
 [CoinGecko](https://www.coingecko.com/)  
@@ -555,11 +553,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [silvergoldbull](https://silvergoldbull.com/)  
 [apmex](https://www.apmex.com/)  
 
-**International Mints**  
-
-[usmint](https://www.usmint.gov/)  
-[royalmint](https://www.royalmint.com/)  
-[mint.ca](https://www.mint.ca/store/template/home.jsp)  
+**International Mints**    
+[USA Mint](https://www.usmint.gov/)  
+[United Kingdom Mint](https://www.royalmint.com/)  
+[Canadian Mint](https://www.mint.ca/store/template/home.jsp)      
+[Switzerland Mint](https://www.swissmint.ch/en)        
+[Australian Mint](https://www.perthmint.com/)    
 
 ## Design and Creativity
 
