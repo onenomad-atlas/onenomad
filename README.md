@@ -402,6 +402,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
 [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
 
+**E-Readers**
+
+
 ## Business
 
 [clay](https://clay.earth/) - manage all your personal and professional relationships  
