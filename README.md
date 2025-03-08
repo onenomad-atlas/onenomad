@@ -394,7 +394,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Books
 
 [libgen.li](https://libgen.li/)  
-[z-lib](https://z-lib.org/)  
+[z-lib](https://z-lib.gs/)     
 [archive.org](https://archive.org/)  
 [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
 [tinywow](https://tinywow.com/)  
