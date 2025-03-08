@@ -57,7 +57,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [💸 Money Transfer and Exchange](#money-transfer-and-exchange)   
 - [🎬 Movies and TV](#movies-and-tv)   
 - [🌍 Navigation and Maps](#navigation-and-maps)
-- [🖧 Networking](#Networking)
+- [🖧 Networking and Storage](#Networking-and-Storage)
 - [📰 News and Articles](#news-and-articles)
 - [📧 Newsletters](#newsletters)
 - [💻 Open Source](#open-source)
@@ -1240,7 +1240,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [Magic Earth](https://www.magicearth.com/) - free maps & navigation      
 [True Size](https://www.thetruesize.com/) - find the true size of your country      
 
-## Networking    
+## Networking and Storage  
 
 ## News and Articles
 
