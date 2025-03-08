@@ -1152,6 +1152,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [musichq](https://www4.musichq.net/)  
 [moviefire](http://moviefire.net/) - download movies & tv shows  
 [oomoye](https://oomoye.guru/) - download movies   
+[anymovies](https://www.downloads-anymovies.co/)      
 [123-movies](https://www.123-movies.gdn/)  
 [freek](https://freek.to/)  
 [olgply](https://olgply.com/)- movies & tv shows  
