@@ -25,6 +25,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🇨🇳 China](#china)  
 - [💳 Credit Cards](#credit-cards)
 - [🪙 Crypto](#crypto)
+- [💰 Currency and Metals](#Currency-and-Metals)
 - [🎨 Custom Products](#custom-products)
 - [🎨 Design and Creativity](#design-and-creativity)
 - [💵 Discounts and Deals](#discounts-and-deals)
