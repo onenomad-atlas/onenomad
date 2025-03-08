@@ -569,9 +569,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [eGrandstand](http://www.egrandstand.com/)  
 [Shapeways](http://www.shapeways.com/)  
 [Vistaprint](https://www.vistaprint.com/)  
-[Zazzle](https://www.zazzle.com/)  
-[Printify](https://printify.com/)
-[Captivaco](https://www.captivaco.com/)
+[Zazzle](https://www.zazzle.com/)   
+[Printify](https://printify.com/)    
+[Captivaco](https://www.captivaco.com/)    
 
 
 ## Design and Creativity
