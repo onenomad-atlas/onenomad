@@ -101,14 +101,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Buyer**
 
 [camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker  
-[myvipon](https://www.myvipon.com/) - Amazon Products at Huge Discounts  
+[myvipon](https://www.myvipon.com/) - Amazon Products at Huge Discounts   
+[Keepa](https://keepa.com/#!) - Amazon Price Tracker    
 [deals](https://www.amazon.com/deals?ref_=nav_cs_gb) - Amazon’s today deals  
 [Amazon Outlet](https://www.amazon.com/outlet) - Online deals and find low prices on markdowns and overstocks for items  
 
 **Seller**
 
-[Helium10](https://www.helium10.com/) - Software for Amazon FBA Sellers & Walmart Sellers  
-[Keepa](https://keepa.com/#!) - Amazon Price Tracker  
+[Helium10](https://www.helium10.com/) - Software for Amazon FBA Sellers & Walmart Sellers     
 [fbatoolkit](https://fbatoolkit.com/) - Comprehensive set of tools for sellers  
 [junglescout](https://www.junglescout.com/) - Amazon Seller Software & Product Research  
 [cjdropshipping](https://cjdropshipping.com/) - Dropshipping  
@@ -1249,6 +1249,10 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [Seagate](https://seagate.com/)   
 [Lexar](https://americas.lexar.com/)   
 
+**Hardware for NAS and Surveillance**
+[Synology](https://www.synology.com/en-us)    
+[QNAP](https://www.qnap.com/en-us/)   
+
 ## News and Articles
 
 [zerohedge](https://www.zerohedge.com/)  
@@ -1545,6 +1549,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [stanleytools](https://www.stanleytools.com/)  
 [acmetools](https://www.acmetools.com/)    
 [Hilti](https://www.hilti.com/)    
+[rubi](https://www.rubi.com/us)    
 
 **Knife Sharpener**  
 [speedysharp](https://www.speedysharp.com/)  
@@ -1668,6 +1673,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [nsa](https://www.nsa.gov/) - National Security Agency  
 [loc](https://www.loc.gov/) - Library of Congress  
 [noaa](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration    
+[USPTO](https://www.uspto.gov/) - United States Patent and Trademark Offc
 
 **Apparel**  
 [rangerjoes](https://rangerjoes.com/) <br>
