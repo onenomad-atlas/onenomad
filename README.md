@@ -1500,6 +1500,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [craftsman](https://www.craftsman.com/)  
 [milwaukeetool](https://www.milwaukeetool.com/)  
 [stanleytools](https://www.stanleytools.com/)  
+[acmetools](https://www.acmetools.com/)    
 
 **Knife Sharpener**  
 [speedysharp](https://www.speedysharp.com/)  
