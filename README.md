@@ -1490,6 +1490,13 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
 
+**Products**
+[Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs       
+
+**Technology**   
+[Zigbee](https://csa-iot.org/all-solutions/zigbee/)    
+[Matter](https://csa-iot.org/all-solutions/matter/)    
+[Aliro](https://csa-iot.org/all-solutions/aliro/)    
 
 ## Sports
 
