@@ -75,6 +75,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [💡 Startup Investment and Crowdfunding](#startup-investment-and-crowdfunding)
 - [🖥️ Tech](#tech)
 - [🔧 Tools](#tools)
+- [🚂 Toys and Games](#Toys-and-Games)  
 - [✈️ Travel](#travel)
 - [🇦🇪 United Arab Emirates](#united-arab-emirates)
 - [🇺🇸 US and Government](#us-and-government)
@@ -1556,6 +1557,8 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 **Knife Sharpener**  
 [speedysharp](https://www.speedysharp.com/)  
 [knifeaid](https://knifeaid.com/)
+
+## Toys and Games
 
 ## Travel
 
