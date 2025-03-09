@@ -1560,6 +1560,29 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ## Toys and Games
 
+[Lego](https://www.lego.com/en-us)    
+[Mattel](https://shop.mattel.com/) - Toys Manufacturer   
+[Hasbro](https://shop.hasbro.com/) - Toys Manufacturer   
+
+**Board and Card Games**
+[Monopoly](https://shop.hasbro.com/all-products?&brand=monopoly)     
+[Catan](https://www.catan.com/)    
+[Cards Against Humanity](https://www.cardsagainsthumanity.com/)    
+[Sequence](https://www.amazon.com/SEQUENCE-Original-SEQUENCE-Folding-Packaging/dp/B00000IVAK/ref=zg_bs_g_166225011_d_sccl_11/131-1685425-9243226?psc=1)   
+[Blank Slate](https://www.amazon.com/BLANK-SLATETM-Family-Friendly-Association/dp/B07G2VHPRW/ref=zg_bs_g_166225011_d_sccl_19/131-1685425-9243226?th=1)   
+[Hedbanz](https://www.amazon.com/Hedbanz-Picture-Guessing-Games-Families/dp/B0BRYH5FJ8/ref=zg_bs_g_166225011_d_sccl_30/131-1685425-9243226?th=1)    
+[Telestrations](https://www.amazon.com/USAopoly-Telestrations-Original-Hilarious-Telephone/dp/B001SN8GF4/ref=zg_bs_g_166225011_d_sccl_5/131-1685425-9243226?th=1)    
+[Monopoly Deal](https://www.amazon.com/MONOPOLY-Quick-Playing-Christmas-Stocking-Exclusive/dp/B00NQQTZCO/ref=zg_bs_g_19431299011_d_sccl_11/131-1685425-9243226?psc=1)    
+[Ransom Notes](https://www.amazon.com/Ransom-Notes-Ridiculous-Magnet-Party/dp/B09F9XMRG5/ref=zg_bs_g_19431299011_d_sccl_13/131-1685425-9243226?th=1)   
+
+**Couple Games**
+[Date Night Ideas](https://www.amazon.com/Romantic-Couples-Gift-Adventurous-Girlfriend/dp/B08YWP5QRF/ref=zg_bs_g_19431299011_d_sccl_20/131-1685425-9243226?psc=1)   
+[Let's Get Deep](https://www.amazon.com/Relatable-Question-Valentines-Girlfriend-Intimacy/dp/B08PQ14F57/ref=zg_bs_g_19431299011_d_sccl_34/131-1685425-9243226?th=1)    
+[Risky Couples](https://www.amazon.com/RISKY-COUPLES-Questions-Anniversary-Valentines/dp/B0BPHYHSYK/ref=zg_bs_g_19431299011_d_sccl_9/131-1685425-9243226?psc=1)    
+[Tell Me More](https://www.amazon.com/Tell-More-Conversation-Questions-Connection/dp/B0BNK3FJTX/ref=zg_bs_g_19431299011_d_sccl_13/131-1685425-9243226?th=1)     
+[BestSelf Intimacy](https://www.amazon.com/Intimacy-Deck-BestSelf-Conversation-Vulnerability/dp/B07W1PVNFC/ref=zg_bs_g_19431299011_d_sccl_22/131-1685425-9243226?th=1)     
+[SERVD](https://www.amazon.com/SERVD-Couples-Hilarious-Real-Life-Card/dp/B0CMH4D26L/ref=zg_bs_g_19431299011_d_sccl_24/131-1685425-9243226?th=1)    
+
 ## Travel
 
 **Blogs & Resources**  
