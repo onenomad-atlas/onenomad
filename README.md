@@ -1558,8 +1558,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [speedysharp](https://www.speedysharp.com/)  
 [knifeaid](https://knifeaid.com/)
 
-## Toys and Games
-
+## Toys and Games    
 [Lego](https://www.lego.com/en-us)    
 [Mattel](https://shop.mattel.com/) - Toys Manufacturer   
 [Hasbro](https://shop.hasbro.com/) - Toys Manufacturer   
