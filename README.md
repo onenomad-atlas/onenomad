@@ -1242,17 +1242,17 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ## Networking and Storage  
 
-**Storage**
-[Western Digital](https://www.westerndigital.com/)    
+**Storage**    
+[Western Digital](https://www.westerndigital.com/)     
 [Samsung](https://www.samsung.com/us/memory-storage/)   
 [Sandisk](https://shop.sandisk.com/)   
 [Seagate](https://seagate.com/)   
 [Lexar](https://americas.lexar.com/)   
 
-**Hardware for NAS and Surveillance**
-[Synology](https://www.synology.com/en-us)    
-[QNAP](https://www.qnap.com/en-us/)   
-
+**Backup and NAS**     
+[Synology](https://www.synology.com/en-us)     
+[QNAP](https://www.qnap.com/en-us/)    
+ 
 ## News and Articles
 
 [zerohedge](https://www.zerohedge.com/)  
