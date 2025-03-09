@@ -1528,14 +1528,15 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 [unraid](https://unraid.net/) - operating system for servers and NAS  
 [truenas](https://www.truenas.com/) - open source NAS software  
-
-**Shopping**  
+ 
 [apple education](https://www.apple.com/us-edu/store)  
 [bhphotovideo](https://www.bhphotovideo.com/)  
 [newegg](https://www.newegg.com/)  
 [microcenter](https://www.microcenter.com/)  
 [swappa](https://swappa.com/)  
-[digikey](https://www.digikey.com/)
+[digikey](https://www.digikey.com/)  
+[anker](https://www.anker.com/)    
+[esr](https://www.esrtech.com/)     
 
 ## Tools
 
