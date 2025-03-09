@@ -1670,10 +1670,11 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 **Departments**  
 [fbi](https://www.fbi.gov/) - Federal Bureau of Investigation  
+[cia](https://www.cia.gov/) - Central Intelligence Agency     
 [nsa](https://www.nsa.gov/) - National Security Agency  
 [loc](https://www.loc.gov/) - Library of Congress  
 [noaa](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration    
-[USPTO](https://www.uspto.gov/) - United States Patent and Trademark Offc
+[USPTO](https://www.uspto.gov/) - United States Patent and Trademark Office   
 
 **Apparel**  
 [rangerjoes](https://rangerjoes.com/) <br>
