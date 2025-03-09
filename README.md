@@ -917,11 +917,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 **American Fragrances**  
-[Tom Ford](https://www.tomford.com/beauty/)  
+[Tom Ford](https://www.tomford.com/beauty/)    
 
 **European Fragrances**  
 [Roja Parfums](https://rojaparfums.com/)  
 [Creed](https://creedboutique.com/)  
+[Dior](https://www.dior.com/en_us/beauty)     
 
 **Middle Eastern Fragrances**  
 [Arabian Oud](https://corp.arabianoud.com/en/)  
