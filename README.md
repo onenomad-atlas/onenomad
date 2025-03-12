@@ -235,10 +235,17 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [som](https://www.som.com/) - Skidmore, Owings & Merrill  
 [kpf](https://www.kpf.com/) - Kohn Pedersen Fox  
 [gensler](https://www.gensler.com/)  
-[smithgill](http://smithgill.com/) - Adrian Smith + Gordon Gill Architecture  
+[smithgill](http://smithgill.com/) - Adrian Smith + Gordon Gill Architecture   
+[perkinswill](https://perkinswill.com/)    
+
+**International Firms**
+[RPBW](https://www.rpbw.com/)    
+[BIG](https://big.dk/#projects)   
+[Zaha Hadid](https://www.zaha-hadid.com/)   
 [fosterandpartners](https://www.fosterandpartners.com/)  
-[perkinswill](https://perkinswill.com/)  
-[big.dk](https://big.dk/#projects)
+
+**Landscape Firms**
+[Ken Smith](http://kensmithworkshop.com/)    
 
 ## Artificial Intelligence   
 
