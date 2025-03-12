@@ -93,7 +93,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Mint](https://mint.intuit.com/) - Personal financial management website  
 [QuickBooks](https://quickbooks.intuit.com/) - Accounting software  
 [Personal Capital](https://www.personalcapital.com/) - Online financial advisor and personal wealth management company  
-[Monarch Money](https://www.monarchmoney.com/) - The modern way to manage money  
+[Mon Money](https://www.monarchmoney.com/) - The modern way to manage money  
 [Quicken](https://www.quicken.com/)  
 [NetSuite](https://www.netsuite.com/portal/home.shtml?noredirect=T)
 
@@ -231,7 +231,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Architecture
 
-**Architecture Firm**  
+**Architecture Firms**  
 [som](https://www.som.com/) - Skidmore, Owings & Merrill  
 [kpf](https://www.kpf.com/) - Kohn Pedersen Fox  
 [gensler](https://www.gensler.com/)  
@@ -243,9 +243,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [BIG](https://big.dk/#projects)   
 [Zaha Hadid](https://www.zaha-hadid.com/)   
 [fosterandpartners](https://www.fosterandpartners.com/)  
+[farshidmoussavi](https://www.farshidmoussavi.com/)    
 
 **Landscape Firms**     
-[Ken Smith](http://kensmithworkshop.com/)    
+[Ken Smith](http://kensmithworkshop.com/)     
+[Nelson Byrd Woltz](https://www.nbwla.com/)    
 
 ## Artificial Intelligence   
 
