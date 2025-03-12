@@ -237,6 +237,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [gensler](https://www.gensler.com/)  
 [smithgill](http://smithgill.com/) - Adrian Smith + Gordon Gill Architecture   
 [perkinswill](https://perkinswill.com/)    
+[Kohn Pedersen Fox](https://www.kpf.com/)     
 
 **International Firms**   
 [RPBW](https://www.rpbw.com/)    
@@ -1580,7 +1581,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [Mattel](https://shop.mattel.com/) - Toys Manufacturer   
 [Hasbro](https://shop.hasbro.com/) - Toys Manufacturer   
 
-**Board and Card Games**    
+**Board and Card Games**      
 [Monopoly](https://shop.hasbro.com/all-products?&brand=monopoly)     
 [Catan](https://www.catan.com/)    
 [Cards Against Humanity](https://www.cardsagainsthumanity.com/)    
@@ -1591,7 +1592,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [Monopoly Deal](https://www.amazon.com/MONOPOLY-Quick-Playing-Christmas-Stocking-Exclusive/dp/B00NQQTZCO/ref=zg_bs_g_19431299011_d_sccl_11/131-1685425-9243226?psc=1)    
 [Ransom Notes](https://www.amazon.com/Ransom-Notes-Ridiculous-Magnet-Party/dp/B09F9XMRG5/ref=zg_bs_g_19431299011_d_sccl_13/131-1685425-9243226?th=1)   
 
-**Couple Games**   
+**Couple Games**     
 [Date Night Ideas](https://www.amazon.com/Romantic-Couples-Gift-Adventurous-Girlfriend/dp/B08YWP5QRF/ref=zg_bs_g_19431299011_d_sccl_20/131-1685425-9243226?psc=1)   
 [Let's Get Deep](https://www.amazon.com/Relatable-Question-Valentines-Girlfriend-Intimacy/dp/B08PQ14F57/ref=zg_bs_g_19431299011_d_sccl_34/131-1685425-9243226?th=1)    
 [Risky Couples](https://www.amazon.com/RISKY-COUPLES-Questions-Anniversary-Valentines/dp/B0BPHYHSYK/ref=zg_bs_g_19431299011_d_sccl_9/131-1685425-9243226?psc=1)    
@@ -1709,16 +1710,15 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [damacproperties](https://www.damacproperties.com/en/)  
 [dp](https://www.dp.ae/)
 
-## US and Government
-
+## US and Government     
 [potustracker](https://potustracker.us/) - track the US president  
 
 **Departments**  
-[fbi](https://www.fbi.gov/) - Federal Bureau of Investigation  
-[cia](https://www.cia.gov/) - Central Intelligence Agency     
-[nsa](https://www.nsa.gov/) - National Security Agency  
-[loc](https://www.loc.gov/) - Library of Congress  
-[noaa](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration    
+[FBI](https://www.fbi.gov/) - Federal Bureau of Investigation  
+[CIA](https://www.cia.gov/) - Central Intelligence Agency     
+[NSA](https://www.nsa.gov/) - National Security Agency  
+[LOC](https://www.loc.gov/) - Library of Congress  
+[NOAA](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration    
 [USPTO](https://www.uspto.gov/) - United States Patent and Trademark Office   
 
 **Apparel**  
