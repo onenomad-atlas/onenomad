@@ -1570,7 +1570,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [Mattel](https://shop.mattel.com/) - Toys Manufacturer   
 [Hasbro](https://shop.hasbro.com/) - Toys Manufacturer   
 
-**Board and Card Games**
+**Board and Card Games**    
 [Monopoly](https://shop.hasbro.com/all-products?&brand=monopoly)     
 [Catan](https://www.catan.com/)    
 [Cards Against Humanity](https://www.cardsagainsthumanity.com/)    
