@@ -238,13 +238,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [smithgill](http://smithgill.com/) - Adrian Smith + Gordon Gill Architecture   
 [perkinswill](https://perkinswill.com/)    
 
-**International Firms**
+**International Firms**   
 [RPBW](https://www.rpbw.com/)    
 [BIG](https://big.dk/#projects)   
 [Zaha Hadid](https://www.zaha-hadid.com/)   
 [fosterandpartners](https://www.fosterandpartners.com/)  
 
-**Landscape Firms**
+**Landscape Firms**     
 [Ken Smith](http://kensmithworkshop.com/)    
 
 ## Artificial Intelligence   
