@@ -913,20 +913,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [vitruvi](https://vitruvi.com/)  
 [earthley](https://www.earthley.com/)  
 
-**Other Sites**  
-[intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
-[fragrantica](https://www.fragrantica.com/) - research  
-[thewhitecompany](https://www.thewhitecompany.com/us/) - UK   
-[oriental fragrance](https://www.oriental-fragrance.com/en/)     
-[Ajmal US](https://ajmalperfumeus.com/)    
-[MyPerfumeSelectUSA](https://www.myperfumesselectusa.com/)     
-[perfumedefrance](https://perfumedefrance.com/)     
-[scentsplit](https://www.scentsplit.com/)    
-[fragrancenet](https://www.fragrancenet.com/)     
-[fragrancex](https://www.fragrancex.com/)    
-[maxaroma](https://www.maxaroma.com/)      
-
-
 **American Fragrances**  
 [Tom Ford](https://www.tomford.com/beauty/)    
 
@@ -943,7 +929,21 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Swiss Arabian](https://swissarabian.com/)  
 [Rasasi](http://www.rasasi.com/)  
 [Afnan](https://www.afnan.com/)    
-[YUSUF BHAI](https://yusufbhaifragrances.com/)
+[YUSUF BHAI](https://yusufbhaifragrances.com/)    
+
+**Other Sites**  
+[intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
+[fragrantica](https://www.fragrantica.com/) - research  
+[thewhitecompany](https://www.thewhitecompany.com/us/) - UK   
+[oriental fragrance](https://www.oriental-fragrance.com/en/)     
+[Ajmal US](https://ajmalperfumeus.com/)    
+[MyPerfumeSelectUSA](https://www.myperfumesselectusa.com/)     
+[perfumedefrance](https://perfumedefrance.com/)     
+[scentsplit](https://www.scentsplit.com/)    
+[fragrancenet](https://www.fragrancenet.com/)     
+[fragrancex](https://www.fragrancex.com/)    
+[maxaroma](https://www.maxaroma.com/)        
+
 
 ## Furniture and Home Decor  
 [Wayfair](https://www.wayfair.com/)  
@@ -976,10 +976,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Actronika](https://www.actronika.com/)  
 [magicleap](https://www.magicleap.com/)  
 
-**Vehicles**  
-[rivian](https://rivian.com/)  
 [lightyear.one](https://lightyear.one/)  
-[lucidmotors](https://lucidmotors.com/)
 
 ## Glasses
 
@@ -1353,38 +1350,41 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [podcastle](https://podcastle.ai/)  
 [creators](https://creators.spotify.com/)  
 
+**Platforms**    
+[Hark](https://harkaudio.com/) - handpicked amazing podcast moments    
+
 ### Podcasts
 
 # Podcast List   
 
-**[ACQ2 by Acquired](https://www.acquired.fm/)**  
-**[Acquired](https://www.acquired.fm/)**  
-**[All The Hacks](https://www.allthehacks.com/)**   
-**[Conspiracy Theories](https://www.iheart.com/podcast/282-conspiracy-theories-30209045/)**  
-**[Discover Daily By Perplexity](https://www.perplexity.com/)**  
-**[Empire](https://www.empireonline.com/podcast/)**  
-**[Frequent Miler On The Air](https://www.frequentmiler.com/)**  
-**[Flagrant](https://www.fla-grant.com/)**  
-**[Founders](https://founderspodcast.com/)**  
-**[How I Built This](https://www.npr.org/sections/how-i-built-this/)**  
-**[Huberman Lab](https://www.hubermanlab.com/)**  
-**[Jocko Podcast](https://www.jockopodcast.com/)**  
-**[Lex Fridman Podcast](https://lexfridman.com/podcast/)**  
-**[Morning Brew Daily](https://www.morningbrew.com/daily)**   
-**[On Purpose With Jay Shetty](https://jayshetty.me/podcast/)**   
-**[Onward, A Fundrise Production](https://www.fundrise.com/onward)**   
-**[Power Law with John Coogan](https://www.powerlawpodcast.com/)**   
-**[Rethink Retail](https://www.rethink.industries/)**   
-**[Superlife with Darin Olien](https://superlifepodcast.com/)**    
-**[The Best One Yet](https://www.thebestoneyet.com/)**     
-**[The Colin and Samir Show](https://www.colinandsamir.com/)**            
-**[The Daily Stoic](https://dailystoic.com/podcast/)**   
-**[The Darin Olien Show](https://darinolien.com/podcast/)**   
-**[The Joe Rogan Experience](https://www.joerogan.com/)**   
-**[The Rest Is History](https://www.restishistorypod.com/)**  
-**[The Tucker Carlson Show](https://www.tuckercarson.com/)**  
-**[The Wim Hof Podcast](https://www.wimhofmethod.com/podcast)**  
-**[Y Combinator](https://www.ycombinator.com/podcast/)**    
+[ACQ2 by Acquired](https://www.acquired.fm/)    
+[Acquired](https://www.acquired.fm/)   
+[All The Hacks](https://www.allthehacks.com/)    
+[Conspiracy Theories](https://www.iheart.com/podcast/282-conspiracy-theories-30209045/)     
+[Discover Daily By Perplexity](https://www.perplexity.com/)     
+[Empire](https://www.empireonline.com/podcast/)     
+[Frequent Miler On The Air](https://www.frequentmiler.com/)     
+[Flagrant](https://www.fla-grant.com/)     
+[Founders](https://founderspodcast.com/)    
+[How I Built This](https://www.npr.org/sections/how-i-built-this/)    
+[Huberman Lab](https://www.hubermanlab.com/)     
+[Jocko Podcast](https://www.jockopodcast.com/)    
+[Lex Fridman Podcast](https://lexfridman.com/podcast/)    
+[Morning Brew Daily](https://www.morningbrew.com/daily)   
+[On Purpose With Jay Shetty](https://jayshetty.me/podcast/)   
+[Onward, A Fundrise Production](https://www.fundrise.com/onward)    
+[Power Law with John Coogan](https://www.powerlawpodcast.com/)      
+[Rethink Retail](https://www.rethink.industries/)    
+[Superlife with Darin Olien](https://superlifepodcast.com/)      
+[The Best One Yet](https://www.thebestoneyet.com/)    
+[The Colin and Samir Show](https://www.colinandsamir.com/)              
+[The Daily Stoic](https://dailystoic.com/podcast/)     
+[The Darin Olien Show](https://darinolien.com/podcast/)     
+[The Joe Rogan Experience](https://www.joerogan.com/)   
+[The Rest Is History](https://www.restishistorypod.com/)   
+[The Tucker Carlson Show](https://www.tuckercarson.com/)    
+[The Wim Hof Podcast](https://www.wimhofmethod.com/podcast)    
+[Y Combinator](https://www.ycombinator.com/podcast/)      
 
 
 ## Privacy
