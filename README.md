@@ -267,7 +267,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [getpickle](https://getpickle.ai/) - Your AI Body Double  
 [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
 [cursor](https://www.cursor.com/) - The AI Code Editor   
-[Gamma]([gamma](https://gamma.app/) - create presentations & websites with AI    
+[Gamma](https://gamma.app/) - create presentations & websites with AI    
 [stowaway](https://www.stowaway.io/) - Take your business where you already are  
 [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world    
 [synthesia](https://www.synthesia.io/) - free AI Video Generator    
