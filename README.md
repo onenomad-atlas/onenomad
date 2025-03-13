@@ -149,6 +149,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Leetcode](https://leetcode.com/)  
 [Code wars](https://www.codewars.com/)  
 [Mulesoft](https://www.mulesoft.com/)  
+[roadmap](https://roadmap.sh/) - community effort to create roadmaps, guides and other educational content  
 [hacksplaining](https://www.hacksplaining.com/)  
 [Visual Studio](https://code.visualstudio.com/)  
 
@@ -406,6 +407,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Books
 
+[sobrief](https://sobrief.com/) - Read any book in 10 minutes   
+
 [libgen.li](https://libgen.li/)  
 [z-lib](https://z-lib.gs/)     
 [archive.org](https://archive.org/)  
@@ -600,6 +603,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [pixlr](http://www.pixlr.com/)  
 [figma](http://www.figma.com/)  
 [Home By Me](https://home.by.me/en/) - design your home in 3D    
+[virtualthreads](https://www.virtualthreads.io/) - free 3D tshirt mockup   
 [thenounproject](https://thenounproject.com/)  
 [Freedesignresources](http://freedesignresources.net/) - freebies  
 [fireship.io](https://fireship.io/)  
@@ -708,7 +712,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [stanford](https://online.stanford.edu/free-courses)  
 [coursera](https://www.coursera.org/courses?query=free)  
 [core](https://core.ac.uk/)  
-[arxiv](https://arxiv.org/)
+[arxiv](https://arxiv.org/)   
+
+[atlas](https://www.atlas.org/) - Study, write, and solve faster with the most accurate AI for school    
+
 
 ## Electricity
 
@@ -1170,7 +1177,8 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ## Local  
 [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
-[citizen](https://citizen.com/) - Where people protect each other
+[citizen](https://citizen.com/) - Where people protect each other  
+[nextdoor](https://nextdoor.com/) - discover your neighborhood    
 
 ## Meetings and Video Calls
 
