@@ -412,6 +412,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
 [tinywow](https://tinywow.com/)  
 [openlibrary](https://openlibrary.org/)  
+[magazinelib](https://magazinelib.com/) - magazines    
 [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
 [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you     
 
@@ -663,19 +664,25 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Docs and Files
 
+**File Transfer**   
+[File Pizza](https://file.pizza/)    
 [send-anywhere](https://send-anywhere.com/)  
 [Smash file transfer](https://fromsmash.com/)  
+[snapdrop](https://snapdrop.net/)    
+[blip](https://blip.net/) - fastest way to send files across devices  
+[localsend](https://localsend.org/) - Share files to nearby devices.    
+
+**File Conversion**   
+[zamzar](https://www.zamzar.com/)    
+[cloudconvert](https://cloudconvert.com/)    
+[howtoconvert](https://howtoconvert.co/)    
+
 [pdf](https://pdf.wondershare.com/) - Smart PDF Solutions  
-[notarize](https://www.notarize.com/) - Notarize online. Anywhere. Anytime.  
-[zamzar](https://www.zamzar.com/)  
+[notarize](https://www.notarize.com/) - Notarize online. Anywhere. Anytime.    
 [Ilovepdf](https://www.ilovepdf.com/)  
 [iloveimg](https://www.iloveimg.com/)  
-[dochub](https://dochub.com/) - sign documents  
-[snapdrop](https://snapdrop.net/)  
-[tinywow](https://tinywow.com/) - best pdf editor  
-[blip](https://blip.net/) - fastest way to send files across devices  
-[localsend](https://localsend.org/) - Share files to nearby devices.  
-[howtoconvert](https://howtoconvert.co/)
+[dochub](https://dochub.com/) - sign documents    
+[tinywow](https://tinywow.com/) - best pdf editor     
 [Pdfgear](https://www.pdfgear.com/)   
 
 ## Dupes
@@ -1399,6 +1406,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [f-droid](https://f-droid.org/)  
 [priductive](https://priductive.com/)  
 [syncthing](https://syncthing.net/)  
+[prism break](https://prism-break.org/en/) - Opt out of global data surveillance programs        
 [keepassxc](https://keepassxc.org/)  
 [puri.sm](https://puri.sm/)  
 [keybase](https://keybase.io/)  
@@ -1408,7 +1416,8 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 **Feed**  
 [privacytools](https://www.privacytools.io/)  
 [awesome-privacy](https://github.com/pluja/awesome-privacy)  
-[privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)
+[privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)   
+[champagne](https://champagne.pages.dev/)    
 
 
 ## Productivity
