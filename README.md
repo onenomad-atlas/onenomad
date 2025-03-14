@@ -407,7 +407,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Books
 
-[sobrief](https://sobrief.com/) - Read any book in 10 minutes   
+[sobrief](https://sobrief.com/) - Read any book in 10 minutes    
+[openlibrary](https://openlibrary.org/) - open, editable library catalog      
 
 [libgen.li](https://libgen.li/)  
 [z-lib](https://z-lib.gs/)     
