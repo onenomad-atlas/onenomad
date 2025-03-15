@@ -210,8 +210,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en_US&gl=US) - EPUB Reader  
 [Video to Wallpaper](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Set any video as your phone wallpaper  
 [Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines  
-[CapCut](https://www.capcut.net/) - Video Editor  
-[Clipt](https://www.onelab.studio/work/clipt) - Instantly share between devices  
+[CapCut](https://www.capcut.net/) - Video Editor     
 [iLovePDF](https://play.google.com/store/apps/details?id=com.ilovepdf.www&hl=en_US&gl=US) - PDF Scanner & Editor  
 [Medium](https://medium.com/) - Blogging platform  
 [Wallberry](https://play.google.com/store/apps/details?id=com.raj_arya.wallberry&hl=en_US&gl=US) - Wallpaper App  
@@ -219,7 +218,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Overdrop](https://play.google.com/store/apps/details?id=widget.dd.com.overdrop.free&hl=en_US&gl=US) - Weather App  
 [Font](https://forum.xda-developers.com/t/google-product-sans-for-android-10-oneui-2-5-samsung-phone.4203153/) - Install any font on Samsung  
 [snapdrop](https://snapdrop.net/) - Instantly share files  
-[pikashow](https://pikashows.com/) - Watch movies & TV shows  
+[pikashow](https://pikashow.su/) - Watch movies & TV shows  
 [cloudstream](https://github.com/recloudstream/cloudstream) - Movies and TV shows  
 [hdo](https://hdo.app/) - Movies and TV shows  
 [Seal](https://github.com/JunkFood02/Seal) - Audio and video downloader  
@@ -227,8 +226,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [video.downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader&hl=en_US&gl=US)  
 [rapidstreamz](https://www.rapidstreamz.tv/) - Live TV  
 [tvtap](https://tvtap-pro.net/) - Live TV  
-[livenettv](https://www.livenettv.vip/) - Live TV  
-[localsend](https://localsend.org/) - Share files to nearby devices  
+[livenettv](https://www.livenettv.vip/) - Live TV    
 [Modyolo](https://modyolo.com/) - modded apps    
 [Liteapks](https://liteapks.com/) - modded apps    
 [TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
@@ -399,8 +397,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Chrome Extensions**  
 [Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - Adblocker  
-[Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites  
-[Clipt](https://chrome.google.com/webstore/detail/clipt/ngpicahlgepngcpigiiebnheihgbaenh) - Clipboard in the cloud  
+[Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites    
 [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammar check and writing app  
 [Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Capture articles, videos, and anything else you find on the web  
 [Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards  
@@ -411,11 +408,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [sobrief](https://sobrief.com/) - Read any book in 10 minutes    
 [openlibrary](https://openlibrary.org/) - open, editable library catalog      
 
+**Search and Download Any Book**   
 [libgen.li](https://libgen.li/)  
 [z-lib](https://z-lib.gs/)     
 [archive.org](https://archive.org/)  
-[annas-archive](https://annas-archive.org/) - largest truly open library in human history  
-[tinywow](https://tinywow.com/)  
+[annas-archive](https://annas-archive.org/) - largest truly open library in human history     
 [openlibrary](https://openlibrary.org/)  
 [magazinelib](https://magazinelib.com/) - magazines    
 [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
