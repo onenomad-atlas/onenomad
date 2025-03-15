@@ -100,7 +100,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Africa      
 [jumia](https://group.jumia.com/) - The Leading E-commerce Platform in Africa    
-[asaak](https://www.asaak.com/) - asset financing company    f
+[asaak](https://www.asaak.com/) - asset financing company    
 
 ## Amazon
 
