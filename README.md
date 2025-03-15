@@ -603,6 +603,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [canva](http://www.canva.com/)  
 [pixlr](http://www.pixlr.com/)  
 [figma](http://www.figma.com/)  
+[storyblocks](https://www.storyblocks.com/)     
 [Home By Me](https://home.by.me/en/) - design your home in 3D    
 [virtualthreads](https://www.virtualthreads.io/) - free 3D tshirt mockup   
 [thenounproject](https://thenounproject.com/)  
@@ -1750,6 +1751,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 [Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts   
 [exclusivecarregistry](https://exclusivecarregistry.com/) - Preserving history about every unique car   
+[startmycar](https://www.startmycar.com/us)    
 
 ## Video and Animation
 
