@@ -6,6 +6,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ***
 
 - [📊 Accounting and Budget](#accounting-and-budget)
+- [🌍 Africa](#africa)    
 - [🛍️ Amazon](#amazon)
 - [🖥️ App and Web Development](#app-and-web-development)
 - [👚 Apparel](#apparel)
@@ -95,7 +96,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Personal Capital](https://www.personalcapital.com/) - Online financial advisor and personal wealth management company  
 [Mon Money](https://www.monarchmoney.com/) - The modern way to manage money  
 [Quicken](https://www.quicken.com/)  
-[NetSuite](https://www.netsuite.com/portal/home.shtml?noredirect=T)
+[NetSuite](https://www.netsuite.com/portal/home.shtml?noredirect=T)   
+
+## Africa      
+[jumia](https://group.jumia.com/) - The Leading E-commerce Platform in Africa    
+[asaak](https://www.asaak.com/) - asset financing company    f
 
 ## Amazon
 
