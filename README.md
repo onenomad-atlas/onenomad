@@ -203,7 +203,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Apps
 *Only for android*
 
-[photoroom](https://www.photoroom.com/) - Edit product photos  
 [NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
 [speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
 [Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
@@ -258,7 +257,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Artificial Intelligence   
 
-**AI Conversational**    
+**AI Conversational and Text**    
 [ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software    
 [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine     
 [Grok](https://x.ai/) - AI Software led by Elon Musk   
@@ -266,7 +265,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Claude](https://claude.ai/) - AI writing assistant   
 [Vetted](https://vetted.ai/) - AI shopping assistant    
 [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot   
-
+[jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources    
 
 [thebricks](https://www.thebricks.com/) - AI Spreadsheet    
 [Hugging Face](https://huggingface.co/) - the AI community building the future    
@@ -291,17 +290,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [openai](https://openai.com/) - AI research and deployment company  
 [comma.ai](https://comma.ai/) - Open source driver assistance system  
 [metaphysic.ai](https://metaphysic.ai/) - Hyperreal metaverse AI-generated content & web3 infrastructure  
-[omakaseai](https://omakaseai.com/) - Create your personal shopper AI agent with just a URL  
-[jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources  
+[omakaseai](https://omakaseai.com/) - Create your personal shopper AI agent with just a URL    
 [wellsaidlabs](https://wellsaidlabs.com/) - AI Text to Speech  
 [hypnogram.xyz](https://hypnogram.xyz/) - Generate images from text descriptions using AI  
 [craiyon](https://www.craiyon.com/) - AI model that can draw images from any text prompt  
 [beatoven](https://www.beatoven.ai/) - Advanced AI music generation  
 [generated.photos](https://generated.photos/) - Unique, worry-free model photos  
 [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you  
-[imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate image using text  
-[speechify](https://speechify.com/hero-v2/?landing_url=https%3A%2F%2Fspeechify.com%2Fhero-v2%2F) - AI text to speech  
-[photoroom](https://www.photoroom.com/) - Magic photo studio on the go  
+[imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate image using text   
 [firefly.adobe](https://firefly.adobe.com/)    
 
 ## Auctions    
@@ -687,6 +683,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [zamzar](https://www.zamzar.com/)    
 [cloudconvert](https://cloudconvert.com/)    
 [howtoconvert](https://howtoconvert.co/)    
+
+**Text To Speech Reader**    
+[speechify](https://speechify.com/)     
+
 
 [pdf](https://pdf.wondershare.com/) - Smart PDF Solutions  
 [notarize](https://www.notarize.com/) - Notarize online. Anywhere. Anytime.    
@@ -1110,6 +1110,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [pexels](https://www.pexels.com/)  
 [tineye](https://tineye.com/) - reverse image search  
 [Photoscan](https://www.google.com/photos/scan/) - Photos from the past, meet scanner from the future    
+[photoroom](https://www.photoroom.com/) - AI Photo Editor    
 
 ## India
 
