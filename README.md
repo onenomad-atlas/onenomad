@@ -1065,6 +1065,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Home  
  
 [ownwell](https://www.ownwell.com/) - reduce your property taxes  
+[bldr](https://www.bldr.com/)     
+[Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products       
+[Vornado](https://www.vornado.com/) - revolutionizing home comfort    
+[doitbest](https://www.doitbest.com/) - local hardware store    
+
 
 **Alarm**  
 [cove](https://www.covesmart.com/)  
@@ -1082,12 +1087,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [sunlux](https://sunlux.com/)  
 [tesla](https://www.tesla.com/energy)  
 [zenernet](https://zenernet.com/)  
-[sunpower](https://us.sunpower.com/)  
-
-**Other**  
-[bldr](https://www.bldr.com/)     
-[Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products       
-[Vornado](https://www.vornado.com/) - revolutionizing home comfort    
+[sunpower](https://us.sunpower.com/)    
 
 **Top Fan Brands**  
 [Hunter](https://www.hunterfan.com/)   
