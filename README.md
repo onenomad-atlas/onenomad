@@ -1520,6 +1520,8 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [shopgoodwill](https://shopgoodwill.com/home) - Shop Goodwill online  
 [jomashop](https://www.jomashop.com/)  
 [honestbrandreviews](https://www.honestbrandreviews.com/)   
+[looria](https://www.looria.com/) - The Internet's Favorite Products In One Place     
+[Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible      
 
 ## Smart Home 
 
