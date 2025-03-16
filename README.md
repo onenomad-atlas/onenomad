@@ -1308,6 +1308,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ## Newsletters
 
+[digest](https://www.usedigest.com/) - personalized newsletter    
 [morningbrew](https://www.morningbrew.com/) - tech  
 [qz](https://qz.com/emails/daily-brief) - daily briefing on the economy  
 [12ft](https://12ft.io/) - bypass ads & popups  
@@ -1762,6 +1763,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts   
 [exclusivecarregistry](https://exclusivecarregistry.com/) - Preserving history about every unique car   
 [startmycar](https://www.startmycar.com/us)    
+[wolfbox](https://wolfbox.com/) - dashcam & smart mirror    
 
 ## Video and Animation
 
