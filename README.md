@@ -1428,7 +1428,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 [priductive](https://priductive.com/) - search for a app that has your privacy in mind    
 
-**Password Managers**
+**Password Managers**   
 [keepassxc](https://keepassxc.org/)     
 [bitwarden](https://bitwarden.com/)    
 
