@@ -262,7 +262,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot   
 [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources    
 
-[thebricks](https://www.thebricks.com/) - AI Spreadsheet    
+[thebricks](https://www.thebricks.com/) - AI Spreadsheet     
+[Google AI Studio](https://aistudio.google.com/prompts/new_chat)      
 [Hugging Face](https://huggingface.co/) - the AI community building the future    
 [voicenotes](https://voicenotes.com/?via=website)  
 [getpickle](https://getpickle.ai/) - Your AI Body Double  
@@ -1815,7 +1816,9 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [Libre Office](https://www.libreoffice.org/) - Your private, free office suite   
 [Flow Launcher](https://www.flowlauncher.com/) -  Quick File Search & App Launcher for Windows    
 [Windows 11 Perfect Install](https://christitus.com/windows-11-perfect-install/) - debloat Windows   
-[Rufus](https://rufus.ie/en/) - create bootable usbs the easy way    
+[Rufus](https://rufus.ie/en/) - create bootable usbs the easy way     
+
+[Microsoft Office 365 Activation](https://github.com/abbodi1406/KMS_VL_ALL_AIO)      
 
 
 ## World Data
