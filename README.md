@@ -207,17 +207,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
 [Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
 [Samsung Band Selection](https://play.google.com/store/apps/details?id=com.ray.samsungbandselection&hl=en_US&gl=US) - Switch your 5G band to 4G or 3G  
-[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en_US&gl=US) - EPUB Reader  
 [Video to Wallpaper](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Set any video as your phone wallpaper  
-[Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines  
-[CapCut](https://www.capcut.net/) - Video Editor     
-[iLovePDF](https://play.google.com/store/apps/details?id=com.ilovepdf.www&hl=en_US&gl=US) - PDF Scanner & Editor  
+[Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines   
 [Medium](https://medium.com/) - Blogging platform  
 [Wallberry](https://play.google.com/store/apps/details?id=com.raj_arya.wallberry&hl=en_US&gl=US) - Wallpaper App  
-[Passport Photo Editor](https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US) - Passport size photo at home  
-[Overdrop](https://play.google.com/store/apps/details?id=widget.dd.com.overdrop.free&hl=en_US&gl=US) - Weather App  
+[Passport Photo Editor](https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US) - Passport size photo at home    
 [Font](https://forum.xda-developers.com/t/google-product-sans-for-android-10-oneui-2-5-samsung-phone.4203153/) - Install any font on Samsung  
-[snapdrop](https://snapdrop.net/) - Instantly share files  
 [pikashow](https://pikashow.su/) - Watch movies & TV shows  
 [cloudstream](https://github.com/recloudstream/cloudstream) - Movies and TV shows  
 [hdo](https://hdo.app/) - Movies and TV shows  
@@ -600,6 +595,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [lwks](https://lwks.com/) - video editing  
 [canva](http://www.canva.com/)  
 [pixlr](http://www.pixlr.com/)  
+[CapCut](https://www.capcut.net/) - Video Editor       
 [figma](http://www.figma.com/)  
 [storyblocks](https://www.storyblocks.com/)     
 [Home By Me](https://home.by.me/en/) - design your home in 3D    
@@ -683,6 +679,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Text To Speech Reader**    
 [speechify](https://speechify.com/)     
+[Voicepal](https://voicepal.org/)    
 
 
 [pdf](https://pdf.wondershare.com/) - Smart PDF Solutions  
@@ -1409,22 +1406,28 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ## Privacy
 
+**Messaging**   
+[keybase](https://keybase.io/)    
+[signal](https://signal.org/)    
+
 [sia.tech](https://sia.tech/)  
 [cryptomator](https://cryptomator.org/)  
 [hat.sh](https://hat.sh/)  
 [signal](https://signal.org/)  
 [ipfs](https://ipfs.io/)  
 [ente](https://ente.io/)  
-[crypt.ee](https://crypt.ee/)  
-[f-droid](https://f-droid.org/)  
-[priductive](https://priductive.com/)  
+[crypt.ee](https://crypt.ee/)    
 [syncthing](https://syncthing.net/)  
-[prism break](https://prism-break.org/en/) - Opt out of global data surveillance programs        
-[keepassxc](https://keepassxc.org/)  
-[puri.sm](https://puri.sm/)  
-[keybase](https://keybase.io/)  
+[prism break](https://prism-break.org/en/) - Opt out of global data surveillance programs          
+[puri.sm](https://puri.sm/)   
 [tailscale](https://tailscale.com/)   
 [Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
+
+[priductive](https://priductive.com/) - search for a app that has your privacy in mind    
+
+**Password Managers**
+[keepassxc](https://keepassxc.org/)     
+[bitwarden](https://bitwarden.com/)    
 
 **Feed**  
 [privacytools](https://www.privacytools.io/)  
@@ -1791,7 +1794,8 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 [earth](https://earth.nullschool.net/) - global map of wind, weather, and ocean conditions    
 [weathernext](https://deepmind.google/technologies/weathernext/#access-weathernext) - Google’s AI weather forecast tech  
-[zoom.earth](https://zoom.earth/) - live weather map
+[zoom.earth](https://zoom.earth/) - live weather map    
+[overdrop](https://get.overdrop.app/) - weather app    
 
 ## Windows  
 [PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US)  
