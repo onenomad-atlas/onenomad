@@ -201,7 +201,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [italic](https://italic.com/) - Luxury without labels
 
 ## Apps
-*Only for android*
+*Apps Only for android*
+
+[alternativeto](https://alternativeto.net/) - search for a alternative app    
 
 [NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
 [speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
