@@ -414,7 +414,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [openlibrary](https://openlibrary.org/)  
 [magazinelib](https://magazinelib.com/) - magazines    
 [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
-[booksalefinder](https://www.booksalefinder.com/) - find a book sale near you     
 
 **E-Readers**     
 [calibre](https://calibre-ebook.com/) - one-stop solutions for all your e-book needs    
