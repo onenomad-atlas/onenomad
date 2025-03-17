@@ -1763,7 +1763,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ## Vehicles
 
-**Devices**
+**Devices**   
 [wolfbox](https://wolfbox.com/) - dashcam & smart mirror       
 
 [lucid](https://lucidmotors.com/)  
