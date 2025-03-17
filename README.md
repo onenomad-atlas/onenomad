@@ -275,8 +275,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [synthesia](https://www.synthesia.io/) - free AI Video Generator    
 [runwayml](https://runwayml.com/) - Tools for human imagination    
 [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
-[speechcentral](https://speechcentral.net/) - The world leading text-to-speech AI app  
-[snipd](https://www.snipd.com/) - Discover and save highlights in podcasts  
 [curiosity.ai](https://curiosity.ai/) - Search everything everywhere  
 [Github Copilot](https://github.com/features/copilot) - AI Pair Programmer  
 [character](https://beta.character.ai/) - Create characters and talk to them  
@@ -287,7 +285,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [comma.ai](https://comma.ai/) - Open source driver assistance system  
 [metaphysic.ai](https://metaphysic.ai/) - Hyperreal metaverse AI-generated content & web3 infrastructure  
 [omakaseai](https://omakaseai.com/) - Create your personal shopper AI agent with just a URL    
-[wellsaidlabs](https://wellsaidlabs.com/) - AI Text to Speech  
 [hypnogram.xyz](https://hypnogram.xyz/) - Generate images from text descriptions using AI  
 [craiyon](https://www.craiyon.com/) - AI model that can draw images from any text prompt  
 [beatoven](https://www.beatoven.ai/) - Advanced AI music generation  
@@ -683,6 +680,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Text To Speech Reader**    
 [speechify](https://speechify.com/)     
 [Voicepal](https://voicepal.org/)    
+[speechcentral](https://speechcentral.net/) - The world leading text-to-speech AI app    
+[eleven labs](https://elevenlabs.io/text-to-speech)     
 
 
 [pdf](https://pdf.wondershare.com/) - Smart PDF Solutions  
@@ -1373,6 +1372,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 **Platforms**    
 [Hark](https://harkaudio.com/) - handpicked amazing podcast moments    
+[snipd](https://www.snipd.com/) - Discover and save highlights in podcasts     
 
 ### Podcasts
 
