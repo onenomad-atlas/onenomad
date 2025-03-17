@@ -1414,20 +1414,18 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [keybase](https://keybase.io/)    
 [signal](https://signal.org/)    
 
-[sia.tech](https://sia.tech/)  
-[cryptomator](https://cryptomator.org/)  
-[hat.sh](https://hat.sh/)  
-[signal](https://signal.org/)  
-[ipfs](https://ipfs.io/)  
+**Cloud Storage**
 [ente](https://ente.io/)  
-[crypt.ee](https://crypt.ee/)    
-[syncthing](https://syncthing.net/)  
-[prism break](https://prism-break.org/en/) - Opt out of global data surveillance programs          
-[puri.sm](https://puri.sm/)   
-[tailscale](https://tailscale.com/)   
-[Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
+[crypt.ee](https://crypt.ee/)     
 
-[priductive](https://priductive.com/) - search for a app that has your privacy in mind    
+**Encryption**
+[cryptomator](https://cryptomator.org/)  
+[hat.sh](https://hat.sh/)    
+[sia.tech](https://sia.tech/)    
+
+**Apps**
+[priductive](https://priductive.com/) - search for a app that has your privacy in mind     
+[prism break](https://prism-break.org/en/) - Opt out of global data surveillance programs    
 
 **Password Managers**   
 [keepassxc](https://keepassxc.org/)     
@@ -1439,6 +1437,11 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)   
 [champagne](https://champagne.pages.dev/)    
 
+[ipfs](https://ipfs.io/)   
+[syncthing](https://syncthing.net/)  
+[puri.sm](https://puri.sm/)   
+[tailscale](https://tailscale.com/)   
+[Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
 
 ## Productivity
 
