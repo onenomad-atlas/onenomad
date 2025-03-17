@@ -407,10 +407,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [openlibrary](https://openlibrary.org/) - open, editable library catalog      
 
 **Search and Download Any Book**   
+[annas-archive](https://annas-archive.org/) - largest truly open library in human history      
 [libgen.li](https://libgen.li/)  
 [z-lib](https://z-lib.gs/)     
 [archive.org](https://archive.org/)  
-[annas-archive](https://annas-archive.org/) - largest truly open library in human history     
 [openlibrary](https://openlibrary.org/)  
 [magazinelib](https://magazinelib.com/) - magazines    
 [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
@@ -455,6 +455,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [microsaasidea](https://microsaasidea.com/) - newsletter for techies and marketers  
 [answerthepublic](https://answerthepublic.com/) - discover what people are asking about  
 [opencorporates](https://opencorporates.com/) - company data  
+
+**POS**   
+[Stripe](https://stripe.com/terminal)    
+[Toast](https://pos.toasttab.com/) - mainly for restaurants        
+[Square](https://squareup.com/us/en)      
+[Clover](https://www.clover.com/)    
+[lightspeed](https://www.lightspeedhq.com/)     
 
 
 ## Buyer Clubs
