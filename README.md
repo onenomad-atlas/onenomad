@@ -1414,7 +1414,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [keybase](https://keybase.io/)    
 [signal](https://signal.org/)    
 
-**Cloud Storage**
+**Cloud Storage**    
 [ente](https://ente.io/)  
 [crypt.ee](https://crypt.ee/)     
 
