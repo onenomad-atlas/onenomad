@@ -18,6 +18,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [✈️ Aviation and Vessel Tracker](#Aviation-and-Vessel-Tracker)
 - [🛁 Bath and Beauty](#bath-and-beauty)
 - [🛏️ Bed](#bed)
+- [🧬 Bioscience](#bioscience)    
 - [📚 Books](#books)
 - [🌍 Browser and Extensions](#browser-and-Extensions)
 - [📈 Business](#business)
@@ -383,6 +384,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Resources**  
 [sleeplikethedead](https://www.sleeplikethedead.com/)  
 
+## Bioscience    
+[colossal](https://colossal.com/) - Solving the Colossal Problem of Extinction
 
 ## Browser and Extensions   
 
@@ -1530,11 +1533,11 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place     
 [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible      
 
-## Smart Home 
+## Smart Home    
 
 [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
 
-**Products**
+**Products**    
 [Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs       
 
 **Technology**   
@@ -1761,13 +1764,15 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ## Vehicles
 
+**Devices**
+[wolfbox](https://wolfbox.com/) - dashcam & smart mirror       
+
 [lucid](https://lucidmotors.com/)  
 [rivian](https://rivian.com/)    
 
 [Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts   
 [exclusivecarregistry](https://exclusivecarregistry.com/) - Preserving history about every unique car   
 [startmycar](https://www.startmycar.com/us)    
-[wolfbox](https://wolfbox.com/) - dashcam & smart mirror    
 
 ## Video and Animation
 
