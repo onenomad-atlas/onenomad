@@ -1376,7 +1376,7 @@ Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai
 
 ### Podcasts
 
-# Podcast List   
+**Podcast List**   
 
 [ACQ2 by Acquired](https://www.acquired.fm/)    
 [Acquired](https://www.acquired.fm/)   
