@@ -15,7 +15,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🤖 Artificial Intelligence](#artificial-intelligence)
 - [💸 Auctions](#auctions)
 - [🎶 Audio and Music](#audio-and-music)
-- [✈️ Aviation and Flight](#aviation-and-flight)
+- [✈️ Aviation and Vessel Tracker](#Aviation-and-Vessel-Tracker)
 - [🛁 Bath and Beauty](#bath-and-beauty)
 - [🛏️ Bed](#bed)
 - [📚 Books](#books)
