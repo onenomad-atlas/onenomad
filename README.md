@@ -121,209 +121,209 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## App and Web Development
 
-[lovable](https://lovable.dev/)  
-[builder](https://www.builder.io/)  
-[warp](https://www.warp.dev/)  
-[webflow](https://webflow.com/)  
-[firebase](https://firebase.google.com/)  
-[flutterflow](https://www.flutterflow.io/)  
-[co](https://www.co.dev/)  
-[Vercel](https://vercel.com/) - Your complete platform for the web    
-[IDX](https://idx.google.com) - Start building your app in the cloud   
-[hackertab](https://hackertab.dev/) - Developer news    
-[Zoo](https://zoo.dev/) - creates infrastructure for hardware design
+- [lovable](https://lovable.dev/)  
+- [builder](https://www.builder.io/)  
+- [warp](https://www.warp.dev/)  
+- [webflow](https://webflow.com/)  
+- [firebase](https://firebase.google.com/)  
+- [flutterflow](https://www.flutterflow.io/)  
+- [co](https://www.co.dev/)  
+- [Vercel](https://vercel.com/) - Your complete platform for the web    
+- [IDX](https://idx.google.com) - Start building your app in the cloud   
+- [hackertab](https://hackertab.dev/) - Developer news    
+- [Zoo](https://zoo.dev/) - creates infrastructure for hardware design
 
 **Web Platforms**   
-[carrd](http://www.carrd.co/)  
-[squarespace](https://www.squarespace.com/)  
-[shopify](https://www.shopify.com/)  
-[square](https://squareup.com/us/en)  
-[wix](https://www.wix.com/)  
-[weebly](https://www.weebly.com/websites?c=mkt_w_chnl:semb_geo:US_prtnr:ggl_camp:G-S-Brand-EM-US_campid:257473334_ag:weebly_agid:15054213254_kw:weebly_mt:e_dvc:c&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_ZcU7aB3a-TrdGF-mD95aBEQldZwbLWP0u_wL1F3b5JnWugHCYEj0aAlz_EALw_wcB)  
-[godaddy](https://www.godaddy.com/) - Domain  
-[mailchimp](https://mailchimp.com/)  
-[wordpress](https://wordpress.com/)  
-[bigcommerce](https://www.bigcommerce.com/)  
+- [carrd](http://www.carrd.co/)  
+- [squarespace](https://www.squarespace.com/)  
+- [shopify](https://www.shopify.com/)  
+- [square](https://squareup.com/us/en)  
+- [wix](https://www.wix.com/)  
+- [weebly](https://www.weebly.com/websites?c=mkt_w_chnl:semb_geo:US_prtnr:ggl_camp:G-S-Brand-EM-US_campid:257473334_ag:weebly_agid:15054213254_kw:weebly_mt:e_dvc:c&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_ZcU7aB3a-TrdGF-mD95aBEQldZwbLWP0u_wL1F3b5JnWugHCYEj0aAlz_EALw_wcB)  
+- [godaddy](https://www.godaddy.com/) - Domain  
+- [mailchimp](https://mailchimp.com/)  
+- [wordpress](https://wordpress.com/)  
+- [bigcommerce](https://www.bigcommerce.com/)  
 
 **Coding**  
-[freecodecamp.org](https://www.freecodecamp.org/)  
-[Geekforgeeks](https://www.geeksforgeeks.org/)  
-[W3schools](https://www.w3schools.com/)  
-[Hackerrank](https://www.hackerrank.com/)  
-[Leetcode](https://leetcode.com/)  
-[Code wars](https://www.codewars.com/)  
-[Mulesoft](https://www.mulesoft.com/)  
-[roadmap](https://roadmap.sh/) - community effort to create roadmaps, guides and other educational content  
-[hacksplaining](https://www.hacksplaining.com/)  
-[Visual Studio](https://code.visualstudio.com/)  
+- [freecodecamp.org](https://www.freecodecamp.org/)  
+- [Geekforgeeks](https://www.geeksforgeeks.org/)  
+- [W3schools](https://www.w3schools.com/)  
+- [Hackerrank](https://www.hackerrank.com/)  
+- [Leetcode](https://leetcode.com/)  
+- [Code wars](https://www.codewars.com/)  
+- [Mulesoft](https://www.mulesoft.com/)  
+- [roadmap](https://roadmap.sh/) - community effort to create roadmaps, guides and other educational content  
+- [hacksplaining](https://www.hacksplaining.com/)  
+- [Visual Studio](https://code.visualstudio.com/)  
 
 ## Apparel
 
 **Activewear**  
-[lululemon](https://shop.lululemon.com/)  
-[hylete](https://www.hylete.com/)  
-[athleta](https://athleta.gap.com/)  
-[vuori](https://vuoriclothing.com/)  
-[aloyoga](https://www.aloyoga.com/)  
-[alphalete](https://alphaleteathletics.com/)   
-[Vorzani](https://vorzani.com/)    
-[CRZ Yoga](https://us.crzyoga.com/)     
+- [lululemon](https://shop.lululemon.com/)  
+- [hylete](https://www.hylete.com/)  
+- [athleta](https://athleta.gap.com/)  
+- [vuori](https://vuoriclothing.com/)  
+- [aloyoga](https://www.aloyoga.com/)  
+- [alphalete](https://alphaleteathletics.com/)   
+- [Vorzani](https://vorzani.com/)    
+- [CRZ Yoga](https://us.crzyoga.com/)     
 
 **Casual & Formal**  
-[ae](https://www.ae.com/us/en)  
-[everlane](https://www.everlane.com/)  
-[mango](https://shop.mango.com/us)  
-[zara](https://www.zara.com/us/)  
-[charlestyrwhitt](https://www.charlestyrwhitt.com/)     
-[Todd Snyder](https://www.toddsnyder.com/)     
+- [ae](https://www.ae.com/us/en)  
+- [everlane](https://www.everlane.com/)  
+- [mango](https://shop.mango.com/us)  
+- [zara](https://www.zara.com/us/)  
+- [charlestyrwhitt](https://www.charlestyrwhitt.com/)     
+- [Todd Snyder](https://www.toddsnyder.com/)     
 
 **Lifestyle**  
-[billabong](https://www.billabong.com/mens/)  
-[carhartt](https://www.carhartt.com/)  
-[kith](https://kith.com/)  
-[huckberry](https://huckberry.com/?utm_source=search&utm_medium=googlep&utm_campaign=search-brand&utm_campaignid=348018922&gad_source=1&gclid=Cj0KCQiAo5u6BhDJARIsAAVoDWvs1FweZoOFdpU9xzQWieQ2EYcVIMHN2qoNhjR5S3MOPhPnaUcase0aAnLMEALw_wcB)  
-[mackweldon](https://mackweldon.com/)  
-[everlane](https://www.everlane.com/)  
-[thenormalbrand](https://thenormalbrand.com/)  
+- [billabong](https://www.billabong.com/mens/)  
+- [carhartt](https://www.carhartt.com/)  
+- [kith](https://kith.com/)  
+- [huckberry](https://huckberry.com/?utm_source=search&utm_medium=googlep&utm_campaign=search-brand&utm_campaignid=348018922&gad_source=1&gclid=Cj0KCQiAo5u6BhDJARIsAAVoDWvs1FweZoOFdpU9xzQWieQ2EYcVIMHN2qoNhjR5S3MOPhPnaUcase0aAnLMEALw_wcB)  
+- [mackweldon](https://mackweldon.com/)  
+- [everlane](https://www.everlane.com/)  
+- [thenormalbrand](https://thenormalbrand.com/)  
 
 **Outerwear**  
-[northface](https://www.thenorthface.com/)  
-[patagonia](https://www.patagonia.com/home/)  
-[backcountry](https://www.backcountry.com/)  
-[rei](https://www.rei.com/)  
+- [northface](https://www.thenorthface.com/)  
+- [patagonia](https://www.patagonia.com/home/)  
+- [backcountry](https://www.backcountry.com/)  
+- [rei](https://www.rei.com/)  
 
 **Other**  
-[alphabroder](http://www.alphabroder.com/) - Wholesale  
-[Jomashop](https://www.jomashop.com/) - Best prices on products  
-[tiebar](http://www.thetiebar.com/) - Quality made menswear  
-[shein](https://us.shein.com/) - Exclusive discounts and latest trends  
-[italic](https://italic.com/) - Luxury without labels
+- [alphabroder](http://www.alphabroder.com/) - Wholesale  
+- [Jomashop](https://www.jomashop.com/) - Best prices on products  
+- [tiebar](http://www.thetiebar.com/) - Quality made menswear  
+- [shein](https://us.shein.com/) - Exclusive discounts and latest trends  
+- [italic](https://italic.com/) - Luxury without labels
 
 ## Apps
 *Apps Only for android*
 
-[alternativeto](https://alternativeto.net/) - search for a alternative app    
+- [alternativeto](https://alternativeto.net/) - search for a alternative app    
 
-[NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
-[speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
-[Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
-[Samsung Band Selection](https://play.google.com/store/apps/details?id=com.ray.samsungbandselection&hl=en_US&gl=US) - Switch your 5G band to 4G or 3G  
-[Video to Wallpaper](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Set any video as your phone wallpaper  
-[Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines   
-[Medium](https://medium.com/) - Blogging platform  
-[Wallberry](https://play.google.com/store/apps/details?id=com.raj_arya.wallberry&hl=en_US&gl=US) - Wallpaper App  
-[Passport Photo Editor](https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US) - Passport size photo at home    
-[Font](https://forum.xda-developers.com/t/google-product-sans-for-android-10-oneui-2-5-samsung-phone.4203153/) - Install any font on Samsung  
-[pikashow](https://pikashow.su/) - Watch movies & TV shows  
-[cloudstream](https://github.com/recloudstream/cloudstream) - Movies and TV shows  
-[hdo](https://hdo.app/) - Movies and TV shows  
-[Seal](https://github.com/JunkFood02/Seal) - Audio and video downloader  
-[snaptube](https://www.snaptubeapp.com/) - Audio and video downloader  
-[video.downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader&hl=en_US&gl=US)  
-[rapidstreamz](https://www.rapidstreamz.tv/) - Live TV  
-[tvtap](https://tvtap-pro.net/) - Live TV  
-[livenettv](https://www.livenettv.vip/) - Live TV    
-[Modyolo](https://modyolo.com/) - modded apps    
-[Liteapks](https://liteapks.com/) - modded apps    
-[TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
-
+- [NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
+- [speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
+- [Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
+- [Samsung Band Selection](https://play.google.com/store/apps/details?id=com.ray.samsungbandselection&hl=en_US&gl=US) - Switch your 5G band to 4G or 3G  
+- [Video to Wallpaper](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Set any video as your phone wallpaper  
+- [Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines   
+- [Medium](https://medium.com/) - Blogging platform  
+- [Wallberry](https://play.google.com/store/apps/details?id=com.raj_arya.wallberry&hl=en_US&gl=US) - Wallpaper App  
+- [Passport Photo Editor](https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US) - Passport size photo at home    
+- [Font](https://forum.xda-developers.com/t/google-product-sans-for-android-10-oneui-2-5-samsung-phone.4203153/) - Install any font on Samsung  
+- [pikashow](https://pikashow.su/) - Watch movies & TV shows  
+- [cloudstream](https://github.com/recloudstream/cloudstream) - Movies and TV shows  
+- [hdo](https://hdo.app/) - Movies and TV shows  
+- [Seal](https://github.com/JunkFood02/Seal) - Audio and video downloader  
+- [snaptube](https://www.snaptubeapp.com/) - Audio and video downloader  
+- [video.downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader&hl=en_US&gl=US)  
+- [rapidstreamz](https://www.rapidstreamz.tv/) - Live TV  
+- [tvtap](https://tvtap-pro.net/) - Live TV  
+- [livenettv](https://www.livenettv.vip/) - Live TV    
+- [Modyolo](https://modyolo.com/) - modded apps    
+- [Liteapks](https://liteapks.com/) - modded apps    
+- [TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
 
 ## Architecture
 
 **Architecture Firms**  
-[som](https://www.som.com/) - Skidmore, Owings & Merrill  
-[kpf](https://www.kpf.com/) - Kohn Pedersen Fox  
-[gensler](https://www.gensler.com/)  
-[smithgill](http://smithgill.com/) - Adrian Smith + Gordon Gill Architecture   
-[perkinswill](https://perkinswill.com/)    
-[Kohn Pedersen Fox](https://www.kpf.com/)     
+- [som](https://www.som.com/) - Skidmore, Owings & Merrill  
+- [kpf](https://www.kpf.com/) - Kohn Pedersen Fox  
+- [gensler](https://www.gensler.com/)  
+- [smithgill](http://smithgill.com/) - Adrian Smith + Gordon Gill Architecture   
+- [perkinswill](https://perkinswill.com/)    
+- [Kohn Pedersen Fox](https://www.kpf.com/)     
 
 **International Firms**   
-[RPBW](https://www.rpbw.com/)    
-[BIG](https://big.dk/#projects)   
-[Zaha Hadid](https://www.zaha-hadid.com/)   
-[fosterandpartners](https://www.fosterandpartners.com/)  
-[farshidmoussavi](https://www.farshidmoussavi.com/)    
+- [RPBW](https://www.rpbw.com/)    
+- [BIG](https://big.dk/#projects)   
+- [Zaha Hadid](https://www.zaha-hadid.com/)   
+- [fosterandpartners](https://www.fosterandpartners.com/)  
+- [farshidmoussavi](https://www.farshidmoussavi.com/)    
 
 **Landscape Firms**     
-[Ken Smith](http://kensmithworkshop.com/)     
-[Nelson Byrd Woltz](https://www.nbwla.com/)    
+- [Ken Smith](http://kensmithworkshop.com/)     
+- [Nelson Byrd Woltz](https://www.nbwla.com/)    
 
 ## Artificial Intelligence   
 
 **AI Conversational and Text**    
-[ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software    
-[Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine     
-[Grok](https://x.ai/) - AI Software led by Elon Musk   
-[Deepseek](https://www.deepseek.com/) - AI Search Engine From China   
-[Claude](https://claude.ai/) - AI writing assistant   
-[Vetted](https://vetted.ai/) - AI shopping assistant    
-[Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot   
-[jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources    
+- [ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software    
+- [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine     
+- [Grok](https://x.ai/) - AI Software led by Elon Musk   
+- [Deepseek](https://www.deepseek.com/) - AI Search Engine From China   
+- [Claude](https://claude.ai/) - AI writing assistant   
+- [Vetted](https://vetted.ai/) - AI shopping assistant    
+- [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot   
+- [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources    
 
-[thebricks](https://www.thebricks.com/) - AI Spreadsheet     
-[Google AI Studio](https://aistudio.google.com/prompts/new_chat)      
-[Hugging Face](https://huggingface.co/) - the AI community building the future    
-[voicenotes](https://voicenotes.com/?via=website)  
-[getpickle](https://getpickle.ai/) - Your AI Body Double  
-[kompas](https://kompas.ai/dashboard/landing) - Generate a report  
-[cursor](https://www.cursor.com/) - The AI Code Editor   
-[Gamma](https://gamma.app/) - create presentations & websites with AI    
-[stowaway](https://www.stowaway.io/) - Take your business where you already are  
-[Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world    
-[synthesia](https://www.synthesia.io/) - free AI Video Generator    
-[runwayml](https://runwayml.com/) - Tools for human imagination    
-[recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
-[curiosity.ai](https://curiosity.ai/) - Search everything everywhere  
-[Github Copilot](https://github.com/features/copilot) - AI Pair Programmer  
-[character](https://beta.character.ai/) - Create characters and talk to them  
-[elevenlabs.io](https://elevenlabs.io/) - Text to Speech & AI Voice Generator    
-[speedwrite](https://speedwrite.com/) - Automatic text generator  
-[hotpot.ai](https://hotpot.ai/) - Makes graphic design and image editing easy  
-[openai](https://openai.com/) - AI research and deployment company  
-[comma.ai](https://comma.ai/) - Open source driver assistance system  
-[metaphysic.ai](https://metaphysic.ai/) - Hyperreal metaverse AI-generated content & web3 infrastructure  
-[omakaseai](https://omakaseai.com/) - Create your personal shopper AI agent with just a URL    
-[hypnogram.xyz](https://hypnogram.xyz/) - Generate images from text descriptions using AI  
-[craiyon](https://www.craiyon.com/) - AI model that can draw images from any text prompt  
-[beatoven](https://www.beatoven.ai/) - Advanced AI music generation  
-[generated.photos](https://generated.photos/) - Unique, worry-free model photos  
-[beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you  
-[imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate image using text   
-[firefly.adobe](https://firefly.adobe.com/)    
+- [thebricks](https://www.thebricks.com/) - AI Spreadsheet     
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)      
+- [Hugging Face](https://huggingface.co/) - the AI community building the future    
+- [voicenotes](https://voicenotes.com/?via=website)  
+- [getpickle](https://getpickle.ai/) - Your AI Body Double  
+- [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
+- [cursor](https://www.cursor.com/) - The AI Code Editor   
+- [Gamma](https://gamma.app/) - create presentations & websites with AI    
+- [stowaway](https://www.stowaway.io/) - Take your business where you already are  
+- [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world    
+- [synthesia](https://www.synthesia.io/) - free AI Video Generator    
+- [runwayml](https://runwayml.com/) - Tools for human imagination    
+- [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
+- [curiosity.ai](https://curiosity.ai/) - Search everything everywhere  
+- [Github Copilot](https://github.com/features/copilot) - AI Pair Programmer   
+- [character](https://beta.character.ai/) - Create characters and talk to them   
+- [elevenlabs.io](https://elevenlabs.io/) - Text to Speech & AI Voice Generator    
+- [speedwrite](https://speedwrite.com/) - Automatic text generator  
+- [hotpot.ai](https://hotpot.ai/) - Makes graphic design and image editing easy  
+- [openai](https://openai.com/) - AI research and deployment company  
+- [comma.ai](https://comma.ai/) - Open source driver assistance system  
+- [metaphysic.ai](https://metaphysic.ai/) - Hyperreal metaverse AI-generated content & web3 infrastructure  
+- [omakaseai](https://omakaseai.com/) - Create your personal shopper AI agent with just a URL    
+- [hypnogram.xyz](https://hypnogram.xyz/) - Generate images from text descriptions using AI  
+- [craiyon](https://www.craiyon.com/) - AI model that can draw images from any text prompt  
+- [beatoven](https://www.beatoven.ai/) - Advanced AI music generation  
+- [generated.photos](https://generated.photos/) - Unique, worry-free model photos  
+- [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you  
+- [imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate image using text   
+- [firefly.adobe](https://firefly.adobe.com/)    
 
 ## Auctions    
- 
-[ha](https://www.ha.com/) - Auction house  
-[Copart](https://www.copart.com/) - Cars and other vehicles  
-[IAAI](https://www.iaai.com/) - Cars and other vehicles  
-[liveauctioneers](https://www.liveauctioneers.com/) - One-of-a-kind art, antiques & luxury goods   
-[sothebys](https://www.sothebys.com/en/) - world’s premier destination for art and luxury   
-[rmsothebys](https://rmsothebys.com) - luxury cars for auction  
+
+- [ha](https://www.ha.com/) - Auction house  
+- [Copart](https://www.copart.com/) - Cars and other vehicles  
+- [IAAI](https://www.iaai.com/) - Cars and other vehicles  
+- [liveauctioneers](https://www.liveauctioneers.com/) - One-of-a-kind art, antiques & luxury goods   
+- [sothebys](https://www.sothebys.com/en/) - world’s premier destination for art and luxury   
+- [rmsothebys](https://rmsothebys.com) - luxury cars for auction  
 
 ## Audio and Music
 
 **Products**
 
-[moondroplab](https://moondroplab.com/en/home)  
-[wh1000xm5](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b?srsltid=AfmBOopoTGcg4eZ14yrnTRkZOPInE6v4TKENorZFDrcxm4ajzi-y46xt)  
+- [moondroplab](https://moondroplab.com/en/home)  
+- [wh1000xm5](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b?srsltid=AfmBOopoTGcg4eZ14yrnTRkZOPInE6v4TKENorZFDrcxm4ajzi-y46xt)  
 
 ---
 
-[tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another  
-[soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another  
-[epidemicsound](https://www.epidemicsound.com/) - Bring your story to life with music and sounds  
-[Artlist](https://artlist.io/) - Royalty-free music and SFX for your videos  
-[poolside](https://poolsuite.net/) - Relaxing music playlist  
-[NewPipe](https://newpipe.net/) - Android  
-[ytmp3.cc](https://ytmp3.cc/) - YouTube to MP3 downloader  
-[y2mate.is](https://y2mate.is/) - YouTube to MP4 downloader  
-[vocalremover](https://vocalremover.org/) - Vocal Remover and Isolation  
-[soundguys](https://www.soundguys.com/) - Voice for the world of consumer audio users  
-[radio.garden](http://radio.garden/?r=1) - Listen to the world’s radios  
-[image-line](https://www.image-line.com/) - FL Studio  
-[audacity](https://www.audacityteam.org/) - Audio editor  
-[cobalt.tools](https://cobalt.tools/) - Download music & video from any site
+- [tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another  
+- [soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another  
+- [epidemicsound](https://www.epidemicsound.com/) - Bring your story to life with music and sounds  
+- [Artlist](https://artlist.io/) - Royalty-free music and SFX for your videos  
+- [poolside](https://poolsuite.net/) - Relaxing music playlist  
+- [NewPipe](https://newpipe.net/) - Android  
+- [ytmp3.cc](https://ytmp3.cc/) - YouTube to MP3 downloader  
+- [y2mate.is](https://y2mate.is/) - YouTube to MP4 downloader  
+- [vocalremover](https://vocalremover.org/) - Vocal Remover and Isolation  
+- [soundguys](https://www.soundguys.com/) - Voice for the world of consumer audio users  
+- [radio.garden](http://radio.garden/?r=1) - Listen to the world’s radios  
+- [image-line](https://www.image-line.com/) - FL Studio  
+- [audacity](https://www.audacityteam.org/) - Audio editor  
+- [cobalt.tools](https://cobalt.tools/) - Download music & video from any site
+
 
 
 ## Aviation and Vessel Tracker
