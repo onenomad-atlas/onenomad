@@ -100,26 +100,24 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [NetSuite](https://www.netsuite.com/portal/home.shtml?noredirect=T)   
 
 ## Africa      
-[jumia](https://group.jumia.com/) - The Leading E-commerce Platform in Africa    
-[asaak](https://www.asaak.com/) - asset financing company    
+- [jumia](https://group.jumia.com/) - The Leading E-commerce Platform in Africa    
+- [asaak](https://www.asaak.com/) - asset financing company    
 
 ## Amazon
 
-**Buyer**
+**Buyer**    
+- [camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker  
+- [myvipon](https://www.myvipon.com/) - Amazon Products at Huge Discounts   
+- [Keepa](https://keepa.com/#!) - Amazon Price Tracker    
+- [deals](https://www.amazon.com/deals?ref_=nav_cs_gb) - Amazon’s today deals  
+- [Amazon Outlet](https://www.amazon.com/outlet) - Online deals and find low prices on markdowns and overstocks for items  
 
-[camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker  
-[myvipon](https://www.myvipon.com/) - Amazon Products at Huge Discounts   
-[Keepa](https://keepa.com/#!) - Amazon Price Tracker    
-[deals](https://www.amazon.com/deals?ref_=nav_cs_gb) - Amazon’s today deals  
-[Amazon Outlet](https://www.amazon.com/outlet) - Online deals and find low prices on markdowns and overstocks for items  
-
-**Seller**
-
-[Helium10](https://www.helium10.com/) - Software for Amazon FBA Sellers & Walmart Sellers     
-[fbatoolkit](https://fbatoolkit.com/) - Comprehensive set of tools for sellers  
-[junglescout](https://www.junglescout.com/) - Amazon Seller Software & Product Research  
-[cjdropshipping](https://cjdropshipping.com/) - Dropshipping  
-[inventorysource](https://www.inventorysource.com/) - Dropship Automation Software
+**Seller**      
+- [Helium10](https://www.helium10.com/) - Software for Amazon FBA Sellers & Walmart Sellers     
+- [fbatoolkit](https://fbatoolkit.com/) - Comprehensive set of tools for sellers  
+- [junglescout](https://www.junglescout.com/) - Amazon Seller Software & Product Research  
+- [cjdropshipping](https://cjdropshipping.com/) - Dropshipping  
+- [inventorysource](https://www.inventorysource.com/) - Dropship Automation Software
 
 ## App and Web Development
 
