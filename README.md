@@ -106,7 +106,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Amazon
 
 **Buyer**    
-- [camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker  
+- [camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker
 - [myvipon](https://www.myvipon.com/) - Amazon Products at Huge Discounts   
 - [Keepa](https://keepa.com/#!) - Amazon Price Tracker    
 - [deals](https://www.amazon.com/deals?ref_=nav_cs_gb) - Amazon’s today deals  
