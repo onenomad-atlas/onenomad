@@ -121,8 +121,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Android        
 
-- [alternativeto](https://alternativeto.net/) - search for a alternative app    
-
+- [alternativeto](https://alternativeto.net/) - search for a alternative app      
 - [NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
 - [speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
 - [Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
