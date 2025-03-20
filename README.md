@@ -322,144 +322,153 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [image-line](https://www.image-line.com/) - FL Studio  
 - [audacity](https://www.audacityteam.org/) - Audio editor  
 - [cobalt.tools](https://cobalt.tools/) - Download music & video from any site
+  
 
-
-
-## Aviation and Vessel Tracker
+## Aviation and Vessel Tracker  
 
 **Flight Tracker**  
-[adsbexchange](https://globe.adsbexchange.com/)    
-[flightaware](https://www.flightaware.com/)    
-[flightradar24](https://www.flightradar24.com/51.47,0.46/6)    
-[Flighty](https://flighty.com/) - Live Flight Tracker    
-[Vessel Finder](https://www.vesselfinder.com/) - ship & container tracking     
+- [adsbexchange](https://globe.adsbexchange.com/)  
+- [flightaware](https://www.flightaware.com/)  
+- [flightradar24](https://www.flightradar24.com/51.47,0.46/6)  
+- [Flighty](https://flighty.com/) - Live Flight Tracker  
+- [Vessel Finder](https://www.vesselfinder.com/) - ship & container tracking  
 
-## Bath and Beauty
+---
 
-[harrys](http://www.harrys.com/)  
-[dollarshaveclub](http://www.dollarshaveclub.com/)  
-[burtsbees](http://www.burtsbees.com/)  
-[sheamoisture](http://www.sheamoisture.com/)  
-[villagenaturalstherapy](http://www.villagenaturalstherapy.com/)  
-[native](https://www.nativecos.com/)  
-[hello](https://www.hello-products.com/)  
-[myro](https://www.mymyro.com/)  
-[flamingo](https://www.shopflamingo.com/en/us)  
-[rawsugarliving](https://rawsugarliving.com/)  
-[method](https://methodproducts.com/)  
+## Bath and Beauty  
 
-## Bed
+- [harrys](http://www.harrys.com/)  
+- [dollarshaveclub](http://www.dollarshaveclub.com/)  
+- [burtsbees](http://www.burtsbees.com/)  
+- [sheamoisture](http://www.sheamoisture.com/)  
+- [villagenaturalstherapy](http://www.villagenaturalstherapy.com/)  
+- [native](https://www.nativecos.com/)  
+- [hello](https://www.hello-products.com/)  
+- [myro](https://www.mymyro.com/)  
+- [flamingo](https://www.shopflamingo.com/en/us)  
+- [rawsugarliving](https://rawsugarliving.com/)  
+- [method](https://methodproducts.com/)  
 
-**Mattresses**  
-[purple](https://purple.com/)  
-[avocadogreenmattress](https://www.avocadogreenmattress.com/)  
-[tuftandneedle](https://www.tuftandneedle.com/)  
-[casper](https://casper.com/)  
-[helixsleep](https://helixsleep.com/)  
-[nectar](https://www.nectarsleep.com/)  
-[saatva](https://www.saatva.com/)  
-[allswellhome](https://allswellhome.com/)  
-[zinus](https://www.zinus.com/)  
-[tempurpedic](https://www.tempurpedic.com/)  
-[stearnsandfoster](https://www.stearnsandfoster.com/)  
-[cocoonbysealy](https://www.cocoonbysealy.com/)  
-[nestbedding](https://www.nestbedding.com/)  
-[leesa](https://www.leesa.com/)  
-[lumasleep](https://lumasleep.com/)  
-[dreamcloud](https://www.dreamcloudsleep.com/)  
+---
 
-**Bedsheets**  
-[brooklinen](https://www.brooklinen.com/)  
-[mellanni](https://mellanni.com/)  
-[southshorefinelinens](https://southshorefinelinens.com/)  
-[scandiahome](https://www.scandiahome.com/)  
-[rh](https://rh.com/)  
-[ethanallen](https://www.ethanallen.com/)  
-[California Design Den](https://www.californiadesignden.com/)  
-[Dusk](https://us.dusk.com/)  
+## Bed  
 
-**Resources**  
-[sleeplikethedead](https://www.sleeplikethedead.com/)  
+### Mattresses  
+- [purple](https://purple.com/)  
+- [avocadogreenmattress](https://www.avocadogreenmattress.com/)  
+- [tuftandneedle](https://www.tuftandneedle.com/)  
+- [casper](https://casper.com/)  
+- [helixsleep](https://helixsleep.com/)  
+- [nectar](https://www.nectarsleep.com/)  
+- [saatva](https://www.saatva.com/)  
+- [allswellhome](https://allswellhome.com/)  
+- [zinus](https://www.zinus.com/)  
+- [tempurpedic](https://www.tempurpedic.com/)  
+- [stearnsandfoster](https://www.stearnsandfoster.com/)  
+- [cocoonbysealy](https://www.cocoonbysealy.com/)  
+- [nestbedding](https://www.nestbedding.com/)  
+- [leesa](https://www.leesa.com/)  
+- [lumasleep](https://lumasleep.com/)  
+- [dreamcloud](https://www.dreamcloudsleep.com/)  
 
-## Bioscience    
-[colossal](https://colossal.com/) - Solving the Colossal Problem of Extinction
+### Bedsheets  
+- [brooklinen](https://www.brooklinen.com/)  
+- [mellanni](https://mellanni.com/)  
+- [southshorefinelinens](https://southshorefinelinens.com/)  
+- [scandiahome](https://www.scandiahome.com/)  
+- [rh](https://rh.com/)  
+- [ethanallen](https://www.ethanallen.com/)  
+- [California Design Den](https://www.californiadesignden.com/)  
+- [Dusk](https://us.dusk.com/)  
 
-## Browser and Extensions   
+### Resources  
+- [sleeplikethedead](https://www.sleeplikethedead.com/)  
 
-**Browsers**  
-[Arc](https://arc.net/) - chrome replacement you've been waiting for  
-[Zen](https://zen-browser.app/) - calmer internet  
+---
 
-**Chrome Extensions**  
-[Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - Adblocker  
-[Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites    
-[Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammar check and writing app  
-[Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Capture articles, videos, and anything else you find on the web  
-[Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards  
+## Bioscience  
+- [colossal](https://colossal.com/) - Solving the Colossal Problem of Extinction  
 
+---
 
-## Books
+## Browser and Extensions  
 
-[sobrief](https://sobrief.com/) - Read any book in 10 minutes    
-[openlibrary](https://openlibrary.org/) - open, editable library catalog      
+### Browsers  
+- [Arc](https://arc.net/) - chrome replacement you've been waiting for  
+- [Zen](https://zen-browser.app/) - calmer internet  
 
-**Search and Download Any Book**   
-[annas-archive](https://annas-archive.org/) - largest truly open library in human history      
-[libgen.li](https://libgen.li/)  
-[z-lib](https://z-lib.gs/)     
-[archive.org](https://archive.org/)  
-[openlibrary](https://openlibrary.org/)  
-[magazinelib](https://magazinelib.com/) - magazines    
-[SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
+### Chrome Extensions  
+- [Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - Adblocker  
+- [Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites  
+- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammar check and writing app  
+- [Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Capture articles, videos, and anything else you find on the web  
+- [Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards  
 
-**E-Readers**     
-[calibre](https://calibre-ebook.com/) - one-stop solutions for all your e-book needs    
-[kindle](https://read.amazon.com/landing)    
-[onyxbook](https://onyxboox.com/)     
-[remarkable](https://remarkable.com/)    
-[kobo](https://www.kobo.com/us/en)    
-[boox](https://shop.boox.com/)      
+---
 
-## Business
+## Books  
 
-[clay](https://clay.earth/) - manage all your personal and professional relationships  
-[dex](https://getdex.com/) - one place for all your relationships  
-[stable](https://www.usestable.com/) - virtual mailbox & manage your business from anywhere  
-[ipostal1](https://ipostal1.com/) - digital mailbox service  
-[pietrastudio](https://www.pietrastudio.com/) - all-in-one tool to build your business  
-[homebase](http://www.joinhomebase.com/) - manage your work schedules, time clock, payroll, HR & more  
-[squareup](http://www.squareup.com/) - accept payments  
-[revenuecat](https://www.revenuecat.com/) - build and grow your subscription business  
-[proof](https://www.proof.com/) - identity-centric security platform  
-[stripe](https://stripe.com/) - financial infrastructure  
-[mintlify](https://mintlify.com/) - meet the modern standard for documentation  
-[nira](https://nira.com/templates/) - free resources for getting work done  
-[indoorway](https://www.indoorway.com/) - provides real-time location system  
-[chatfuel](https://chatfuel.com/) - automate workflow  
-[importyeti](https://www.importyeti.com/) - check any company’s suppliers  
-[mailcharts](https://www.mailcharts.com/) - campaign intelligence for eCommerce teams  
-[tango](https://www.tango.us/) - create how-to guides  
-[mixkit](https://mixkit.co/) - free assets for your next video project  
-[paddle](https://www.paddle.com/) - Put your billing operations on autopilot    
-[pixelhunter](https://pixelhunter.io/) - free AI image resizer  
-[creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)  
-[milled](https://milled.com/) - search engine for email newsletters  
-[trends.pinterest](https://trends.pinterest.com/) - find trends on Pinterest  
-[builtwith](https://builtwith.com/) - find what websites are built with  
-[faire](https://www.faire.com/) - your one-stop shop for wholesale  
-[Novo](https://www.novo.co/) - business banking  
-[oberlo](https://www.oberlo.com/) - dropshipping  
-[microsaasidea](https://microsaasidea.com/) - newsletter for techies and marketers  
-[answerthepublic](https://answerthepublic.com/) - discover what people are asking about  
-[opencorporates](https://opencorporates.com/) - company data  
+- [sobrief](https://sobrief.com/) - Read any book in 10 minutes  
+- [openlibrary](https://openlibrary.org/) - open, editable library catalog  
 
-**POS**   
-[Stripe](https://stripe.com/terminal)    
-[Toast](https://pos.toasttab.com/) - mainly for restaurants        
-[Square](https://squareup.com/us/en)      
-[Clover](https://www.clover.com/)    
-[lightspeed](https://www.lightspeedhq.com/)     
+### Search and Download Any Book  
+- [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
+- [libgen.li](https://libgen.li/)  
+- [z-lib](https://z-lib.gs/)  
+- [archive.org](https://archive.org/)  
+- [openlibrary](https://openlibrary.org/)  
+- [magazinelib](https://magazinelib.com/) - magazines  
+- [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
 
+### E-Readers  
+- [calibre](https://calibre-ebook.com/) - one-stop solutions for all your e-book needs  
+- [kindle](https://read.amazon.com/landing)  
+- [onyxbook](https://onyxboox.com/)  
+- [remarkable](https://remarkable.com/)  
+- [kobo](https://www.kobo.com/us/en)  
+- [boox](https://shop.boox.com/)  
+
+---
+
+## Business  
+
+- [clay](https://clay.earth/) - manage all your personal and professional relationships  
+- [dex](https://getdex.com/) - one place for all your relationships  
+- [stable](https://www.usestable.com/) - virtual mailbox & manage your business from anywhere  
+- [ipostal1](https://ipostal1.com/) - digital mailbox service  
+- [pietrastudio](https://www.pietrastudio.com/) - all-in-one tool to build your business  
+- [homebase](http://www.joinhomebase.com/) - manage your work schedules, time clock, payroll, HR & more  
+- [squareup](http://www.squareup.com/) - accept payments  
+- [revenuecat](https://www.revenuecat.com/) - build and grow your subscription business  
+- [proof](https://www.proof.com/) - identity-centric security platform  
+- [stripe](https://stripe.com/) - financial infrastructure  
+- [mintlify](https://mintlify.com/) - meet the modern standard for documentation  
+- [nira](https://nira.com/templates/) - free resources for getting work done  
+- [indoorway](https://www.indoorway.com/) - provides real-time location system  
+- [chatfuel](https://chatfuel.com/) - automate workflow  
+- [importyeti](https://www.importyeti.com/) - check any company’s suppliers  
+- [mailcharts](https://www.mailcharts.com/) - campaign intelligence for eCommerce teams  
+- [tango](https://www.tango.us/) - create how-to guides  
+- [mixkit](https://mixkit.co/) - free assets for your next video project  
+- [paddle](https://www.paddle.com/) - Put your billing operations on autopilot  
+- [pixelhunter](https://pixelhunter.io/) - free AI image resizer  
+- [creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)  
+- [milled](https://milled.com/) - search engine for email newsletters  
+- [trends.pinterest](https://trends.pinterest.com/) - find trends on Pinterest  
+- [builtwith](https://builtwith.com/) - find what websites are built with  
+- [faire](https://www.faire.com/) - your one-stop shop for wholesale  
+- [Novo](https://www.novo.co/) - business banking  
+- [oberlo](https://www.oberlo.com/) - dropshipping  
+- [microsaasidea](https://microsaasidea.com/) - newsletter for techies and marketers  
+- [answerthepublic](https://answerthepublic.com/) - discover what people are asking about  
+- [opencorporates](https://opencorporates.com/) - company data  
+
+### POS  
+- [Stripe](https://stripe.com/terminal)  
+- [Toast](https://pos.toasttab.com/) - mainly for restaurants  
+- [Square](https://squareup.com/us/en)  
+- [Clover](https://www.clover.com/)  
+- [lightspeed](https://www.lightspeedhq.com/)  
 
 ## Buyer Clubs
 
