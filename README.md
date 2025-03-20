@@ -259,6 +259,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot   
 - [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources    
 
+
 - [thebricks](https://www.thebricks.com/) - AI Spreadsheet     
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)      
 - [Hugging Face](https://huggingface.co/) - the AI community building the future    
