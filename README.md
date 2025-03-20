@@ -119,6 +119,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [cjdropshipping](https://cjdropshipping.com/) - Dropshipping  
 - [inventorysource](https://www.inventorysource.com/) - Dropship Automation Software
 
+
 ## Android        
 
 - [alternativeto](https://alternativeto.net/) - search for a alternative app      
@@ -144,6 +145,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Modyolo](https://modyolo.com/) - modded apps    
 - [Liteapks](https://liteapks.com/) - modded apps    
 - [TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
+
 
 ## App and Web Development
 
@@ -182,6 +184,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [roadmap](https://roadmap.sh/) - community effort to create roadmaps, guides and other educational content  
 - [hacksplaining](https://www.hacksplaining.com/)  
 - [Visual Studio](https://code.visualstudio.com/)  
+
 
 ## Apparel
 
@@ -247,7 +250,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Ken Smith](http://kensmithworkshop.com/)     
 - [Nelson Byrd Woltz](https://www.nbwla.com/)    
 
+
 ## Artificial Intelligence      
+
 **AI Conversational and Text**  
 - [ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software  
 - [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine  
@@ -290,6 +295,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate image using text  
 - [firefly.adobe](https://firefly.adobe.com/)     
 
+
 ## Auctions    
 
 - [ha](https://www.ha.com/) - Auction house  
@@ -298,6 +304,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [liveauctioneers](https://www.liveauctioneers.com/) - One-of-a-kind art, antiques & luxury goods   
 - [sothebys](https://www.sothebys.com/en/) - world’s premier destination for art and luxury   
 - [rmsothebys](https://rmsothebys.com) - luxury cars for auction  
+
 
 ## Audio and Music
 
