@@ -306,7 +306,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [moondroplab](https://moondroplab.com/en/home)  
 - [wh1000xm5](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b?srsltid=AfmBOopoTGcg4eZ14yrnTRkZOPInE6v4TKENorZFDrcxm4ajzi-y46xt)  
 
----
+
 
 - [tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another  
 - [soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another  
@@ -333,7 +333,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Flighty](https://flighty.com/) - Live Flight Tracker  
 - [Vessel Finder](https://www.vesselfinder.com/) - ship & container tracking  
 
----
+
 
 ## Bath and Beauty  
 
@@ -349,7 +349,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [rawsugarliving](https://rawsugarliving.com/)  
 - [method](https://methodproducts.com/)  
 
----
+
 
 ## Bed  
 
@@ -384,12 +384,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ### Resources  
 - [sleeplikethedead](https://www.sleeplikethedead.com/)  
 
----
+
 
 ## Bioscience  
 - [colossal](https://colossal.com/) - Solving the Colossal Problem of Extinction  
 
----
+
 
 ## Browser and Extensions  
 
@@ -404,7 +404,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Capture articles, videos, and anything else you find on the web  
 - [Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards  
 
----
+
 
 ## Books  
 
@@ -428,7 +428,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [kobo](https://www.kobo.com/us/en)  
 - [boox](https://shop.boox.com/)  
 
----
+
 
 ## Business  
 
