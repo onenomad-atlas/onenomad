@@ -7,10 +7,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 - [📊 Accounting and Budget](#accounting-and-budget)  
 - [🌍 Africa](#africa)  
-- [🛍️ Amazon](#amazon)  
+- [🛍️ Amazon](#amazon)
+- [📱 android](#android)  
 - [🖥️ App and Web Development](#app-and-web-development)  
-- [👚 Apparel](#apparel)  
-- [📱 Apps](#apps)  
+- [👚 Apparel](#apparel)     
 - [🏛️ Architecture](#architecture)  
 - [🤖 Artificial Intelligence](#artificial-intelligence)  
 - [💸 Auctions](#auctions)  
@@ -119,6 +119,33 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [cjdropshipping](https://cjdropshipping.com/) - Dropshipping  
 - [inventorysource](https://www.inventorysource.com/) - Dropship Automation Software
 
+## Apps    
+
+- [alternativeto](https://alternativeto.net/) - search for a alternative app    
+
+- [NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
+- [speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
+- [Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
+- [Samsung Band Selection](https://play.google.com/store/apps/details?id=com.ray.samsungbandselection&hl=en_US&gl=US) - Switch your 5G band to 4G or 3G  
+- [Video to Wallpaper](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Set any video as your phone wallpaper  
+- [Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines   
+- [Medium](https://medium.com/) - Blogging platform  
+- [Wallberry](https://play.google.com/store/apps/details?id=com.raj_arya.wallberry&hl=en_US&gl=US) - Wallpaper App  
+- [Passport Photo Editor](https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US) - Passport size photo at home    
+- [Font](https://forum.xda-developers.com/t/google-product-sans-for-android-10-oneui-2-5-samsung-phone.4203153/) - Install any font on Samsung  
+- [pikashow](https://pikashow.su/) - Watch movies & TV shows  
+- [cloudstream](https://github.com/recloudstream/cloudstream) - Movies and TV shows  
+- [hdo](https://hdo.app/) - Movies and TV shows  
+- [Seal](https://github.com/JunkFood02/Seal) - Audio and video downloader  
+- [snaptube](https://www.snaptubeapp.com/) - Audio and video downloader  
+- [video.downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader&hl=en_US&gl=US)  
+- [rapidstreamz](https://www.rapidstreamz.tv/) - Live TV  
+- [tvtap](https://tvtap-pro.net/) - Live TV  
+- [livenettv](https://www.livenettv.vip/) - Live TV    
+- [Modyolo](https://modyolo.com/) - modded apps    
+- [Liteapks](https://liteapks.com/) - modded apps    
+- [TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
+
 ## App and Web Development
 
 - [lovable](https://lovable.dev/)  
@@ -199,33 +226,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [shein](https://us.shein.com/) - Exclusive discounts and latest trends  
 - [italic](https://italic.com/) - Luxury without labels
 
-## Apps
-*Apps Only for android*
-
-- [alternativeto](https://alternativeto.net/) - search for a alternative app    
-
-- [NewPipe](https://newpipe.net/) - YouTube Music & Video Downloader  
-- [speechify](https://speechify.com/) - Listen to any PDF, docs, or email  
-- [Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
-- [Samsung Band Selection](https://play.google.com/store/apps/details?id=com.ray.samsungbandselection&hl=en_US&gl=US) - Switch your 5G band to 4G or 3G  
-- [Video to Wallpaper](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Set any video as your phone wallpaper  
-- [Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines   
-- [Medium](https://medium.com/) - Blogging platform  
-- [Wallberry](https://play.google.com/store/apps/details?id=com.raj_arya.wallberry&hl=en_US&gl=US) - Wallpaper App  
-- [Passport Photo Editor](https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US) - Passport size photo at home    
-- [Font](https://forum.xda-developers.com/t/google-product-sans-for-android-10-oneui-2-5-samsung-phone.4203153/) - Install any font on Samsung  
-- [pikashow](https://pikashow.su/) - Watch movies & TV shows  
-- [cloudstream](https://github.com/recloudstream/cloudstream) - Movies and TV shows  
-- [hdo](https://hdo.app/) - Movies and TV shows  
-- [Seal](https://github.com/JunkFood02/Seal) - Audio and video downloader  
-- [snaptube](https://www.snaptubeapp.com/) - Audio and video downloader  
-- [video.downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader&hl=en_US&gl=US)  
-- [rapidstreamz](https://www.rapidstreamz.tv/) - Live TV  
-- [tvtap](https://tvtap-pro.net/) - Live TV  
-- [livenettv](https://www.livenettv.vip/) - Live TV    
-- [Modyolo](https://modyolo.com/) - modded apps    
-- [Liteapks](https://liteapks.com/) - modded apps    
-- [TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
 
 ## Architecture
 
