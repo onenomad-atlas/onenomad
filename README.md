@@ -247,9 +247,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Ken Smith](http://kensmithworkshop.com/)     
 - [Nelson Byrd Woltz](https://www.nbwla.com/)    
 
-## Artificial Intelligence   
-
-**AI Conversational and Text**    
+## Artificial Intelligence      
+**AI Conversational and Text**       
 - [ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software    
 - [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine     
 - [Grok](https://x.ai/) - AI Software led by Elon Musk   
