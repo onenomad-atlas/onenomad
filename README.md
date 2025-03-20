@@ -8,7 +8,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [📊 Accounting and Budget](#accounting-and-budget)  
 - [🌍 Africa](#africa)  
 - [🛍️ Amazon](#amazon)
-- [📱 android](#android)  
+- [📱 Android](#android)  
 - [🖥️ App and Web Development](#app-and-web-development)  
 - [👚 Apparel](#apparel)     
 - [🏛️ Architecture](#architecture)  
@@ -119,7 +119,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [cjdropshipping](https://cjdropshipping.com/) - Dropshipping  
 - [inventorysource](https://www.inventorysource.com/) - Dropship Automation Software
 
-## Apps    
+## Android        
 
 - [alternativeto](https://alternativeto.net/) - search for a alternative app    
 
