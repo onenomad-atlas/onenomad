@@ -248,47 +248,47 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Nelson Byrd Woltz](https://www.nbwla.com/)    
 
 ## Artificial Intelligence      
-**AI Conversational and Text**       
-- [ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software    
-- [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine     
-- [Grok](https://x.ai/) - AI Software led by Elon Musk   
-- [Deepseek](https://www.deepseek.com/) - AI Search Engine From China   
-- [Claude](https://claude.ai/) - AI writing assistant   
-- [Vetted](https://vetted.ai/) - AI shopping assistant    
-- [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot   
-- [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources    
+**AI Conversational and Text**  
+- [ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software  
+- [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine  
+- [Grok](https://x.ai/) - AI Software led by Elon Musk  
+- [Deepseek](https://www.deepseek.com/) - AI Search Engine From China  
+- [Claude](https://claude.ai/) - AI writing assistant  
+- [Vetted](https://vetted.ai/) - AI shopping assistant  
+- [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot  
+- [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources  
 
-
-- [thebricks](https://www.thebricks.com/) - AI Spreadsheet     
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)      
-- [Hugging Face](https://huggingface.co/) - the AI community building the future    
+**AI Tools**  
+- [thebricks](https://www.thebricks.com/) - AI Spreadsheet  
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)  
+- [Hugging Face](https://huggingface.co/) - the AI community building the future  
 - [voicenotes](https://voicenotes.com/?via=website)  
 - [getpickle](https://getpickle.ai/) - Your AI Body Double  
 - [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
-- [cursor](https://www.cursor.com/) - The AI Code Editor   
-- [Gamma](https://gamma.app/) - create presentations & websites with AI    
+- [cursor](https://www.cursor.com/) - The AI Code Editor  
+- [Gamma](https://gamma.app/) - create presentations & websites with AI  
 - [stowaway](https://www.stowaway.io/) - Take your business where you already are  
-- [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world    
-- [synthesia](https://www.synthesia.io/) - free AI Video Generator    
-- [runwayml](https://runwayml.com/) - Tools for human imagination    
+- [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world  
+- [synthesia](https://www.synthesia.io/) - free AI Video Generator  
+- [runwayml](https://runwayml.com/) - Tools for human imagination  
 - [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
 - [curiosity.ai](https://curiosity.ai/) - Search everything everywhere  
-- [Github Copilot](https://github.com/features/copilot) - AI Pair Programmer   
-- [character](https://beta.character.ai/) - Create characters and talk to them   
-- [elevenlabs.io](https://elevenlabs.io/) - Text to Speech & AI Voice Generator    
+- [Github Copilot](https://github.com/features/copilot) - AI Pair Programmer  
+- [character](https://beta.character.ai/) - Create characters and talk to them  
+- [elevenlabs.io](https://elevenlabs.io/) - Text to Speech & AI Voice Generator  
 - [speedwrite](https://speedwrite.com/) - Automatic text generator  
 - [hotpot.ai](https://hotpot.ai/) - Makes graphic design and image editing easy  
 - [openai](https://openai.com/) - AI research and deployment company  
 - [comma.ai](https://comma.ai/) - Open source driver assistance system  
 - [metaphysic.ai](https://metaphysic.ai/) - Hyperreal metaverse AI-generated content & web3 infrastructure  
-- [omakaseai](https://omakaseai.com/) - Create your personal shopper AI agent with just a URL    
+- [omakaseai](https://omakaseai.com/) - Create your personal shopper AI agent with just a URL  
 - [hypnogram.xyz](https://hypnogram.xyz/) - Generate images from text descriptions using AI  
 - [craiyon](https://www.craiyon.com/) - AI model that can draw images from any text prompt  
 - [beatoven](https://www.beatoven.ai/) - Advanced AI music generation  
 - [generated.photos](https://generated.photos/) - Unique, worry-free model photos  
 - [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you  
-- [imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate image using text   
-- [firefly.adobe](https://firefly.adobe.com/)    
+- [imgeditor.zmo.ai](https://imgeditor.zmo.ai/) - Generate image using text  
+- [firefly.adobe](https://firefly.adobe.com/)     
 
 ## Auctions    
 
