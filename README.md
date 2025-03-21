@@ -567,8 +567,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [silvergoldbull](https://silvergoldbull.com/)  
 - [apmex](https://www.apmex.com/)  
 
-### International Mints  
-- [USA Mint](https://www.usmint.gov/)  
+### International Mints     
+- [USA Mint](https://www.usmint.gov/)     
 - [United Kingdom Mint](https://www.royalmint.com/)  
 - [Canadian Mint](https://www.mint.ca/store/template/home.jsp)  
 - [Switzerland Mint](https://www.swissmint.ch/en)  
@@ -578,8 +578,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Mexican Mint](https://www.banxico.org.mx/)  
 - [New Zealand Mint](https://newzealandmint.com/)  
 - [China Mint](https://www.cmc.gov.tw/en)  
-- [South African Mint](https://www.samint.co.za/)  
-
+- [South African Mint](https://www.samint.co.za/)      
 - [Geiger Edelmetalle](https://www.geiger-edelmetalle.de/en/) - Distributor for precious metals  
 - [Argor-Heraeus](https://argor-heraeus.com/) - headquartered in Switzerland  
 - [PAMP](https://www.pamp.com/) - Mint located in Switzerland  
