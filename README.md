@@ -478,167 +478,155 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Buyer Clubs
 
-[PFS Buyers Club](https://pfsbuyersclub.com/)  
-[MYS Buying Group](https://www.mysbuyinggroup.com/p/home/_version/TE9HT1VU.1651172892.1651248638.0.0.0.0.en)  
-[BuyForMeRetail](https://www.buyformeretail.com/)  
-[Pack Your Bags With Points](https://packyourbagwithpoints.com/)  
-
+- [PFS Buyers Club](https://pfsbuyersclub.com/)  
+- [MYS Buying Group](https://www.mysbuyinggroup.com/p/home/_version/TE9HT1VU.1651172892.1651248638.0.0.0.0.en)  
+- [BuyForMeRetail](https://www.buyformeretail.com/)  
+- [Pack Your Bags With Points](https://packyourbagwithpoints.com/)  
 
 ## Cell Phone and MVNO Plans
 
-[28mobile](https://28mobile.com/) - purchase international phones   
-[FCC National Broadband Map](https://broadbandmap.fcc.gov/provider-detail/fixed?version=jun2024&zoom=4&br=r&speed=0_0&pct_cvg=0) - check your provider's network map   
+- [28mobile](https://28mobile.com/) - purchase international phones  
+- [FCC National Broadband Map](https://broadbandmap.fcc.gov/provider-detail/fixed?version=jun2024&zoom=4&br=r&speed=0_0&pct_cvg=0) - check your provider's network map  
 
-**eSIMs for International Travel**  
-[airalo](https://www.airalo.com/)  
-[Saily](https://saily.com/)  
+### eSIMs for International Travel  
+- [airalo](https://www.airalo.com/)  
+- [Saily](https://saily.com/)  
 
-**MVNO - reseller for wireless communications services**  
+### MVNO - reseller for wireless communications services  
 
-[**Verizon**](https://www.verizon.com/)  
--  [Visible Mobile](https://www.visible.com/)  
--  [US Mobile](https://www.usmobile.com/)  
--  [Xfinity Mobile](https://www.xfinity.com/mobile/)  
+#### Verizon  
+- [Verizon](https://www.verizon.com/)  
+- [Visible Mobile](https://www.visible.com/)  
+- [US Mobile](https://www.usmobile.com/)  
+- [Xfinity Mobile](https://www.xfinity.com/mobile/)  
 
-[**AT&T**](https://www.att.com/wireless/)  
--  [Cricket Wireless](https://www.cricketwireless.com/)  
+#### AT&T  
+- [AT&T](https://www.att.com/wireless/)  
+- [Cricket Wireless](https://www.cricketwireless.com/)  
 
-[**T-Mobile**](https://www.t-mobile.com/)  
--  [Mint Mobile](https://www.mintmobile.com/)  
--  [Metro](https://www.metrobyt-mobile.com/)  
--  [Boost Mobile](https://www.boostmobile.com/)  
--  [Google Fi](https://fi.google.com/)  
+#### T-Mobile  
+- [T-Mobile](https://www.t-mobile.com/)  
+- [Mint Mobile](https://www.mintmobile.com/)  
+- [Metro](https://www.metrobyt-mobile.com/)  
+- [Boost Mobile](https://www.boostmobile.com/)  
+- [Google Fi](https://fi.google.com/)  
 
+## China  
 
+- [Deepseek](https://www.deepseek.com/) - ChatGPT alternative  
+- [BYD](https://www.byd.com/us) - Electric cars, sedans, SUVs  
+- [Nio](https://www.nio.com/) - Vehicles & tech  
+- [Huawei](https://www.huawei.com/en/) - Smartphones & tech  
+- [Tencent](https://www.tencent.com/en-us/index.html) - Tech company  
+- [Foxconn](https://www.foxconn.com/en-us) - Electronics distributor  
 
-## China
+## Credit Cards  
 
-[Deepseek](https://www.deepseek.com/) - ChatGPT alternative  
-[BYD](https://www.byd.com/us) - Electric cars, sedans, SUVs  
-[Nio](https://www.nio.com/) - Vehicles & tech  
-[Huawei](https://www.huawei.com/en/) - Smartphones & tech  
-[Tencent](https://www.tencent.com/en-us/index.html) - Tech company  
-[Foxconn](https://www.foxconn.com/en-us) - Electronics distributor  
+### Resources  
+- [Rankt](https://rankt.com/)  
+- [Cardpointers](https://cardpointers.com/)  
 
-## Credit Cards
+### Networks  
 
-**Resources**  
-[Rankt](https://rankt.com/)  
-[Cardpointers](https://cardpointers.com/)  
+#### Amex  
+- [Amex](https://www.americanexpress.com/en-us/benefits/)  
 
-**Networks**
+#### Discover  
+- [Discover](https://www.discover.com/credit-cards/member-benefits/)  
 
-[**Amex**](https://www.americanexpress.com/en-us/benefits/)  
-[**Discover**](https://www.discover.com/credit-cards/member-benefits/)  
+#### Visa  
+- [Visa - Offers](https://usa.visa.com/en_us/visa-offers-and-perks/)  
+- [Visa Signature](https://usa.visa.com/pay-with-visa/cards/visa-credit-cards/visa-signature-credit-cards.html)  
+- [Visa Infinite](https://usa.visa.com/pay-with-visa/cards/visa-credit-cards/visa-infinite-credit-cards.html)  
 
-**Visa**
+#### Mastercard  
+- [Mastercard World](https://www.mastercard.us/en-us/personal/find-a-card/world-mastercard-credit.html)  
+- [Mastercard World Elite](https://www.mastercard.us/en-us/personal/find-a-card/world-elite-mastercard-credit.html)  
 
-[**Visa - Offers**](https://usa.visa.com/en_us/visa-offers-and-perks/)  
-[Visa Signature](https://usa.visa.com/pay-with-visa/cards/visa-credit-cards/visa-signature-credit-cards.html)  
-[Visa Infinite](https://usa.visa.com/pay-with-visa/cards/visa-credit-cards/visa-infinite-credit-cards.html)  
+## Crypto  
 
-**Mastercard**
+### Platforms  
+- [Coinbase](https://www.coinbase.com/)  
+- [Robinhood](https://robinhood.com/us/en/)  
+- [Webull](https://www.webull.com/)  
+- [Crypto](https://crypto.com/)  
+- [Gemini](https://www.gemini.com/)  
+- [Binance](https://www.binance.com/en)  
 
-[Mastercard World](https://www.mastercard.us/en-us/personal/find-a-card/world-mastercard-credit.html)  
-[Mastercard World Elite](https://www.mastercard.us/en-us/personal/find-a-card/world-elite-mastercard-credit.html)
-
-
-## Crypto
-
-**Platforms**    
-[Coinbase](https://www.coinbase.com/)  
-[Robinhood](https://robinhood.com/us/en/)  
-[Webull](https://www.webull.com/)  
-[Crypto](https://crypto.com/)  
-[Gemini](https://www.gemini.com/)  
-[Binance](https://www.binance.com/en)  
-
-**Resources**   
-[CoinMarketCap](https://coinmarketcap.com/)  
-[CryptoRank](https://cryptorank.io/heatmaps)  
-[CoinGecko](https://www.coingecko.com/)  
-[CryptoPanic](https://cryptopanic.com/)
+### Resources  
+- [CoinMarketCap](https://coinmarketcap.com/)  
+- [CryptoRank](https://cryptorank.io/heatmaps)  
+- [CoinGecko](https://www.coingecko.com/)  
+- [CryptoPanic](https://cryptopanic.com/)  
 
 ## Currency and Metals  
 
-[jmbullion](https://www.jmbullion.com/)  
-[sdbullion](https://sdbullion.com/)  
-[monumentmetals](https://monumentmetals.com/)  
-[silvergoldbull](https://silvergoldbull.com/)  
-[apmex](https://www.apmex.com/)  
+- [jmbullion](https://www.jmbullion.com/)  
+- [sdbullion](https://sdbullion.com/)  
+- [monumentmetals](https://monumentmetals.com/)  
+- [silvergoldbull](https://silvergoldbull.com/)  
+- [apmex](https://www.apmex.com/)  
 
-**International Mints**    
-[USA Mint](https://www.usmint.gov/)   
-[United Kingdom Mint](https://www.royalmint.com/)  
-[Canadian Mint](https://www.mint.ca/store/template/home.jsp)      
-[Switzerland Mint](https://www.swissmint.ch/en)        
-[France Mint](https://www.monnaiedeparis.fr/fr)     
-[Australian Mint](https://www.ramint.gov.au/)    
-[Perth Mint](https://www.perthmint.com/) - Australian Mint     
-[Mexican Mint](https://www.banxico.org.mx/)    
-[New Zealand Mint](https://newzealandmint.com/)    
-[China Mint](https://www.cmc.gov.tw/en)    
-[South African Mint](https://www.samint.co.za/)    
+### International Mints  
+- [USA Mint](https://www.usmint.gov/)  
+- [United Kingdom Mint](https://www.royalmint.com/)  
+- [Canadian Mint](https://www.mint.ca/store/template/home.jsp)  
+- [Switzerland Mint](https://www.swissmint.ch/en)  
+- [France Mint](https://www.monnaiedeparis.fr/fr)  
+- [Australian Mint](https://www.ramint.gov.au/)  
+- [Perth Mint](https://www.perthmint.com/) - Australian Mint  
+- [Mexican Mint](https://www.banxico.org.mx/)  
+- [New Zealand Mint](https://newzealandmint.com/)  
+- [China Mint](https://www.cmc.gov.tw/en)  
+- [South African Mint](https://www.samint.co.za/)  
 
-[Geiger Edelmetalle](https://www.geiger-edelmetalle.de/en/) - Distributor for precious metals     
-[Argor-Heraeus](https://argor-heraeus.com/) - headquartered in Switzerland      
-[PAMP](https://www.pamp.com/) - Mint located in Switzerland   
-[Valcambi](https://valcambi.com/) - Mint located in Switzerland   
+- [Geiger Edelmetalle](https://www.geiger-edelmetalle.de/en/) - Distributor for precious metals  
+- [Argor-Heraeus](https://argor-heraeus.com/) - headquartered in Switzerland  
+- [PAMP](https://www.pamp.com/) - Mint located in Switzerland  
+- [Valcambi](https://valcambi.com/) - Mint located in Switzerland  
 
+## Custom Products  
 
-## Custom Products
+- [Gooten](http://www.gooten.com/)  
+- [Printful](http://www.printful.com/)  
+- [Apliiq](http://www.apliiq.com/)  
+- [DiscountMugs](https://www.discountmugs.com/)  
+- [StickerMule](http://www.stickermule.com/)  
+- [CustomInk](http://www.customink.com/)  
+- [Zazzle](http://www.zazzle.com/)  
+- [Shutterfly](http://www.shutterfly.com/)  
+- [ThingsRemembered](http://www.thingsremembered.com/)  
+- [eGrandstand](http://www.egrandstand.com/)  
+- [Shapeways](http://www.shapeways.com/)  
+- [Vistaprint](https://www.vistaprint.com/)  
+- [Printify](https://printify.com/)  
+- [Captivaco](https://www.captivaco.com/)  
 
-[Gooten](http://www.gooten.com/)  
-[Printful](http://www.printful.com/)  
-[Apliiq](http://www.apliiq.com/)  
-[DiscountMugs](https://www.discountmugs.com/)  
-[StickerMule](http://www.stickermule.com/)  
-[CustomInk](http://www.customink.com/)  
-[Zazzle](http://www.zazzle.com/)  
-[Shutterfly](http://www.shutterfly.com/)  
-[ThingsRemembered](http://www.thingsremembered.com/)  
-[eGrandstand](http://www.egrandstand.com/)  
-[Shapeways](http://www.shapeways.com/)  
-[Vistaprint](https://www.vistaprint.com/)  
-[Zazzle](https://www.zazzle.com/)   
-[Printify](https://printify.com/)    
-[Captivaco](https://www.captivaco.com/)    
+## Design and Creativity  
 
+### Design Inspiration  
+- [mobbin](https://mobbin.com/)  
+- [behance](https://www.behance.net/)  
+- [dribbble](https://dribbble.com/)  
 
-## Design and Creativity
+- [dreamina](https://dreamina.capcut.com/?ref=producthunt) - turn inspiration into art  
+- [lwks](https://lwks.com/) - video editing  
+- [canva](http://www.canva.com/)  
+- [pixlr](http://www.pixlr.com/)  
+- [CapCut](https://www.capcut.net/) - Video Editor  
+- [figma](http://www.figma.com/)  
+- [storyblocks](https://www.storyblocks.com/)  
+- [Home By Me](https://home.by.me/en/) - design your home in 3D  
+- [virtualthreads](https://www.virtualthreads.io/) - free 3D t-shirt mockup  
+- [thenounproject](https://thenounproject.com/)  
+- [Freedesignresources](http://freedesignresources.net/) - freebies  
+- [fireship.io](https://fireship.io/)  
+- [glorifyapp](https://www.glorifyapp.com/)  
+- [Studio.design](https://studio.design/)  
+- [Bravo Studio](https://www.bravostudio.app/)  
+- [Adobe Substance](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)  
+- [photopea](https://www.photopea.com/)  
 
-**Design Inspiration**  
-[mobbin](https://mobbin.com/)  
-[behance](https://www.behance.net/)  
-[dribbble](https://dribbble.com/)
-
-[dreamina](https://dreamina.capcut.com/?ref=producthunt) - turn inspiration into art  
-[lwks](https://lwks.com/) - video editing  
-[canva](http://www.canva.com/)  
-[pixlr](http://www.pixlr.com/)  
-[CapCut](https://www.capcut.net/) - Video Editor       
-[figma](http://www.figma.com/)  
-[storyblocks](https://www.storyblocks.com/)     
-[Home By Me](https://home.by.me/en/) - design your home in 3D    
-[virtualthreads](https://www.virtualthreads.io/) - free 3D tshirt mockup   
-[thenounproject](https://thenounproject.com/)  
-[Freedesignresources](http://freedesignresources.net/) - freebies  
-[fireship.io](https://fireship.io/)  
-[glorifyapp](https://www.glorifyapp.com/)   
-[Studio.design](https://studio.design/)  
-[Bravo Studio](https://www.bravostudio.app/)  
-[Adobe substance](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)  
-[Elfsight](https://elfsight.com/)  
-[sketchup](https://www.sketchup.com/)  
-[artboard.studio](http://www.artboard.studio/)  
-[photopea](https://www.photopea.com/)  
-[awwwards](https://www.awwwards.com/)  
-[jemi](https://jemi.so/)  
-[clipchamp](https://clipchamp.com/en/)  
-[scribehow](https://scribehow.com/)  
-[create.vista](https://create.vista.com/)  
-[unscreen](https://www.unscreen.com/)  
-[clipdrop](https://clipdrop.co/)
 
 
 ## Discounts and Deals
