@@ -397,7 +397,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [colossal](https://colossal.com/) - Solving the Colossal Problem of Extinction  
 
 
-
 ## Browser and Extensions  
 
 ### Browsers  
