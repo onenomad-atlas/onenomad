@@ -608,6 +608,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [behance](https://www.behance.net/)  
 - [dribbble](https://dribbble.com/)  
 
+**Tools**    
 - [dreamina](https://dreamina.capcut.com/?ref=producthunt) - turn inspiration into art  
 - [lwks](https://lwks.com/) - video editing  
 - [canva](http://www.canva.com/)  
