@@ -749,83 +749,84 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Finance
 
-[klarna](https://www.klarna.com/us/)  
-[affirm](https://www.affirm.com/)  
-[snapfinance](https://snapfinance.com/)  
-[afterpay](https://www.afterpay.com/en-US)
+- [klarna](https://www.klarna.com/us/)  
+- [affirm](https://www.affirm.com/)  
+- [snapfinance](https://snapfinance.com/)  
+- [afterpay](https://www.afterpay.com/en-US)  
 
-## Financial Markets and Trading
+## Financial Markets and Trading  
 
-**Platforms**  
-[robinhood](http://www.robinhood.com/)  
-[Webull](https://www.webull.com/)  
-[masterworks](https://www.masterworks.io/)  
-[Fundrise](https://fundrise.com/)
+### Platforms  
+- [robinhood](http://www.robinhood.com/)  
+- [Webull](https://www.webull.com/)  
+- [masterworks](https://www.masterworks.io/)  
+- [Fundrise](https://fundrise.com/)  
 
-**Other Sites**    
-[finbar](https://finbar.com/about)  
-[Gurufocus](http://gurufocus.com/)  
-[Moneyshow](http://moneyshow.com/)  
-[Optionalpha](http://optionalpha.com/)  
-[Barchart](http://barchart.com/)  
-[Katusaresearch](http://katusaresearch.com/)  
-[Tradingview](http://tradingview.com/)  
-[Morningstar](http://morningstar.com/)  
-[Tipranks](http://tipranks.com/)  
-[benzinga](https://m.benzinga.com/)  
-[aidedtrade](https://www.aidedtrade.com/)  
-[optionsizzle](https://www.optionsizzle.com/)  
-[Memebergterminal](http://memebergterminal.com/)  
-[Stock charts](https://stockcharts.com/)  
-[Quiverquant](https://www.quiverquant.com/)  
-[markiteconomics](https://www.markiteconomics.com/Public/Release/PressReleases)  
-[JPMorgan's guide to the markets](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L8DJBeVv95Nrus_ngA8FvwKzLyEwLxdl7oqErtMBj-UkxcSXWqWJHAaAqlXEALw_wcB&gclsrc=aw.ds)  
-[Whale Wisdom](https://whalewisdom.com/)  
-[finviz](http://www.finviz.com/)  
-[tradingview](http://www.tradingview.com/)  
-[chartmill](http://www.chartmill.com/)  
-[tipranks](http://www.tipranks.com/)  
-[tradingeconomics](http://www.tradingeconomics.com/)  
-[optionsprofitcalculator](https://www.optionsprofitcalculator.com/)  
-[bitwala](https://www.bitwala.com/)  
-[Simplywallst](https://simplywall.st/)  
-[Gurufocus](https://www.gurufocus.com/)  
-[FRED](https://fred.stlouisfed.org/)  
-[Quantconnect](https://www.quantconnect.com/)  
-[Koyfin](https://www.koyfin.com/)  
-[shiftsearch](https://www.shiftsearch.com/)
+### Other Sites  
+- [finbar](https://finbar.com/about)  
+- [Gurufocus](http://gurufocus.com/)  
+- [Moneyshow](http://moneyshow.com/)  
+- [Optionalpha](http://optionalpha.com/)  
+- [Barchart](http://barchart.com/)  
+- [Katusaresearch](http://katusaresearch.com/)  
+- [Tradingview](http://tradingview.com/)  
+- [Morningstar](http://morningstar.com/)  
+- [Tipranks](http://tipranks.com/)  
+- [benzinga](https://m.benzinga.com/)  
+- [aidedtrade](https://www.aidedtrade.com/)  
+- [optionsizzle](https://www.optionsizzle.com/)  
+- [Memebergterminal](http://memebergterminal.com/)  
+- [Stock charts](https://stockcharts.com/)  
+- [Quiverquant](https://www.quiverquant.com/)  
+- [markiteconomics](https://www.markiteconomics.com/Public/Release/PressReleases)  
+- [JPMorgan's guide to the markets](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L8DJBeVv95Nrus_ngA8FvwKzLyEwLxdl7oqErtMBj-UkxcSXWqWJHAaAqlXEALw_wcB&gclsrc=aw.ds)  
+- [Whale Wisdom](https://whalewisdom.com/)  
+- [finviz](http://www.finviz.com/)  
+- [tradingview](http://www.tradingview.com/)  
+- [chartmill](http://www.chartmill.com/)  
+- [tipranks](http://www.tipranks.com/)  
+- [tradingeconomics](http://www.tradingeconomics.com/)  
+- [optionsprofitcalculator](https://www.optionsprofitcalculator.com/)  
+- [bitwala](https://www.bitwala.com/)  
+- [Simplywallst](https://simplywall.st/)  
+- [Gurufocus](https://www.gurufocus.com/)  
+- [FRED](https://fred.stlouisfed.org/)  
+- [Quantconnect](https://www.quantconnect.com/)  
+- [Koyfin](https://www.koyfin.com/)  
+- [shiftsearch](https://www.shiftsearch.com/)  
 
-## Fitness
+## Fitness  
 
-[naboso](https://www.naboso.com/)  
-[therabody](https://www.therabody.com/)  
-[onepeloton](https://www.onepeloton.com/)  
-[mirror](https://www.mirror.co/)   
-[move u](https://moveu.com/) - fix your pain at home or on the go
+- [naboso](https://www.naboso.com/)  
+- [therabody](https://www.therabody.com/)  
+- [onepeloton](https://www.onepeloton.com/)  
+- [mirror](https://www.mirror.co/)  
+- [move u](https://moveu.com/) - fix your pain at home or on the go  
 
-## Food and Drinks
+## Food and Drinks  
 
-**Healthy**  
-[roots-harmony](https://roots-harmony.com/)  
-[barukas](https://barukas.com/)  
-[woodenspoonherbs](https://woodenspoonherbs.com/)  
-[thealkalinedictionary](https://thealkalinedictionary.com/)    
+### Healthy  
+- [roots-harmony](https://roots-harmony.com/)  
+- [barukas](https://barukas.com/)  
+- [woodenspoonherbs](https://woodenspoonherbs.com/)  
+- [thealkalinedictionary](https://thealkalinedictionary.com/)    
 
-**Restaurants - Shipped**  
-[katzsdelicatessen](https://katzsdelicatessen.com/) - New York    
-[wafels](https://wafels.com/) - New York  
-[jimssouthstreet](https://jimssouthstreet.com/) - Philadelphia  
-[levainbakery](https://levainbakery.com/) - New York  
-[difarapizzany](https://www.difarapizzany.com/) - New York  
-[patskingofsteaks](https://www.patskingofsteaks.com/) - Phildelphia  
-[portillos](https://www.portillos.com/index.html) - Illinois  
-[russanddaughters](https://www.russanddaughters.com/) - New York  
-[juniorscheesecake](https://www.juniorscheesecake.com/) - New York  
-[joesstonecrab](https://joesstonecrab.com/) - Florida  
-[saltlickbbq](https://saltlickbbq.com/) - Texas  
+### Restaurants - Shipped  
+- [katzsdelicatessen](https://katzsdelicatessen.com/) - New York  
+- [wafels](https://wafels.com/) - New York  
+- [jimssouthstreet](https://jimssouthstreet.com/) - Philadelphia  
+- [levainbakery](https://levainbakery.com/) - New York  
+- [difarapizzany](https://www.difarapizzany.com/) - New York  
+- [patskingofsteaks](https://www.patskingofsteaks.com/) - Philadelphia  
+- [portillos](https://www.portillos.com/index.html) - Illinois  
+- [russanddaughters](https://www.russanddaughters.com/) - New York  
+- [juniorscheesecake](https://www.juniorscheesecake.com/) - New York  
+- [joesstonecrab](https://joesstonecrab.com/) - Florida  
+- [saltlickbbq](https://saltlickbbq.com/) - Texas  
 
-**Resources**    
-[Hack The Menu](https://hackthemenu.com/) - the ultimate collection of secret menus   
+### Resources  
+- [Hack The Menu](https://hackthemenu.com/) - the ultimate collection of secret menus  
+
 
 
 ## Footwear
