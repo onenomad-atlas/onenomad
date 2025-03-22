@@ -740,9 +740,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [FutureMe](https://www.futureme.org/) - Write a letter to your future self  
 - [TasteAtlas](https://www.tasteatlas.com/) - Discover local ingredients, traditional dishes & authentic restaurants  
 - [Atlas Obscura](https://www.atlasobscura.com/) - Explore the world’s hidden wonders  
-- [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes  
+- [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes
+- [Line Rider](https://www.linerider.com/)
+- [Silk](http://weavesilk.com/) - interactive generative art     
 - [My Life Elsewhere](https://www.mylifeelsewhere.com/) - Compare quality of life globally  
-- [WatchParty](https://www.watchparty.me)  
+- [WatchParty](https://www.watchparty.me)
+- [sandspiel](https://sandspiel.club/)       
 - [FitGirl Repacks](https://fitgirl-repacks.site/popular-repacks/) - Download video games  
 - [ColorifyAI](https://colorifyai.art/) - AI Coloring Page Generator  
 - [PlayClassic](https://playclassic.games/) - Play classic games on the web  
@@ -1269,7 +1272,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [slowernews](https://www.slowernews.com/)  
 - [Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
 - [hacker news](https://news.ycombinator.com/) - tech  
-- [Lifehacker](https://lifehacker.com/) - do everything better  
+- [Lifehacker](https://lifehacker.com/) - do everything better
+- [Read Something Interesting](https://readsomethinginteresting.com/)     
 
 **Bypass Paywalls**  
 - [archive](https://archive.is/) - time capsule for web pages  
@@ -1443,10 +1447,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Random
 
+**Search Arrest Records**  
+- [mugshots.zone](https://mugshots.zone/)  
+- [arrests](http://arrests.org/)  
+
+**Other Sites**    
 - [crystalage](https://www.crystalage.com/online_store/stone_type/) - find info on crystals, fossils, gemstones, and other minerals  
 - [getstation](http://www.getstation.com/)  
 - [workona](https://workona.com/)  
-- [arrests](http://arrests.org/)  
 - [gethuman](https://gethuman.com/) - Get a rep on the phone faster  
 - [protector](https://apps.apple.com/us/app/protector-book-armed-agents/id6739101704) - Book Armed Agents  
 - [filecr](https://filecr.com/en/?id=95360682816) - the biggest software store  
@@ -1454,7 +1462,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [flowcv](https://app.flowcv.com/) - resume builder  
 - [Rxresume](https://rxresu.me/) - free and open source resume builder  
 - [remoteok](https://remoteok.com/) - remote jobs  
-- [mugshots.zone](https://mugshots.zone/)  
 - [neverinstall](https://neverinstall.com/)  
 - [pov.camera](https://pov.camera/) - A camera to capture every perspective  
 - [fmhy](https://fmhy.net/) - The largest collection of free stuff on the internet!
