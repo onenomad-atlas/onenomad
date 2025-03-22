@@ -1606,198 +1606,202 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Travel
 
 **Blogs & Resources**  
-[frequentmiler](https://frequentmiler.com/)  
-[thepointsguy](https://thepointsguy.com/)  
-[status matcher](https://www.statusmatcher.com/)  
-[upgraded points](https://upgradedpoints.com/)  
-[millionmilesecrets](https://millionmilesecrets.com/)  
-[onemileatatime](https://onemileatatime.com/)  
-[uponarriving](https://www.uponarriving.com/)  
-[travel & leisure](https://www.travelandleisure.com/)  
-[flyertalk](https://www.flyertalk.com/)  
-[passport index](https://www.passportindex.org/)  
-[flightconnections](https://www.flightconnections.com/)  
-[expertflyer](https://www.expertflyer.com/)  
-[point.me](https://www.point.me/?source=juicy-miles)  
-[roame](https://roame.travel/)  
+- [frequentmiler](https://frequentmiler.com/)  
+- [thepointsguy](https://thepointsguy.com/)  
+- [status matcher](https://www.statusmatcher.com/)  
+- [upgraded points](https://upgradedpoints.com/)  
+- [millionmilesecrets](https://millionmilesecrets.com/)  
+- [onemileatatime](https://onemileatatime.com/)  
+- [uponarriving](https://www.uponarriving.com/)  
+- [travel & leisure](https://www.travelandleisure.com/)  
+- [flyertalk](https://www.flyertalk.com/)  
+- [passport index](https://www.passportindex.org/)  
+- [flightconnections](https://www.flightconnections.com/)  
+- [expertflyer](https://www.expertflyer.com/)  
+- [point.me](https://www.point.me/?source=juicy-miles)  
+- [roame](https://roame.travel/)  
 
 **Luxury Hotels & Resorts**  
-[quintessentially](https://www.quintessentially.com/)  
-[aman](https://www.aman.com/)  
-[sixsenses](https://www.sixsenses.com/en)  
-[mandarinoriental](https://www.mandarinoriental.com/)  
-[fourseasons](https://www.fourseasons.com/)  
-[belmond](https://www.belmond.com/)  
-[oneandonlyresorts](https://www.oneandonlyresorts.com/)  
+- [quintessentially](https://www.quintessentially.com/)  
+- [aman](https://www.aman.com/)  
+- [sixsenses](https://www.sixsenses.com/en)  
+- [mandarinoriental](https://www.mandarinoriental.com/)  
+- [fourseasons](https://www.fourseasons.com/)  
+- [belmond](https://www.belmond.com/)  
+- [oneandonlyresorts](https://www.oneandonlyresorts.com/)  
 
-**Search**
+### Search    
 
 - **Hotels & Resorts**  
-    [expedia](https://www.expedia.com/)  
-    [airbnb](https://www.airbnb.com/)  
-    [vrbo](https://www.vrbo.com/)  
-    [getaway.house](https://getaway.house/)  
-    [awardmapper](https://awardmapper.com/)  
-    [costcotravel](https://www.costcotravel.com/)  
-    [hotels](https://www.hotels.com/)  
-    [booking](https://www.booking.com/)  
-    [tripadvisor](https://www.tripadvisor.com/)  
+  - [expedia](https://www.expedia.com/)  
+  - [airbnb](https://www.airbnb.com/)  
+  - [vrbo](https://www.vrbo.com/)  
+  - [getaway.house](https://getaway.house/)  
+  - [awardmapper](https://awardmapper.com/)  
+  - [costcotravel](https://www.costcotravel.com/)  
+  - [hotels](https://www.hotels.com/)  
+  - [booking](https://www.booking.com/)  
+  - [tripadvisor](https://www.tripadvisor.com/)  
 
 - **Flights**  
-    [flighthub](http://www.flighthub.com/)  
-    [matrixitasoftware](https://matrix.itasoftware.com/search)  
-    [skiplagged](https://skiplagged.com/)  
-    [skyscanner](http://www.skyscanner.com/)  
-    [kayak](http://www.kayak.com/)  
-    [cheap flights - app](https://www.cheapflights.com/?lang=en&skipapp=true&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_fxyp98hZGCJCTv-r3sDqH8RQne-1WhsomZwjrE-mNJkKOAyL4qUUaAt9KEALw_wcB&aid=131348740301)  
-    [point.me](https://www.point.me/)  
-    [Google Flights](https://www.google.com/travel/flights)  
-    [seatguru](https://seatguru.com/)  
+  - [flighthub](http://www.flighthub.com/)  
+  - [matrixitasoftware](https://matrix.itasoftware.com/search)  
+  - [skiplagged](https://skiplagged.com/)  
+  - [skyscanner](http://www.skyscanner.com/)  
+  - [kayak](http://www.kayak.com/)  
+  - [cheap flights - app](https://www.cheapflights.com/?lang=en&skipapp=true&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_fxyp98hZGCJCTv-r3sDqH8RQne-1WhsomZwjrE-mNJkKOAyL4qUUaAt9KEALw_wcB&aid=131348740301)  
+  - [point.me](https://www.point.me/)  
+  - [Google Flights](https://www.google.com/travel/flights)  
+  - [seatguru](https://seatguru.com/)  
 
 - **Car Rentals & Transportation**  
-    [autoslash](https://www.autoslash.com/)  
-    [avis](https://www.avis.com/en/home)  
-    [turo](https://turo.com/)  
-    [enterprise](https://www.enterprise.com/en/home.html)  
-    [hertz](https://www.hertz.com/rentacar/reservation/)  
-    [alamo](https://www.alamo.com/en/home.html)  
-    [budget](https://www.budget.com/en/home)  
-    [sixt](https://www.sixt.com/#/)  
-    [silvercar](https://www.silvercar.com/) - rent an audi  
-    [citymapper](https://citymapper.com/) - app for transportation  
-    [megabus](https://us.megabus.com/?gclid=EAIaIQobChMI-_CrpbfE9wIVo2xvBB20yQVEEAAYASAAEgKWcPD_BwE) - travel by bus  
+  - [autoslash](https://www.autoslash.com/)  
+  - [avis](https://www.avis.com/en/home)  
+  - [turo](https://turo.com/)  
+  - [enterprise](https://www.enterprise.com/en/home.html)  
+  - [hertz](https://www.hertz.com/rentacar/reservation/)  
+  - [alamo](https://www.alamo.com/en/home.html)  
+  - [budget](https://www.budget.com/en/home)  
+  - [sixt](https://www.sixt.com/#/)  
+  - [silvercar](https://www.silvercar.com/) - rent an Audi  
+  - [citymapper](https://citymapper.com/) - app for transportation  
+  - [megabus](https://us.megabus.com/?gclid=EAIaIQobChMI-_CrpbfE9wIVo2xvBB20yQVEEAAYASAAEgKWcPD_BwE) - travel by bus  
 
 - **Tours**  
-    [getyourguide](https://www.getyourguide.com/)  
-    [raynatours](https://www.raynatours.com/)  
-    [oceanairtravels](https://www.oceanairtravels.com/)  
-    [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica  
+  - [getyourguide](https://www.getyourguide.com/)  
+  - [raynatours](https://www.raynatours.com/)  
+  - [oceanairtravels](https://www.oceanairtravels.com/)  
+  - [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica  
 
-**Traveler Programs**   
-[Mobile Passport Control](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)    
-[Global Entry](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry)  
-[TSA PreCheck](https://www.tsa.gov/precheck)  
-[Clear](https://www.clearme.com/)  
+**Traveler Programs**  
+- [Mobile Passport Control](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)  
+- [Global Entry](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry)  
+- [TSA PreCheck](https://www.tsa.gov/precheck)  
+- [Clear](https://www.clearme.com/)  
 
-**Lounges**   
-[Priority Pass](https://www.prioritypass.com/)   
-[Escape Lounges](https://escapelounges.com/)  
-[Plaza Premium Lounges](https://www.plazapremiumlounge.com/en-uk)  
-[Delta Sky Club](https://www.delta.com/us/en/delta-sky-club/locations)  
-[AMEX Centurion](https://global.americanexpress.com/lounge-access/the-platinum-card)  
-[Capital One](https://capitalonetravel.com/airport-lounges)  
-[Chase Sapphire](https://account.chase.com/sapphire-airport-lounge)  
-
+**Lounges**  
+- [Priority Pass](https://www.prioritypass.com/)  
+- [Escape Lounges](https://escapelounges.com/)  
+- [Plaza Premium Lounges](https://www.plazapremiumlounge.com/en-uk)  
+- [Delta Sky Club](https://www.delta.com/us/en/delta-sky-club/locations)  
+- [AMEX Centurion](https://global.americanexpress.com/lounge-access/the-platinum-card)  
+- [Capital One](https://capitalonetravel.com/airport-lounges)  
+- [Chase Sapphire](https://account.chase.com/sapphire-airport-lounge)  
 
 **Useful Products & Websites**  
-[airalo](https://www.airalo.com/) - esim for any country  
-[roadtrippers](https://roadtrippers.com/) - Road Trip  
-[tomtoc](https://www.tomtoc.com/) - Laptop & Travel Bags     
+- [airalo](https://www.airalo.com/) - eSIM for any country  
+- [roadtrippers](https://roadtrippers.com/) - Road Trip  
+- [tomtoc](https://www.tomtoc.com/) - Laptop & Travel Bags  
 
 **Private Jet & Luxury Lifestyle**  
-[jsx](https://www.jsx.com/) - book a shared private jet  
-[villiersjets](https://www.villiersjets.com/)  
-[flyxo](https://flyxo.com/)  
-[flyvictor](https://www.flyvictor.com/en-us/)  
-[openpoint.co](https://openpoint.co/#/main/)  
-[cuvee](https://www.cuvee.com/)
+- [jsx](https://www.jsx.com/) - book a shared private jet  
+- [villiersjets](https://www.villiersjets.com/)  
+- [flyxo](https://flyxo.com/)  
+- [flyvictor](https://www.flyvictor.com/en-us/)  
+- [openpoint.co](https://openpoint.co/#/main/)  
+- [cuvee](https://www.cuvee.com/)  
+
 
 ## United Arab Emirates
 
 **Real Estate**  
-[emaar](https://www.emaar.com/)  
-[meraas](https://meraas.com/en)  
-[deyaar](https://www.deyaar.ae/en/)  
-[omniyat](https://www.omniyat.com/?utm_source=google_inhouse&utm_medium=cpc&utm_term=omniyat&utm_content=695716681594&utm_campaign=Omniyat_UAE_Brand_EN__21164021701&gad_source=1&gclid=CjwKCAiAnpy9BhAkEiwA-P8N4sSnnjckseNThx_x8niKDR1G4hmusKt2qKbz-HwQDv8l2lFn6DLC8xoCOqQQAvD_BwE)  
-[sobharealty](https://www.sobharealty.com/)  
-[damacproperties](https://www.damacproperties.com/en/)  
-[dp](https://www.dp.ae/)
+- [emaar](https://www.emaar.com/)  
+- [meraas](https://meraas.com/en)  
+- [deyaar](https://www.deyaar.ae/en/)  
+- [omniyat](https://www.omniyat.com/?utm_source=google_inhouse&utm_medium=cpc&utm_term=omniyat&utm_content=695716681594&utm_campaign=Omniyat_UAE_Brand_EN__21164021701&gad_source=1&gclid=CjwKCAiAnpy9BhAkEiwA-P8N4sSnnjckseNThx_x8niKDR1G4hmusKt2qKbz-HwQDv8l2lFn6DLC8xoCOqQQAvD_BwE)  
+- [sobharealty](https://www.sobharealty.com/)  
+- [damacproperties](https://www.damacproperties.com/en/)  
+- [dp](https://www.dp.ae/)  
 
-## US and Government     
-[potustracker](https://potustracker.us/) - track the US president  
+## US and Government  
+
+**Track the US President**
+- [potustracker](https://potustracker.us/)     
 
 **Departments**  
-[FBI](https://www.fbi.gov/) - Federal Bureau of Investigation  
-[CIA](https://www.cia.gov/) - Central Intelligence Agency     
-[NSA](https://www.nsa.gov/) - National Security Agency  
-[LOC](https://www.loc.gov/) - Library of Congress  
-[NOAA](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration    
-[USPTO](https://www.uspto.gov/) - United States Patent and Trademark Office   
+- [FBI](https://www.fbi.gov/) - Federal Bureau of Investigation  
+- [CIA](https://www.cia.gov/) - Central Intelligence Agency  
+- [NSA](https://www.nsa.gov/) - National Security Agency  
+- [LOC](https://www.loc.gov/) - Library of Congress  
+- [NOAA](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration  
+- [USPTO](https://www.uspto.gov/) - United States Patent and Trademark Office  
 
-**Apparel**  
-[rangerjoes](https://rangerjoes.com/) <br>
-[armysurplusworld](https://www.armysurplusworld.com/)
+**Apparel**    
+- [rangerjoes](https://rangerjoes.com/)  
+- [armysurplusworld](https://www.armysurplusworld.com/)  
 
-## Vehicles
+## Vehicles  
 
-**Devices**   
-[wolfbox](https://wolfbox.com/) - dashcam & smart mirror       
+**Devices**  
+- [wolfbox](https://wolfbox.com/) - dashcam & smart mirror  
 
-[lucid](https://lucidmotors.com/)  
-[rivian](https://rivian.com/)    
+**Auto Vehicles**   
+- [lucid](https://lucidmotors.com/)  
+- [rivian](https://rivian.com/)  
 
-[Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts   
-[exclusivecarregistry](https://exclusivecarregistry.com/) - Preserving history about every unique car   
-[startmycar](https://www.startmycar.com/us)    
+**Resources**    
+- [Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts  
+- [exclusivecarregistry](https://exclusivecarregistry.com/) - preserving history about every unique car  
+- [startmycar](https://www.startmycar.com/us)  
 
-## Video and Animation
+## Video and Animation   
+- [davinciresolve](https://www.blackmagicdesign.com/products/davinciresolve)  
+- [blender](https://www.blender.org/)  
+- [maya](https://www.autodesk.com/products/maya/free-trial)  
+- [vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)  
+- [unrealengine](https://www.unrealengine.com/en-US)  
+- [unity](https://unity.com/)  
 
-[davinciresolve](https://www.blackmagicdesign.com/products/davinciresolve)  
-[blender](https://www.blender.org/)  
-[maya](https://www.autodesk.com/products/maya/free-trial)  
-[vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)  
-[unrealengine](https://www.unrealengine.com/en-US)  
-[unity](https://unity.com/)
-
-## Watches
+## Watches  
 
 **Watches**  
-[citizen](https://www.citizenwatch.com/us/en/)  
-[movado](https://www.movado.com/)  
-[fossil](https://www.fossil.com/en-us/)  
-[gshock](https://gshock.casio.com/us/)  
-[seiko](https://seikousa.com/)  
-[tudor](https://www.tudorwatch.com/en)  
-[rolex](https://www.rolex.com/)  
-[omega](https://www.omegawatches.com/en-us/)  
-[patek](https://www.patek.com/en/home)  
-[audemarspiguet](https://www.audemarspiguet.com/com/en/home.html)  
+- [citizen](https://www.citizenwatch.com/us/en/)  
+- [movado](https://www.movado.com/)  
+- [fossil](https://www.fossil.com/en-us/)  
+- [gshock](https://gshock.casio.com/us/)  
+- [seiko](https://seikousa.com/)  
+- [tudor](https://www.tudorwatch.com/en)  
+- [rolex](https://www.rolex.com/)  
+- [omega](https://www.omegawatches.com/en-us/)  
+- [patek](https://www.patek.com/en/home)  
+- [audemarspiguet](https://www.audemarspiguet.com/com/en/home.html)  
 
 **Smartwatches**  
-[Apple Watch](https://www.apple.com/watch/)  
-[Samsung Galaxy Watch](https://www.samsung.com/us/mobile/wearables/all-wearables/)  
-[Fossil](https://www.fossil.com/en-us/smartwatches/smartwatches/)  
-[Fitbit](https://www.fitbit.com/global/us/home)  
-[Garmin](https://www.garmin.com/en-US/c/wearables-smartwatches/)  
-[Amazfit](https://www.amazfit.com/us/)
+- [Apple Watch](https://www.apple.com/watch/)  
+- [Samsung Galaxy Watch](https://www.samsung.com/us/mobile/wearables/all-wearables/)  
+- [Fossil](https://www.fossil.com/en-us/smartwatches/smartwatches/)  
+- [Fitbit](https://www.fitbit.com/global/us/home)  
+- [Garmin](https://www.garmin.com/en-US/c/wearables-smartwatches/)  
+- [Amazfit](https://www.amazfit.com/us/)  
 
-## Weather
+## Weather  
 
-[earth](https://earth.nullschool.net/) - global map of wind, weather, and ocean conditions    
-[weathernext](https://deepmind.google/technologies/weathernext/#access-weathernext) - Google’s AI weather forecast tech  
-[zoom.earth](https://zoom.earth/) - live weather map    
-[overdrop](https://get.overdrop.app/) - weather app    
+- [earth](https://earth.nullschool.net/) - global map of wind, weather, and ocean conditions  
+- [weathernext](https://deepmind.google/technologies/weathernext/#access-weathernext) - Google’s AI weather forecast tech  
+- [zoom.earth](https://zoom.earth/) - live weather map  
+- [overdrop](https://get.overdrop.app/) - weather app  
 
 ## Windows  
-[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US)  
-[rainmeter](https://www.rainmeter.net/)   
-[Winutil](https://github.com/ChrisTitusTech/winutil)  
-[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)  
-[Rectify11](https://rectify11.net/home)  
-[Files](https://files.community/)    
-[Notepad++](https://notepad-plus-plus.org/) - free source code editor and Notepad replacement that supports several languages    
-[Windhawk](https://windhawk.net/) - The customization marketplace for Windows and programs    
-[Libre Office](https://www.libreoffice.org/) - Your private, free office suite   
-[Flow Launcher](https://www.flowlauncher.com/) -  Quick File Search & App Launcher for Windows    
-[Windows 11 Perfect Install](https://christitus.com/windows-11-perfect-install/) - debloat Windows   
-[Rufus](https://rufus.ie/en/) - create bootable usbs the easy way     
 
-[Microsoft Office 365 Activation](https://github.com/abbodi1406/KMS_VL_ALL_AIO)      
+- [PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US)  
+- [rainmeter](https://www.rainmeter.net/)  
+- [Winutil](https://github.com/ChrisTitusTech/winutil)  
+- [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)  
+- [Rectify11](https://rectify11.net/home)  
+- [Files](https://files.community/)  
+- [Notepad++](https://notepad-plus-plus.org/) - free source code editor and Notepad replacement that supports several languages  
+- [Windhawk](https://windhawk.net/) - the customization marketplace for Windows and programs  
+- [Libre Office](https://www.libreoffice.org/) - your private, free office suite  
+- [Flow Launcher](https://www.flowlauncher.com/) - quick file search & app launcher for Windows  
+- [Windows 11 Perfect Install](https://christitus.com/windows-11-perfect-install/) - debloat Windows  
+- [Rufus](https://rufus.ie/en/) - create bootable USBs the easy way  
 
+**Microsoft Office Activation**
+- [Microsoft Office 365 Activation Script](https://github.com/abbodi1406/KMS_VL_ALL_AIO)  
 
-## World Data
+## World Data  
 
-[luminocity3d](https://www.luminocity3d.org/)  
-[atlas](https://atlas.co/)  
-[visualcapitalist](https://www.visualcapitalist.com/)  
-[voronoi](https://www.voronoiapp.com/)   
+- [luminocity3d](https://www.luminocity3d.org/)  
+- [atlas](https://atlas.co/)  
+- [visualcapitalist](https://www.visualcapitalist.com/)  
+- [voronoi](https://www.voronoiapp.com/)  
