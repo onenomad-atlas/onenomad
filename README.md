@@ -308,13 +308,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Audio and Music
 
-**Products**
-
-- [moondroplab](https://moondroplab.com/en/home)  
-- [wh1000xm5](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-b?srsltid=AfmBOopoTGcg4eZ14yrnTRkZOPInE6v4TKENorZFDrcxm4ajzi-y46xt)  
-
-
-
 - [tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another  
 - [soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another  
 - [epidemicsound](https://www.epidemicsound.com/) - Bring your story to life with music and sounds  
