@@ -831,367 +831,329 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Footwear
 
-**Hiking and Work Boots**  
-[All American Clothing Co.](https://www.allamericanclothing.com) – men’s  
-[Belleville](https://www.bellevilleboot.com) – military and tactical  
-[Carolina](https://www.carolinashoe.com) – men’s, select styles  
-[Chippewa](https://www.chippewaboots.com) – select styles  
-[Corcoran](https://www.corcoranboots.com) – military and tactical  
-[CYDWOQ](https://www.cydwoq.com) – made in California  
-[Danner](https://www.danner.com) – some models made in Oregon  
-[Hathorn Explorer](https://www.whitesboots.com) – made in Washington  
-[Hoffman Boots](https://www.hoffmanboots.com) – made in Idaho  
-[L.L. Bean](https://www.llbean.com) – select styles, made in Maine  
-[Red Wing](https://www.redwingshoes.com) – select styles, made in Minnesota  
-[Nicks Handmade Boots](https://www.nicksboots.com) – made in Washington  
-[Schnee’s](https://www.schnees.com) – made in Montana  
-[Sloggers](https://www.sloggers.com) – women’s rain boots, made in California  
-[Thorogood](https://www.thorogoodusa.com) – men’s  
-[Truman Boot Co.](https://www.trumanboot.com) – made in Oregon  
-[White’s Boots](https://www.whitesboots.com) – men’s  
-[Wolverine](https://www.wolverine.com) – men’s, select styles made in Alabama and Tennessee  
-[Thursday Boots](https://thursdayboots.com/) - Highest quality, honest prices      
+### Hiking and Work Boots
+- [All American Clothing Co.](https://www.allamericanclothing.com) – men’s  
+- [Belleville](https://www.bellevilleboot.com) – military and tactical  
+- [Carolina](https://www.carolinashoe.com) – men’s, select styles  
+- [Chippewa](https://www.chippewaboots.com) – select styles  
+- [Corcoran](https://www.corcoranboots.com) – military and tactical  
+- [CYDWOQ](https://www.cydwoq.com) – made in California  
+- [Danner](https://www.danner.com) – some models made in Oregon  
+- [Hathorn Explorer](https://www.whitesboots.com) – made in Washington  
+- [Hoffman Boots](https://www.hoffmanboots.com) – made in Idaho  
+- [L.L. Bean](https://www.llbean.com) – select styles, made in Maine  
+- [Red Wing](https://www.redwingshoes.com) – select styles, made in Minnesota  
+- [Nicks Handmade Boots](https://www.nicksboots.com) – made in Washington  
+- [Schnee’s](https://www.schnees.com) – made in Montana  
+- [Sloggers](https://www.sloggers.com) – women’s rain boots, made in California  
+- [Thorogood](https://www.thorogoodusa.com) – men’s  
+- [Truman Boot Co.](https://www.trumanboot.com) – made in Oregon  
+- [White’s Boots](https://www.whitesboots.com) – men’s  
+- [Wolverine](https://www.wolverine.com) – men’s, select styles made in Alabama and Tennessee  
+- [Thursday Boots](https://thursdayboots.com/) - Highest quality, honest prices  
 
-**Cowboy Boots**  
-[Abilene](https://www.abileneboots.com) – made in Pennsylvania  
-[Babiones Wilson Boots](https://www.wilsonboots.com) – made in Montana  
-[Caboots](https://www.caboots.com) – made in Texas  
-[Double-H](https://www.doublehboots.com) – made in Pennsylvania  
-[Justin](https://www.justinboots.com) – select styles  
-[Lucchese](https://www.lucchese.com) – select styles  
-[Nocona](https://www.nocona.com) – select styles  
-[Orvis](https://www.orvis.com) – made in Vermont  
-[Tony Lama](https://www.tonylama.com) – select styles  
+### Cowboy Boots
+- [Abilene](https://www.abileneboots.com) – made in Pennsylvania  
+- [Babiones Wilson Boots](https://www.wilsonboots.com) – made in Montana  
+- [Caboots](https://www.caboots.com) – made in Texas  
+- [Double-H](https://www.doublehboots.com) – made in Pennsylvania  
+- [Justin](https://www.justinboots.com) – select styles  
+- [Lucchese](https://www.lucchese.com) – select styles  
+- [Nocona](https://www.nocona.com) – select styles  
+- [Orvis](https://www.orvis.com) – made in Vermont  
+- [Tony Lama](https://www.tonylama.com) – select styles  
 
- **Casual Wear**  
-[Aldo](https://www.aldoshoes.com)  
-[Hey Dude](https://www.heydude.com)  
-[Aurora Shoe Co](https://www.aurorashoeco.com) – made in New York  
-[Capps Shoe Company](https://www.cappsshoe.com) – airline uniform shoes, made in Virginia  
-[Eastland](https://www.eastlandshoe.com) – made in Maine  
-[Footwear by Footskins](https://www.footskins.com) – made in Minnesota  
-[Frye](https://www.thefryecompany.com) – select styles  
-[Helm Boots](https://www.helmboots.com) – made in Texas  
-[Mohop](https://www.mohop.com) – women’s, made in Illinois  
-[Munro](https://www.munroshoes.com) – women’s, select styles made in Arkansas  
-[Oakstreet Bootmakers](https://www.oakstreetbootmakers.com) – made in Illinois  
-[Onex](https://www.onexshoes.com) – women’s, made in California  
-[Pierrepont Hicks](https://www.pierreponthicks.com) – women’s, made in Maine  
-[PW Minor](https://www.pwminor.com) – made in New York  
-[Quoddy](https://www.quoddy.com) – made in Maine  
-[Russell Moccasin Co](https://www.russellmoccasin.com) – made in Wisconsin  
-[Salpy Shoes](https://www.salpyshoes.com) – made in California  
-[SAS (San Antonio Shoes)](https://www.sasshoes.com) – made in Texas  
-[Scandic Footwear](https://www.scandicfootwear.com) – made in New England  
-[Softstar](https://www.softstarshoes.com) – made in Oregon  
-[Steger Mukluks and Moccasins](https://www.mukluks.com) – made in Minnesota  
-[Sven](https://www.svenclogs.com) – clogs, made in Minnesota  
-[The Palatines](https://www.thepalatines.com) – made in California  
-[The Vintage Shoe Company](https://www.vintageshoecompany.com) – made in Pennsylvania  
-[Walk-Over](https://www.walkover.com) – men’s  
-[Zuzii Footwear](https://www.zuzii.com) – made in California  
-
-**Sneakers & Running Shoes**  
-[Brooks Running](https://www.brooksrunning.com)  
-[On Running](https://www.on-running.com)  
-[Opie Way](https://www.opieway.com) – very stylish, made in North Carolina  
-[Hersey Custom Shoe Company](https://www.herseycustomshoe.com) – made in Massachusetts  
-[SOM Footwear](https://www.somfootwear.com) – minimalist design, made in Colorado  
-[Psudo Sneakers](https://www.psudo.com) – printed slip-on sneakers  
-[New Balance](https://www.newbalance.com) – select styles only  
-
-**Formal Shoes**  
-[Alden](https://www.aldenshoe.com) – men’s, made in Massachusetts  
-[Allen Edmonds](https://www.allenedmonds.com) – men’s, made in Wisconsin  
-[Calleen Cordero](https://www.calleencordero.com) – women’s, made in California  
-[Esquivel](https://www.esquivelshoes.com) – made in California  
-[Gateway Shoes](https://www.gatewayfootwear.com) – made in Missouri  
-[Jen + Kim](https://www.jenandkim.com) – women’s, made in California  
-[Newbark](https://www.newbark.com) – women’s, made in California  
-[Perry Ercolino](https://www.perryercolino.com) – made in Pennsylvania  
-[Rancourt & Co](https://www.rancourtandcompany.com) – men’s, made in Maine  
-
-**Sandals**  
-[Earth Runners Sandals](https://www.earthrunners.com) – made in California  
-[Gurkee’s](https://www.gurkees.com) – made in West Virginia  
-[Island Slipper](https://www.islandslipper.com) – made in Hawaii  
-[Jack Rogers Navajo Sandals](https://www.jackrogersusa.com) – made in Florida, select styles  
-[MyChacos by Chacos](https://www.chacos.com) – made in Michigan (other Chacos not made in USA)  
-[Oka-B](https://www.oka-b.com) – made in Georgia  
-[Okabashi](https://www.okabashi.com) – made in Georgia  
-[Piper Sandals](https://www.pipersandals.com) – made in Texas  
-
-**Baby Shoes**  
-[Cade & Co](https://www.cadeandco.com) – made in Utah    
-[Kepner Scott](https://www.kepnerscott.com) – made in Pennsylvania    
+### Casual Wear
+- [Aldo](https://www.aldoshoes.com)  
+- [Hey Dude](https://www.heydude.com)  
+- [Aurora Shoe Co](https://www.aurorashoeco.com) – made in New York  
+- [Capps Shoe Company](https://www.cappsshoe.com) – airline uniform shoes, made in Virginia  
+- [Eastland](https://www.eastlandshoe.com) – made in Maine  
+- [Footwear by Footskins](https://www.footskins.com) – made in Minnesota  
+- [Frye](https://www.thefryecompany.com) – select styles  
+- [Helm Boots](https://www.helmboots.com) – made in Texas  
+- [Mohop](https://www.mohop.com) – women’s, made in Illinois  
+- [Munro](https://www.munroshoes.com) – women’s, select styles made in Arkansas  
+- [Oakstreet Bootmakers](https://www.oakstreetbootmakers.com) – made in Illinois  
+- [Onex](https://www.onexshoes.com) – women’s, made in California  
+- [Pierrepont Hicks](https://www.pierreponthicks.com) – women’s, made in Maine  
+- [PW Minor](https://www.pwminor.com) – made in New York  
+- [Quoddy](https://www.quoddy.com) – made in Maine  
+- [Russell Moccasin Co](https://www.russellmoccasin.com) – made in Wisconsin  
+- [Salpy Shoes](https://www.salpyshoes.com) – made in California  
+- [SAS (San Antonio Shoes)](https://www.sasshoes.com) – made in Texas  
+- [Scandic Footwear](https://www.scandicfootwear.com) – made in New England  
+- [Softstar](https://www.softstarshoes.com) – made in Oregon  
+- [Steger Mukluks and Moccasins](https://www.mukluks.com) – made in Minnesota  
+- [Sven](https://www.svenclogs.com) – clogs, made in Minnesota  
+- [The Palatines](https://www.thepalatines.com) – made in California  
+- [The Vintage Shoe Company](https://www.vintageshoecompany.com) – made in Pennsylvania  
+- [Walk-Over](https://www.walkover.com) – men’s  
+- [Zuzii Footwear](https://www.zuzii.com) – made in California  
 
 ## Fragrances
 
-**Essential Oils**  
-[aromatechscent](https://aromatechscent.com/)  
-[youngliving](https://www.youngliving.com/us/en/)  
-[doterra](https://www.doterra.com/US/en)  
-[planttherapy](https://www.planttherapy.com/)  
-[auracacia](https://www.auracacia.com/)  
-[vitruvi](https://vitruvi.com/)  
-[earthley](https://www.earthley.com/)  
+### Essential Oils
+- [aromatechscent](https://aromatechscent.com/)  
+- [youngliving](https://www.youngliving.com/us/en/)  
+- [doterra](https://www.doterra.com/US/en)  
+- [planttherapy](https://www.planttherapy.com/)  
+- [auracacia](https://www.auracacia.com/)  
+- [vitruvi](https://vitruvi.com/)  
+- [earthley](https://www.earthley.com/)  
 
-**American Fragrances**  
-[Tom Ford](https://www.tomford.com/beauty/)    
+### American Fragrances
+- [Tom Ford](https://www.tomford.com/beauty/)  
 
-**European Fragrances**  
-[Roja Parfums](https://rojaparfums.com/)  
-[Creed](https://creedboutique.com/)  
-[Dior](https://www.dior.com/en_us/beauty)     
+### European Fragrances
+- [Roja Parfums](https://rojaparfums.com/)  
+- [Creed](https://creedboutique.com/)  
+- [Dior](https://www.dior.com/en_us/beauty)  
 
-**Middle Eastern Fragrances**  
-[Arabian Oud](https://corp.arabianoud.com/en/)  
-[Ajmal](https://shop.ajmalperfume.com/uae_en/)  
-[Al Haramain](https://ahp.alharamainperfumes.com/)  
-[Spirit Of Dubai](https://www.thespiritofdubai.com/)  
-[Swiss Arabian](https://swissarabian.com/)  
-[Rasasi](http://www.rasasi.com/)  
-[Afnan](https://www.afnan.com/)    
-[YUSUF BHAI](https://yusufbhaifragrances.com/)    
+### Middle Eastern Fragrances
+- [Arabian Oud](https://corp.arabianoud.com/en/)  
+- [Ajmal](https://shop.ajmalperfume.com/uae_en/)  
+- [Al Haramain](https://ahp.alharamainperfumes.com/)  
+- [Spirit Of Dubai](https://www.thespiritofdubai.com/)  
+- [Swiss Arabian](https://swissarabian.com/)  
+- [Rasasi](http://www.rasasi.com/)  
+- [Afnan](https://www.afnan.com/)  
+- [YUSUF BHAI](https://yusufbhaifragrances.com/)  
 
-**Fragrances Suppliers**    
-[robertet](https://www.robertet.com/)    
-[givaudan](https://www.givaudan.com/)     
-[dsm-firmenich](https://www.dsm-firmenich.com/en/home.html)    
-[iff](https://www.iff.com/)    
-[greenflora](https://www.greenflora.in/)     
+### Fragrances Suppliers
+- [robertet](https://www.robertet.com/)  
+- [givaudan](https://www.givaudan.com/)  
+- [dsm-firmenich](https://www.dsm-firmenich.com/en/home.html)  
+- [iff](https://www.iff.com/)  
+- [greenflora](https://www.greenflora.in/)  
 
-
-**Other Sites**  
-[intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
-[fragrantica](https://www.fragrantica.com/) - research  
-[thewhitecompany](https://www.thewhitecompany.com/us/) - UK   
-[oriental fragrance](https://www.oriental-fragrance.com/en/)     
-[Ajmal US](https://ajmalperfumeus.com/)    
-[MyPerfumeSelectUSA](https://www.myperfumesselectusa.com/)     
-[perfumedefrance](https://perfumedefrance.com/)     
-[scentsplit](https://www.scentsplit.com/)    
-[fragrancenet](https://www.fragrancenet.com/)     
-[fragrancex](https://www.fragrancex.com/)    
-[maxaroma](https://www.maxaroma.com/)        
+### Other Sites
+- [intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
+- [fragrantica](https://www.fragrantica.com/) - research  
+- [thewhitecompany](https://www.thewhitecompany.com/us/) - UK  
+- [oriental fragrance](https://www.oriental-fragrance.com/en/)  
+- [Ajmal US](https://ajmalperfumeus.com/)  
+- [MyPerfumeSelectUSA](https://www.myperfumesselectusa.com/)  
+- [perfumedefrance](https://perfumedefrance.com/)  
+- [scentsplit](https://www.scentsplit.com/)  
+- [fragrancenet](https://www.fragrancenet.com/)  
+- [fragrancex](https://www.fragrancex.com/)  
+- [maxaroma](https://www.maxaroma.com/)  
 
 
 ## Furniture and Home Decor  
-[Wayfair](https://www.wayfair.com/)  
-[Overstock](https://www.overstock.com/)  
-[Etsy](https://www.etsy.com/)  
-[livefeather](https://www.livefeather.com/)  
-[Spoken.io](https://www.spoken.io/)  
-[containerstore](https://www.containerstore.com/welcome.htm)  
-[potterybarn](https://www.potterybarn.com/)  
-[rh](https://rh.com/)  
-[crateandbarrel](https://www.crateandbarrel.com/)  
-[Chita Living](https://chitaliving.com/)     
-[westelm](https://www.westelm.com/)  
-[livingspaces](https://www.livingspaces.com/)  
-[kirklands](https://www.kirklands.com/)  
-[worldmarket](https://www.worldmarket.com/)  
-[cantoni](https://www.cantoni.com/) - italian  
-[safavieh](https://safavieh.com/) - rugs & home furnishing  
+- [Wayfair](https://www.wayfair.com/)  
+- [Overstock](https://www.overstock.com/)  
+- [Etsy](https://www.etsy.com/)  
+- [livefeather](https://www.livefeather.com/)  
+- [Spoken.io](https://www.spoken.io/)  
+- [containerstore](https://www.containerstore.com/welcome.htm)  
+- [potterybarn](https://www.potterybarn.com/)  
+- [rh](https://rh.com/)  
+- [crateandbarrel](https://www.crateandbarrel.com/)  
+- [Chita Living](https://chitaliving.com/)  
+- [westelm](https://www.westelm.com/)  
+- [livingspaces](https://www.livingspaces.com/)  
+- [kirklands](https://www.kirklands.com/)  
+- [worldmarket](https://www.worldmarket.com/)  
+- [cantoni](https://www.cantoni.com/) - italian  
+- [safavieh](https://safavieh.com/) - rugs & home furnishing  
 
 ## Futuristic Products
 
 **Mind**  
-[Neuralink](https://neuralink.com/)  
-[next-mind](https://www.next-mind.com/)  
+- [Neuralink](https://neuralink.com/)  
+- [next-mind](https://www.next-mind.com/)  
 
 **Tech**  
-[ouraring](https://ouraring.com/)  
-[owogame](https://owogame.com/)  
-[Nimo Smart Glasses](https://www.nimoplanet.com/)  
-[Actronika](https://www.actronika.com/)  
-[magicleap](https://www.magicleap.com/)  
-
-[lightyear.one](https://lightyear.one/)  
+- [ouraring](https://ouraring.com/)  
+- [owogame](https://owogame.com/)  
+- [Nimo Smart Glasses](https://www.nimoplanet.com/)  
+- [Actronika](https://www.actronika.com/)  
+- [magicleap](https://www.magicleap.com/)  
+- [lightyear.one](https://lightyear.one/)  
 
 ## Glasses
 
 **Eyeglasses**  
-[kits](https://www.kits.com/)  
-[lenskart.us](https://www.lenskart.us/)  
-[warbyparker](https://www.warbyparker.com/)  
-[eyebuydirect](https://www.eyebuydirect.com/)  
-[lookoptic](https://www.lookoptic.com/)  
-[zennioptical](https://www.zennioptical.com/)  
-[glassesusa](https://www.glassesusa.com/)  
-[eyebobs](https://www.eyebobs.com/)  
+- [kits](https://www.kits.com/)  
+- [lenskart.us](https://www.lenskart.us/)  
+- [warbyparker](https://www.warbyparker.com/)  
+- [eyebuydirect](https://www.eyebuydirect.com/)  
+- [lookoptic](https://www.lookoptic.com/)  
+- [zennioptical](https://www.zennioptical.com/)  
+- [glassesusa](https://www.glassesusa.com/)  
+- [eyebobs](https://www.eyebobs.com/)  
 
 **Sunglasses**  
-[Ray-Ban](https://www.ray-ban.com/usa)  
-[Oakley](https://www.oakley.com/en-us)  
-[sunglasshut](https://www.sunglasshut.com/)  
-[diffeyewear](https://www.diffeyewear.com/)  
-[raen](https://raen.com/)  
-[persol](https://www.persol.com/usa)  
-[costadelmar](https://www.costadelmar.com/en-us)  
-[westwardleaning](https://westwardleaning.com/)  
-[solsticesunglasses](https://solsticesunglasses.com/)  
-[fostergrant](https://www.fostergrant.com/)  
-[christopher-cloos](https://christopher-cloos.com/)
+- [Ray-Ban](https://www.ray-ban.com/usa)  
+- [Oakley](https://www.oakley.com/en-us)  
+- [sunglasshut](https://www.sunglasshut.com/)  
+- [diffeyewear](https://www.diffeyewear.com/)  
+- [raen](https://raen.com/)  
+- [persol](https://www.persol.com/usa)  
+- [costadelmar](https://www.costadelmar.com/en-us)  
+- [westwardleaning](https://westwardleaning.com/)  
+- [solsticesunglasses](https://solsticesunglasses.com/)  
+- [fostergrant](https://www.fostergrant.com/)  
+- [christopher-cloos](https://christopher-cloos.com/)
 
 ## Grocery
 
-[flipp](https://flipp.com/home) - weekly flyers for grocery stores & other stores  
+- [flipp](https://flipp.com/home) - weekly flyers for grocery stores & other stores  
 
 **Grocery Delivery Services**  
-[Whole Foods](https://www.wholefoodsmarket.com/) - delivered through Amazon Prime  
-[Walmart Grocery](https://www.walmart.com/) - delivered through Walmart Plus  
-[Target](https://www.target.com/) - delivered through Shipt  
-[Thrive Market](https://thrivemarket.com/)  
-[Instacart](https://www.instacart.com/)  
-[Shipt](https://www.shipt.com/)  
-[Boxed](https://www.boxed.com/)  
-[Misfits Market](https://www.misfitsmarket.com/)  
-[Gopuff](https://gopuff.com/)
+- [Whole Foods](https://www.wholefoodsmarket.com/) - delivered through Amazon Prime  
+- [Walmart Grocery](https://www.walmart.com/) - delivered through Walmart Plus  
+- [Target](https://www.target.com/) - delivered through Shipt  
+- [Thrive Market](https://thrivemarket.com/)  
+- [Instacart](https://www.instacart.com/)  
+- [Shipt](https://www.shipt.com/)  
+- [Boxed](https://www.boxed.com/)  
+- [Misfits Market](https://www.misfitsmarket.com/)  
+- [Gopuff](https://gopuff.com/)
 
 ## Health and Medicine
 
 **Health Resources**  
-[healthline](https://www.healthline.com/)  
-[ada health](https://ada.com/)
+- [healthline](https://www.healthline.com/)  
+- [ada health](https://ada.com/)
 
 **Medicine**  
-[costplusdrugs](https://costplusdrugs.com/)  
-[goodrx](https://www.goodrx.com/)  
-[nowrx](https://nowrx.com/)  
-[Amazon Pharmacy](https://www.amazon.com/b?node=23435487011)  
-[pillpack](https://www.pillpack.com/)  
-[blinkhealth](https://www.blinkhealth.com/)
+- [costplusdrugs](https://costplusdrugs.com/)  
+- [goodrx](https://www.goodrx.com/)  
+- [nowrx](https://nowrx.com/)  
+- [Amazon Pharmacy](https://www.amazon.com/b?node=23435487011)  
+- [pillpack](https://www.pillpack.com/)  
+- [blinkhealth](https://www.blinkhealth.com/)
 
 **Vitamins**  
-[ritual](https://ritual.com/)  
-[personanutrition](https://www.personanutrition.com/)  
-[lovewellness](https://lovewellness.com/)  
-[humnutrition](https://www.humnutrition.com/)  
-[bluebonnetnutrition](https://bluebonnetnutrition.com/)  
-[newchapter](https://newchapter.com/)  
-[ancientnutrition](https://ancientnutrition.com/)
+- [ritual](https://ritual.com/)  
+- [personanutrition](https://www.personanutrition.com/)  
+- [lovewellness](https://lovewellness.com/)  
+- [humnutrition](https://www.humnutrition.com/)  
+- [bluebonnetnutrition](https://bluebonnetnutrition.com/)  
+- [newchapter](https://newchapter.com/)  
+- [ancientnutrition](https://ancientnutrition.com/)
 
 ## History
 
-[britishpathe](https://www.britishpathe.com/) - Explore the world's finest newsreel archives.  
-[archive](https://archive.org/) - search the digital archive  
-[archives](https://www.archives.gov/) - search the national digital archive & records
+- [britishpathe](https://www.britishpathe.com/) - Explore the world's finest newsreel archives.  
+- [archive](https://archive.org/) - search the digital archive  
+- [archives](https://www.archives.gov/) - search the national digital archive & records
 
-## Home  
- 
-[ownwell](https://www.ownwell.com/) - reduce your property taxes  
-[bldr](https://www.bldr.com/)     
-[Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products       
-[Vornado](https://www.vornado.com/) - revolutionizing home comfort    
-[doitbest](https://www.doitbest.com/) - local hardware store    
+## Home
 
+- [ownwell](https://www.ownwell.com/) - reduce your property taxes  
+- [bldr](https://www.bldr.com/)  
+- [Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products  
+- [Vornado](https://www.vornado.com/) - revolutionizing home comfort  
+- [doitbest](https://www.doitbest.com/) - local hardware store
 
-**Alarm**  
-[cove](https://www.covesmart.com/)  
-[Xfinity Home](https://www.xfinity.com/learn/home-security)  
-[ring](https://ring.com/security-system)  
-[simplisafe](https://simplisafe.com/)  
-[goabode](https://goabode.com/)  
-[vivint](https://www.vivint.com/)  
-[adt](https://www.adt.com/)  
-[brinks](https://brinkshome.com/)  
-[frontpoint](https://www.frontpointsecurity.com/)  
+**Alarm**    
+- [cove](https://www.covesmart.com/)  
+- [Xfinity Home](https://www.xfinity.com/learn/home-security)  
+- [ring](https://ring.com/security-system)  
+- [simplisafe](https://simplisafe.com/)  
+- [goabode](https://goabode.com/)  
+- [vivint](https://www.vivint.com/)  
+- [adt](https://www.adt.com/)  
+- [brinks](https://brinkshome.com/)  
+- [frontpoint](https://www.frontpointsecurity.com/)  
 
-**Solar**  
-[elevation](https://www.poweredbyelevation.com/)  
-[sunlux](https://sunlux.com/)  
-[tesla](https://www.tesla.com/energy)  
-[zenernet](https://zenernet.com/)  
-[sunpower](https://us.sunpower.com/)    
+**Solar**      
+- [elevation](https://www.poweredbyelevation.com/)  
+- [sunlux](https://sunlux.com/)  
+- [tesla](https://www.tesla.com/energy)  
+- [zenernet](https://zenernet.com/)  
+- [sunpower](https://us.sunpower.com/)  
 
-**Top Fan Brands**  
-[Hunter](https://www.hunterfan.com/)   
-[Casablanca](https://www.hunterfan.com/pages/casablanca?srsltid=AfmBOoqRxAgKljam-ozDVOLY5lwTM1oT3uOdlEV1Agida0VTObdqyZws)    
-[Hampton Bay](https://thehamptonbay.com/)  
+**Top Fan Brands**      
+- [Hunter](https://www.hunterfan.com/)  
+- [Casablanca](https://www.hunterfan.com/pages/casablanca?srsltid=AfmBOoqRxAgKljam-ozDVOLY5lwTM1oT3uOdlEV1Agida0VTObdqyZws)  
+- [Hampton Bay](https://thehamptonbay.com/)  
 
-## Images and Photos
+## Images and Photos  
+- [ente](https://ente.io/) - end to end cloud storage  
+- [gettyimages](https://www.gettyimages.com/)  
+- [unsplash](https://unsplash.com/) - internet’s source for visuals  
+- [pixabay](https://pixabay.com/)  
+- [shutterstock](https://www.shutterstock.com/)  
+- [pexels](https://www.pexels.com/)  
+- [tineye](https://tineye.com/) - reverse image search  
+- [Photoscan](https://www.google.com/photos/scan/) - Photos from the past, meet scanner from the future  
+- [photoroom](https://www.photoroom.com/) - AI Photo Editor  
 
-[ente](https://ente.io/) - end to end cloud storage  
-[gettyimages](https://www.gettyimages.com/)  
-[unsplash](https://unsplash.com/) - internet’s source for visuals  
-[pixabay](https://pixabay.com/)  
-[shutterstock](https://www.shutterstock.com/)  
-[pexels](https://www.pexels.com/)  
-[tineye](https://tineye.com/) - reverse image search  
-[Photoscan](https://www.google.com/photos/scan/) - Photos from the past, meet scanner from the future    
-[photoroom](https://www.photoroom.com/) - AI Photo Editor    
-
-## India
+## India  
 
 **Indian Clothing**  
-[Roopkalsarees](http://roopkalsarees.com/)  
-[Seasonsindia](http://seasonsindia.com/)  
-[Manyavar](http://manyavar.com/)  
-[Tirumala Designers](https://tirumaladesigners.in)
+- [Roopkalsarees](http://roopkalsarees.com/)  
+- [Seasonsindia](http://seasonsindia.com/)  
+- [Manyavar](http://manyavar.com/)  
+- [Tirumala Designers](https://tirumaladesigners.in)  
 
 **Indian Construction Companies**  
-[Oberoi](https://www.oberoirealty.com/)  
-[Hiranandani](https://www.houseofhiranandani.com/)  
-[Rustomjee](https://www.rustomjee.com/)  
-[K raheja corp](https://www.krahejacorp.com/)  
-[L&T realty](https://www.lntrealty.com/)
+- [Oberoi](https://www.oberoirealty.com/)  
+- [Hiranandani](https://www.houseofhiranandani.com/)  
+- [Rustomjee](https://www.rustomjee.com/)  
+- [K raheja corp](https://www.krahejacorp.com/)  
+- [L&T realty](https://www.lntrealty.com/)  
 
-## International Companies
+## International Companies  
 
 **Germany**  
-[**ART+COM Studios**](https://artcom.de/en/)  
-Notable Works - [Terravision](https://artcom.de/en/?project=terravision)
+- [**ART+COM Studios**](https://artcom.de/en/)  
+  Notable Works - [Terravision](https://artcom.de/en/?project=terravision)
 
 **United States**  
-George Hotz  
-Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai/), [tinygrad](https://tinygrad.org/)  
+- George Hotz  
+  Notable Works - [blackra1n](https://blackra1n.com/), [comma.ai](https://comma.ai/), [tinygrad](https://tinygrad.org/)  
 
-## Jewelry
+## Jewelry  
+- [brilliantearth](https://www.brilliantearth.com/)  
+- [vrai](https://www.vrai.com/)  
+- [ross-simons](https://www.ross-simons.com/)  
+- [bluenile](https://www.bluenile.com/)  
+- [gabrielny](https://www.gabrielny.com/)  
+- [swarovski](https://www.swarovski.com/en-US/)  
 
-[brilliantearth](https://www.brilliantearth.com/)  
-[vrai](https://www.vrai.com/)  
-[ross-simons](https://www.ross-simons.com/)  
-[bluenile](https://www.bluenile.com/)  
-[gabrielny](https://www.gabrielny.com/)  
-[swarovski](https://www.swarovski.com/en-US/)
+## Kitchen  
 
-## Kitchen
-
-**Tools & Gadgets**      
-[homewild](https://homewild.shop/)  
-[babi.sh](https://www.babi.sh/)  
-[natashaskitchen](https://www.amazon.com/shop/natashaskitchen/list/1IPEJWJ6FO7MD?ref_=aip_sf_list_spv_ofs_mixed_d)  
-[shopstcg](https://shopstcg.com/)  
-[lifebymikeg](https://www.amazon.com/shop/lifebymikeg)  
-[cookwell](https://www.cookwell.com/shop)
+**Tools & Gadgets**  
+- [homewild](https://homewild.shop/)  
+- [babi.sh](https://www.babi.sh/)  
+- [natashaskitchen](https://www.amazon.com/shop/natashaskitchen/list/1IPEJWJ6FO7MD?ref_=aip_sf_list_spv_ofs_mixed_d)  
+- [shopstcg](https://shopstcg.com/)  
+- [lifebymikeg](https://www.amazon.com/shop/lifebymikeg)  
+- [cookwell](https://www.cookwell.com/shop)  
 
 **Resources**  
-[supercook](https://www.supercook.com/#/desktop) - find a recipe with the ingredients you have
+- [supercook](https://www.supercook.com/#/desktop) - find a recipe with the ingredients you have  
 
 **Ingredients**  
-[King Arthur Flour](https://www.kingarthurbaking.com/)  
-[Saltverk Salt](https://saltverk.com/)  
-[Celtic Sea Salt](https://www.celticseasalt.com/)  
-[Enjoy Life Chocolate](https://enjoylifefoods.com/collections/chocolate?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_5tYehkhcYSBPc1LqCMeEvR64yuDSnCWphQ9gGk6EuFWoeNE6hXWsaAhV8EALw_wcB)  
-[Bragg Apple Cider Vinegar](https://www.bragg.com/collections/apple-cider-vinegar)  
-[bobsredmill](https://www.bobsredmill.com/)  
-[foodforlife](https://www.foodforlife.com/)  
-[frontiercoop](https://www.frontiercoop.com/)
+- [King Arthur Flour](https://www.kingarthurbaking.com/)  
+- [Saltverk Salt](https://saltverk.com/)  
+- [Celtic Sea Salt](https://www.celticseasalt.com/)  
+- [Enjoy Life Chocolate](https://enjoylifefoods.com/collections/chocolate?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_5tYehkhcYSBPc1LqCMeEvR64yuDSnCWphQ9gGk6EuFWoeNE6hXWsaAhV8EALw_wcB)  
+- [Bragg Apple Cider Vinegar](https://www.bragg.com/collections/apple-cider-vinegar)  
+- [bobsredmill](https://www.bobsredmill.com/)  
+- [foodforlife](https://www.foodforlife.com/)  
+- [frontiercoop](https://www.frontiercoop.com/)
 
 **Superfood**  
-[navitasorganics](https://navitasorganics.com/)  
-[selinanaturally](https://www.selinanaturally.com/)  
-[bigtreefarms](https://bigtreefarms.com/)  
-[vivapura](https://www.vivapura.com/)  
-[aduna](https://aduna.com/)  
-[barukas](https://barukas.com/)
+- [navitasorganics](https://navitasorganics.com/)  
+- [selinanaturally](https://www.selinanaturally.com/)  
+- [bigtreefarms](https://bigtreefarms.com/)  
+- [vivapura](https://www.vivapura.com/)  
+- [aduna](https://aduna.com/)  
+- [barukas](https://barukas.com/)
 
 **Appliances**  
-[vitamix](https://www.vitamix.com/us/en_us)  
-[kitchenaid](https://www.kitchenaid.com/)  
-[ninjakitchen](https://www.ninjakitchen.com/)     
-[Miele](https://www.mieleusa.com/)     
+- [vitamix](https://www.vitamix.com/us/en_us)  
+- [kitchenaid](https://www.kitchenaid.com/)  
+- [ninjakitchen](https://www.ninjakitchen.com/)  
+- [Miele](https://www.mieleusa.com/)  
+
 
 ## Local  
 [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
