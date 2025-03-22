@@ -621,129 +621,129 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [photopea](https://www.photopea.com/)  
 
 
-
 ## Discounts and Deals
 
-**Student**  
-[studentbeans](http://www.studentbeans.com/)  
-[myunidays](http://www.myunidays.com/)  
+### Student  
+- [Student Beans](http://www.studentbeans.com/)  
+- [My Unidays](http://www.myunidays.com/)  
 
-**Extensions**  
-[Rakuten](https://www.rakuten.com/) - Cash back at thousands of stores  
-[Honey](https://get.joinhoney.com/page/dr-us-simplified-yellow-general/?utm_source=goog&utm_medium=sem&utm_campaign=GOOG_US_210928_Brand_All_All_Brand-Pure-TargetImprShare_ETA_DR-US-Simplified-Yellow-General&utm_content=DR-US-Simplified-Yellow-General&gclid=Cj0KCQjwvLOTBhCJARIsACVldV3g4L1FF5QXBFKzhPgWTw3iLn33J5tcaWrNRGIXDWKtsczP07pYndUaAtEvEALw_wcB&from=r) & [RetailMeNot](https://www.retailmenot.com/) - Promo Codes Instantly  
+### Extensions  
+- [Rakuten](https://www.rakuten.com/) - Cash back at thousands of stores  
+- [Honey](https://get.joinhoney.com/page/dr-us-simplified-yellow-general/?utm_source=goog&utm_medium=sem&utm_campaign=GOOG_US_210928_Brand_All_All_Brand-Pure-TargetImprShare_ETA_DR-US-Simplified-Yellow-General&utm_content=DR-US-Simplified-Yellow-General&gclid=Cj0KCQjwvLOTBhCJARIsACVldV3g4L1FF5QXBFKzhPgWTw3iLn33J5tcaWrNRGIXDWKtsczP07pYndUaAtEvEALw_wcB&from=r)  
+- [RetailMeNot](https://www.retailmenot.com/) - Promo codes instantly  
 
-**Coupons**  
-[lozo](https://lozo.com/)  
+### Coupons  
+- [Lozo](https://lozo.com/)  
 
-**Work**  
-[heb.perkspot](http://heb.perkspot.com/)  
-[ticketsatwork](http://www.ticketsatwork.com/)  
+### Work  
+- [HEB Perkspot](http://heb.perkspot.com/)  
+- [Tickets at Work](http://www.ticketsatwork.com/)  
 
-**Savings Sites**  
-[retailmenot](http://www.retailmenot.com/)  
-[mommysavesbig](http://www.mommysavesbig.com/)  
-[chaseexperiences](https://www.chase.com/personal/credit-cards/experiences)  
-[Slickdeals](https://slickdeals.net/)  
-[Brickseek](https://brickseek.com/)  
-[Ibotta](https://home.ibotta.com/)  
-[doctorofcredit](https://www.doctorofcredit.com/)  
-[dansdeals](https://www.dansdeals.com/)  
-[craigslist](https://www.craigslist.org/)  
-[fatfingers](http://fatfingers.com/)  
-[capitaloneshopping](https://capitaloneshopping.com/)  
-[Grabr](https://grabr.io/en/) - International purchasers prepay for you to buy items locally  
-[Fluz](https://fluz.app/) - Cash back at thousands of stores + referral bonuses  
-[Seated](https://www.seatedapp.io/) - 20%+ back at partnered restaurants  
-[Dosh](https://www.dosh.com/) - Additional rewards shop, dine, and book. Can be stacked with Seated and other dining portals  
-[Cashback Monitor](https://www.cashbackmonitor.com/) - Portal to find cash and points back for online retailers.  
-[SearchTempest](https://www.searchtempest.com/) - Search the whole USA on Craigslist  
-[Savendeals](https://www.savendeals.com/) - Coupons for Crate & Barrel, Lowes and Home Depot  
-[MyVegas Rewards](https://www.mgmresorts.com/en/mgm-rewards/preferred-partners/myvegas-rewards.html) - Get points towards free things in vegas  
-[Frequent Miler](https://frequentmiler.com/) - Blog with great points + miles content  
-[Doctor Of Credit](https://www.doctorofcredit.com/) - Blog with great points + miles content  
-[Pay1040.com](https://www.pay1040.com/#/) - Pay taxes with your credit card  
-[ID.me](https://shop.id.me/) - Discounts for teachers, military and more.
+### Savings Sites  
+- [RetailMeNot](http://www.retailmenot.com/)  
+- [Mommy Saves Big](http://www.mommysavesbig.com/)  
+- [Chase Experiences](https://www.chase.com/personal/credit-cards/experiences)  
+- [Slickdeals](https://slickdeals.net/)  
+- [Brickseek](https://brickseek.com/)  
+- [Ibotta](https://home.ibotta.com/)  
+- [Doctor of Credit](https://www.doctorofcredit.com/)  
+- [Dan’s Deals](https://www.dansdeals.com/)  
+- [Craigslist](https://www.craigslist.org/)  
+- [FatFingers](http://fatfingers.com/)  
+- [Capital One Shopping](https://capitaloneshopping.com/)  
+- [Grabr](https://grabr.io/en/) - International purchasers prepay for you to buy items locally  
+- [Fluz](https://fluz.app/) - Cash back at thousands of stores + referral bonuses  
+- [Seated](https://www.seatedapp.io/) - 20%+ back at partnered restaurants  
+- [Dosh](https://www.dosh.com/) - Additional rewards when you shop, dine, and book. Can be stacked with Seated and other dining portals  
+- [Cashback Monitor](https://www.cashbackmonitor.com/) - Portal to find cash and points back for online retailers  
+- [SearchTempest](https://www.searchtempest.com/) - Search the whole USA on Craigslist  
+- [Savendeals](https://www.savendeals.com/) - Coupons for Crate & Barrel, Lowe’s, and Home Depot  
+- [MyVegas Rewards](https://www.mgmresorts.com/en/mgm-rewards/preferred-partners/myvegas-rewards.html) - Get points towards free things in Vegas  
+- [Frequent Miler](https://frequentmiler.com/) - Blog with great points + miles content  
+- [Doctor Of Credit](https://www.doctorofcredit.com/) - Blog with great points + miles content  
+- [Pay1040.com](https://www.pay1040.com/#/) - Pay taxes with your credit card  
+- [ID.me](https://shop.id.me/) - Discounts for teachers, military, and more  
+
+---
 
 ## Docs and Files
 
-**File Transfer**   
-[File Pizza](https://file.pizza/)    
-[send-anywhere](https://send-anywhere.com/)  
-[Smash file transfer](https://fromsmash.com/)  
-[snapdrop](https://snapdrop.net/)    
-[blip](https://blip.net/) - fastest way to send files across devices  
-[localsend](https://localsend.org/) - Share files to nearby devices.    
+### File Transfer  
+- [File Pizza](https://file.pizza/)  
+- [Send Anywhere](https://send-anywhere.com/)  
+- [Smash File Transfer](https://fromsmash.com/)  
+- [Snapdrop](https://snapdrop.net/)  
+- [Blip](https://blip.net/) - Fastest way to send files across devices  
+- [LocalSend](https://localsend.org/) - Share files to nearby devices  
 
-**File Conversion**   
-[zamzar](https://www.zamzar.com/)    
-[cloudconvert](https://cloudconvert.com/)    
-[howtoconvert](https://howtoconvert.co/)    
+### File Conversion  
+- [Zamzar](https://www.zamzar.com/)  
+- [CloudConvert](https://cloudconvert.com/)  
+- [HowToConvert](https://howtoconvert.co/)  
 
-**Text To Speech Reader**    
-[speechify](https://speechify.com/)     
-[Voicepal](https://voicepal.org/)    
-[speechcentral](https://speechcentral.net/) - The world leading text-to-speech AI app    
-[eleven labs](https://elevenlabs.io/text-to-speech)     
+### Text to Speech Reader  
+- [Speechify](https://speechify.com/)  
+- [Voicepal](https://voicepal.org/)  
+- [SpeechCentral](https://speechcentral.net/) - The world-leading text-to-speech AI app  
+- [Eleven Labs](https://elevenlabs.io/text-to-speech)  
 
-
-[pdf](https://pdf.wondershare.com/) - Smart PDF Solutions  
-[notarize](https://www.notarize.com/) - Notarize online. Anywhere. Anytime.    
-[Ilovepdf](https://www.ilovepdf.com/)  
-[iloveimg](https://www.iloveimg.com/)  
-[dochub](https://dochub.com/) - sign documents    
-[tinywow](https://tinywow.com/) - best pdf editor     
-[Pdfgear](https://www.pdfgear.com/)   
+---
 
 ## Dupes
 
-**Fragrance Clones**  
-[Alt Fragrances](https://altfragrances.com/)  
-[Oakcha](https://www.oakcha.com/)  
-[Dua Brand](https://theduabrand.com/)  
-[Dossier](https://dossier.co/)  
-[oilperfumery](https://us.oilperfumery.com/) - 20% off: **OP20**  
-[alexandriafragrances](https://alexandriafragrances.com/)  
-[lazyroyal](https://www.lazyroyal.com/) - 25% off: **LAZYOIL**  
+### Fragrance Clones  
+- [Alt Fragrances](https://altfragrances.com/)  
+- [Oakcha](https://www.oakcha.com/)  
+- [Dua Brand](https://theduabrand.com/)  
+- [Dossier](https://dossier.co/)  
+- [Oil Perfumery](https://us.oilperfumery.com/) - 20% off: **OP20**  
+- [Alexandria Fragrances](https://alexandriafragrances.com/)  
+- [Lazy Royal](https://www.lazyroyal.com/) - 25% off: **LAZYOIL**  
 
-[amazingdupes](https://www.amazingdupes.com/) - cheap designer alternatives  
-[italic](https://italic.com/) - luxury without labels  
-[dupe](https://dupe.com/) - find similar products for less
+- [Amazing Dupes](https://www.amazingdupes.com/) - Cheap designer alternatives  
+- [Italic](https://italic.com/) - Luxury without labels  
+- [Dupe](https://dupe.com/) - Find similar products for less  
+
+---
 
 ## Education and Courses
 
-[khanacademy](https://www.khanacademy.org/)  
-[edx](https://www.edx.org/)  
-[harvard](https://pll.harvard.edu/catalog/free)  
-[stanford](https://online.stanford.edu/free-courses)  
-[coursera](https://www.coursera.org/courses?query=free)  
-[core](https://core.ac.uk/)  
-[arxiv](https://arxiv.org/)   
+- [Khan Academy](https://www.khanacademy.org/)  
+- [edX](https://www.edx.org/)  
+- [Harvard Free Courses](https://pll.harvard.edu/catalog/free)  
+- [Stanford Free Courses](https://online.stanford.edu/free-courses)  
+- [Coursera Free Courses](https://www.coursera.org/courses?query=free)  
+- [CORE](https://core.ac.uk/)  
+- [arXiv](https://arxiv.org/)  
 
-[atlas](https://www.atlas.org/) - Study, write, and solve faster with the most accurate AI for school    
+- [Atlas](https://www.atlas.org/) - Study, write, and solve faster with the most accurate AI for school  
 
+---
 
 ## Electricity
 
-[comparepower](https://comparepower.com/) - search multiple electric companies  
-[powertochoose](https://www.powertochoose.org/)  
-[poweroutage](https://poweroutage.us/)
+- [ComparePower](https://comparepower.com/) - Search multiple electric companies  
+- [Power to Choose](https://www.powertochoose.org/)  
+- [Power Outage](https://poweroutage.us/)  
+
+---
 
 ## Entertainment
 
-[emulatorgames](https://emulatorgames.online/) - play retro & old school games    
-[Netflix Codes](https://www.netflix-codes.com/) - find specific categories for Netflix films & tv shows   
-[Teleparty](https://www.teleparty.com/) - way to watch TV together   
-[beforeiplay](https://beforeiplay.com/index.php?title=Main_Page) - tells you things before you play the game  
-[emuos](https://emupedia.net/beta/emuos/) - old windows os  
-[futureme](https://www.futureme.org/) - write a letter to the future you  
-[tasteatlas](https://www.tasteatlas.com/) - Discover local ingredients, traditional dishes & authentic restaurants  
-[atlasobscura](https://www.atlasobscura.com/) - explore the world’s hidden wonders  
-[freeriderhd](https://www.freeriderhd.com/) - draw tracks and race bikes  
-[mylifeelsewhere](https://www.mylifeelsewhere.com/) - compare the quality of life  
-[WatchParty](https://www.watchparty.me)    
-[Fitgirl](https://fitgirl-repacks.site/popular-repacks/) - download videogames     
-[ColorifyAI](https://colorifyai.art/) - AI Coloring Page Generator   
-[Playclassic](https://playclassic.games/) - play classic games on the web    
+- [Emulator Games](https://emulatorgames.online/) - Play retro & old school games  
+- [Netflix Codes](https://www.netflix-codes.com/) - Find specific categories for Netflix films & TV shows  
+- [Teleparty](https://www.teleparty.com/) - Watch TV together  
+- [Before I Play](https://beforeiplay.com/index.php?title=Main_Page) - Tells you things before you play the game  
+- [EmuOS](https://emupedia.net/beta/emuos/) - Old Windows OS emulator  
+- [FutureMe](https://www.futureme.org/) - Write a letter to your future self  
+- [TasteAtlas](https://www.tasteatlas.com/) - Discover local ingredients, traditional dishes & authentic restaurants  
+- [Atlas Obscura](https://www.atlasobscura.com/) - Explore the world’s hidden wonders  
+- [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes  
+- [My Life Elsewhere](https://www.mylifeelsewhere.com/) - Compare quality of life globally  
+- [WatchParty](https://www.watchparty.me)  
+- [FitGirl Repacks](https://fitgirl-repacks.site/popular-repacks/) - Download video games  
+- [ColorifyAI](https://colorifyai.art/) - AI Coloring Page Generator  
+- [PlayClassic](https://playclassic.games/) - Play classic games on the web  
 
 ## Finance
 
