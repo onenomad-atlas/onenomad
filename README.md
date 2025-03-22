@@ -1546,6 +1546,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Tech
 
+**for NAS Server**
 - [unraid](https://unraid.net/) - operating system for servers and NAS  
 - [truenas](https://www.truenas.com/) - open source NAS software  
 
