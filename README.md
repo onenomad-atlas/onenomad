@@ -1156,459 +1156,450 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 ## Local  
-[booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
-[citizen](https://citizen.com/) - Where people protect each other  
-[nextdoor](https://nextdoor.com/) - discover your neighborhood    
+- [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
+- [citizen](https://citizen.com/) - Where people protect each other  
+- [nextdoor](https://nextdoor.com/) - discover your neighborhood  
 
-## Meetings and Video Calls
+## Meetings and Video Calls  
+- [loom](https://www.loom.com/) - screen record and share  
+- [zoom](https://www.zoom.com/)  
+- [meet](https://meet.google.com/landing) - Google Meet  
+- [teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Microsoft  
+- [screen.studio](https://screen.studio/) - Beautiful Screen Recordings in Minutes  
 
-[loom](https://www.loom.com/) - screen record and share  
-[zoom](https://www.zoom.com/)  
-[meet](https://meet.google.com/landing) - Google Meet  
-[teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Microsoft  
-[screen.studio](https://screen.studio/) - Beautiful Screen Recordings in Minutes
-
-## Money Transfer and Exchange
-
-[remitly](https://www.remitly.com/) - best exchange rates  
-[westernunion](https://www.westernunion.com/us/en/home.html)  
-[wise](https://wise.com/) - connect your money worldwide  
-[revolut](https://www.revolut.com/en-US/)
+## Money Transfer and Exchange  
+- [remitly](https://www.remitly.com/) - best exchange rates  
+- [westernunion](https://www.westernunion.com/us/en/home.html)  
+- [wise](https://wise.com/) - connect your money worldwide  
+- [revolut](https://www.revolut.com/en-US/)  
 
 **Best Card For International Travel - Currency**: [**Schwab Bank High Yield Investor Debit Card**](https://www.schwab.com/checking)  
 - **Unlimited ATM fee rebates** worldwide  
 - No fees or account minimums  
-- No foreign transaction fees
+- No foreign transaction fees  
 
-## Movies and TV
+## Movies and TV  
 
 **Movies**  
-[musichq](https://www4.musichq.net/)  
-[moviefire](http://moviefire.net/) - download movies & tv shows  
-[oomoye](https://oomoye.guru/) - download movies   
-[anymovies](https://www.downloads-anymovies.co/) - download movies    
-[hhdmovies](https://hhdmovies.skin/)      
-[123-movies](https://www.123-movies.gdn/)  
-[freek](https://freek.to/)  
-[olgply](https://olgply.com/)- movies & tv shows  
-[osee.in](https://osee.in/) - movies  
-[einthusan](https://einthusan.tv/intro/) - indian  
-[soap2day](https://soap2day.to/) - movies and tv shows  
-[justwatch](https://www.justwatch.com/)  
-[squeezebox](https://movie.squeezebox.dev/#/search/movie)
-[TVpass](https://tvpass.org/)
+- [musichq](https://www4.musichq.net/)  
+- [moviefire](http://moviefire.net/) - download movies & tv shows  
+- [oomoye](https://oomoye.guru/) - download movies  
+- [anymovies](https://www.downloads-anymovies.co/) - download movies  
+- [hhdmovies](https://hhdmovies.skin/)  
+- [123-movies](https://www.123-movies.gdn/)  
+- [freek](https://freek.to/)  
+- [olgply](https://olgply.com/) - movies & tv shows  
+- [osee.in](https://osee.in/) - movies  
+- [einthusan](https://einthusan.tv/intro/) - indian  
+- [soap2day](https://soap2day.to/) - movies and tv shows  
+- [justwatch](https://www.justwatch.com/)  
+- [squeezebox](https://movie.squeezebox.dev/#/search/movie)  
+- [TVpass](https://tvpass.org/)
 
 **TV Shows**  
-[swatchseries](https://swatchseries.is/)  
-[wcofun](https://wcofun.net/) - watch cartoons from your childhood
+- [swatchseries](https://swatchseries.is/)  
+- [wcofun](https://wcofun.net/) - watch cartoons from your childhood  
 
 **Cable TV**  
-[123tv](http://123tv.live/)  
-[Ustvgo.tv](http://ustvgo.tv/) - web
+- [123tv](http://123tv.live/)  
+- [Ustvgo.tv](http://ustvgo.tv/) - web  
 
-****APPS FOR YOUR DEVICES**     
+**APPS FOR YOUR DEVICES**  
 
-**[Stremio](https://www.stremio.com/)    
+**[Stremio](https://www.stremio.com/)**  
 
 **Addon Collection for Stremio**  
-[Stremio Addons](https://stremio-addons.com/) - collections of addons     
+- [Stremio Addons](https://stremio-addons.com/) - collections of addons  
 
-**Movies and TV Shows**   
-[Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)    
-[torrentio](https://torrentio.strem.fun/configure)    
+**Movies and TV Shows**  
+- [Orion](https://5a0d1888fa64-orion.baby-beamup.club/configure)  
+- [torrentio](https://torrentio.strem.fun/configure)  
 
-**Live TV**   
-[USA TV](https://stremio-addons.com/usa-tv.html)     
-[MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)     
-**UDP TV** - Add this addon from the Stremio's addon catalog
+**Live TV**  
+- [USA TV](https://stremio-addons.com/usa-tv.html)  
+- [MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)  
+- **UDP TV** - Add this addon from the Stremio's addon catalog  
 
-**[Kodi](https://kodi.tv/)
- 
+**[Kodi](https://kodi.tv/)**
+
 **Indian/Pakistani/American TV Channels**  
-  https://www.firesticktricks.com/tvone-kodi-addon.html
-  
+- [Kodi Addon](https://www.firesticktricks.com/tvone-kodi-addon.html)  
+
 **Indian Movies**  
-  https://eintamil.github.io/
-  
+- [Indian Movies Kodi](https://eintamil.github.io/)  
+
 **Deccan Delight**  
-  https://www.kodi-guide.com/deccan-delight-kodi-addon-indian/
-  
+- [Deccan Delight Kodi](https://www.kodi-guide.com/deccan-delight-kodi-addon-indian/)  
+
 **Movies**  
-  https://troypoint.com/crew-kodi-addon/     
+- [Movies Kodi](https://troypoint.com/crew-kodi-addon/)  
 
 ## Navigation and Maps  
-
-[Maps](https://www.loc.gov/maps/collections) - check old maps with the Library of Congress    
-[OsmAnd](https://osmand.net/) - offline maps and navigation    
-[OpenStreetMap](https://www.openstreetmap.org/) - map of the world     
-[Magic Earth](https://www.magicearth.com/) - free maps & navigation      
-[True Size](https://www.thetruesize.com/) - find the true size of your country      
+- [Maps](https://www.loc.gov/maps/collections) - check old maps with the Library of Congress  
+- [OsmAnd](https://osmand.net/) - offline maps and navigation  
+- [OpenStreetMap](https://www.openstreetmap.org/) - map of the world  
+- [Magic Earth](https://www.magicearth.com/) - free maps & navigation  
+- [True Size](https://www.thetruesize.com/) - find the true size of your country  
 
 ## Networking and Storage  
 
-**Storage**    
-[Western Digital](https://www.westerndigital.com/)     
-[Samsung](https://www.samsung.com/us/memory-storage/)   
-[Sandisk](https://shop.sandisk.com/)   
-[Seagate](https://seagate.com/)   
-[Lexar](https://americas.lexar.com/)   
+**Storage**  
+- [Western Digital](https://www.westerndigital.com/)  
+- [Samsung](https://www.samsung.com/us/memory-storage/)  
+- [Sandisk](https://shop.sandisk.com/)  
+- [Seagate](https://seagate.com/)  
+- [Lexar](https://americas.lexar.com/)  
 
-**Backup and NAS**     
-[Synology](https://www.synology.com/en-us)     
-[QNAP](https://www.qnap.com/en-us/)    
- 
+**Backup and NAS**  
+- [Synology](https://www.synology.com/en-us)  
+- [QNAP](https://www.qnap.com/en-us/)  
+
 ## News and Articles
-
-[zerohedge](https://www.zerohedge.com/)  
-[nytimes](https://www.nytimes.com/)  
-[guardian](https://www.theguardian.com/us)  
-[rt](https://www.rt.com/)  
-[economist](https://www.economist.com/)  
-[reuters](https://www.reuters.com/)  
-[wsj](https://www.wsj.com/)  
-[ft](https://www.ft.com/)  
-[aljazeera](https://www.aljazeera.com/)  
-[washingtonpost](https://www.washingtonpost.com/)  
-[apnews](https://apnews.com/)  
-[slowernews](https://www.slowernews.com/)  
-[Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
-[hacker news](https://news.ycombinator.com/) - tech   
-[Lifehacker](https://lifehacker.com/) - do everything better    
+- [zerohedge](https://www.zerohedge.com/)  
+- [nytimes](https://www.nytimes.com/)  
+- [guardian](https://www.theguardian.com/us)  
+- [rt](https://www.rt.com/)  
+- [economist](https://www.economist.com/)  
+- [reuters](https://www.reuters.com/)  
+- [wsj](https://www.wsj.com/)  
+- [ft](https://www.ft.com/)  
+- [aljazeera](https://www.aljazeera.com/)  
+- [washingtonpost](https://www.washingtonpost.com/)  
+- [apnews](https://apnews.com/)  
+- [slowernews](https://www.slowernews.com/)  
+- [Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
+- [hacker news](https://news.ycombinator.com/) - tech  
+- [Lifehacker](https://lifehacker.com/) - do everything better  
 
 **Bypass Paywalls**  
-[archive](https://archive.is/) - time capsule for web pages  
-[bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls  
-[medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
-[burles](http://burles.co/en/) - Read news without subscribing, bypass the paywall  
-[freedium](https://freedium.cfd/) - bypass Medium’s paywall
+- [archive](https://archive.is/) - time capsule for web pages  
+- [bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls  
+- [medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
+- [burles](http://burles.co/en/) - Read news without subscribing, bypass the paywall  
+- [freedium](https://freedium.cfd/) - bypass Medium’s paywall  
 
 ## Newsletters
-
-[digest](https://www.usedigest.com/) - personalized newsletter    
-[morningbrew](https://www.morningbrew.com/) - tech  
-[qz](https://qz.com/emails/daily-brief) - daily briefing on the economy  
-[12ft](https://12ft.io/) - bypass ads & popups  
-[microsaasidea](https://microsaasidea.com/)  
-[superhuman](https://www.superhuman.ai/subscribe?rdt_cid=4805499825531898028&utm_medium=Misc&utm_source=redditads) - Master AI Tools, Tutorials & News  
-[allthehacks](https://allthehacks.kit.com/newslettersub?redirect_from=podpage) - Weekly hacks to help you spend less, save more, and upgrade your life  
-[sahilbloom](https://www.sahilbloom.com/#Newsletter) - for growth minded individuals
+- [digest](https://www.usedigest.com/) - personalized newsletter  
+- [morningbrew](https://www.morningbrew.com/) - tech  
+- [qz](https://qz.com/emails/daily-brief) - daily briefing on the economy  
+- [12ft](https://12ft.io/) - bypass ads & popups  
+- [microsaasidea](https://microsaasidea.com/)  
+- [superhuman](https://www.superhuman.ai/subscribe?rdt_cid=4805499825531898028&utm_medium=Misc&utm_source=redditads) - Master AI Tools, Tutorials & News  
+- [allthehacks](https://allthehacks.kit.com/newslettersub?redirect_from=podpage) - Weekly hacks to help you spend less, save more, and upgrade your life  
+- [sahilbloom](https://www.sahilbloom.com/#Newsletter) - for growth minded individuals  
 
 ## Open Source
 
-**Resources**   
-[opensourcealternative](https://www.opensourcealternative.to/)     
+**Resources**  
+- [opensourcealternative](https://www.opensourcealternative.to/)  
 
-[Docuseal](https://www.docuseal.com/) - Document Signing     
-[OpenProject](https://www.openproject.org/) - project management software    
-[Nextcloud](https://nextcloud.com/) - content collaboration platform    
-[Appflowy](https://appflowy.com/) - AI collaborative workspace     
-[Coolify](https://coolify.io/) - Self-hosting with superpowers      
-[NocoDB](https://nocodb.com/) - Build Databases - Alternative to Airtable    
+- [Docuseal](https://www.docuseal.com/) - Document Signing  
+- [OpenProject](https://www.openproject.org/) - project management software  
+- [Nextcloud](https://nextcloud.com/) - content collaboration platform  
+- [Appflowy](https://appflowy.com/) - AI collaborative workspace  
+- [Coolify](https://coolify.io/) - Self-hosting with superpowers  
+- [NocoDB](https://nocodb.com/) - Build Databases - Alternative to Airtable  
 
 ## Pakistan
 
 **Real Estate**  
-[bahriatown](https://bahriatown.com/)  
+- [bahriatown](https://bahriatown.com/)  
 
 **Apparel & Accessories**  
-[bata](https://www.bata.com.pk/?srsltid=AfmBOooGiD63P59drO9KAC0g8-ldULwGKQN7naWWNd-9xugnE3Rme4DQ)  
-[stylo](https://stylo.pk/)  
-[unze](https://unze.com.pk/)  
-[saeedghani](https://saeedghani.pk/)  
-[jafferjees](https://jafferjees.com/pages/pk)  
-[generation](https://generation.pk/)  
-[outfitters](https://outfitters.com.pk/)  
-[diners](https://diners.com.pk/)  
-[cambridge](https://thecambridgeshop.com/)  
-[almirah](https://almirah.com.pk/)  
-[saya](https://saya.pk/)  
-[bonanzasatrangi](https://bonanzasatrangi.com/)  
-[junaidjamshed](https://www.junaidjamshed.com/)  
-[beechtree](https://beechtree.pk/)  
-[khaadi](https://us.khaadi.com/)  
-[dhanak](https://dhanak.com.pk/)  
-[crossstitch](https://www.crossstitch.pk/)  
-[chinyere](https://www.chinyere.pk/)  
-[limelight](https://www.limelight.pk/)  
-[gulahmedshop](https://www.gulahmedshop.com/)  
-[sapphire](https://sapphire-online.com/)  
-[edenrobe](https://edenrobe.com/)  
-[threadsandmotifs](https://www.threadsandmotifs.com/)  
-[ego](https://wearego.com/)  
-[aghanoor](https://aghanoorofficial.com/)  
-[alkaramstudio](https://us.alkaramstudio.com/)  
-[almas](https://www.almas.pk/)  
-[orient](https://www.shopatorient.com/)  
+- [bata](https://www.bata.com.pk/?srsltid=AfmBOooGiD63P59drO9KAC0g8-ldULwGKQN7naWWNd-9xugnE3Rme4DQ)  
+- [stylo](https://stylo.pk/)  
+- [unze](https://unze.com.pk/)  
+- [saeedghani](https://saeedghani.pk/)  
+- [jafferjees](https://jafferjees.com/pages/pk)  
+- [generation](https://generation.pk/)  
+- [outfitters](https://outfitters.com.pk/)  
+- [diners](https://diners.com.pk/)  
+- [cambridge](https://thecambridgeshop.com/)  
+- [almirah](https://almirah.com.pk/)  
+- [saya](https://saya.pk/)  
+- [bonanzasatrangi](https://bonanzasatrangi.com/)  
+- [junaidjamshed](https://www.junaidjamshed.com/)  
+- [beechtree](https://beechtree.pk/)  
+- [khaadi](https://us.khaadi.com/)  
+- [dhanak](https://dhanak.com.pk/)  
+- [crossstitch](https://www.crossstitch.pk/)  
+- [chinyere](https://www.chinyere.pk/)  
+- [limelight](https://www.limelight.pk/)  
+- [gulahmedshop](https://www.gulahmedshop.com/)  
+- [sapphire](https://sapphire-online.com/)  
+- [edenrobe](https://edenrobe.com/)  
+- [threadsandmotifs](https://www.threadsandmotifs.com/)  
+- [ego](https://wearego.com/)  
+- [aghanoor](https://aghanoorofficial.com/)  
+- [alkaramstudio](https://us.alkaramstudio.com/)  
+- [almas](https://www.almas.pk/)  
+- [orient](https://www.shopatorient.com/)  
+
    
 ## Podcasts and Software
 
-**Podcast Softwares**   
-[podcastle](https://podcastle.ai/)  
-[creators](https://creators.spotify.com/)  
+**Podcast Softwares**  
+- [podcastle](https://podcastle.ai/)  
+- [creators](https://creators.spotify.com/)  
 
-**Platforms**    
-[Hark](https://harkaudio.com/) - handpicked amazing podcast moments    
-[snipd](https://www.snipd.com/) - Discover and save highlights in podcasts     
+**Platforms**  
+- [Hark](https://harkaudio.com/) - handpicked amazing podcast moments  
+- [snipd](https://www.snipd.com/) - Discover and save highlights in podcasts  
 
-**Podcasts
+**Podcasts**
 
-**Podcast List**   
-
-[ACQ2 by Acquired](https://www.acquired.fm/)    
-[Acquired](https://www.acquired.fm/)   
-[All The Hacks](https://www.allthehacks.com/)    
-[Conspiracy Theories](https://www.iheart.com/podcast/282-conspiracy-theories-30209045/)     
-[Discover Daily By Perplexity](https://www.perplexity.com/)     
-[Empire](https://www.empireonline.com/podcast/)     
-[Frequent Miler On The Air](https://www.frequentmiler.com/)     
-[Flagrant](https://www.fla-grant.com/)     
-[Founders](https://founderspodcast.com/)    
-[How I Built This](https://www.npr.org/sections/how-i-built-this/)    
-[Huberman Lab](https://www.hubermanlab.com/)     
-[Jocko Podcast](https://www.jockopodcast.com/)    
-[Lex Fridman Podcast](https://lexfridman.com/podcast/)    
-[Morning Brew Daily](https://www.morningbrew.com/daily)   
-[On Purpose With Jay Shetty](https://jayshetty.me/podcast/)   
-[Onward, A Fundrise Production](https://www.fundrise.com/onward)    
-[Power Law with John Coogan](https://www.powerlawpodcast.com/)      
-[Rethink Retail](https://www.rethink.industries/)    
-[Superlife with Darin Olien](https://superlifepodcast.com/)      
-[The Best One Yet](https://www.thebestoneyet.com/)    
-[The Colin and Samir Show](https://www.colinandsamir.com/)              
-[The Daily Stoic](https://dailystoic.com/podcast/)     
-[The Darin Olien Show](https://darinolien.com/podcast/)     
-[The Joe Rogan Experience](https://www.joerogan.com/)   
-[The Rest Is History](https://www.restishistorypod.com/)   
-[The Tucker Carlson Show](https://www.tuckercarson.com/)    
-[The Wim Hof Podcast](https://www.wimhofmethod.com/podcast)    
-[Y Combinator](https://www.ycombinator.com/podcast/)      
-
+**Podcast List**  
+- [ACQ2 by Acquired](https://www.acquired.fm/)  
+- [Acquired](https://www.acquired.fm/)  
+- [All The Hacks](https://www.allthehacks.com/)  
+- [Conspiracy Theories](https://www.iheart.com/podcast/282-conspiracy-theories-30209045/)  
+- [Discover Daily By Perplexity](https://www.perplexity.com/)  
+- [Empire](https://www.empireonline.com/podcast/)  
+- [Frequent Miler On The Air](https://www.frequentmiler.com/)  
+- [Flagrant](https://www.fla-grant.com/)  
+- [Founders](https://founderspodcast.com/)  
+- [How I Built This](https://www.npr.org/sections/how-i-built-this/)  
+- [Huberman Lab](https://www.hubermanlab.com/)  
+- [Jocko Podcast](https://www.jockopodcast.com/)  
+- [Lex Fridman Podcast](https://lexfridman.com/podcast/)  
+- [Morning Brew Daily](https://www.morningbrew.com/daily)  
+- [On Purpose With Jay Shetty](https://jayshetty.me/podcast/)  
+- [Onward, A Fundrise Production](https://www.fundrise.com/onward)  
+- [Power Law with John Coogan](https://www.powerlawpodcast.com/)  
+- [Rethink Retail](https://www.rethink.industries/)  
+- [Superlife with Darin Olien](https://superlifepodcast.com/)  
+- [The Best One Yet](https://www.thebestoneyet.com/)  
+- [The Colin and Samir Show](https://www.colinandsamir.com/)  
+- [The Daily Stoic](https://dailystoic.com/podcast/)  
+- [The Darin Olien Show](https://darinolien.com/podcast/)  
+- [The Joe Rogan Experience](https://www.joerogan.com/)  
+- [The Rest Is History](https://www.restishistorypod.com/)  
+- [The Tucker Carlson Show](https://www.tuckercarson.com/)  
+- [The Wim Hof Podcast](https://www.wimhofmethod.com/podcast)  
+- [Y Combinator](https://www.ycombinator.com/podcast/)  
 
 ## Privacy
 
-**Messaging**   
-[keybase](https://keybase.io/)    
-[signal](https://signal.org/)    
+**Messaging**  
+- [keybase](https://keybase.io/)  
+- [signal](https://signal.org/)  
 
-**Cloud Storage**    
-[ente](https://ente.io/)  
-[crypt.ee](https://crypt.ee/)     
+**Cloud Storage**  
+- [ente](https://ente.io/)  
+- [crypt.ee](https://crypt.ee/)  
 
-**Encryption**
-[cryptomator](https://cryptomator.org/)  
-[hat.sh](https://hat.sh/)    
-[sia.tech](https://sia.tech/)    
+**Encryption**  
+- [cryptomator](https://cryptomator.org/)  
+- [hat.sh](https://hat.sh/)  
+- [sia.tech](https://sia.tech/)  
 
-**Apps**
-[priductive](https://priductive.com/) - search for a app that has your privacy in mind     
-[prism break](https://prism-break.org/en/) - Opt out of global data surveillance programs    
+**Apps**  
+- [priductive](https://priductive.com/) - search for an app that has your privacy in mind  
+- [prism break](https://prism-break.org/en/) - Opt out of global data surveillance programs  
 
-**Password Managers**   
-[keepassxc](https://keepassxc.org/)     
-[bitwarden](https://bitwarden.com/)    
+**Password Managers**  
+- [keepassxc](https://keepassxc.org/)  
+- [bitwarden](https://bitwarden.com/)  
 
 **Feed**  
-[privacytools](https://www.privacytools.io/)  
-[awesome-privacy](https://github.com/pluja/awesome-privacy)  
-[privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)   
-[champagne](https://champagne.pages.dev/)    
+- [privacytools](https://www.privacytools.io/)  
+- [awesome-privacy](https://github.com/pluja/awesome-privacy)  
+- [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)  
+- [champagne](https://champagne.pages.dev/)  
 
-[ipfs](https://ipfs.io/)   
-[syncthing](https://syncthing.net/)  
-[puri.sm](https://puri.sm/)   
-[tailscale](https://tailscale.com/)   
-[Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
+- [ipfs](https://ipfs.io/)  
+- [syncthing](https://syncthing.net/)  
+- [puri.sm](https://puri.sm/)  
+- [tailscale](https://tailscale.com/)  
+- [Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector  
 
 ## Productivity
 
 **Productivity Apps**  
-[notion](https://www.notion.com/product)  
-[flylighter](https://flylighter.com/) - Capture articles, highlights, and notes to Notion.  
-[evernote](https://evernote.com/)  
-[notes](https://www.icloud.com/notes/)  
-[tana](https://tana.inc/)  
-[clickup](https://clickup.com/)  
-[todoist](https://www.todoist.com/)  
-[kortex](https://www.kortex.co/)  
-[mymind](https://mymind.com/)  
-[lifestack](https://lifestack.ai/)  
-[audionotes](https://www.audionotes.app/)  
-[kosmik](https://www.kosmik.app/) - full visual research platform  
-[superhuman](https://superhuman.com/) - email app  
-[motion](https://www.usemotion.com/)  
-[lunatask](https://lunatask.app/)  
-[fabric](https://fabric.so/)  
-[kortex](https://www.kortex.co/)  
-[bydesign](https://www.bydesign.io/)  
-[saga](https://saga.so/)     
-
+- [notion](https://www.notion.com/product)  
+- [flylighter](https://flylighter.com/) - Capture articles, highlights, and notes to Notion.  
+- [evernote](https://evernote.com/)  
+- [notes](https://www.icloud.com/notes/)  
+- [tana](https://tana.inc/)  
+- [clickup](https://clickup.com/)  
+- [todoist](https://www.todoist.com/)  
+- [kortex](https://www.kortex.co/)  
+- [mymind](https://mymind.com/)  
+- [lifestack](https://lifestack.ai/)  
+- [audionotes](https://www.audionotes.app/)  
+- [kosmik](https://www.kosmik.app/) - full visual research platform  
+- [superhuman](https://superhuman.com/) - email app  
+- [motion](https://www.usemotion.com/)  
+- [lunatask](https://lunatask.app/)  
+- [fabric](https://fabric.so/)  
+- [kortex](https://www.kortex.co/)  
+- [bydesign](https://www.bydesign.io/)  
+- [saga](https://saga.so/)  
 
 **Feeds and Resources**  
-[Awesome Productivity](https://github.com/BlaiseLabs/awesome-productivity?tab=readme-ov-file#tools-and-apps)  
-[Tool Finder](https://toolfinder.co/)
+- [Awesome Productivity](https://github.com/BlaiseLabs/awesome-productivity?tab=readme-ov-file#tools-and-apps)  
+- [Tool Finder](https://toolfinder.co/)
 
 ## Random
 
-[crystalage](https://www.crystalage.com/online_store/stone_type/) - find info on crystals, fossils, gemstones, and other minerals  
-[getstation](http://www.getstation.com/)  
-[workona](https://workona.com/)  
-[arrests](http://arrests.org/)  
-[gethuman](https://gethuman.com/) - Get a rep on the phone faster  
-[protector](https://apps.apple.com/us/app/protector-book-armed-agents/id6739101704) - Book Armed Agents     
-[filecr](https://filecr.com/en/?id=95360682816) - the biggest software store  
-[Manual](https://www.manualslib.com/) - the ultimate manual library   
-[flowcv](https://app.flowcv.com/) - resume builder  
-[Rxresume](https://rxresu.me/) - free and open source resume builder    
-[remoteok](https://remoteok.com/) - remote jobs  
-[mugshots.zone](https://mugshots.zone/)  
-[neverinstall](https://neverinstall.com/)  
-[pov.camera](https://pov.camera/) - A camera to capture every perspective  
-[fmhy](https://fmhy.net/) - The largest collection of free stuff on the internet!
+- [crystalage](https://www.crystalage.com/online_store/stone_type/) - find info on crystals, fossils, gemstones, and other minerals  
+- [getstation](http://www.getstation.com/)  
+- [workona](https://workona.com/)  
+- [arrests](http://arrests.org/)  
+- [gethuman](https://gethuman.com/) - Get a rep on the phone faster  
+- [protector](https://apps.apple.com/us/app/protector-book-armed-agents/id6739101704) - Book Armed Agents  
+- [filecr](https://filecr.com/en/?id=95360682816) - the biggest software store  
+- [Manual](https://www.manualslib.com/) - the ultimate manual library  
+- [flowcv](https://app.flowcv.com/) - resume builder  
+- [Rxresume](https://rxresu.me/) - free and open source resume builder  
+- [remoteok](https://remoteok.com/) - remote jobs  
+- [mugshots.zone](https://mugshots.zone/)  
+- [neverinstall](https://neverinstall.com/)  
+- [pov.camera](https://pov.camera/) - A camera to capture every perspective  
+- [fmhy](https://fmhy.net/) - The largest collection of free stuff on the internet!
 
 ## Read it Later
 
-[pocket](https://getpocket.com/en/)  
-[omnivore](https://omnivore.app/)  
-[matter](https://hq.getmatter.com/)  
-[instapaper](https://www.instapaper.com/)  
-[readwise](https://readwise.io/read)
+- [pocket](https://getpocket.com/en/)  
+- [omnivore](https://omnivore.app/)  
+- [matter](https://hq.getmatter.com/)  
+- [instapaper](https://www.instapaper.com/)  
+- [readwise](https://readwise.io/read)
 
-## Recipes  
+## Recipes
 
-[paprika](https://www.paprikaapp.com/) - recipe manager   
-[cliprecipe](https://cliprecipe.com/) - pull recipes from any site    
-[noods](https://noods.io/) - Your Recipe Collection, Reimagined   
-[Vidcook](https://vidcook.net/) - stop wasting time watching cooking videos   
-[Recipescal](https://recipescal.com/) - random recipe generator   
-
+- [paprika](https://www.paprikaapp.com/) - recipe manager  
+- [cliprecipe](https://cliprecipe.com/) - pull recipes from any site  
+- [noods](https://noods.io/) - Your Recipe Collection, Reimagined  
+- [Vidcook](https://vidcook.net/) - stop wasting time watching cooking videos  
+- [Recipescal](https://recipescal.com/) - random recipe generator  
 
 ## Shipping
 
-[Freightos](https://www.freightos.com/)  
-[pirateship](https://www.pirateship.com/)  
-[shipping station](https://www.shipstation.com/?ref=gppc_us-branded-ar_shipstation-exact_shipstation_exact&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_nbx5PIZB96kad04E6h0-Ij4M-T_4fHZA9Tm-ev-vM0yIFT6yaz68aArlAEALw_wcB&gclsrc=aw.ds)  
-[forestshipping](https://forestshipping.com/)  
-[crossborderpickups](https://www.crossborderpickups.ca/) - Affordable USA to Canada Shipping  
-[veeqo](https://www.veeqo.com/)  
-[cns](https://reg.usps.com/entreg/LoginAction_input?app=GSS&appURL=https://cns.usps.com/) - USPS
-
-[UPS](https://www.ups.com/us/en/home)  
-[FedEx](https://www.fedex.com/en-us/home.html)  
-[USPS](https://www.usps.com/)  
-[DHL](https://www.dhl.com/us-en/home.html)  
-[OnTrac](https://www.ontrac.com/)  
+- [Freightos](https://www.freightos.com/)  
+- [pirateship](https://www.pirateship.com/)  
+- [shipping station](https://www.shipstation.com/?ref=gppc_us-branded-ar_shipstation-exact_shipstation_exact&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_nbx5PIZB96kad04E6h0-Ij4M-T_4fHZA9Tm-ev-vM0yIFT6yaz68aArlAEALw_wcB&gclsrc=aw.ds)  
+- [forestshipping](https://forestshipping.com/)  
+- [crossborderpickups](https://www.crossborderpickups.ca/) - Affordable USA to Canada Shipping  
+- [veeqo](https://www.veeqo.com/)  
+- [cns](https://reg.usps.com/entreg/LoginAction_input?app=GSS&appURL=https://cns.usps.com/) - USPS  
+- [UPS](https://www.ups.com/us/en/home)  
+- [FedEx](https://www.fedex.com/en-us/home.html)  
+- [USPS](https://www.usps.com/)  
+- [DHL](https://www.dhl.com/us-en/home.html)  
+- [OnTrac](https://www.ontrac.com/)  
 
 ## Shopping and Products
 
-[shopgoodwill](https://shopgoodwill.com/home) - Shop Goodwill online  
-[jomashop](https://www.jomashop.com/)  
-[honestbrandreviews](https://www.honestbrandreviews.com/)   
-[looria](https://www.looria.com/) - The Internet's Favorite Products In One Place     
-[Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible      
+- [shopgoodwill](https://shopgoodwill.com/home) - Shop Goodwill online  
+- [jomashop](https://www.jomashop.com/)  
+- [honestbrandreviews](https://www.honestbrandreviews.com/)  
+- [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place  
+- [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible  
 
 ## Smart Home    
 
-[Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
+- [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
 
-**Products**    
-[Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs       
+**Products**  
+- [Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs       
 
-**Technology**   
-[Zigbee](https://csa-iot.org/all-solutions/zigbee/)    
-[Matter](https://csa-iot.org/all-solutions/matter/)    
-[Aliro](https://csa-iot.org/all-solutions/aliro/)    
+**Technology**  
+- [Zigbee](https://csa-iot.org/all-solutions/zigbee/)  
+- [Matter](https://csa-iot.org/all-solutions/matter/)  
+- [Aliro](https://csa-iot.org/all-solutions/aliro/)    
 
 ## Sports
 
-**News**     
-[athletic](https://www.nytimes.com/athletic/)   
-[Ringer](https://www.theringer.com/)   
-
+**News**  
+- [athletic](https://www.nytimes.com/athletic/)  
+- [Ringer](https://www.theringer.com/)  
 
 **Streaming**  
-[crichd.tv](http://crichd.tv/)  
-[firstrowsportș](https://xn--firstrowsport-8xe.eu/)  
-[livetv](http://livetv.sx/)    
-[streamed](https://streamed.su/)    
-[sportsurge](https://v2.sportsurge.net/home5/)      
+- [crichd.tv](http://crichd.tv/)  
+- [firstrowsportș](https://xn--firstrowsport-8xe.eu/)  
+- [livetv](http://livetv.sx/)  
+- [streamed](https://streamed.su/)  
+- [sportsurge](https://v2.sportsurge.net/home5/)  
 
 ## Startup Investment and Crowdfunding
 
 **Investments**  
-[startengine](https://www.startengine.com/)  
-[republic](https://republic.com/)  
-[wefunder](https://wefunder.com/)  
-[seedinvest](https://www.seedinvest.com/)  
-[angellist](https://www.angellist.com/)  
-[microventures](https://microventures.com/)  
-[crowdcube](https://www.crowdcube.com/) - European  
-[ourcrowd](https://www.ourcrowd.com/)  
-[fundersclub](https://fundersclub.com/)  
-[equityzen](https://equityzen.com/) - private companies  
+- [startengine](https://www.startengine.com/)  
+- [republic](https://republic.com/)  
+- [wefunder](https://wefunder.com/)  
+- [seedinvest](https://www.seedinvest.com/)  
+- [angellist](https://www.angellist.com/)  
+- [microventures](https://microventures.com/)  
+- [crowdcube](https://www.crowdcube.com/) - European  
+- [ourcrowd](https://www.ourcrowd.com/)  
+- [fundersclub](https://fundersclub.com/)  
+- [equityzen](https://equityzen.com/) - private companies  
 
 **Crowdfunding**  
-[kickstarter](https://www.kickstarter.com/)  
-[indiegogo](https://www.indiegogo.com/)  
-[patreon](https://www.patreon.com/)  
-[fundrazr](https://fundrazr.com/)  
-[fundly](https://fundly.com/)  
-[gofundme](https://www.gofundme.com/)
+- [kickstarter](https://www.kickstarter.com/)  
+- [indiegogo](https://www.indiegogo.com/)  
+- [patreon](https://www.patreon.com/)  
+- [fundrazr](https://fundrazr.com/)  
+- [fundly](https://fundly.com/)  
+- [gofundme](https://www.gofundme.com/)
 
 ## Tech
 
-[unraid](https://unraid.net/) - operating system for servers and NAS  
-[truenas](https://www.truenas.com/) - open source NAS software  
- 
-[apple education](https://www.apple.com/us-edu/store)  
-[bhphotovideo](https://www.bhphotovideo.com/)  
-[newegg](https://www.newegg.com/)  
-[microcenter](https://www.microcenter.com/)  
-[swappa](https://swappa.com/)  
-[digikey](https://www.digikey.com/)  
-[anker](https://www.anker.com/)    
-[esr](https://www.esrtech.com/)     
+- [unraid](https://unraid.net/) - operating system for servers and NAS  
+- [truenas](https://www.truenas.com/) - open source NAS software  
+
+- [apple education](https://www.apple.com/us-edu/store)  
+- [bhphotovideo](https://www.bhphotovideo.com/)  
+- [newegg](https://www.newegg.com/)  
+- [microcenter](https://www.microcenter.com/)  
+- [swappa](https://swappa.com/)  
+- [digikey](https://www.digikey.com/)  
+- [anker](https://www.anker.com/)  
+- [esr](https://www.esrtech.com/)  
 
 ## Tools
 
-[ifixit](https://www.ifixit.com/) - free repair manual  
+- [ifixit](https://www.ifixit.com/) - free repair manual  
 
 **Home Tools**  
-[ryobi](https://www.ryobitools.com/)  
-[dewalt](https://www.dewalt.com/)  
-[craftsman](https://www.craftsman.com/)  
-[milwaukeetool](https://www.milwaukeetool.com/)  
-[stanleytools](https://www.stanleytools.com/)  
-[acmetools](https://www.acmetools.com/)    
-[Hilti](https://www.hilti.com/)    
-[rubi](https://www.rubi.com/us)    
+- [ryobi](https://www.ryobitools.com/)  
+- [dewalt](https://www.dewalt.com/)  
+- [craftsman](https://www.craftsman.com/)  
+- [milwaukeetool](https://www.milwaukeetool.com/)  
+- [stanleytools](https://www.stanleytools.com/)  
+- [acmetools](https://www.acmetools.com/)  
+- [Hilti](https://www.hilti.com/)  
+- [rubi](https://www.rubi.com/us)  
 
 **Knife Sharpener**  
-[speedysharp](https://www.speedysharp.com/)  
-[knifeaid](https://knifeaid.com/)
+- [speedysharp](https://www.speedysharp.com/)  
+- [knifeaid](https://knifeaid.com/)
 
 ## Toys and Games    
-[Lego](https://www.lego.com/en-us)    
-[Mattel](https://shop.mattel.com/) - Toys Manufacturer   
-[Hasbro](https://shop.hasbro.com/) - Toys Manufacturer   
 
-**Board and Card Games**      
-[Monopoly](https://shop.hasbro.com/all-products?&brand=monopoly)     
-[Catan](https://www.catan.com/)    
-[Cards Against Humanity](https://www.cardsagainsthumanity.com/)    
-[Sequence](https://www.amazon.com/SEQUENCE-Original-SEQUENCE-Folding-Packaging/dp/B00000IVAK/ref=zg_bs_g_166225011_d_sccl_11/131-1685425-9243226?psc=1)   
-[Blank Slate](https://www.amazon.com/BLANK-SLATETM-Family-Friendly-Association/dp/B07G2VHPRW/ref=zg_bs_g_166225011_d_sccl_19/131-1685425-9243226?th=1)   
-[Hedbanz](https://www.amazon.com/Hedbanz-Picture-Guessing-Games-Families/dp/B0BRYH5FJ8/ref=zg_bs_g_166225011_d_sccl_30/131-1685425-9243226?th=1)    
-[Telestrations](https://www.amazon.com/USAopoly-Telestrations-Original-Hilarious-Telephone/dp/B001SN8GF4/ref=zg_bs_g_166225011_d_sccl_5/131-1685425-9243226?th=1)    
-[Monopoly Deal](https://www.amazon.com/MONOPOLY-Quick-Playing-Christmas-Stocking-Exclusive/dp/B00NQQTZCO/ref=zg_bs_g_19431299011_d_sccl_11/131-1685425-9243226?psc=1)    
-[Ransom Notes](https://www.amazon.com/Ransom-Notes-Ridiculous-Magnet-Party/dp/B09F9XMRG5/ref=zg_bs_g_19431299011_d_sccl_13/131-1685425-9243226?th=1)   
+- [Lego](https://www.lego.com/en-us)  
+- [Mattel](https://shop.mattel.com/) - Toys Manufacturer  
+- [Hasbro](https://shop.hasbro.com/) - Toys Manufacturer   
 
-**Couple Games**     
-[Date Night Ideas](https://www.amazon.com/Romantic-Couples-Gift-Adventurous-Girlfriend/dp/B08YWP5QRF/ref=zg_bs_g_19431299011_d_sccl_20/131-1685425-9243226?psc=1)   
-[Let's Get Deep](https://www.amazon.com/Relatable-Question-Valentines-Girlfriend-Intimacy/dp/B08PQ14F57/ref=zg_bs_g_19431299011_d_sccl_34/131-1685425-9243226?th=1)    
-[Risky Couples](https://www.amazon.com/RISKY-COUPLES-Questions-Anniversary-Valentines/dp/B0BPHYHSYK/ref=zg_bs_g_19431299011_d_sccl_9/131-1685425-9243226?psc=1)    
-[Tell Me More](https://www.amazon.com/Tell-More-Conversation-Questions-Connection/dp/B0BNK3FJTX/ref=zg_bs_g_19431299011_d_sccl_13/131-1685425-9243226?th=1)     
-[BestSelf Intimacy](https://www.amazon.com/Intimacy-Deck-BestSelf-Conversation-Vulnerability/dp/B07W1PVNFC/ref=zg_bs_g_19431299011_d_sccl_22/131-1685425-9243226?th=1)     
-[SERVD](https://www.amazon.com/SERVD-Couples-Hilarious-Real-Life-Card/dp/B0CMH4D26L/ref=zg_bs_g_19431299011_d_sccl_24/131-1685425-9243226?th=1)    
+**Board and Card Games**  
+- [Monopoly](https://shop.hasbro.com/all-products?&brand=monopoly)  
+- [Catan](https://www.catan.com/)  
+- [Cards Against Humanity](https://www.cardsagainsthumanity.com/)  
+- [Sequence](https://www.amazon.com/SEQUENCE-Original-SEQUENCE-Folding-Packaging/dp/B00000IVAK/ref=zg_bs_g_166225011_d_sccl_11/131-1685425-9243226?psc=1)  
+- [Blank Slate](https://www.amazon.com/BLANK-SLATETM-Family-Friendly-Association/dp/B07G2VHPRW/ref=zg_bs_g_166225011_d_sccl_19/131-1685425-9243226?th=1)  
+- [Hedbanz](https://www.amazon.com/Hedbanz-Picture-Guessing-Games-Families/dp/B0BRYH5FJ8/ref=zg_bs_g_166225011_d_sccl_30/131-1685425-9243226?th=1)  
+- [Telestrations](https://www.amazon.com/USAopoly-Telestrations-Original-Hilarious-Telephone/dp/B001SN8GF4/ref=zg_bs_g_166225011_d_sccl_5/131-1685425-9243226?th=1)  
+- [Monopoly Deal](https://www.amazon.com/MONOPOLY-Quick-Playing-Christmas-Stocking-Exclusive/dp/B00NQQTZCO/ref=zg_bs_g_19431299011_d_sccl_11/131-1685425-9243226?psc=1)  
+- [Ransom Notes](https://www.amazon.com/Ransom-Notes-Ridiculous-Magnet-Party/dp/B09F9XMRG5/ref=zg_bs_g_19431299011_d_sccl_13/131-1685425-9243226?th=1)  
+
+**Couple Games**  
+- [Date Night Ideas](https://www.amazon.com/Romantic-Couples-Gift-Adventurous-Girlfriend/dp/B08YWP5QRF/ref=zg_bs_g_19431299011_d_sccl_20/131-1685425-9243226?psc=1)  
+- [Let's Get Deep](https://www.amazon.com/Relatable-Question-Valentines-Girlfriend-Intimacy/dp/B08PQ14F57/ref=zg_bs_g_19431299011_d_sccl_34/131-1685425-9243226?th=1)  
+- [Risky Couples](https://www.amazon.com/RISKY-COUPLES-Questions-Anniversary-Valentines/dp/B0BPHYHSYK/ref=zg_bs_g_19431299011_d_sccl_9/131-1685425-9243226?psc=1)  
+- [Tell Me More](https://www.amazon.com/Tell-More-Conversation-Questions-Connection/dp/B0BNK3FJTX/ref=zg_bs_g_19431299011_d_sccl_13/131-1685425-9243226?th=1)  
+- [BestSelf Intimacy](https://www.amazon.com/Intimacy-Deck-BestSelf-Conversation-Vulnerability/dp/B07W1PVNFC/ref=zg_bs_g_19431299011_d_sccl_22/131-1685425-9243226?th=1)  
+- [SERVD](https://www.amazon.com/SERVD-Couples-Hilarious-Real-Life-Card/dp/B0CMH4D26L/ref=zg_bs_g_19431299011_d_sccl_24/131-1685425-9243226?th=1)
 
 ## Travel
 
