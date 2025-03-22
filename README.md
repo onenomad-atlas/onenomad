@@ -664,7 +664,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Pay1040.com](https://www.pay1040.com/#/) - Pay taxes with your credit card  
 - [ID.me](https://shop.id.me/) - Discounts for teachers, military, and more  
 
----
+
 
 ## Docs and Files
 
@@ -687,7 +687,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [SpeechCentral](https://speechcentral.net/) - The world-leading text-to-speech AI app  
 - [Eleven Labs](https://elevenlabs.io/text-to-speech)  
 
----
+
 
 ## Dupes
 
@@ -704,7 +704,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Italic](https://italic.com/) - Luxury without labels  
 - [Dupe](https://dupe.com/) - Find similar products for less  
 
----
+
 
 ## Education and Courses
 
@@ -718,7 +718,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 - [Atlas](https://www.atlas.org/) - Study, write, and solve faster with the most accurate AI for school  
 
----
+
 
 ## Electricity
 
@@ -726,7 +726,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Power to Choose](https://www.powertochoose.org/)  
 - [Power Outage](https://poweroutage.us/)  
 
----
+
 
 ## Entertainment
 
