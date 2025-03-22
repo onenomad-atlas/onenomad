@@ -957,6 +957,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Afnan](https://www.afnan.com/)    
 [YUSUF BHAI](https://yusufbhaifragrances.com/)    
 
+**Fragrances Suppliers**    
+[robertet](https://www.robertet.com/)    
+[givaudan](https://www.givaudan.com/)     
+[dsm-firmenich](https://www.dsm-firmenich.com/en/home.html)    
+[iff](https://www.iff.com/)    
+[greenflora](https://www.greenflora.in/)     
+
+
 **Other Sites**  
 [intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
 [fragrantica](https://www.fragrantica.com/) - research  
