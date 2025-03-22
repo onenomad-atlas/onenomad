@@ -1346,7 +1346,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Hark](https://harkaudio.com/) - handpicked amazing podcast moments  
 - [snipd](https://www.snipd.com/) - Discover and save highlights in podcasts  
 
-**Podcasts**
+### Podcasts
 
 **Podcast List**  
 - [ACQ2 by Acquired](https://www.acquired.fm/)  
@@ -1407,6 +1407,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)  
 - [champagne](https://champagne.pages.dev/)  
 
+**Other Tools & Devices**    
 - [ipfs](https://ipfs.io/)  
 - [syncthing](https://syncthing.net/)  
 - [puri.sm](https://puri.sm/)  
@@ -1478,7 +1479,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 - [Freightos](https://www.freightos.com/)  
 - [pirateship](https://www.pirateship.com/)  
-- [shipping station](https://www.shipstation.com/?ref=gppc_us-branded-ar_shipstation-exact_shipstation_exact&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_nbx5PIZB96kad04E6h0-Ij4M-T_4fHZA9Tm-ev-vM0yIFT6yaz68aArlAEALw_wcB&gclsrc=aw.ds)  
+- [shipping station](https://www.shipstation.com)    
 - [forestshipping](https://forestshipping.com/)  
 - [crossborderpickups](https://www.crossborderpickups.ca/) - Affordable USA to Canada Shipping  
 - [veeqo](https://www.veeqo.com/)  
@@ -1497,8 +1498,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place  
 - [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible  
 
-## Smart Home    
-
+## Smart Home     
 - [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
 
 **Products**  
@@ -1800,5 +1800,4 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [luminocity3d](https://www.luminocity3d.org/)  
 [atlas](https://atlas.co/)  
 [visualcapitalist](https://www.visualcapitalist.com/)  
-[voronoi](https://www.voronoiapp.com/)
-
+[voronoi](https://www.voronoiapp.com/)   
