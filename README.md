@@ -1550,6 +1550,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [unraid](https://unraid.net/) - operating system for servers and NAS  
 - [truenas](https://www.truenas.com/) - open source NAS software  
 
+**Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
 - [bhphotovideo](https://www.bhphotovideo.com/)  
 - [newegg](https://www.newegg.com/)  
