@@ -700,6 +700,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Alexandria Fragrances](https://alexandriafragrances.com/)  
 - [Lazy Royal](https://www.lazyroyal.com/) - 25% off: **LAZYOIL**  
 
+**Other Sites**    
 - [Amazing Dupes](https://www.amazingdupes.com/) - Cheap designer alternatives  
 - [Italic](https://italic.com/) - Luxury without labels  
 - [Dupe](https://dupe.com/) - Find similar products for less  
@@ -716,6 +717,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [CORE](https://core.ac.uk/)  
 - [arXiv](https://arxiv.org/)  
 
+**AI Tool**    
 - [Atlas](https://www.atlas.org/) - Study, write, and solve faster with the most accurate AI for school  
 
 
@@ -760,6 +762,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [masterworks](https://www.masterworks.io/)  
 [Fundrise](https://fundrise.com/)
 
+**Other Sites**    
 [finbar](https://finbar.com/about)  
 [Gurufocus](http://gurufocus.com/)  
 [Moneyshow](http://moneyshow.com/)  
