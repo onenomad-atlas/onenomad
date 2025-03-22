@@ -1257,8 +1257,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Lexar](https://americas.lexar.com/)  
 
 **Backup and NAS**  
-- [Synology](https://www.synology.com/en-us)  
-- [QNAP](https://www.qnap.com/en-us/)  
+- [Synology](https://www.synology.com/en-us)      
+- [QNAP](https://www.qnap.com/en-us/)     
+- [unraid](https://unraid.net/) - operating system for servers and NAS     
+- [truenas](https://www.truenas.com/) - open source NAS software       
 
 ## News and Articles
 - [zerohedge](https://www.zerohedge.com/)  
@@ -1557,10 +1559,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [gofundme](https://www.gofundme.com/)
 
 ## Tech
-
-**for NAS Server**
-- [unraid](https://unraid.net/) - operating system for servers and NAS  
-- [truenas](https://www.truenas.com/) - open source NAS software  
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
