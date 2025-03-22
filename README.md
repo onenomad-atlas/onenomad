@@ -353,7 +353,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Bed  
 
-### Mattresses  
+**Mattresses**     
 - [purple](https://purple.com/)  
 - [avocadogreenmattress](https://www.avocadogreenmattress.com/)  
 - [tuftandneedle](https://www.tuftandneedle.com/)  
@@ -371,7 +371,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [lumasleep](https://lumasleep.com/)  
 - [dreamcloud](https://www.dreamcloudsleep.com/)  
 
-### Bedsheets  
+**Bedsheets**  
 - [brooklinen](https://www.brooklinen.com/)  
 - [mellanni](https://mellanni.com/)  
 - [southshorefinelinens](https://southshorefinelinens.com/)  
@@ -381,7 +381,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [California Design Den](https://www.californiadesignden.com/)  
 - [Dusk](https://us.dusk.com/)  
 
-### Resources  
+**Resources**  
 - [sleeplikethedead](https://www.sleeplikethedead.com/)  
 
 
@@ -392,11 +392,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Browser and Extensions  
 
-### Browsers  
+**Browsers**    
 - [Arc](https://arc.net/) - chrome replacement you've been waiting for  
 - [Zen](https://zen-browser.app/) - calmer internet  
 
-### Chrome Extensions  
+**Chrome Extensions**  
 - [Adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) - Adblocker  
 - [Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites  
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammar check and writing app  
@@ -410,7 +410,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [sobrief](https://sobrief.com/) - Read any book in 10 minutes  
 - [openlibrary](https://openlibrary.org/) - open, editable library catalog  
 
-### Search and Download Any Book  
+**Search and Download Any Book**    
 - [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
 - [libgen.li](https://libgen.li/)  
 - [z-lib](https://z-lib.gs/)  
@@ -419,7 +419,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [magazinelib](https://magazinelib.com/) - magazines  
 - [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
 
-### E-Readers  
+**E-Readers**    
 - [calibre](https://calibre-ebook.com/) - one-stop solutions for all your e-book needs  
 - [kindle](https://read.amazon.com/landing)  
 - [onyxbook](https://onyxboox.com/)  
@@ -462,7 +462,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [answerthepublic](https://answerthepublic.com/) - discover what people are asking about  
 - [opencorporates](https://opencorporates.com/) - company data  
 
-### POS  
+**POS**    
 - [Stripe](https://stripe.com/terminal)  
 - [Toast](https://pos.toasttab.com/) - mainly for restaurants  
 - [Square](https://squareup.com/us/en)  
@@ -481,23 +481,23 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [28mobile](https://28mobile.com/) - purchase international phones  
 - [FCC National Broadband Map](https://broadbandmap.fcc.gov/provider-detail/fixed?version=jun2024&zoom=4&br=r&speed=0_0&pct_cvg=0) - check your provider's network map  
 
-### eSIMs for International Travel  
+**eSIMs for International Travel**    
 - [airalo](https://www.airalo.com/)  
 - [Saily](https://saily.com/)  
 
-### MVNO - reseller for wireless communications services  
+**MVNO - reseller for wireless communications services**   
 
-#### Verizon  
+**Verizon**  
 - [Verizon](https://www.verizon.com/)  
 - [Visible Mobile](https://www.visible.com/)  
 - [US Mobile](https://www.usmobile.com/)  
 - [Xfinity Mobile](https://www.xfinity.com/mobile/)  
 
-#### AT&T  
+**AT&T**    
 - [AT&T](https://www.att.com/wireless/)  
 - [Cricket Wireless](https://www.cricketwireless.com/)  
 
-#### T-Mobile  
+**T-Mobile**   
 - [T-Mobile](https://www.t-mobile.com/)  
 - [Mint Mobile](https://www.mintmobile.com/)  
 - [Metro](https://www.metrobyt-mobile.com/)  
@@ -515,30 +515,30 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Credit Cards  
 
-### Resources  
+**Resources**  
 - [Rankt](https://rankt.com/)  
 - [Cardpointers](https://cardpointers.com/)  
 
-### Networks  
+**Networks**  
 
-#### Amex  
+**Amex**  
 - [Amex](https://www.americanexpress.com/en-us/benefits/)  
 
-#### Discover  
+**Discover**  
 - [Discover](https://www.discover.com/credit-cards/member-benefits/)  
 
-#### Visa  
+**Visa**  
 - [Visa - Offers](https://usa.visa.com/en_us/visa-offers-and-perks/)  
 - [Visa Signature](https://usa.visa.com/pay-with-visa/cards/visa-credit-cards/visa-signature-credit-cards.html)  
 - [Visa Infinite](https://usa.visa.com/pay-with-visa/cards/visa-credit-cards/visa-infinite-credit-cards.html)  
 
-#### Mastercard  
+**Mastercard**    
 - [Mastercard World](https://www.mastercard.us/en-us/personal/find-a-card/world-mastercard-credit.html)  
 - [Mastercard World Elite](https://www.mastercard.us/en-us/personal/find-a-card/world-elite-mastercard-credit.html)  
 
 ## Crypto  
 
-### Platforms  
+**Platforms**  
 - [Coinbase](https://www.coinbase.com/)  
 - [Robinhood](https://robinhood.com/us/en/)  
 - [Webull](https://www.webull.com/)  
@@ -546,7 +546,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Gemini](https://www.gemini.com/)  
 - [Binance](https://www.binance.com/en)  
 
-### Resources  
+**Resources**  
 - [CoinMarketCap](https://coinmarketcap.com/)  
 - [CryptoRank](https://cryptorank.io/heatmaps)  
 - [CoinGecko](https://www.coingecko.com/)  
@@ -560,7 +560,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [silvergoldbull](https://silvergoldbull.com/)  
 - [apmex](https://www.apmex.com/)  
 
-### International Mints     
+**International Mints**     
 - [USA Mint](https://www.usmint.gov/)     
 - [United Kingdom Mint](https://www.royalmint.com/)  
 - [Canadian Mint](https://www.mint.ca/store/template/home.jsp)  
@@ -596,7 +596,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Design and Creativity  
 
-### Design Inspiration  
+**Design Inspiration**  
 - [mobbin](https://mobbin.com/)  
 - [behance](https://www.behance.net/)  
 - [dribbble](https://dribbble.com/)  
@@ -623,23 +623,23 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Discounts and Deals
 
-### Student  
+**Student**  
 - [Student Beans](http://www.studentbeans.com/)  
 - [My Unidays](http://www.myunidays.com/)  
 
-### Extensions  
+**Extensions**   
 - [Rakuten](https://www.rakuten.com/) - Cash back at thousands of stores  
 - [Honey](https://get.joinhoney.com/page/dr-us-simplified-yellow-general/?utm_source=goog&utm_medium=sem&utm_campaign=GOOG_US_210928_Brand_All_All_Brand-Pure-TargetImprShare_ETA_DR-US-Simplified-Yellow-General&utm_content=DR-US-Simplified-Yellow-General&gclid=Cj0KCQjwvLOTBhCJARIsACVldV3g4L1FF5QXBFKzhPgWTw3iLn33J5tcaWrNRGIXDWKtsczP07pYndUaAtEvEALw_wcB&from=r)  
 - [RetailMeNot](https://www.retailmenot.com/) - Promo codes instantly  
 
-### Coupons  
+**Coupons**  
 - [Lozo](https://lozo.com/)  
 
-### Work  
+**Work**  
 - [HEB Perkspot](http://heb.perkspot.com/)  
 - [Tickets at Work](http://www.ticketsatwork.com/)  
 
-### Savings Sites  
+**Savings Sites**  
 - [RetailMeNot](http://www.retailmenot.com/)  
 - [Mommy Saves Big](http://www.mommysavesbig.com/)  
 - [Chase Experiences](https://www.chase.com/personal/credit-cards/experiences)  
@@ -668,7 +668,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Docs and Files
 
-### File Transfer  
+**File Transfer**  
 - [File Pizza](https://file.pizza/)  
 - [Send Anywhere](https://send-anywhere.com/)  
 - [Smash File Transfer](https://fromsmash.com/)  
@@ -676,12 +676,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Blip](https://blip.net/) - Fastest way to send files across devices  
 - [LocalSend](https://localsend.org/) - Share files to nearby devices  
 
-### File Conversion  
+**File Conversion**  
 - [Zamzar](https://www.zamzar.com/)  
 - [CloudConvert](https://cloudconvert.com/)  
 - [HowToConvert](https://howtoconvert.co/)  
 
-### Text to Speech Reader  
+**Text to Speech Reader**  
 - [Speechify](https://speechify.com/)  
 - [Voicepal](https://voicepal.org/)  
 - [SpeechCentral](https://speechcentral.net/) - The world-leading text-to-speech AI app  
@@ -691,7 +691,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Dupes
 
-### Fragrance Clones  
+**Fragrance Clones**  
 - [Alt Fragrances](https://altfragrances.com/)  
 - [Oakcha](https://www.oakcha.com/)  
 - [Dua Brand](https://theduabrand.com/)  
@@ -756,13 +756,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Financial Markets and Trading  
 
-### Platforms  
+**Platforms**  
 - [robinhood](http://www.robinhood.com/)  
 - [Webull](https://www.webull.com/)  
 - [masterworks](https://www.masterworks.io/)  
 - [Fundrise](https://fundrise.com/)  
 
-### Other Sites  
+**Other Sites**  
 - [finbar](https://finbar.com/about)  
 - [Gurufocus](http://gurufocus.com/)  
 - [Moneyshow](http://moneyshow.com/)  
@@ -805,13 +805,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Food and Drinks  
 
-### Healthy  
+**Healthy**  
 - [roots-harmony](https://roots-harmony.com/)  
 - [barukas](https://barukas.com/)  
 - [woodenspoonherbs](https://woodenspoonherbs.com/)  
 - [thealkalinedictionary](https://thealkalinedictionary.com/)    
 
-### Restaurants - Shipped  
+**Restaurants - Shipped**  
 - [katzsdelicatessen](https://katzsdelicatessen.com/) - New York  
 - [wafels](https://wafels.com/) - New York  
 - [jimssouthstreet](https://jimssouthstreet.com/) - Philadelphia  
@@ -824,14 +824,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [joesstonecrab](https://joesstonecrab.com/) - Florida  
 - [saltlickbbq](https://saltlickbbq.com/) - Texas  
 
-### Resources  
+**Resources**  
 - [Hack The Menu](https://hackthemenu.com/) - the ultimate collection of secret menus  
 
 
 
 ## Footwear
 
-### Hiking and Work Boots
+**Hiking and Work Boots**
 - [All American Clothing Co.](https://www.allamericanclothing.com) – men’s  
 - [Belleville](https://www.bellevilleboot.com) – military and tactical  
 - [Carolina](https://www.carolinashoe.com) – men’s, select styles  
@@ -852,7 +852,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Wolverine](https://www.wolverine.com) – men’s, select styles made in Alabama and Tennessee  
 - [Thursday Boots](https://thursdayboots.com/) - Highest quality, honest prices  
 
-### Cowboy Boots
+**Cowboy Boots**
 - [Abilene](https://www.abileneboots.com) – made in Pennsylvania  
 - [Babiones Wilson Boots](https://www.wilsonboots.com) – made in Montana  
 - [Caboots](https://www.caboots.com) – made in Texas  
@@ -863,7 +863,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Orvis](https://www.orvis.com) – made in Vermont  
 - [Tony Lama](https://www.tonylama.com) – select styles  
 
-### Casual Wear
+**Casual Wear**
 - [Aldo](https://www.aldoshoes.com)  
 - [Hey Dude](https://www.heydude.com)  
 - [Aurora Shoe Co](https://www.aurorashoeco.com) – made in New York  
@@ -893,7 +893,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Fragrances
 
-### Essential Oils
+**Essential Oils**
 - [aromatechscent](https://aromatechscent.com/)  
 - [youngliving](https://www.youngliving.com/us/en/)  
 - [doterra](https://www.doterra.com/US/en)  
@@ -902,15 +902,15 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [vitruvi](https://vitruvi.com/)  
 - [earthley](https://www.earthley.com/)  
 
-### American Fragrances
+**American Fragrances**
 - [Tom Ford](https://www.tomford.com/beauty/)  
 
-### European Fragrances
+**European Fragrances**
 - [Roja Parfums](https://rojaparfums.com/)  
 - [Creed](https://creedboutique.com/)  
 - [Dior](https://www.dior.com/en_us/beauty)  
 
-### Middle Eastern Fragrances
+**Middle Eastern Fragrances**
 - [Arabian Oud](https://corp.arabianoud.com/en/)  
 - [Ajmal](https://shop.ajmalperfume.com/uae_en/)  
 - [Al Haramain](https://ahp.alharamainperfumes.com/)  
@@ -920,14 +920,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Afnan](https://www.afnan.com/)  
 - [YUSUF BHAI](https://yusufbhaifragrances.com/)  
 
-### Fragrances Suppliers
+**Fragrances Suppliers**
 - [robertet](https://www.robertet.com/)  
 - [givaudan](https://www.givaudan.com/)  
 - [dsm-firmenich](https://www.dsm-firmenich.com/en/home.html)  
 - [iff](https://www.iff.com/)  
 - [greenflora](https://www.greenflora.in/)  
 
-### Other Sites
+**Other Sites**
 - [intenseoud](https://www.intenseoud.com/) - shop Arabian fragrances in the US  
 - [fragrantica](https://www.fragrantica.com/) - research  
 - [thewhitecompany](https://www.thewhitecompany.com/us/) - UK  
@@ -1206,9 +1206,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [123tv](http://123tv.live/)  
 [Ustvgo.tv](http://ustvgo.tv/) - web
 
-### **APPS FOR YOUR DEVICES**     
+****APPS FOR YOUR DEVICES**     
 
-### [Stremio](https://www.stremio.com/)    
+**[Stremio](https://www.stremio.com/)    
 
 **Addon Collection for Stremio**  
 [Stremio Addons](https://stremio-addons.com/) - collections of addons     
@@ -1222,7 +1222,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [MoveOnJoy TV](https://moveonjoy-stremio.vercel.app/)     
 **UDP TV** - Add this addon from the Stremio's addon catalog
 
-### [Kodi](https://kodi.tv/)
+**[Kodi](https://kodi.tv/)
  
 **Indian/Pakistani/American TV Channels**  
   https://www.firesticktricks.com/tvone-kodi-addon.html
@@ -1350,7 +1350,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 [Hark](https://harkaudio.com/) - handpicked amazing podcast moments    
 [snipd](https://www.snipd.com/) - Discover and save highlights in podcasts     
 
-### Podcasts
+**Podcasts
 
 **Podcast List**   
 
