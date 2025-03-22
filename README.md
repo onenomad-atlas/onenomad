@@ -158,7 +158,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [co](https://www.co.dev/)  
 - [Vercel](https://vercel.com/) - Your complete platform for the web    
 - [IDX](https://idx.google.com) - Start building your app in the cloud   
-- [hackertab](https://hackertab.dev/) - Developer news    
+- [hackertab](https://hackertab.dev/) - Developer news
+- [same](https://same.new/) - copy any UI     
 - [Zoo](https://zoo.dev/) - creates infrastructure for hardware design
 
 **Web Platforms**   
@@ -180,7 +181,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Hackerrank](https://www.hackerrank.com/)  
 - [Leetcode](https://leetcode.com/)  
 - [Code wars](https://www.codewars.com/)  
-- [Mulesoft](https://www.mulesoft.com/)  
+- [Mulesoft](https://www.mulesoft.com/)
+- [codedex](https://www.codedex.io/) - start your coding adventure    
 - [roadmap](https://roadmap.sh/) - community effort to create roadmaps, guides and other educational content  
 - [hacksplaining](https://www.hacksplaining.com/)  
 - [Visual Studio](https://code.visualstudio.com/)  
@@ -742,6 +744,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Atlas Obscura](https://www.atlasobscura.com/) - Explore the world’s hidden wonders  
 - [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes
 - [Line Rider](https://www.linerider.com/)
+- [autodraw](https://www.autodraw.com/)     
 - [Silk](http://weavesilk.com/) - interactive generative art     
 - [My Life Elsewhere](https://www.mylifeelsewhere.com/) - Compare quality of life globally  
 - [WatchParty](https://www.watchparty.me)
@@ -1268,8 +1271,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [ft](https://www.ft.com/)  
 - [aljazeera](https://www.aljazeera.com/)  
 - [washingtonpost](https://www.washingtonpost.com/)  
-- [apnews](https://apnews.com/)  
-- [slowernews](https://www.slowernews.com/)  
+- [apnews](https://apnews.com/)
+- [news minimalist](https://www.newsminimalist.com/)      
+- [slowernews](https://www.slowernews.com/)
+- [eventlist](https://rsoe-edis.org/eventList)     
 - [Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
 - [hacker news](https://news.ycombinator.com/) - tech  
 - [Lifehacker](https://lifehacker.com/) - do everything better
@@ -1749,8 +1754,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Resources**    
 - [Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts  
 - [exclusivecarregistry](https://exclusivecarregistry.com/) - preserving history about every unique car  
-- [startmycar](https://www.startmycar.com/us)  
-
+- [startmycar](https://www.startmycar.com/us)
+- [carsized](https://www.carsized.com/en/) - compare car design and dimensions
+- [howacarworks](https://www.howacarworks.com/)       
+  
 ## Video and Animation   
 - [davinciresolve](https://www.blackmagicdesign.com/products/davinciresolve)  
 - [blender](https://www.blender.org/)  
