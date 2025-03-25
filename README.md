@@ -35,7 +35,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🔍 Dupes](#dupes)  
 - [🎓 Education and Courses](#education-and-courses)  
 - [⚡ Electricity](#electricity)  
-- [🎬 Entertainment](#entertainment)  
+- [🎬 Entertainment](#entertainment)
+- [🗓️ Events](#Events)    
 - [💵 Finance](#finance)  
 - [📈 Financial Markets and Trading](#financial-markets-and-trading)  
 - [💪 Fitness](#fitness)  
@@ -752,6 +753,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [FitGirl Repacks](https://fitgirl-repacks.site/popular-repacks/) - Download video games  
 - [ColorifyAI](https://colorifyai.art/) - AI Coloring Page Generator  
 - [PlayClassic](https://playclassic.games/) - Play classic games on the web  
+
+## Events    
+
 
 ## Finance
 
