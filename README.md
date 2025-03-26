@@ -1350,6 +1350,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [almas](https://www.almas.pk/)  
 - [orient](https://www.shopatorient.com/)  
 
+**Fragrances**    
+- [scentnstories](https://scentsnstories.pk/)
+- [saeedgaani](https://saeedghani.pk/)     
    
 ## Podcasts and Software
 
