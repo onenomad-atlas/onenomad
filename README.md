@@ -1291,13 +1291,16 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Lifehacker](https://lifehacker.com/) - do everything better
 - [Read Something Interesting](https://readsomethinginteresting.com/)     
 
-**Bypass Paywalls**  
+**Bypass News Sites' Paywalls**  
 - [archive](https://archive.is/) - time capsule for web pages  
-- [bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls  
-- [medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
-- [burles](http://burles.co/en/) - Read news without subscribing, bypass the paywall  
-- [freedium](https://freedium.cfd/) - bypass Medium’s paywall
+- [bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls
+- [burles](http://burles.co/en/) - Read news without subscribing, bypass the paywall
 - [archivebuttons](https://www.archivebuttons.com/) - Free Paywall Remover        
+
+**Bypass Medium's Paywall**
+- [medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
+- [freedium](https://freedium.cfd/) - bypass Medium’s paywall     
+
 
 ## Newsletters
 - [digest](https://www.usedigest.com/) - personalized newsletter  
