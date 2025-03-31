@@ -419,8 +419,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [z-lib](https://z-lib.gs/)  
 - [archive.org](https://archive.org/)  
 - [openlibrary](https://openlibrary.org/)  
-- [magazinelib](https://magazinelib.com/) - magazines  
-- [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor  
+- [magazinelib](https://magazinelib.com/) - magazines
+- [sacred texts](https://sacred-texts.com/index.htm) - search sacred texts     
+- [SLUM](https://open-slum.org/) - The Shadow Library Uptime Monitor     
 
 **E-Readers**    
 - [calibre](https://calibre-ebook.com/) - one-stop solutions for all your e-book needs  
@@ -606,10 +607,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [dribbble](https://dribbble.com/)  
 
 **Tools**    
-- [dreamina](https://dreamina.capcut.com/?ref=producthunt) - turn inspiration into art  
 - [lwks](https://lwks.com/) - video editing  
 - [canva](http://www.canva.com/)  
-- [pixlr](http://www.pixlr.com/)  
+- [pixlr](http://www.pixlr.com/)
+- [gimp](https://www.gimp.org/)
+- [photopea](https://www.photopea.com/)    
 - [CapCut](https://www.capcut.net/) - Video Editor  
 - [figma](http://www.figma.com/)  
 - [storyblocks](https://www.storyblocks.com/)  
@@ -1197,7 +1199,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [oomoye](https://oomoye.guru/) - download movies  
 - [anymovies](https://www.downloads-anymovies.co/) - download movies  
 - [hhdmovies](https://hhdmovies.skin/)  
-- [123-movies](https://www.123-movies.gdn/)  
+- [123-movies](https://www.123-movies.gdn/)
+- [mkvcinemas](https://mkvcinemas.kim/)
+- [vegamovies](https://vegamovies.cr/)     
 - [freek](https://freek.to/)  
 - [olgply](https://olgply.com/) - movies & tv shows  
 - [osee.in](https://osee.in/) - movies  
@@ -1591,7 +1595,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [stanleytools](https://www.stanleytools.com/)  
 - [acmetools](https://www.acmetools.com/)  
 - [Hilti](https://www.hilti.com/)  
-- [rubi](https://www.rubi.com/us)  
+- [rubi](https://www.rubi.com/us)
+- [corona](https://coronatools.com/)     
 
 **Knife Sharpener**  
 - [speedysharp](https://www.speedysharp.com/)  
@@ -1713,7 +1718,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [tomtoc](https://www.tomtoc.com/) - Laptop & Travel Bags  
 
 **Private Jet & Luxury Lifestyle**  
-- [jsx](https://www.jsx.com/) - book a shared private jet  
+- [jsx](https://www.jsx.com/) - book a shared private jet
+- [amalfi jets](https://www.amalfijets.com/)       
 - [villiersjets](https://www.villiersjets.com/)  
 - [flyxo](https://flyxo.com/)  
 - [flyvictor](https://www.flyvictor.com/en-us/)  
