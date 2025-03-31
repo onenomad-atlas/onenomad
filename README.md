@@ -595,7 +595,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Shapeways](http://www.shapeways.com/)  
 - [Vistaprint](https://www.vistaprint.com/)  
 - [Printify](https://printify.com/)  
-- [Captivaco](https://www.captivaco.com/)  
+- [Captivaco](https://www.captivaco.com/)
+- [EGrandStand](https://egrandstand.com/)    
 
 ## Design and Creativity  
 
@@ -1291,7 +1292,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls  
 - [medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
 - [burles](http://burles.co/en/) - Read news without subscribing, bypass the paywall  
-- [freedium](https://freedium.cfd/) - bypass Medium’s paywall  
+- [freedium](https://freedium.cfd/) - bypass Medium’s paywall
+- [archivebuttons](https://www.archivebuttons.com/) - Free Paywall Remover        
 
 ## Newsletters
 - [digest](https://www.usedigest.com/) - personalized newsletter  
@@ -1783,7 +1785,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [rolex](https://www.rolex.com/)  
 - [omega](https://www.omegawatches.com/en-us/)  
 - [patek](https://www.patek.com/en/home)  
-- [audemarspiguet](https://www.audemarspiguet.com/com/en/home.html)  
+- [audemarspiguet](https://www.audemarspiguet.com/com/en/home.html)
+- [jacobandco](https://jacobandco.com/)    
 
 **Smartwatches**  
 - [Apple Watch](https://www.apple.com/watch/)  
