@@ -521,7 +521,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Resources**  
 - [Rankt](https://rankt.com/)  
-- [Cardpointers](https://cardpointers.com/)  
+- [Cardpointers](https://cardpointers.com/)
+- [Savewise](https://getsavewise.com/)     
 
 **Networks**  
 
@@ -1317,12 +1318,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Resources**  
 - [opensourcealternative](https://www.opensourcealternative.to/)  
 
+**Sites**   
 - [Docuseal](https://www.docuseal.com/) - Document Signing  
 - [OpenProject](https://www.openproject.org/) - project management software  
 - [Nextcloud](https://nextcloud.com/) - content collaboration platform  
 - [Appflowy](https://appflowy.com/) - AI collaborative workspace  
 - [Coolify](https://coolify.io/) - Self-hosting with superpowers  
-- [NocoDB](https://nocodb.com/) - Build Databases - Alternative to Airtable  
+- [NocoDB](https://nocodb.com/) - Build Databases - Alternative to Airtable     
+- [Apitable](https://github.com/apitable/apitable) - Alternative to Airtable    
 
 ## Pakistan
 
