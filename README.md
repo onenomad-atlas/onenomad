@@ -1312,7 +1312,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [allthehacks](https://allthehacks.kit.com/newslettersub?redirect_from=podpage) - Weekly hacks to help you spend less, save more, and upgrade your life  
 - [sahilbloom](https://www.sahilbloom.com/#Newsletter) - for growth minded individuals  
 
-## Open
+## Open Source
 
 **Resources**  
 - [opensourcealternative](https://www.opensourcealternative.to/)  
