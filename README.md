@@ -187,7 +187,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Mulesoft](https://www.mulesoft.com/)
 - [codedex](https://www.codedex.io/) - start your coding adventure    
 - [roadmap](https://roadmap.sh/) - community effort to create roadmaps, guides and other educational content  
-- [hacksplaining](https://www.hacksplaining.com/)  
+- [hacksplaining](https://www.hacksplaining.com/)
 - [Visual Studio](https://code.visualstudio.com/)  
 
 
@@ -272,6 +272,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [thebricks](https://www.thebricks.com/) - AI Spreadsheet
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+- [twaingpt](https://www.twaingpt.com/) - humanize your writing
 - [wisprflow](https://wisprflow.ai/) - Seamless speech-to-text in every application on your iPhone or computer
 - [Hugging Face](https://huggingface.co/) - the AI community building the future  
 - [voicenotes](https://voicenotes.com/?via=website)
@@ -285,12 +286,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [manus](https://manus.im/?index=1) - AI agent that bridges minds and actions
 - [stowaway](https://www.stowaway.io/) - Take your business where you already are  
 - [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world  
-- [synthesia](https://www.synthesia.io/) - free AI Video Generator  
+- [synthesia](https://www.synthesia.io/) - free AI Video Generator
+- [Lusha](https://www.lusha.com/) - search for any lead in the world
 - [runwayml](https://runwayml.com/) - Tools for human imagination
 - [lindy](https://www.lindy.ai/) - automate your workflow 
 - [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
 - [curiosity.ai](https://curiosity.ai/) - Search everything everywhere  
-- [Github Copilot](https://github.com/features/copilot) - AI Pair Programmer  
+- [Github Copilot](https://github.com/features/copilot) - AI Pair Programmer
+- [apollo](https://www.apollo.io/) - AI Sales Platform
 - [character](https://beta.character.ai/) - Create characters and talk to them  
 - [elevenlabs.io](https://elevenlabs.io/) - Text to Speech & AI Voice Generator  
 - [speedwrite](https://speedwrite.com/) - Automatic text generator  
@@ -413,7 +416,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Bypass Paywall](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on news sites  
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammar check and writing app  
 - [Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en) - Capture articles, videos, and anything else you find on the web  
-- [Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards  
+- [Honey](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatic coupons & rewards
+
+  **Search**
+  - [redditle](https://redditle.com/) - reddit-only search
 
 
 
@@ -456,15 +462,20 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [stripe](https://stripe.com/) - financial infrastructure  
 - [mintlify](https://mintlify.com/) - meet the modern standard for documentation  
 - [nira](https://nira.com/templates/) - free resources for getting work done  
-- [indoorway](https://www.indoorway.com/) - provides real-time location system  
-- [chatfuel](https://chatfuel.com/) - automate workflow  
+- [indoorway](https://www.indoorway.com/) - provides real-time location system
+- [swipefile](https://swipefile.com/) - marketing inspiration 
+- [chatfuel](https://chatfuel.com/) - automate workflow
+- [thegigabrain](https://thegigabrain.com/) - Get real answers from real people
+- [syften](https://syften.com/) - Monitoring the web's leading communities for you
 - [importyeti](https://www.importyeti.com/) - check any company’s suppliers  
 - [mailcharts](https://www.mailcharts.com/) - campaign intelligence for eCommerce teams  
 - [tango](https://www.tango.us/) - create how-to guides
 - [kubera](https://www.kubera.com/) - the balance sheet 
 - [mixkit](https://mixkit.co/) - free assets for your next video project  
 - [paddle](https://www.paddle.com/) - Put your billing operations on autopilot  
-- [pixelhunter](https://pixelhunter.io/) - free AI image resizer  
+- [pixelhunter](https://pixelhunter.io/) - free AI image resizer
+- [flourish](https://flourish.studio/) - Where data meets storytelling
+- [hunter](https://hunter.io/) - connect with any professional 
 - [creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)
 - [ahrefs](https://ahrefs.com/) - digital marketing 
 - [milled](https://milled.com/) - search engine for email newsletters  
@@ -624,7 +635,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [pixlr](http://www.pixlr.com/)
 - [gimp](https://www.gimp.org/)
 - [photopea](https://www.photopea.com/)    
-- [CapCut](https://www.capcut.net/) - Video Editor  
+- [CapCut](https://www.capcut.net/) - Video Editor
+- [descript](https://www.descript.com/) - Edit Videos & Podcasts Like a Doc
 - [figma](http://www.figma.com/)  
 - [storyblocks](https://www.storyblocks.com/)  
 - [Home By Me](https://home.by.me/en/) - design your home in 3D  
@@ -690,7 +702,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [File Pizza](https://file.pizza/)  
 - [Send Anywhere](https://send-anywhere.com/)  
 - [Smash File Transfer](https://fromsmash.com/)  
-- [Snapdrop](https://snapdrop.net/)  
+- [Snapdrop](https://snapdrop.net/)
+- [limewire](https://limewire.com/) - 
 - [Blip](https://blip.net/) - Fastest way to send files across devices  
 - [LocalSend](https://localsend.org/) - Share files to nearby devices  
 
@@ -764,6 +777,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Silk](http://weavesilk.com/) - interactive generative art     
 - [My Life Elsewhere](https://www.mylifeelsewhere.com/) - Compare quality of life globally  
 - [WatchParty](https://www.watchparty.me)
+- [radiocast](https://radiocast.co/) - listen to the radio stations around the world
 - [sandspiel](https://sandspiel.club/)       
 - [FitGirl Repacks](https://fitgirl-repacks.site/popular-repacks/) - Download video games  
 - [ColorifyAI](https://colorifyai.art/) - AI Coloring Page Generator  
@@ -1302,7 +1316,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Current_events](https://en.m.wikipedia.org/wiki/Portal:Current_events)  
 - [hacker news](https://news.ycombinator.com/) - tech  
 - [Lifehacker](https://lifehacker.com/) - do everything better
-- [Read Something Interesting](https://readsomethinginteresting.com/)     
+- [Read Something Interesting](https://readsomethinginteresting.com/)
+- [harpers index](https://harpers.org/harpers-index/) 
 
 **Bypass News Sites' Paywalls**  
 - [archive](https://archive.is/) - time capsule for web pages  
@@ -1320,7 +1335,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [morningbrew](https://www.morningbrew.com/) - tech  
 - [qz](https://qz.com/emails/daily-brief) - daily briefing on the economy  
 - [12ft](https://12ft.io/) - bypass ads & popups  
-- [microsaasidea](https://microsaasidea.com/)  
+- [microsaasidea](https://microsaasidea.com/)
+- [alphasignal](https://alphasignal.ai/) - stay on top of the latest in AI
+- [rundown](https://www.therundown.ai/) - AI news
 - [superhuman](https://www.superhuman.ai/subscribe?rdt_cid=4805499825531898028&utm_medium=Misc&utm_source=redditads) - Master AI Tools, Tutorials & News  
 - [allthehacks](https://allthehacks.kit.com/newslettersub?redirect_from=podpage) - Weekly hacks to help you spend less, save more, and upgrade your life  
 - [sahilbloom](https://www.sahilbloom.com/#Newsletter) - for growth minded individuals  
@@ -1444,11 +1461,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [keepassxc](https://keepassxc.org/)  
 - [bitwarden](https://bitwarden.com/)  
 
-**Feed**  
+**Feeds and News**  
 - [privacytools](https://www.privacytools.io/)  
 - [awesome-privacy](https://github.com/pluja/awesome-privacy)  
 - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)  
-- [champagne](https://champagne.pages.dev/)  
+- [champagne](https://champagne.pages.dev/)
+- [thehackernews](https://thehackernews.com/) - #1 Trusted Source for Cybersecurity News
 
 **Other Tools & Devices**    
 - [ipfs](https://ipfs.io/)  
@@ -1487,6 +1505,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Feeds and Resources**  
 - [Awesome Productivity](https://github.com/BlaiseLabs/awesome-productivity?tab=readme-ov-file#tools-and-apps)  
 - [Tool Finder](https://toolfinder.co/)
+- [Toolsofthetrade](https://github.com/cjbarber/ToolsOfTheTrade)  
 
 ## Random
 
