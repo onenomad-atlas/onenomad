@@ -155,13 +155,15 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [warp](https://www.warp.dev/)  
 - [webflow](https://webflow.com/)  
 - [firebase](https://firebase.google.com/)  
-- [flutterflow](https://www.flutterflow.io/)  
+- [flutterflow](https://www.flutterflow.io/)
+- [tldraw](https://tldraw.dev/)
 - [co](https://www.co.dev/)  
 - [Vercel](https://vercel.com/) - Your complete platform for the web    
 - [IDX](https://idx.google.com) - Start building your app in the cloud   
 - [hackertab](https://hackertab.dev/) - Developer news
 - [same](https://same.new/) - copy any UI     
 - [Zoo](https://zoo.dev/) - creates infrastructure for hardware design
+- [Windsurf](https://windsurf.com/) - AI Editor
 
 **Web Platforms**   
 - [carrd](http://www.carrd.co/)  
@@ -269,17 +271,23 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **AI Tools**  
 - [thebricks](https://www.thebricks.com/) - AI Spreadsheet
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)  
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+- [wisprflow](https://wisprflow.ai/) - Seamless speech-to-text in every application on your iPhone or computer
 - [Hugging Face](https://huggingface.co/) - the AI community building the future  
-- [voicenotes](https://voicenotes.com/?via=website)  
+- [voicenotes](https://voicenotes.com/?via=website)
+- [Prospect](https://www.prospectai.co/) - find leads with contact info with AI
 - [getpickle](https://getpickle.ai/) - Your AI Body Double  
 - [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
 - [cursor](https://www.cursor.com/) - The AI Code Editor  
-- [Gamma](https://gamma.app/) - create presentations & websites with AI  
+- [Gamma](https://gamma.app/) - create presentations & websites with AI
+- [Semsush](https://www.semrush.com/) - AI-powered marketing platform
+- [Gumloop](https://www.gumloop.com/) - automate any workflow with AI
+- [manus](https://manus.im/?index=1) - AI agent that bridges minds and actions
 - [stowaway](https://www.stowaway.io/) - Take your business where you already are  
 - [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world  
 - [synthesia](https://www.synthesia.io/) - free AI Video Generator  
-- [runwayml](https://runwayml.com/) - Tools for human imagination  
+- [runwayml](https://runwayml.com/) - Tools for human imagination
+- [lindy](https://www.lindy.ai/) - automate your workflow 
 - [recraft](https://www.recraft.ai/) - Premium image generation & editing tool  
 - [curiosity.ai](https://curiosity.ai/) - Search everything everywhere  
 - [Github Copilot](https://github.com/features/copilot) - AI Pair Programmer  
@@ -452,11 +460,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [chatfuel](https://chatfuel.com/) - automate workflow  
 - [importyeti](https://www.importyeti.com/) - check any company’s suppliers  
 - [mailcharts](https://www.mailcharts.com/) - campaign intelligence for eCommerce teams  
-- [tango](https://www.tango.us/) - create how-to guides  
+- [tango](https://www.tango.us/) - create how-to guides
+- [kubera](https://www.kubera.com/) - the balance sheet 
 - [mixkit](https://mixkit.co/) - free assets for your next video project  
 - [paddle](https://www.paddle.com/) - Put your billing operations on autopilot  
 - [pixelhunter](https://pixelhunter.io/) - free AI image resizer  
-- [creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)  
+- [creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)
+- [ahrefs](https://ahrefs.com/) - digital marketing 
 - [milled](https://milled.com/) - search engine for email newsletters  
 - [trends.pinterest](https://trends.pinterest.com/) - find trends on Pinterest  
 - [builtwith](https://builtwith.com/) - find what websites are built with  
@@ -785,7 +795,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Barchart](http://barchart.com/)  
 - [Katusaresearch](http://katusaresearch.com/)  
 - [Tradingview](http://tradingview.com/)  
-- [Morningstar](http://morningstar.com/)  
+- [Morningstar](http://morningstar.com/)
+- [financialjuice](https://www.financialjuice.com/home)
 - [Tipranks](http://tipranks.com/)  
 - [benzinga](https://m.benzinga.com/)  
 - [aidedtrade](https://www.aidedtrade.com/)  
@@ -1324,7 +1335,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [OpenProject](https://www.openproject.org/) - project management software  
 - [Nextcloud](https://nextcloud.com/) - content collaboration platform  
 - [Appflowy](https://appflowy.com/) - AI collaborative workspace  
-- [Coolify](https://coolify.io/) - Self-hosting with superpowers  
+- [Coolify](https://coolify.io/) - Self-hosting with superpowers
+- [Supabase](https://supabase.com/) - Open Sourced Firebase Alternative
 - [NocoDB](https://nocodb.com/) - Build Databases - Alternative to Airtable     
 - [Apitable](https://github.com/apitable/apitable) - Alternative to Airtable    
 
