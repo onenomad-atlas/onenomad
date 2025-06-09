@@ -267,7 +267,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources  
 
 **AI Tools**  
-- [thebricks](https://www.thebricks.com/) - AI Spreadsheet  
+- [thebricks](https://www.thebricks.com/) - AI Spreadsheet
+- [Intercom](https://www.intercom.com/) - AI Customer Service Company
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)  
 - [Hugging Face](https://huggingface.co/) - the AI community building the future  
 - [voicenotes](https://voicenotes.com/?via=website)  
@@ -1444,7 +1445,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [tailscale](https://tailscale.com/)  
 - [Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector  
 
-## Productivity
+## Productivity       
+
+**Remote Support**    
+- [helpwire](https://www.helpwire.app/)
+- 
 
 **Productivity Apps**  
 - [notion](https://www.notion.com/product)  
@@ -1600,7 +1605,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [milwaukeetool](https://www.milwaukeetool.com/)  
 - [stanleytools](https://www.stanleytools.com/)  
 - [acmetools](https://www.acmetools.com/)  
-- [Hilti](https://www.hilti.com/)  
+- [Hilti](https://www.hilti.com/)
+- [hychika](https://hychika.com/)   
 - [rubi](https://www.rubi.com/us)
 - [corona](https://coronatools.com/)     
 
