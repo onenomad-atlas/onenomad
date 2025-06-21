@@ -273,6 +273,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 - [twaingpt](https://www.twaingpt.com/) - humanize your writing
+- [weavy](https://www.weavy.ai/) - Turn your creative vision into scalable workflows
 - [wisprflow](https://wisprflow.ai/) - Seamless speech-to-text in every application on your iPhone or computer
 - [Hugging Face](https://huggingface.co/) - the AI community building the future  
 - [voicenotes](https://voicenotes.com/?via=website)
@@ -785,6 +786,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Events    
 
+- [Eventlive](https://www.eventlive.pro/) - livestream your event
 
 ## Finance
 
@@ -910,7 +912,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Capps Shoe Company](https://www.cappsshoe.com) – airline uniform shoes, made in Virginia  
 - [Eastland](https://www.eastlandshoe.com) – made in Maine  
 - [Footwear by Footskins](https://www.footskins.com) – made in Minnesota  
-- [Frye](https://www.thefryecompany.com) – select styles  
+- [Frye](https://www.thefryecompany.com) – select styles
+- [Oofos](https://www.oofos.com/) 
 - [Helm Boots](https://www.helmboots.com) – made in Texas  
 - [Mohop](https://www.mohop.com) – women’s, made in Illinois  
 - [Munro](https://www.munroshoes.com) – women’s, select styles made in Arkansas  
