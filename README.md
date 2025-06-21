@@ -1880,4 +1880,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [luminocity3d](https://www.luminocity3d.org/)  
 - [atlas](https://atlas.co/)  
 - [visualcapitalist](https://www.visualcapitalist.com/)  
-- [voronoi](https://www.voronoiapp.com/)  
+- [voronoi](https://www.voronoiapp.com/)
+- [Movemap](https://www.movemap.io/explore/us)
+- [Luminocity](https://luminocity3d.org/) 
