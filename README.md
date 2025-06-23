@@ -71,7 +71,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🎲 Random](#random)  
 - [📖 Read it Later](#read-it-later)  
 - [🍽️ Recipes](#recipes)
-- [<i class="bi bi-reddit"></i>] 
+- [🔴 Reddit](#reddit) 
 - [📦Shipping](#shipping)  
 - [🛍️ Shopping and Products](#shopping-and-products)  
 - [🏠 Smart Home](#smart-home)  
@@ -1557,7 +1557,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [cliprecipe](https://cliprecipe.com/) - pull recipes from any site  
 - [noods](https://noods.io/) - Your Recipe Collection, Reimagined  
 - [Vidcook](https://vidcook.net/) - stop wasting time watching cooking videos  
-- [Recipescal](https://recipescal.com/) - random recipe generator  
+- [Recipescal](https://recipescal.com/) - random recipe generator
+
+## Reddit 
 
 ## Shipping
 
