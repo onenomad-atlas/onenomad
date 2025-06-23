@@ -1562,7 +1562,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Reddit 
 
 **Threads**
-- [Free Software](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/) - https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/
+- [- What free software is so good you can't believe it's actually available for free?](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
 
 ## Shipping
 
