@@ -1088,6 +1088,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Home
 
+**Products for Home**
+- [Prowood](https://www.prowood.com/) - Treated lumber
+- [Deckorators](https://www.deckorators.com/) - For Decks
+- [goliathtechpiles](https://www.goliathtechpiles.com/) - screw pile system
+- [techo-bloc](https://www.techo-bloc.com/) - landscape products
+- [hideawayscreen](https://hideawayscreen.com/) - privacy screens & gates
+- [ufpedge](https://www.ufpedge.com/) - wood
+
 - [ownwell](https://www.ownwell.com/) - reduce your property taxes  
 - [bldr](https://www.bldr.com/)  
 - [Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products  
@@ -1285,7 +1293,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Maps](https://www.loc.gov/maps/collections) - check old maps with the Library of Congress  
 - [OsmAnd](https://osmand.net/) - offline maps and navigation  
 - [OpenStreetMap](https://www.openstreetmap.org/) - map of the world  
-- [Magic Earth](https://www.magicearth.com/) - free maps & navigation  
+- [Magic Earth](https://www.magicearth.com/) - free maps & navigation
+- [Earth](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/orthographic=-80.18,29.85,714/loc=85.612,30.115) - a global map of wind, weather, and ocean conditions
 - [True Size](https://www.thetruesize.com/) - find the true size of your country  
 
 ## Networking and Storage  
@@ -1883,4 +1892,3 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [visualcapitalist](https://www.visualcapitalist.com/)  
 - [voronoi](https://www.voronoiapp.com/)
 - [Movemap](https://www.movemap.io/explore/us)
-- [Luminocity](https://luminocity3d.org/) 
