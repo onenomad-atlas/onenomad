@@ -70,7 +70,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [📅 Productivity](#productivity)  
 - [🎲 Random](#random)  
 - [📖 Read it Later](#read-it-later)  
-- [🍽️ Recipes](#recipes)  
+- [🍽️ Recipes](#recipes)
+- [<i class="bi bi-reddit"></i>] 
 - [📦Shipping](#shipping)  
 - [🛍️ Shopping and Products](#shopping-and-products)  
 - [🏠 Smart Home](#smart-home)  
