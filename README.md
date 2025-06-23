@@ -1546,7 +1546,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Read it Later
 
 - [pocket](https://getpocket.com/en/)  
-- [omnivore](https://omnivore.app/)  
 - [matter](https://hq.getmatter.com/)  
 - [instapaper](https://www.instapaper.com/)  
 - [readwise](https://readwise.io/read)
@@ -1562,7 +1561,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Reddit 
 
 **Threads**
-- [- What free software is so good you can't believe it's actually available for free?](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
+- [What free software is so good you can't believe it's actually available for free?](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
 
 ## Shipping
 
