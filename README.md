@@ -1233,7 +1233,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [123-movies](https://www.123-movies.gdn/)
 - [mkvcinemas](https://mkvcinemas.kim/)
 - [vegamovies](https://vegamovies.cr/)     
-- [freek](https://freek.to/)  
+- [freek](https://freek.to/)
+- [supernova](https://supernova.to/) - watch movies & shows/download
 - [olgply](https://olgply.com/) - movies & tv shows  
 - [osee.in](https://osee.in/) - movies  
 - [einthusan](https://einthusan.tv/intro/) - indian  
