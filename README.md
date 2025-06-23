@@ -1168,7 +1168,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [ross-simons](https://www.ross-simons.com/)  
 - [bluenile](https://www.bluenile.com/)  
 - [gabrielny](https://www.gabrielny.com/)  
-- [swarovski](https://www.swarovski.com/en-US/)  
+- [swarovski](https://www.swarovski.com/en-US/)
+
+- [beadsmith](https://www.beadsmith.com/) - products needed to make jewelry 
 
 ## Kitchen  
 
