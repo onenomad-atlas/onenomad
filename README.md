@@ -264,7 +264,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine  
 - [Grok](https://x.ai/) - AI Software led by Elon Musk  
 - [Deepseek](https://www.deepseek.com/) - AI Search Engine From China  
-- [Claude](https://claude.ai/) - AI writing assistant  
+- [Claude](https://claude.ai/) - AI writing assistant
+- [phind](https://www.phind.com/) 
 - [Vetted](https://vetted.ai/) - AI shopping assistant  
 - [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot  
 - [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources  
@@ -274,6 +275,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 - [twaingpt](https://www.twaingpt.com/) - humanize your writing
+- [replit](https://replit.com/) - Turn your ideas into apps 
 - [weavy](https://www.weavy.ai/) - Turn your creative vision into scalable workflows
 - [wisprflow](https://wisprflow.ai/) - Seamless speech-to-text in every application on your iPhone or computer
 - [Hugging Face](https://huggingface.co/) - the AI community building the future  
@@ -330,7 +332,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [epidemicsound](https://www.epidemicsound.com/) - Bring your story to life with music and sounds  
 - [Artlist](https://artlist.io/) - Royalty-free music and SFX for your videos  
 - [poolside](https://poolsuite.net/) - Relaxing music playlist  
-- [NewPipe](https://newpipe.net/) - Android  
+- [NewPipe](https://newpipe.net/) - Android
+- [ytiz](https://ytiz.xyz/) - mp3 converter
+- [doubledouble](https://doubledouble.top/) - Download music directly from Amazon Music, Soundcloud, Qobuz, Deezer and Tidal for free
 - [ytmp3.cc](https://ytmp3.cc/) - YouTube to MP3 downloader  
 - [y2mate.is](https://y2mate.is/) - YouTube to MP4 downloader  
 - [vocalremover](https://vocalremover.org/) - Vocal Remover and Isolation  
@@ -480,7 +484,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [flourish](https://flourish.studio/) - Where data meets storytelling
 - [hunter](https://hunter.io/) - connect with any professional 
 - [creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)
-- [ahrefs](https://ahrefs.com/) - digital marketing 
+- [ahrefs](https://ahrefs.com/) - digital marketing
+- [tally](https://tally.so/) - the free, intuitive form builder
 - [milled](https://milled.com/) - search engine for email newsletters  
 - [trends.pinterest](https://trends.pinterest.com/) - find trends on Pinterest  
 - [builtwith](https://builtwith.com/) - find what websites are built with  
@@ -619,7 +624,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Shutterfly](http://www.shutterfly.com/)  
 - [ThingsRemembered](http://www.thingsremembered.com/)  
 - [eGrandstand](http://www.egrandstand.com/)  
-- [Shapeways](http://www.shapeways.com/)  
+- [Shapeways](http://www.shapeways.com/)
+- [Minted](https://www.minted.com/) 
 - [Vistaprint](https://www.vistaprint.com/)  
 - [Printify](https://printify.com/)  
 - [Captivaco](https://www.captivaco.com/)
@@ -681,7 +687,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Ibotta](https://home.ibotta.com/)  
 - [Doctor of Credit](https://www.doctorofcredit.com/)  
 - [Dan’s Deals](https://www.dansdeals.com/)  
-- [Craigslist](https://www.craigslist.org/)  
+- [Craigslist](https://www.craigslist.org/)
+- [getsavewise](https://getsavewise.com/) - Maximize rewards with Savewise
 - [FatFingers](http://fatfingers.com/)  
 - [Capital One Shopping](https://capitaloneshopping.com/)  
 - [Grabr](https://grabr.io/en/) - International purchasers prepay for you to buy items locally  
@@ -736,7 +743,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Other Sites**    
 - [Amazing Dupes](https://www.amazingdupes.com/) - Cheap designer alternatives  
-- [Italic](https://italic.com/) - Luxury without labels  
+- [Italic](https://italic.com/) - Luxury without labels
+- [repsguide](https://repsguide.com/) 
 - [Dupe](https://dupe.com/) - Find similar products for less  
 
 
@@ -819,7 +827,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [benzinga](https://m.benzinga.com/)  
 - [aidedtrade](https://www.aidedtrade.com/)  
 - [optionsizzle](https://www.optionsizzle.com/)  
-- [Memebergterminal](http://memebergterminal.com/)  
+- [Memebergterminal](http://memebergterminal.com/)
+- [myfundedfutures](https://myfundedfutures.com/) 
 - [Stock charts](https://stockcharts.com/)  
 - [Quiverquant](https://www.quiverquant.com/)  
 - [markiteconomics](https://www.markiteconomics.com/Public/Release/PressReleases)  
@@ -1016,7 +1025,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Nimo Smart Glasses](https://www.nimoplanet.com/)  
 - [Actronika](https://www.actronika.com/)  
 - [magicleap](https://www.magicleap.com/)  
-- [lightyear.one](https://lightyear.one/)  
+- [lightyear.one](https://lightyear.one/)
+- [beta](https://beta.team/)
 
 ## Glasses
 
@@ -1243,10 +1253,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [hhdmovies](https://hhdmovies.skin/)  
 - [123-movies](https://www.123-movies.gdn/)
 - [mkvcinemas](https://mkvcinemas.kim/)
-- [vegamovies](https://vegamovies.cr/)     
+- [vegamovies](https://vegamovies.cr/)
+- [cinemaos](https://cinemaos.live/) **
+- [moviemaze](https://moviemaze.cc/) **
 - [freek](https://freek.to/)
+- [vadapav](https://vadapav.mov/) 
 - [supernova](https://supernova.to/) - watch movies & shows/download
-- [olgply](https://olgply.com/) - movies & tv shows  
+- [olgply](https://olgply.com/) - movies & tv shows
+- [supernova](https://supernova.to/) 
 - [osee.in](https://osee.in/) - movies  
 - [einthusan](https://einthusan.tv/intro/) - indian  
 - [soap2day](https://soap2day.to/) - movies and tv shows  
@@ -1259,8 +1273,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [wcofun](https://wcofun.net/) - watch cartoons from your childhood  
 
 **Cable TV**  
-- [123tv](http://123tv.live/)  
-- [Ustvgo.tv](http://ustvgo.tv/) - web  
+- [123tv](http://123tv.live/)
+- [iptv](https://iptv-web.app/US/) 
+- [Ustvgo.tv](http://ustvgo.tv/) - web
+- [ppv](https://ppv.to/) - free ppv and more
 
 **APPS FOR YOUR DEVICES**  
 
@@ -1564,6 +1580,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Threads**
 - [What free software is so good you can't believe it's actually available for free?](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
+- [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) 
 
 ## Shipping
 
@@ -1583,7 +1600,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Shopping and Products
 
 - [shopgoodwill](https://shopgoodwill.com/home) - Shop Goodwill online  
-- [jomashop](https://www.jomashop.com/)  
+- [jomashop](https://www.jomashop.com/)
 - [honestbrandreviews](https://www.honestbrandreviews.com/)  
 - [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place  
 - [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible  
@@ -1635,6 +1652,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [gofundme](https://www.gofundme.com/)
 
 ## Tech
+
+- [iyo](https://www.iyo.audio/) - the world's first audio computer
+- [x.company](https://x.company/) - bring sci-fi ideas into reality - Google
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
@@ -1693,6 +1713,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Travel
 
+**Points Search**
+- [pointsyeah](https://www.pointsyeah.com/) - Free multi date real-time search of 200+ airlines with points and miles in 20 seconds
+- [pointspath](https://pointspath.com/) - the best price for travel
+- [awardtool](https://www.awardtool.com/) - discover award avaliability 
+
 **Blogs & Resources**  
 - [frequentmiler](https://frequentmiler.com/)  
 - [thepointsguy](https://thepointsguy.com/)  
@@ -1700,11 +1725,15 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [upgraded points](https://upgradedpoints.com/)  
 - [millionmilesecrets](https://millionmilesecrets.com/)  
 - [onemileatatime](https://onemileatatime.com/)  
-- [uponarriving](https://www.uponarriving.com/)  
+- [uponarriving](https://www.uponarriving.com/)
+- [tripit](https://www.tripit.com/web) - Highest-rated trip planner and flight tracker
 - [travel & leisure](https://www.travelandleisure.com/)  
 - [flyertalk](https://www.flyertalk.com/)  
-- [passport index](https://www.passportindex.org/)  
-- [flightconnections](https://www.flightconnections.com/)  
+- [passport index](https://www.passportindex.org/)
+- [cardright](https://cardright.com/) - keep track of your credit cards
+- [awardwallet](https://awardwallet.com/) - All your Rewards & Travel in One Place
+- [flightconnections](https://www.flightconnections.com/)
+- [travelfreely](https://travelfreely.com/)
 - [expertflyer](https://www.expertflyer.com/)  
 - [point.me](https://www.point.me/?source=juicy-miles)  
 - [roame](https://roame.travel/)  
@@ -1726,17 +1755,21 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   - [vrbo](https://www.vrbo.com/)  
   - [getaway.house](https://getaway.house/)  
   - [awardmapper](https://awardmapper.com/)  
-  - [costcotravel](https://www.costcotravel.com/)  
+  - [costcotravel](https://www.costcotravel.com/)
+  - [hotelslash](https://www.hotelslash.com/) 
   - [hotels](https://www.hotels.com/)  
   - [booking](https://www.booking.com/)  
-  - [tripadvisor](https://www.tripadvisor.com/)  
+  - [tripadvisor](https://www.tripadvisor.com/)
+  - [hichee](https://hichee.com/) - Don't Overpay for Vacation Rentals
 
 - **Flights**  
   - [flighthub](http://www.flighthub.com/)  
   - [matrixitasoftware](https://matrix.itasoftware.com/search)  
   - [skiplagged](https://skiplagged.com/)  
-  - [skyscanner](http://www.skyscanner.com/)  
-  - [kayak](http://www.kayak.com/)  
+  - [skyscanner](http://www.skyscanner.com/)
+  - [withautopilot](https://www.withautopilot.com/) - Put your savings on Autpilot
+  - [kayak](http://www.kayak.com/)
+  - [going](https://www.going.com/) - Save up to 90% on flights
   - [cheap flights - app](https://www.cheapflights.com/?lang=en&skipapp=true&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_fxyp98hZGCJCTv-r3sDqH8RQne-1WhsomZwjrE-mNJkKOAyL4qUUaAt9KEALw_wcB&aid=131348740301)  
   - [point.me](https://www.point.me/)  
   - [Google Flights](https://www.google.com/travel/flights)  
