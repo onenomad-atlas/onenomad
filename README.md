@@ -1576,6 +1576,22 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Real Estate
 
+**Platforms**
+- [MLS](https://www.mls.com/)
+- [trulia](https://www.trulia.com/)
+- [realtor](https://www.realtor.com/)
+- [zillow](https://www.zillow.com/)
+- [redfin](https://www.redfin.com/)
+
+**Commercial**
+- [propertyshark](https://www.propertyshark.com/mason/)
+- [loopnet](https://www.loopnet.com/)
+- [crexi](https://www.crexi.com/)
+
+**Land**
+- [landandfarm](https://www.landandfarm.com/)
+- [landwatch](https://www.landwatch.com/)
+  
 ## Recipes
 
 - [paprika](https://www.paprikaapp.com/) - recipe manager  
