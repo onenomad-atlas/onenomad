@@ -66,10 +66,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [💻 Open Source](#open-source)  
 - [🇵🇰 Pakistan](#pakistan)  
 - [🎙️ Podcasts and Software](#podcasts-and-software)  
-- [🔒 Privacy](#privacy)  
+- [🔒 Privacy](#privacy)
+- [💻 Piracy](#Piracy)
 - [📅 Productivity](#productivity)  
 - [🎲 Random](#random)  
-- [📖 Read it Later](#read-it-later)  
+- [📖 Read it Later](#read-it-later)
+- [🏠 Real Estate](#real-estate) 
 - [🍽️ Recipes](#recipes)
 - [🔴 Reddit](#reddit) 
 - [📦Shipping](#shipping)  
@@ -1471,6 +1473,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [The Wim Hof Podcast](https://www.wimhofmethod.com/podcast)  
 - [Y Combinator](https://www.ycombinator.com/podcast/)  
 
+## Piracy
+
+- [champagne](https://champagne.pages.dev/)
+
+
 ## Privacy
 
 **Messaging**  
@@ -1498,7 +1505,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [privacytools](https://www.privacytools.io/)  
 - [awesome-privacy](https://github.com/pluja/awesome-privacy)  
 - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)  
-- [champagne](https://champagne.pages.dev/)
 - [thehackernews](https://thehackernews.com/) - #1 Trusted Source for Cybersecurity News
 
 **Other Tools & Devices**    
@@ -1568,6 +1574,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [instapaper](https://www.instapaper.com/)  
 - [readwise](https://readwise.io/read)
 
+## Real Estate
+
 ## Recipes
 
 - [paprika](https://www.paprikaapp.com/) - recipe manager  
@@ -1577,6 +1585,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Recipescal](https://recipescal.com/) - random recipe generator
 
 ## Reddit 
+
+-  [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/) 
 
 **Threads**
 - [What free software is so good you can't believe it's actually available for free?](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
