@@ -370,7 +370,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [myro](https://www.mymyro.com/)  
 - [flamingo](https://www.shopflamingo.com/en/us)  
 - [rawsugarliving](https://rawsugarliving.com/)  
-- [method](https://methodproducts.com/)  
+- [method](https://methodproducts.com/)
+- [houseofsoap](https://houseofsoap.com/) - Lebanon
 
 
 
@@ -595,7 +596,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [sdbullion](https://sdbullion.com/)  
 - [monumentmetals](https://monumentmetals.com/)  
 - [silvergoldbull](https://silvergoldbull.com/)  
-- [apmex](https://www.apmex.com/)  
+- [apmex](https://www.apmex.com/)
+- [mtbmetals](https://www.mtbmetals.com/) 
 
 **International Mints**     
 - [USA Mint](https://www.usmint.gov/)     
@@ -974,7 +976,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Swiss Arabian](https://swissarabian.com/)  
 - [Rasasi](http://www.rasasi.com/)  
 - [Afnan](https://www.afnan.com/)  
-- [YUSUF BHAI](https://yusufbhaifragrances.com/)  
+- [YUSUF BHAI](https://yusufbhaifragrances.com/)
+- [taifalemarat](https://us.taifalemarat.com/)
+- [areejalameerat](https://www.areejalameerat.com/)
+- [mhgboutique](https://www.mhgboutique.com/) 
 
 **Fragrances Suppliers**
 - [robertet](https://www.robertet.com/)  
