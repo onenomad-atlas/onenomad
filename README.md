@@ -112,7 +112,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Buyer**    
 - [camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker
 - [myvipon](https://www.myvipon.com/) - Amazon Products at Huge Discounts   
-- [Keepa](https://keepa.com/#!) - Amazon Price Tracker    
+- [Keepa](https://keepa.com/#!) - Amazon Price Tracker
+- [koupon](https://www.koupon.ai/) - Amazon promo codes & daily deals 
 - [deals](https://www.amazon.com/deals?ref_=nav_cs_gb) - Amazon’s today deals  
 - [Amazon Outlet](https://www.amazon.com/outlet) - Online deals and find low prices on markdowns and overstocks for items  
 
@@ -160,6 +161,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [firebase](https://firebase.google.com/)  
 - [flutterflow](https://www.flutterflow.io/)
 - [tldraw](https://tldraw.dev/)
+- [base44](https://base44.com/) 
 - [co](https://www.co.dev/)  
 - [Vercel](https://vercel.com/) - Your complete platform for the web    
 - [IDX](https://idx.google.com) - Start building your app in the cloud   
@@ -178,7 +180,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [godaddy](https://www.godaddy.com/) - Domain  
 - [mailchimp](https://mailchimp.com/)  
 - [wordpress](https://wordpress.com/)  
-- [bigcommerce](https://www.bigcommerce.com/)  
+- [bigcommerce](https://www.bigcommerce.com/)
+- [sociavore](https://www.sociavore.co/) - Restaurant Website & Ordering
 
 **Coding**  
 - [freecodecamp.org](https://www.freecodecamp.org/)  
@@ -504,7 +507,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Toast](https://pos.toasttab.com/) - mainly for restaurants  
 - [Square](https://squareup.com/us/en)  
 - [Clover](https://www.clover.com/)  
-- [lightspeed](https://www.lightspeedhq.com/)  
+- [lightspeed](https://www.lightspeedhq.com/)
+
+- [trademarkia](https://www.trademarkia.com/) - Search over 12 million+ Trademarks for free
 
 ## Buyer Clubs
 
@@ -637,6 +642,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Design and Creativity  
 
+**Design & Creative Studios**
+- [madebyapricot](https://www.madebyapricot.com/)
+
 **Design Inspiration**  
 - [mobbin](https://mobbin.com/)  
 - [behance](https://www.behance.net/)  
@@ -733,7 +741,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Eleven Labs](https://elevenlabs.io/text-to-speech)  
 
 
-
 ## Dupes
 
 **Fragrance Clones**  
@@ -815,7 +822,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [robinhood](http://www.robinhood.com/)  
 - [Webull](https://www.webull.com/)  
 - [masterworks](https://www.masterworks.io/)  
-- [Fundrise](https://fundrise.com/)  
+- [Fundrise](https://fundrise.com/)
+
+**Futures Trading**
+- [toponetrader](https://toponetrader.com/)
+- [topstep](https://www.topstep.com/) 
 
 **Other Sites**  
 - [finbar](https://finbar.com/about)  
@@ -865,7 +876,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Healthy**  
 - [roots-harmony](https://roots-harmony.com/)  
 - [barukas](https://barukas.com/)  
-- [woodenspoonherbs](https://woodenspoonherbs.com/)  
+- [woodenspoonherbs](https://woodenspoonherbs.com/)
+- [realmilk](https://www.realmilk.com//) - Raw Milk Finder
 - [thealkalinedictionary](https://thealkalinedictionary.com/)    
 
 **Restaurants - Shipped**  
@@ -1105,6 +1117,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [archives](https://www.archives.gov/) - search the national digital archive & records
 
 ## Home
+
+**Security Cameras**
+- [reolink](https://reolink.com/)
+- [amcrest](https://amcrest.com/)
+- [hikvision](https://www.hikvision.com/en/)
+- [lorex](https://www.lorex.com/)  
 
 **Products for Home**
 - [Prowood](https://www.prowood.com/) - Treated lumber
@@ -1523,7 +1541,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Remote Support**    
 - [helpwire](https://www.helpwire.app/)
-- 
 
 **Productivity Apps**  
 - [notion](https://www.notion.com/product)  
@@ -1687,6 +1704,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 - [iyo](https://www.iyo.audio/) - the world's first audio computer
 - [x.company](https://x.company/) - bring sci-fi ideas into reality - Google
+- [ASML](https://www.asml.com/en) - the world's supplier to the semiconductor industry
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
@@ -1815,7 +1833,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   - [hertz](https://www.hertz.com/rentacar/reservation/)  
   - [alamo](https://www.alamo.com/en/home.html)  
   - [budget](https://www.budget.com/en/home)  
-  - [sixt](https://www.sixt.com/#/)  
+  - [sixt](https://www.sixt.com/#/)
+  - [bandago](https://www.bandago.com/) - Luxury And Economy Passenger Vans For Rent  
   - [silvercar](https://www.silvercar.com/) - rent an Audi  
   - [citymapper](https://citymapper.com/) - app for transportation  
   - [megabus](https://us.megabus.com/?gclid=EAIaIQobChMI-_CrpbfE9wIVo2xvBB20yQVEEAAYASAAEgKWcPD_BwE) - travel by bus  
