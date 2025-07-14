@@ -756,7 +756,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Amazing Dupes](https://www.amazingdupes.com/) - Cheap designer alternatives  
 - [Italic](https://italic.com/) - Luxury without labels
 - [repsguide](https://repsguide.com/) 
-- [Dupe](https://dupe.com/) - Find similar products for less  
+- [Dupe](https://dupe.com/) - Find similar products for less
+- [MEGA DUPE SHEET](https://docs.google.com/spreadsheets/d/1zyyLPCHd-8AQwsB12xK8CZpj2btgsI58Jbj-qCmGpLE/edit?pli=1&gid=1440052989#gid=1440052989) 
 
 
 
@@ -1299,7 +1300,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Cable TV**  
 - [123tv](http://123tv.live/)
-- [iptv](https://iptv-web.app/US/) 
+- [iptv](https://iptv-web.app/US/)
 - [Ustvgo.tv](http://ustvgo.tv/) - web
 - [ppv](https://ppv.to/) - free ppv and more
 
@@ -1652,14 +1653,15 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [jomashop](https://www.jomashop.com/)
 - [honestbrandreviews](https://www.honestbrandreviews.com/)  
 - [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place  
-- [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible  
+- [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible
+- [americanfloormats](https://www.americanfloormats.com/) - the most comprehensive selection of high quality floor mats
 
 ## Smart Home     
 - [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
 
 **Products**  
-- [Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs       
-
+- [Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs
+  
 **Technology**  
 - [Zigbee](https://csa-iot.org/all-solutions/zigbee/)  
 - [Matter](https://csa-iot.org/all-solutions/matter/)  
@@ -1714,7 +1716,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [swappa](https://swappa.com/)  
 - [digikey](https://www.digikey.com/)  
 - [anker](https://www.anker.com/)  
-- [esr](https://www.esrtech.com/)  
+- [esr](https://www.esrtech.com/)
+
+**Custom Printed Circuit Boards**
+- [jlcpcb](https://jlcpcb.com/)
+- [pcbway](https://www.pcbway.com/) 
 
 ## Tools
 
@@ -1905,6 +1911,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [armysurpluswarehouse](https://armysurpluswarehouse.com/)
 
 ## Vehicles  
+
+**Accessories**
+- [americantrucks](https://www.americantrucks.com/)
+- [roughcountry](https://www.roughcountry.com/)
+- [linex](https://www.linex.com/) 
 
 **Devices**  
 - [wolfbox](https://wolfbox.com/) - dashcam & smart mirror  
