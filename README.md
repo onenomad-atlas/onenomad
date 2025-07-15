@@ -462,16 +462,41 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Business  
 
+**Payments & POS**
+- [stripe](https://stripe.com/) - financial infrastructure  
+- [Toast](https://pos.toasttab.com/) - mainly for restaurants  
+- [Square](https://squareup.com/us/en)  
+- [Clover](https://www.clover.com/)  
+- [lightspeed](https://www.lightspeedhq.com/)
+- [lemonsqueezy](https://www.lemonsqueezy.com/)
+- [paddle](https://www.paddle.com/) - Put your billing operations on autopilot  
+
+
+**For Creators & Selling Digital Products**
+- [patreon](https://www.patreon.com/)
+- [buymeacoffee](https://buymeacoffee.com/)
+- [payhip](https://payhip.com/)
+- [patreon](https://www.patreon.com/) 
+- [gumroad](https://gumroad.com/) 
+- [paddle](https://www.paddle.com/)
+- [buymeacoffee](https://buymeacoffee.com/)
+
+**Create A Newsletter Business**
+- [kit](https://kit.com/)
+- [ghost](https://ghost.org/)
+- [beehiiv](https://www.beehiiv.com/)
+
+**Virtual Mailbox**
+- [stable](https://www.usestable.com/) - virtual mailbox & manage your business from anywhere  
+- [ipostal1](https://ipostal1.com/) - digital mailbox service
+
+
 - [clay](https://clay.earth/) - manage all your personal and professional relationships  
 - [dex](https://getdex.com/) - one place for all your relationships  
-- [stable](https://www.usestable.com/) - virtual mailbox & manage your business from anywhere  
-- [ipostal1](https://ipostal1.com/) - digital mailbox service  
 - [pietrastudio](https://www.pietrastudio.com/) - all-in-one tool to build your business  
 - [homebase](http://www.joinhomebase.com/) - manage your work schedules, time clock, payroll, HR & more  
-- [squareup](http://www.squareup.com/) - accept payments  
 - [revenuecat](https://www.revenuecat.com/) - build and grow your subscription business  
 - [proof](https://www.proof.com/) - identity-centric security platform  
-- [stripe](https://stripe.com/) - financial infrastructure  
 - [mintlify](https://mintlify.com/) - meet the modern standard for documentation  
 - [nira](https://nira.com/templates/) - free resources for getting work done  
 - [indoorway](https://www.indoorway.com/) - provides real-time location system
@@ -485,7 +510,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [tango](https://www.tango.us/) - create how-to guides
 - [kubera](https://www.kubera.com/) - the balance sheet 
 - [mixkit](https://mixkit.co/) - free assets for your next video project  
-- [paddle](https://www.paddle.com/) - Put your billing operations on autopilot  
 - [pixelhunter](https://pixelhunter.io/) - free AI image resizer
 - [flourish](https://flourish.studio/) - Where data meets storytelling
 - [hunter](https://hunter.io/) - connect with any professional 
@@ -498,16 +522,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [faire](https://www.faire.com/) - your one-stop shop for wholesale  
 - [Novo](https://www.novo.co/) - business banking  
 - [oberlo](https://www.oberlo.com/) - dropshipping  
-- [microsaasidea](https://microsaasidea.com/) - newsletter for techies and marketers  
 - [answerthepublic](https://answerthepublic.com/) - discover what people are asking about  
 - [opencorporates](https://opencorporates.com/) - company data  
 
-**POS**    
-- [Stripe](https://stripe.com/terminal)  
-- [Toast](https://pos.toasttab.com/) - mainly for restaurants  
-- [Square](https://squareup.com/us/en)  
-- [Clover](https://www.clover.com/)  
-- [lightspeed](https://www.lightspeedhq.com/)
 
 - [trademarkia](https://www.trademarkia.com/) - Search over 12 million+ Trademarks for free
 
