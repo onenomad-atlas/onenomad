@@ -494,7 +494,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [stable](https://www.usestable.com/) - virtual mailbox & manage your business from anywhere  
 - [ipostal1](https://ipostal1.com/) - digital mailbox service
 
-
+**Other** 
 - [clay](https://clay.earth/) - manage all your personal and professional relationships  
 - [dex](https://getdex.com/) - one place for all your relationships  
 - [pietrastudio](https://www.pietrastudio.com/) - all-in-one tool to build your business  
@@ -528,8 +528,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [oberlo](https://www.oberlo.com/) - dropshipping  
 - [answerthepublic](https://answerthepublic.com/) - discover what people are asking about  
 - [opencorporates](https://opencorporates.com/) - company data  
-
-
 - [trademarkia](https://www.trademarkia.com/) - Search over 12 million+ Trademarks for free
 
 ## Buyer Clubs
