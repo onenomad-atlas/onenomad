@@ -179,7 +179,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [weebly](https://www.weebly.com/websites?c=mkt_w_chnl:semb_geo:US_prtnr:ggl_camp:G-S-Brand-EM-US_campid:257473334_ag:weebly_agid:15054213254_kw:weebly_mt:e_dvc:c&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_ZcU7aB3a-TrdGF-mD95aBEQldZwbLWP0u_wL1F3b5JnWugHCYEj0aAlz_EALw_wcB)  
 - [godaddy](https://www.godaddy.com/) - Domain  
 - [mailchimp](https://mailchimp.com/)  
-- [wordpress](https://wordpress.com/)  
+- [wordpress](https://wordpress.com/)
+- [relume](https://www.relume.io/)
+- [dora](https://www.dora.run/) 
 - [bigcommerce](https://www.bigcommerce.com/)
 - [sociavore](https://www.sociavore.co/) - Restaurant Website & Ordering
 
@@ -286,7 +288,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Hugging Face](https://huggingface.co/) - the AI community building the future  
 - [voicenotes](https://voicenotes.com/?via=website)
 - [Prospect](https://www.prospectai.co/) - find leads with contact info with AI
-- [getpickle](https://getpickle.ai/) - Your AI Body Double  
+- [getpickle](https://getpickle.ai/) - Your AI Body Double
+- [lovart](https://www.lovart.ai/)  
 - [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
 - [cursor](https://www.cursor.com/) - The AI Code Editor  
 - [Gamma](https://gamma.app/) - create presentations & websites with AI
@@ -480,6 +483,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [gumroad](https://gumroad.com/) 
 - [paddle](https://www.paddle.com/)
 - [buymeacoffee](https://buymeacoffee.com/)
+- [circle](https://circle.so/)  
 
 **Create A Newsletter Business**
 - [kit](https://kit.com/)
@@ -767,7 +771,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Dossier](https://dossier.co/)  
 - [Oil Perfumery](https://us.oilperfumery.com/) - 20% off: **OP20**  
 - [Alexandria Fragrances](https://alexandriafragrances.com/)  
-- [Lazy Royal](https://www.lazyroyal.com/) - 25% off: **LAZYOIL**  
+- [Lazy Royal](https://www.lazyroyal.com/) - 25% off: **LAZYOIL**
+- [montagneparfums](https://www.montagneparfums.com/) 
 
 **Other Sites**    
 - [Amazing Dupes](https://www.amazingdupes.com/) - Cheap designer alternatives  
@@ -991,7 +996,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [earthley](https://www.earthley.com/)  
 
 **American Fragrances**
-- [Tom Ford](https://www.tomford.com/beauty/)  
+- [Tom Ford](https://www.tomford.com/beauty/)
+- [vononparfums](https://vononparfums.com/) 
 
 **European Fragrances**
 - [Roja Parfums](https://rojaparfums.com/)  
@@ -1660,7 +1666,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [cns](https://reg.usps.com/entreg/LoginAction_input?app=GSS&appURL=https://cns.usps.com/) - USPS  
 - [UPS](https://www.ups.com/us/en/home)  
 - [FedEx](https://www.fedex.com/en-us/home.html)  
-- [USPS](https://www.usps.com/)  
+- [USPS](https://www.usps.com/)
+- [shipveho](https://www.shipveho.com/)  
 - [DHL](https://www.dhl.com/us-en/home.html)  
 - [OnTrac](https://www.ontrac.com/)  
 
@@ -1789,7 +1796,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Points Search**
 - [pointsyeah](https://www.pointsyeah.com/) - Free multi date real-time search of 200+ airlines with points and miles in 20 seconds
 - [pointspath](https://pointspath.com/) - the best price for travel
-- [awardtool](https://www.awardtool.com/) - discover award avaliability 
+- [awardtool](https://www.awardtool.com/) - discover award avaliability
+- [pointhound](https://www.pointhound.com/)
+- [roame](https://roame.travel/)  
+- [point.me](https://www.point.me/?source=juicy-miles)  
+
 
 **Blogs & Resources**  
 - [frequentmiler](https://frequentmiler.com/)  
@@ -1808,8 +1819,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [flightconnections](https://www.flightconnections.com/)
 - [travelfreely](https://travelfreely.com/)
 - [expertflyer](https://www.expertflyer.com/)  
-- [point.me](https://www.point.me/?source=juicy-miles)  
-- [roame](https://roame.travel/)  
 
 **Luxury Hotels & Resorts**  
 - [quintessentially](https://www.quintessentially.com/)  
