@@ -1405,7 +1405,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [archive](https://archive.is/) - time capsule for web pages  
 - [bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls
 - [burles](http://burles.co/en/) - Read news without subscribing, bypass the paywall
-- [archivebuttons](https://www.archivebuttons.com/) - Free Paywall Remover        
+- [archivebuttons](https://www.archivebuttons.com/) - Free Paywall Remover
+- [removepaywall](https://www.removepaywall.com/)   
 
 **Bypass Medium's Paywall**
 - [medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
