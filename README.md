@@ -482,6 +482,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [patreon](https://www.patreon.com/) 
 - [gumroad](https://gumroad.com/) 
 - [paddle](https://www.paddle.com/)
+- [metalabel](https://www.metalabel.com/) 
 - [buymeacoffee](https://buymeacoffee.com/)
 - [circle](https://circle.so/)  
 
@@ -674,6 +675,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [canva](http://www.canva.com/)  
 - [pixlr](http://www.pixlr.com/)
 - [gimp](https://www.gimp.org/)
+- [jitter](https://jitter.video/)  
 - [photopea](https://www.photopea.com/)    
 - [CapCut](https://www.capcut.net/) - Video Editor
 - [descript](https://www.descript.com/) - Edit Videos & Podcasts Like a Doc
@@ -688,7 +690,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Studio.design](https://studio.design/)  
 - [Bravo Studio](https://www.bravostudio.app/)  
 - [Adobe Substance](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)  
-- [photopea](https://www.photopea.com/)  
 
 
 ## Discounts and Deals
@@ -839,6 +840,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Financial Markets and Trading  
 
+**Ratings and Data**
+- [ambest](https://web.ambest.com/home)
+- [spglobal](https://www.spglobal.com/en)
+- [moodys](https://www.moodys.com/) 
+
 **Platforms**  
 - [robinhood](http://www.robinhood.com/)  
 - [Webull](https://www.webull.com/)  
@@ -915,7 +921,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [saltlickbbq](https://saltlickbbq.com/) - Texas  
 
 **Resources**  
-- [Hack The Menu](https://hackthemenu.com/) - the ultimate collection of secret menus  
+- [Hack The Menu](https://hackthemenu.com/) - the ultimate collection of secret menus
+
+**Restaurant Supply and Wholesale**
+- [syscotogo](https://www.syscotogo.com/)
+- [gfsstore](https://gfsstore.com/) 
+
+**Other**
+- [mpactbeverage](https://www.mpactbeverage.com/) - the ultimate craft cocktail 
 
 
 
@@ -955,7 +968,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Casual Wear**
 - [Aldo](https://www.aldoshoes.com)  
-- [Hey Dude](https://www.heydude.com)  
+- [Hey Dude](https://www.heydude.com)
+- [nortiv8](https://www.nortiv8.com/)   
 - [Aurora Shoe Co](https://www.aurorashoeco.com) – made in New York  
 - [Capps Shoe Company](https://www.cappsshoe.com) – airline uniform shoes, made in Virginia  
 - [Eastland](https://www.eastlandshoe.com) – made in Maine  
@@ -1144,7 +1158,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [reolink](https://reolink.com/)
 - [amcrest](https://amcrest.com/)
 - [hikvision](https://www.hikvision.com/en/)
-- [lorex](https://www.lorex.com/)  
+- [lorex](https://www.lorex.com/)
+- [eufy](https://www.eufy.com/?ref=logo) 
 
 **Products for Home**
 - [Prowood](https://www.prowood.com/) - Treated lumber
@@ -1674,7 +1689,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 - [shopgoodwill](https://shopgoodwill.com/home) - Shop Goodwill online  
 - [jomashop](https://www.jomashop.com/)
-- [honestbrandreviews](https://www.honestbrandreviews.com/)  
+- [honestbrandreviews](https://www.honestbrandreviews.com/)
+- [faire](https://www.faire.com/) - wholesale prices 
 - [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place  
 - [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible
 - [americanfloormats](https://www.americanfloormats.com/) - the most comprehensive selection of high quality floor mats
@@ -1730,6 +1746,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [iyo](https://www.iyo.audio/) - the world's first audio computer
 - [x.company](https://x.company/) - bring sci-fi ideas into reality - Google
 - [ASML](https://www.asml.com/en) - the world's supplier to the semiconductor industry
+- [nuro](https://www.nuro.ai/) 
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
