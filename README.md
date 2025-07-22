@@ -345,7 +345,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [ytiz](https://ytiz.xyz/) - mp3 converter
 - [doubledouble](https://doubledouble.top/) - Download music directly from Amazon Music, Soundcloud, Qobuz, Deezer and Tidal for free
 - [ytmp3.cc](https://ytmp3.cc/) - YouTube to MP3 downloader  
-- [y2mate.is](https://y2mate.is/) - YouTube to MP4 downloader  
+- [y2mate.is](https://y2mate.is/) - YouTube to MP4 downloader
+- [yt-dlp](https://github.com/yt-dlp) 
 - [vocalremover](https://vocalremover.org/) - Vocal Remover and Isolation  
 - [soundguys](https://www.soundguys.com/) - Voice for the world of consumer audio users  
 - [radio.garden](http://radio.garden/?r=1) - Listen to the world’s radios  
@@ -1094,7 +1095,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [eyebuydirect](https://www.eyebuydirect.com/)  
 - [lookoptic](https://www.lookoptic.com/)  
 - [zennioptical](https://www.zennioptical.com/)  
-- [glassesusa](https://www.glassesusa.com/)  
+- [glassesusa](https://www.glassesusa.com/)
+- [goggles4u](https://www.goggles4u.com/g4u/) 
 - [eyebobs](https://www.eyebobs.com/)  
 
 **Sunglasses**  
@@ -1597,7 +1599,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [kosmik](https://www.kosmik.app/) - full visual research platform  
 - [superhuman](https://superhuman.com/) - email app  
 - [motion](https://www.usemotion.com/)  
-- [lunatask](https://lunatask.app/)  
+- [lunatask](https://lunatask.app/)
+- [octarine](https://octarine.app/) 
 - [fabric](https://fabric.so/)  
 - [kortex](https://www.kortex.co/)  
 - [bydesign](https://www.bydesign.io/)  
@@ -1693,7 +1696,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [jomashop](https://www.jomashop.com/)
 - [honestbrandreviews](https://www.honestbrandreviews.com/)
 - [faire](https://www.faire.com/) - wholesale prices 
-- [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place  
+- [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place
+- [kleen](https://www.kleen-ritecorp.com/default.aspx) - car wash supplies
 - [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible
 - [americanfloormats](https://www.americanfloormats.com/) - the most comprehensive selection of high quality floor mats
 
