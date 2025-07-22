@@ -209,7 +209,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [aloyoga](https://www.aloyoga.com/)  
 - [alphalete](https://alphaleteathletics.com/)   
 - [Vorzani](https://vorzani.com/)    
-- [CRZ Yoga](https://us.crzyoga.com/)     
+- [CRZ Yoga](https://us.crzyoga.com/)
+- [goinggoinggone](https://www.goinggoinggone.com/) 
 
 **Casual & Formal**  
 - [ae](https://www.ae.com/us/en)  
