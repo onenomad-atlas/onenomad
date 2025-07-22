@@ -336,7 +336,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Audio and Music
 
 - [tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another  
-- [soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another  
+- [soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another
+- [wemor](https://wemor.vercel.app/) - Transfer your Spotify playlists to YouTube Music seamlessly
 - [epidemicsound](https://www.epidemicsound.com/) - Bring your story to life with music and sounds  
 - [Artlist](https://artlist.io/) - Royalty-free music and SFX for your videos  
 - [poolside](https://poolsuite.net/) - Relaxing music playlist  
@@ -1005,7 +1006,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [planttherapy](https://www.planttherapy.com/)  
 - [auracacia](https://www.auracacia.com/)  
 - [vitruvi](https://vitruvi.com/)  
-- [earthley](https://www.earthley.com/)  
+- [earthley](https://www.earthley.com/)
+- [vinevida](https://www.vinevida.com/) 
 
 **American Fragrances**
 - [Tom Ford](https://www.tomford.com/beauty/)
@@ -1885,7 +1887,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   - [bandago](https://www.bandago.com/) - Luxury And Economy Passenger Vans For Rent  
   - [silvercar](https://www.silvercar.com/) - rent an Audi  
   - [citymapper](https://citymapper.com/) - app for transportation  
-  - [megabus](https://us.megabus.com/?gclid=EAIaIQobChMI-_CrpbfE9wIVo2xvBB20yQVEEAAYASAAEgKWcPD_BwE) - travel by bus  
+  - [megabus](https://us.megabus.com/?gclid=EAIaIQobChMI-_CrpbfE9wIVo2xvBB20yQVEEAAYASAAEgKWcPD_BwE) - travel by bus
+ 
+- **Cruises**
+  - [cruisewatch])(https://www.cruisewatch.com/)
+  - [cruisemapper](https://www.cruisemapper.com/)
 
 - **Tours**  
   - [getyourguide](https://www.getyourguide.com/)  
