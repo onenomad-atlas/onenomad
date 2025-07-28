@@ -291,7 +291,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [voicenotes](https://voicenotes.com/?via=website)
 - [Prospect](https://www.prospectai.co/) - find leads with contact info with AI
 - [getpickle](https://getpickle.ai/) - Your AI Body Double
-- [lovart](https://www.lovart.ai/)  
+- [lovart](https://www.lovart.ai/)
+- [meetkai](https://meetkai.com/) - The Scalable AI Platform
 - [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
 - [cursor](https://www.cursor.com/) - The AI Code Editor  
 - [Gamma](https://gamma.app/) - create presentations & websites with AI
@@ -686,6 +687,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [canva](http://www.canva.com/)  
 - [pixlr](http://www.pixlr.com/)
 - [gimp](https://www.gimp.org/)
+- [21st.dev](https://21st.dev/home) -  the best way to create UI components
 - [jitter](https://jitter.video/)  
 - [photopea](https://www.photopea.com/)    
 - [CapCut](https://www.capcut.net/) - Video Editor
@@ -1778,9 +1780,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [anker](https://www.anker.com/)  
 - [esr](https://www.esrtech.com/)
 
-**Custom Printed Circuit Boards**
+**Custom Printed Circuit Boards & Parts**
 - [jlcpcb](https://jlcpcb.com/)
-- [pcbway](https://www.pcbway.com/) 
+- [pcbway](https://www.pcbway.com/)
+- [digikey](https://www.digikey.com/) 
 
 ## Tools
 
