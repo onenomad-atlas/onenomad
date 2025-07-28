@@ -281,6 +281,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **AI Tools**  
 - [thebricks](https://www.thebricks.com/) - AI Spreadsheet
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
+- [databricks](https://www.databricks.com/) 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 - [twaingpt](https://www.twaingpt.com/) - humanize your writing
 - [replit](https://replit.com/) - Turn your ideas into apps 
@@ -498,6 +499,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [stable](https://www.usestable.com/) - virtual mailbox & manage your business from anywhere  
 - [ipostal1](https://ipostal1.com/) - digital mailbox service
 
+**Wholesale & Auctions**
+- [bstock](https://bstock.com/)
+- [govdeals](https://www.govdeals.com/en) 
+
 **Other** 
 - [clay](https://clay.earth/) - manage all your personal and professional relationships  
 - [dex](https://getdex.com/) - one place for all your relationships  
@@ -628,7 +633,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [mtbmetals](https://www.mtbmetals.com/) 
 
 **International Mints**     
-- [USA Mint](https://www.usmint.gov/)     
+- [USA Mint](https://www.usmint.gov/)
+- [TEXAS Mint](https://www.texasmint.com/)
+- [texasdepository](https://texasdepository.com/) - World Class Vaulting
 - [United Kingdom Mint](https://www.royalmint.com/)  
 - [Canadian Mint](https://www.mint.ca/store/template/home.jsp)  
 - [Switzerland Mint](https://www.swissmint.ch/en)  
@@ -667,6 +674,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Design & Creative Studios**
 - [madebyapricot](https://www.madebyapricot.com/)
+- [versacreative](https://versacreative.com/) 
 
 **Design Inspiration**  
 - [mobbin](https://mobbin.com/)  
@@ -853,6 +861,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Webull](https://www.webull.com/)  
 - [masterworks](https://www.masterworks.io/)  
 - [Fundrise](https://fundrise.com/)
+- [forgeglobal](https://forgeglobal.com/) 
 
 **Futures Trading**
 - [toponetrader](https://toponetrader.com/)
@@ -1257,7 +1266,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [natashaskitchen](https://www.amazon.com/shop/natashaskitchen/list/1IPEJWJ6FO7MD?ref_=aip_sf_list_spv_ofs_mixed_d)  
 - [shopstcg](https://shopstcg.com/)  
 - [lifebymikeg](https://www.amazon.com/shop/lifebymikeg)  
-- [cookwell](https://www.cookwell.com/shop)  
+- [cookwell](https://www.cookwell.com/shop)
+- [ankarsrum](https://www.ankarsrum.com/us/) - The ultimate stand mixer for your home
 
 **Resources**  
 - [supercook](https://www.supercook.com/#/desktop) - find a recipe with the ingredients you have  
@@ -1396,7 +1406,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Synology](https://www.synology.com/en-us)      
 - [QNAP](https://www.qnap.com/en-us/)     
 - [unraid](https://unraid.net/) - operating system for servers and NAS     
-- [truenas](https://www.truenas.com/) - open source NAS software       
+- [truenas](https://www.truenas.com/) - open source NAS software
+- [torbox](https://torbox.app/) - The premium seedbox
 
 ## News and Articles
 - [zerohedge](https://www.zerohedge.com/)  
@@ -1701,6 +1712,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [kleen](https://www.kleen-ritecorp.com/default.aspx) - car wash supplies
 - [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible
 - [americanfloormats](https://www.americanfloormats.com/) - the most comprehensive selection of high quality floor mats
+- [ballmasonjars](https://www.ballmasonjars.com/)
+- [vetted](https://vetted.ai/) - AI shopping research agent
 
 ## Smart Home     
 - [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
@@ -1975,7 +1988,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Auto Vehicles**   
 - [lucid](https://lucidmotors.com/)  
-- [rivian](https://rivian.com/)  
+- [rivian](https://rivian.com/)
+- [zoox](https://zoox.com/) 
 
 **Resources**    
 - [Carcarekiosk](https://www.carcarekiosk.com/) - easiest way to fix your car with videos from car repair experts  
