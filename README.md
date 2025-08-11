@@ -1682,6 +1682,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Land**
 - [landandfarm](https://www.landandfarm.com/)
 - [landwatch](https://www.landwatch.com/)
+
+**Blog**
+- [therealdeal](https://therealdeal.com/) - realestate news
   
 ## Recipes
 
