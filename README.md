@@ -516,13 +516,16 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [indoorway](https://www.indoorway.com/) - provides real-time location system
 - [swipefile](https://swipefile.com/) - marketing inspiration 
 - [chatfuel](https://chatfuel.com/) - automate workflow
+- [oceanstalent](https://www.oceanstalent.com/) - Hire proactive global talent for your team 
+- [openphone](https://www.openphone.com/) - phone system for growing customer relationships
 - [Apollo](https://www.apollo.io/home) - #1 AI sales assistant for small businesses
 - [thegigabrain](https://thegigabrain.com/) - Get real answers from real people
 - [syften](https://syften.com/) - Monitoring the web's leading communities for you
 - [importyeti](https://www.importyeti.com/) - check any company’s suppliers  
 - [mailcharts](https://www.mailcharts.com/) - campaign intelligence for eCommerce teams  
 - [tango](https://www.tango.us/) - create how-to guides
-- [kubera](https://www.kubera.com/) - the balance sheet 
+- [kubera](https://www.kubera.com/) - the balance sheet
+- [kick](https://www.kick.co/) - Self-driving bookkeeping 
 - [mixkit](https://mixkit.co/) - free assets for your next video project  
 - [pixelhunter](https://pixelhunter.io/) - free AI image resizer
 - [flourish](https://flourish.studio/) - Where data meets storytelling
@@ -650,7 +653,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Geiger Edelmetalle](https://www.geiger-edelmetalle.de/en/) - Distributor for precious metals  
 - [Argor-Heraeus](https://argor-heraeus.com/) - headquartered in Switzerland  
 - [PAMP](https://www.pamp.com/) - Mint located in Switzerland  
-- [Valcambi](https://valcambi.com/) - Mint located in Switzerland  
+- [Valcambi](https://valcambi.com/) - Mint located in Switzerland
+
+**Cash Management & Security**
+- [brinks](https://us.brinks.com/)
+- [loomis](https://www.loomis.us/)
+- [garda](https://www.garda.com/)
 
 ## Custom Products  
 
@@ -1949,7 +1957,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [jsx](https://www.jsx.com/) - book a shared private jet
 - [amalfi jets](https://www.amalfijets.com/)       
 - [villiersjets](https://www.villiersjets.com/)  
-- [flyxo](https://flyxo.com/)  
+- [flyxo](https://flyxo.com/)
+- [blacklane](https://www.blacklane.com/en/) 
 - [flyvictor](https://www.flyvictor.com/en-us/)  
 - [openpoint.co](https://openpoint.co/#/main/)  
 - [cuvee](https://www.cuvee.com/)  
