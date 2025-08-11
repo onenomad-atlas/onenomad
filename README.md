@@ -1406,10 +1406,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Backup and NAS**  
 - [Synology](https://www.synology.com/en-us)      
-- [QNAP](https://www.qnap.com/en-us/)     
+- [QNAP](https://www.qnap.com/en-us/)
+- [Terramaster](https://www.terra-master.com/us/) 
 - [unraid](https://unraid.net/) - operating system for servers and NAS     
 - [truenas](https://www.truenas.com/) - open source NAS software
 - [torbox](https://torbox.app/) - The premium seedbox
+
+**Blog**
+- [nascompares](https://nascompares.com/) 
 
 ## News and Articles
 - [zerohedge](https://www.zerohedge.com/)  
@@ -1779,6 +1783,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [digikey](https://www.digikey.com/)  
 - [anker](https://www.anker.com/)  
 - [esr](https://www.esrtech.com/)
+- [moment](https://www.shopmoment.com/) - camera & phone accessories 
 
 **Custom Printed Circuit Boards & Parts**
 - [jlcpcb](https://jlcpcb.com/)
