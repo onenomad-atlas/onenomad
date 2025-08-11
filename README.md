@@ -516,6 +516,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [indoorway](https://www.indoorway.com/) - provides real-time location system
 - [swipefile](https://swipefile.com/) - marketing inspiration 
 - [chatfuel](https://chatfuel.com/) - automate workflow
+- [getwherewolf](https://getwherewolf.com/) - Capture Waivers, Drive Bookings, Automate Reviews
 - [oceanstalent](https://www.oceanstalent.com/) - Hire proactive global talent for your team 
 - [openphone](https://www.openphone.com/) - phone system for growing customer relationships
 - [Apollo](https://www.apollo.io/home) - #1 AI sales assistant for small businesses
@@ -838,7 +839,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Atlas Obscura](https://www.atlasobscura.com/) - Explore the world’s hidden wonders  
 - [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes
 - [Line Rider](https://www.linerider.com/)
-- [autodraw](https://www.autodraw.com/)     
+- [autodraw](https://www.autodraw.com/)
+- [z2u](https://www.z2u.com/) - favorite marketplace for game services & products 
 - [Silk](http://weavesilk.com/) - interactive generative art     
 - [My Life Elsewhere](https://www.mylifeelsewhere.com/) - Compare quality of life globally  
 - [WatchParty](https://www.watchparty.me)
@@ -1927,8 +1929,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   - [megabus](https://us.megabus.com/?gclid=EAIaIQobChMI-_CrpbfE9wIVo2xvBB20yQVEEAAYASAAEgKWcPD_BwE) - travel by bus
  
 - **Cruises**
-  - [cruisewatch])(https://www.cruisewatch.com/)
+  - [cruisewatch](https://www.cruisewatch.com/)
   - [cruisemapper](https://www.cruisemapper.com/)
+  - [vacationstogo](https://www.vacationstogo.com/) - Save up to 85% on Cruises
 
 - **Tours**  
   - [getyourguide](https://www.getyourguide.com/)  
