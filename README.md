@@ -630,6 +630,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Currency and Metals  
 
+- [https://www.sigmametalytics
 - [jmbullion](https://www.jmbullion.com/)  
 - [sdbullion](https://sdbullion.com/)  
 - [monumentmetals](https://monumentmetals.com/)  
