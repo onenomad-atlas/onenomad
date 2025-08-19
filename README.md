@@ -333,7 +333,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [IAAI](https://www.iaai.com/) - Cars and other vehicles  
 - [liveauctioneers](https://www.liveauctioneers.com/) - One-of-a-kind art, antiques & luxury goods   
 - [sothebys](https://www.sothebys.com/en/) - world’s premier destination for art and luxury   
-- [rmsothebys](https://rmsothebys.com) - luxury cars for auction  
+- [rmsothebys](https://rmsothebys.com) - luxury cars for auction
+- [nellisauction](https://www.nellisauction.com/) - overstock auction 
 
 
 ## Audio and Music
@@ -630,7 +631,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Currency and Metals  
 
-- [https://www.sigmametalytics
+- [sigmametalytics](https://www.sigmametalytics.com/) - Protect your investments 
 - [jmbullion](https://www.jmbullion.com/)  
 - [sdbullion](https://sdbullion.com/)  
 - [monumentmetals](https://monumentmetals.com/)  
@@ -679,7 +680,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Vistaprint](https://www.vistaprint.com/)  
 - [Printify](https://printify.com/)  
 - [Captivaco](https://www.captivaco.com/)
-- [EGrandStand](https://egrandstand.com/)    
+- [EGrandStand](https://egrandstand.com/)
+- [sportsgearswag](https://www.sportsgearswag.com/) - custom sports clothing
 
 ## Design and Creativity  
 
@@ -924,6 +926,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [move u](https://moveu.com/) - fix your pain at home or on the go  
 
 ## Food and Drinks  
+
+**Coffee**
+- [bluemountaincoffee](https://bluemountaincoffee.com/)
+- [volcanicacoffee](https://volcanicacoffee.com/) 
 
 **Healthy**  
 - [roots-harmony](https://roots-harmony.com/)  
@@ -1195,7 +1201,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [techo-bloc](https://www.techo-bloc.com/) - landscape products
 - [hideawayscreen](https://hideawayscreen.com/) - privacy screens & gates
 - [ufpedge](https://www.ufpedge.com/) - wood
-
 - [ownwell](https://www.ownwell.com/) - reduce your property taxes  
 - [bldr](https://www.bldr.com/)  
 - [Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products  
@@ -1249,7 +1254,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Hiranandani](https://www.houseofhiranandani.com/)  
 - [Rustomjee](https://www.rustomjee.com/)  
 - [K raheja corp](https://www.krahejacorp.com/)  
-- [L&T realty](https://www.lntrealty.com/)  
+- [L&T realty](https://www.lntrealty.com/)
+
+**Fragrances**
+- [Kelkar](https://kffindia.com/)
 
 ## International Companies  
 
@@ -1281,6 +1289,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [lifebymikeg](https://www.amazon.com/shop/lifebymikeg)  
 - [cookwell](https://www.cookwell.com/shop)
 - [ankarsrum](https://www.ankarsrum.com/us/) - The ultimate stand mixer for your home
+- [dualit](https://www.dualit.com/) 
 
 **Resources**  
 - [supercook](https://www.supercook.com/#/desktop) - find a recipe with the ingredients you have  
@@ -1313,7 +1322,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Local  
 - [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
 - [citizen](https://citizen.com/) - Where people protect each other  
-- [nextdoor](https://nextdoor.com/) - discover your neighborhood  
+- [nextdoor](https://nextdoor.com/) - discover your neighborhood
+- [ewg](https://www.ewg.org/tapwater/) - Know what’s in Your tap water 
 
 ## Meetings and Video Calls  
 - [loom](https://www.loom.com/) - screen record and share  
@@ -1968,8 +1978,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [blacklane](https://www.blacklane.com/en/) 
 - [flyvictor](https://www.flyvictor.com/en-us/)  
 - [openpoint.co](https://openpoint.co/#/main/)  
-- [cuvee](https://www.cuvee.com/)  
-
+- [cuvee](https://www.cuvee.com/)
+- [explorajourneys](https://explorajourneys.com/us/en) - luxury cruises 
 
 ## United Arab Emirates
 
