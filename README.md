@@ -184,6 +184,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [dora](https://www.dora.run/) 
 - [bigcommerce](https://www.bigcommerce.com/)
 - [sociavore](https://www.sociavore.co/) - Restaurant Website & Ordering
+- [spaceship](https://www.spaceship.com/) 
 
 **Coding**  
 - [freecodecamp.org](https://www.freecodecamp.org/)  
@@ -227,7 +228,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [huckberry](https://huckberry.com/?utm_source=search&utm_medium=googlep&utm_campaign=search-brand&utm_campaignid=348018922&gad_source=1&gclid=Cj0KCQiAo5u6BhDJARIsAAVoDWvs1FweZoOFdpU9xzQWieQ2EYcVIMHN2qoNhjR5S3MOPhPnaUcase0aAnLMEALw_wcB)  
 - [mackweldon](https://mackweldon.com/)  
 - [everlane](https://www.everlane.com/)  
-- [thenormalbrand](https://thenormalbrand.com/)  
+- [thenormalbrand](https://thenormalbrand.com/)
+- [edikted](https://edikted.com/) - womens' clothing
 
 **Outerwear**  
 - [northface](https://www.thenorthface.com/)  
@@ -1357,6 +1359,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [cinemaos](https://cinemaos.live/) **
 - [moviemaze](https://moviemaze.cc/) **
 - [freek](https://freek.to/)
+- [cineby](https://www.cineby.app/)
+- [xprime](https://xprime.tv/)
+- 
 - [vadapav](https://vadapav.mov/) 
 - [supernova](https://supernova.to/) - watch movies & shows/download
 - [olgply](https://olgply.com/) - movies & tv shows
@@ -1589,7 +1594,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [signal](https://signal.org/)  
 
 **Cloud Storage**  
-- [ente](https://ente.io/)  
+- [ente](https://ente.io/)
+- [filen](https://filen.io/about/) 
 - [crypt.ee](https://crypt.ee/)  
 
 **Encryption**  
@@ -1622,6 +1628,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Remote Support**    
 - [helpwire](https://www.helpwire.app/)
+- [realvnc](https://www.realvnc.com/en/?lai_vid=qqAqp9zDKudj&lai_sr=0-4&lai_sl=l) 
 
 **Productivity Apps**  
 - [notion](https://www.notion.com/product)  
@@ -1744,6 +1751,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [americanfloormats](https://www.americanfloormats.com/) - the most comprehensive selection of high quality floor mats
 - [ballmasonjars](https://www.ballmasonjars.com/)
 - [vetted](https://vetted.ai/) - AI shopping research agent
+- [bugaboo](https://www.bugaboo.com/us-en) - strollers & more
 
 ## Smart Home     
 - [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
@@ -1908,7 +1916,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
   - [costcotravel](https://www.costcotravel.com/)
   - [hotelslash](https://www.hotelslash.com/) 
   - [hotels](https://www.hotels.com/)  
-  - [booking](https://www.booking.com/)  
+  - [booking](https://www.booking.com/)
+  - [rooms](https://rooms.aero/) - Discover the best hotel rooms for your points 
   - [tripadvisor](https://www.tripadvisor.com/)
   - [hichee](https://hichee.com/) - Don't Overpay for Vacation Rentals
 
