@@ -449,7 +449,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Books  
 
 - [sobrief](https://sobrief.com/) - Read any book in 10 minutes  
-- [openlibrary](https://openlibrary.org/) - open, editable library catalog  
+- [openlibrary](https://openlibrary.org/) - open, editable library catalog
+- [gutenberg](https://gutenberg.org/) - library of over 75,000 free eBooks
 
 **Search and Download Any Book**    
 - [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
@@ -639,7 +640,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [monumentmetals](https://monumentmetals.com/)  
 - [silvergoldbull](https://silvergoldbull.com/)  
 - [apmex](https://www.apmex.com/)
-- [mtbmetals](https://www.mtbmetals.com/) 
+- [mtbmetals](https://www.mtbmetals.com/)
+- [cacgrading](https://www.cacgrading.com/) 
 
 **International Mints**     
 - [USA Mint](https://www.usmint.gov/)
@@ -958,7 +960,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Restaurant Supply and Wholesale**
 - [syscotogo](https://www.syscotogo.com/)
-- [gfsstore](https://gfsstore.com/) 
+- [gfsstore](https://gfsstore.com/)
+- [leprino](https://leprino.com/) - cheese distributor
 
 **Other**
 - [mpactbeverage](https://www.mpactbeverage.com/) - the ultimate craft cocktail 
@@ -1133,7 +1136,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Sunglasses**  
 - [Ray-Ban](https://www.ray-ban.com/usa)  
 - [Oakley](https://www.oakley.com/en-us)  
-- [sunglasshut](https://www.sunglasshut.com/)  
+- [sunglasshut](https://www.sunglasshut.com/)
+- [smithoptics](https://www.smithoptics.com/en-us/collections/sunglasses) 
 - [diffeyewear](https://www.diffeyewear.com/)  
 - [raen](https://raen.com/)  
 - [persol](https://www.persol.com/usa)  
@@ -1163,6 +1167,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Health Resources**  
 - [healthline](https://www.healthline.com/)  
 - [ada health](https://ada.com/)
+- [myaccesshealth](https://www.myaccesshealth.org/) 
 
 **Medicine**  
 - [costplusdrugs](https://costplusdrugs.com/)  
@@ -1194,7 +1199,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [amcrest](https://amcrest.com/)
 - [hikvision](https://www.hikvision.com/en/)
 - [lorex](https://www.lorex.com/)
-- [eufy](https://www.eufy.com/?ref=logo) 
+- [eufy](https://www.eufy.com/?ref=logo)
+- [ui](https://ui.com/us/en) 
 
 **Products for Home**
 - [Prowood](https://www.prowood.com/) - Treated lumber
@@ -1241,7 +1247,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [pexels](https://www.pexels.com/)  
 - [tineye](https://tineye.com/) - reverse image search  
 - [Photoscan](https://www.google.com/photos/scan/) - Photos from the past, meet scanner from the future  
-- [photoroom](https://www.photoroom.com/) - AI Photo Editor  
+- [photoroom](https://www.photoroom.com/) - AI Photo Editor
+- [remove](https://www.remove.bg/) - remove background
 
 ## India  
 
@@ -1422,6 +1429,15 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [True Size](https://www.thetruesize.com/) - find the true size of your country  
 
 ## Networking and Storage  
+
+- [kismet](https://www.kismetwireless.net/)
+- [blackhat](https://blackhat.com/) - internationally recognized cybersecurity event series
+- [mariushosting](https://mariushosting.com/)
+- [using-cloudflare](https://corcoran.medium.com/using-cloudflare-for-ddns-and-tls-certificates-on-synology-dsm6-1549e55d557f)
+- [wigle](https://wigle.net/) - all the networks
+- [ezeefiber](https://ezeefiber.com/) - Award-Winning High-Speed Fiber Internet
+- [beszel](https://beszel.dev/) - Simple, lightweight server monitoring
+- [uptimekuma](https://uptimekuma.org/) - Fancy Self-Hosted Monitoring Tool
 
 **Storage**  
 - [Western Digital](https://www.westerndigital.com/)  
@@ -1622,7 +1638,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [syncthing](https://syncthing.net/)  
 - [puri.sm](https://puri.sm/)  
 - [tailscale](https://tailscale.com/)  
-- [Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector  
+- [Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
+- [deflock](https://deflock.me/) - you're being tracked
+- [eyesonflock](https://eyesonflock.com/) - Aggregating Flock Safety Transparency Portal Data
+- 
 
 ## Productivity       
 
@@ -1750,6 +1769,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible
 - [americanfloormats](https://www.americanfloormats.com/) - the most comprehensive selection of high quality floor mats
 - [ballmasonjars](https://www.ballmasonjars.com/)
+- [onewheel](https://onewheel.com/) 
+- [dorcousa](https://dorcousa.com/) 
 - [vetted](https://vetted.ai/) - AI shopping research agent
 - [bugaboo](https://www.bugaboo.com/us-en) - strollers & more
 
@@ -1820,7 +1841,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Custom Printed Circuit Boards & Parts**
 - [jlcpcb](https://jlcpcb.com/)
 - [pcbway](https://www.pcbway.com/)
-- [digikey](https://www.digikey.com/) 
+- [digikey](https://www.digikey.com/)
+- [mechanicalkeyboards](https://mechanicalkeyboards.com/) 
 
 ## Tools
 
@@ -1874,7 +1896,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [pointspath](https://pointspath.com/) - the best price for travel
 - [awardtool](https://www.awardtool.com/) - discover award avaliability
 - [pointhound](https://www.pointhound.com/)
-- [roame](https://roame.travel/)  
+- [roame](https://roame.travel/)
+- [monkeymiles](https://monkeymiles.boardingarea.com/) 
 - [point.me](https://www.point.me/?source=juicy-miles)  
 
 
@@ -1984,6 +2007,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [amalfi jets](https://www.amalfijets.com/)       
 - [villiersjets](https://www.villiersjets.com/)  
 - [flyxo](https://flyxo.com/)
+- [rockymountaineer](https://www.rockymountaineer.com/) 
+- [skylark](https://skylark.com/) 
 - [blacklane](https://www.blacklane.com/en/) 
 - [flyvictor](https://www.flyvictor.com/en-us/)  
 - [openpoint.co](https://openpoint.co/#/main/)  
@@ -2104,3 +2129,4 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [visualcapitalist](https://www.visualcapitalist.com/)  
 - [voronoi](https://www.voronoiapp.com/)
 - [Movemap](https://www.movemap.io/explore/us)
+- [davidrumsey](https://www.davidrumsey.com/) 
