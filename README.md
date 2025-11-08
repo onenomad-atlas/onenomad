@@ -1438,6 +1438,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [ezeefiber](https://ezeefiber.com/) - Award-Winning High-Speed Fiber Internet
 - [beszel](https://beszel.dev/) - Simple, lightweight server monitoring
 - [uptimekuma](https://uptimekuma.org/) - Fancy Self-Hosted Monitoring Tool
+- [Twingate](https://www.twingate.com/) - Go beyond VPN
 
 **Storage**  
 - [Western Digital](https://www.westerndigital.com/)  
