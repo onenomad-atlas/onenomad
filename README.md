@@ -1005,7 +1005,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Casual Wear**
 - [Aldo](https://www.aldoshoes.com)  
 - [Hey Dude](https://www.heydude.com)
-- [nortiv8](https://www.nortiv8.com/)   
+- [nortiv8](https://www.nortiv8.com/)
+- [ceprunning](https://ceprunning.com/) 
 - [Aurora Shoe Co](https://www.aurorashoeco.com) – made in New York  
 - [Capps Shoe Company](https://www.cappsshoe.com) – airline uniform shoes, made in Virginia  
 - [Eastland](https://www.eastlandshoe.com) – made in Maine  
@@ -1826,7 +1827,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [iyo](https://www.iyo.audio/) - the world's first audio computer
 - [x.company](https://x.company/) - bring sci-fi ideas into reality - Google
 - [ASML](https://www.asml.com/en) - the world's supplier to the semiconductor industry
-- [nuro](https://www.nuro.ai/) 
+- [nuro](https://www.nuro.ai/)
+- [meanwell](https://www.meanwell.com/index.aspx) - over 10,000 models of standard power supply products
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
@@ -1843,7 +1845,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [jlcpcb](https://jlcpcb.com/)
 - [pcbway](https://www.pcbway.com/)
 - [digikey](https://www.digikey.com/)
-- [mechanicalkeyboards](https://mechanicalkeyboards.com/) 
+- [mechanicalkeyboards](https://mechanicalkeyboards.com/)
+- [oshpark](https://oshpark.com/)
+- [shapeways](https://www.shapeways.com/)
+- [bambulab](https://us.store.bambulab.com/) - 3d printer
+- [inland printer filament](https://www.microcenter.com/product/611544/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-white) - for 3d printer
+- [btf-lighting](https://www.btf-lighting.com/) - led light strips
+- [quinled](https://quinled.info/) - leds
 
 ## Tools
 
