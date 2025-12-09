@@ -1854,6 +1854,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [btf-lighting](https://www.btf-lighting.com/) - led light strips
 - [quinled](https://quinled.info/) - leds
 
+**Mapping**
+- [madmapper](https://madmapper.com/)
+- [VPT8](https://hcgilje.wordpress.com/vpt/) 
+
 ## Tools
 
 - [ifixit](https://www.ifixit.com/) - free repair manual  
