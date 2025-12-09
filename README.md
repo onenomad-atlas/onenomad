@@ -1839,7 +1839,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [digikey](https://www.digikey.com/)  
 - [anker](https://www.anker.com/)  
 - [esr](https://www.esrtech.com/)
-- [moment](https://www.shopmoment.com/) - camera & phone accessories 
+- [moment](https://www.shopmoment.com/) - camera & phone accessories
+- [fractal design](https://www.fractal-design.com/) - Gaming & PC Hardware
 
 **Custom Printed Circuit Boards & Parts**
 - [jlcpcb](https://jlcpcb.com/)
