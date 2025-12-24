@@ -1299,7 +1299,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [lifebymikeg](https://www.amazon.com/shop/lifebymikeg)  
 - [cookwell](https://www.cookwell.com/shop)
 - [ankarsrum](https://www.ankarsrum.com/us/) - The ultimate stand mixer for your home
-- [dualit](https://www.dualit.com/) 
+- [dualit](https://www.dualit.com/)
+- [Corelle](https://corelle.com/) - drink & dinnerware
 
 **Resources**  
 - [supercook](https://www.supercook.com/#/desktop) - find a recipe with the ingredients you have  
