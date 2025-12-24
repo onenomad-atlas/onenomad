@@ -1302,6 +1302,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [dualit](https://www.dualit.com/)
 - [Corelle](https://corelle.com/) - drink & dinnerware
 
+**BBQ**
+- [Atbbq](https://www.atbbq.com/)    
+- [bbqguys](https://www.bbqguys.com/)   
+
 **Resources**  
 - [supercook](https://www.supercook.com/#/desktop) - find a recipe with the ingredients you have  
 
