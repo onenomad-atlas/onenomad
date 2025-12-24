@@ -1367,6 +1367,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [vegamovies](https://vegamovies.cr/)
 - [cinemaos](https://cinemaos.live/) **
 - [moviemaze](https://moviemaze.cc/) **
+- [a.111477](https://a.111477.xyz/) ** 
 - [freek](https://freek.to/)
 - [cineby](https://www.cineby.app/)
 - [xprime](https://xprime.tv/)
