@@ -368,9 +368,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [flightaware](https://www.flightaware.com/)  
 - [flightradar24](https://www.flightradar24.com/51.47,0.46/6)  
 - [Flighty](https://flighty.com/) - Live Flight Tracker  
-- [Vessel Finder](https://www.vesselfinder.com/) - ship & container tracking  
+- [Vessel Finder](https://www.vesselfinder.com/) - ship & container tracking      
 
-
+**Database**      
+- [Airline Pilot Central](https://www.airlinepilotcentral.com/) - airline database to see who's hiring, pay comparisons and more     
 
 ## Bath and Beauty  
 
@@ -473,6 +474,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 
 ## Business  
+
+**Hardware**
+- [Dorint](https://www.dorint-uk.co.uk/en/) - door control hardware products     
+- [Brivo](https://www.brivo.com/) - Security Technology    
+- [Dormakaba](https://www.dormakaba.com/us-en) - door & access systems    
 
 **Payments & POS**
 - [stripe](https://stripe.com/) - financial infrastructure  
@@ -1861,8 +1867,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [quinled](https://quinled.info/) - leds
 
 **Mapping**
-- [madmapper](https://madmapper.com/)
-- [VPT8](https://hcgilje.wordpress.com/vpt/) 
+- [madmapper](https://madmapper.com/)     
+- [VPT8](https://hcgilje.wordpress.com/vpt/)
+- [lazylighting](https://www.lazylighting.com/)      
 
 ## Tools
 
