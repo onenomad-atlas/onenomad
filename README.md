@@ -294,6 +294,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Prospect](https://www.prospectai.co/) - find leads with contact info with AI
 - [getpickle](https://getpickle.ai/) - Your AI Body Double
 - [lovart](https://www.lovart.ai/)
+- [RealAI](https://realai.com/) - Your real estate AI analyst   
 - [meetkai](https://meetkai.com/) - The Scalable AI Platform
 - [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
 - [cursor](https://www.cursor.com/) - The AI Code Editor  
@@ -456,7 +457,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Search and Download Any Book**    
 - [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
 - [libgen.li](https://libgen.li/)  
-- [z-lib](https://z-lib.gs/)  
+- [z-lib][https://z-lib.id/)  
 - [archive.org](https://archive.org/)  
 - [openlibrary](https://openlibrary.org/)  
 - [magazinelib](https://magazinelib.com/) - magazines
@@ -640,7 +641,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Currency and Metals  
 
-- [sigmametalytics](https://www.sigmametalytics.com/) - Protect your investments 
+- [sigmametalytics](https://www.sigmametalytics.com/) - Protect your investments
+- [Coin USA](https://www.coin-usa.com/) - custom made coins
 - [jmbullion](https://www.jmbullion.com/)  
 - [sdbullion](https://sdbullion.com/)  
 - [monumentmetals](https://monumentmetals.com/)  
