@@ -271,14 +271,28 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **AI Conversational and Text**  
 - [ChatGPT](https://openai.com/index/chatgpt/) - OpenAI's AI Conversational Software  
-- [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine  
+- [Perplexity](https://www.perplexity.ai/) - AI Conversational Search Engine
+- [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)
+- [Z.ai](https://chat.z.ai/)
+- [Kimi](https://www.kimi.com/)   
 - [Grok](https://x.ai/) - AI Software led by Elon Musk  
 - [Deepseek](https://www.deepseek.com/) - AI Search Engine From China  
 - [Claude](https://claude.ai/) - AI writing assistant
 - [phind](https://www.phind.com/) 
 - [Vetted](https://vetted.ai/) - AI shopping assistant  
 - [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot  
-- [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources  
+- [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources
+
+**Video Generation**    
+- [Grok Imagine](https://grok.com/imagine)
+
+**Image Generation**
+- [lmarena](https://lmarena.ai/)
+- [Google Imagen](https://aistudio.google.com/prompts/new_image)
+- [Bing Images](https://www.bing.com/images/create)
+- [PigenAI](https://www.pigenai.art/)
+- [Dreamina](https://dreamina.capcut.com/ai-tool/home)
+- [Vheer](https://vheer.com/)   
 
 **AI Tools**  
 - [thebricks](https://www.thebricks.com/) - AI Spreadsheet
@@ -1405,7 +1419,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **APPS FOR YOUR DEVICES**  
 
-**[Stremio](https://www.stremio.com/)**  
+**[Stremio](https://www.stremio.com/)**     
+- [Debridio](https://debridio.com/) -  enhances your media experience by offering seamless integration with debrid services***
 
 **Addon Collection for Stremio**  
 - [Stremio Addons](https://stremio-addons.com/) - collections of addons  
@@ -2146,8 +2161,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Windows 11 Perfect Install](https://christitus.com/windows-11-perfect-install/) - debloat Windows  
 - [Rufus](https://rufus.ie/en/) - create bootable USBs the easy way  
 
-**Microsoft Office Activation**
-- [Microsoft Office 365 Activation Script](https://github.com/abbodi1406/KMS_VL_ALL_AIO)  
+**Windows & Microsoft Office Activation**
+- [Microsoft Office 365 Activation Script](https://github.com/abbodi1406/KMS_VL_ALL_AIO)       
+- [MAS](https://github.com/seeumail/OfficeRTool)       
 
 ## World Data  
 
