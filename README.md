@@ -1368,31 +1368,29 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Movies and TV  
 
-**Movies**  
-- [musichq](https://www4.musichq.net/)  
-- [moviefire](http://moviefire.net/) - download movies & tv shows  
-- [oomoye](https://oomoye.guru/) - download movies  
+**Movies**    
 - [anymovies](https://www.downloads-anymovies.co/) - download movies  
-- [hhdmovies](https://hhdmovies.skin/)  
-- [123-movies](https://www.123-movies.gdn/)
-- [mkvcinemas](https://mkvcinemas.kim/)
-- [vegamovies](https://vegamovies.cr/)
+- [123-movies](https://ww8.123moviesfree.net/)
+- [vegamovies](https://vegamovies.paris/)
 - [cinemaos](https://cinemaos.live/) **
 - [moviemaze](https://moviemaze.cc/) **
 - [a.111477](https://a.111477.xyz/) ** 
-- [freek](https://freek.to/)
 - [cineby](https://www.cineby.app/)
 - [xprime](https://xprime.tv/)
-- 
-- [vadapav](https://vadapav.mov/) 
+- [rivestream](https://rivestream.org/)
+- [corsflix](https://watch.corsflix.net/)
+- [aether](https://aether.mom/)
+- [veloratv](https://veloratv.ru/)
+- [456movie](https://456movie.net/)
+- [flickystream](https://flickystream.ru/)
+- [cinemora](https://cinemora.ru/)
+- [cinegram](https://cinegram.net/)
+- [spenflix](https://watch.spencerdevs.xyz/) 
+- [fmovies](https://www.fmovies.gd/)
+- [xprime](https://xprime.today/)  
 - [supernova](https://supernova.to/) - watch movies & shows/download
-- [olgply](https://olgply.com/) - movies & tv shows
-- [supernova](https://supernova.to/) 
-- [osee.in](https://osee.in/) - movies  
 - [einthusan](https://einthusan.tv/intro/) - indian  
-- [soap2day](https://soap2day.to/) - movies and tv shows  
 - [justwatch](https://www.justwatch.com/)  
-- [squeezebox](https://movie.squeezebox.dev/#/search/movie)  
 - [TVpass](https://tvpass.org/)
 
 **TV Shows**  
