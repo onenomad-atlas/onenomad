@@ -356,6 +356,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Audio and Music
 
+**Download Audio**
+- [lucida](https://lucida.to/)
+- [squid](https://squid.wtf/)
+- [yams](https://yams.tf/)
+- [yt](https://ytiz.xyz/)
+- [flvto](https://flvto.click/)
+- [ytmp3.cc](https://ytmp3.ai/) - YouTube to MP3 downloader 
 - [tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another  
 - [soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another
 - [wemor](https://wemor.vercel.app/) - Transfer your Spotify playlists to YouTube Music seamlessly
@@ -365,7 +372,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [NewPipe](https://newpipe.net/) - Android
 - [ytiz](https://ytiz.xyz/) - mp3 converter
 - [doubledouble](https://doubledouble.top/) - Download music directly from Amazon Music, Soundcloud, Qobuz, Deezer and Tidal for free
-- [ytmp3.cc](https://ytmp3.cc/) - YouTube to MP3 downloader  
 - [y2mate.is](https://y2mate.is/) - YouTube to MP4 downloader
 - [yt-dlp](https://github.com/yt-dlp) 
 - [vocalremover](https://vocalremover.org/) - Vocal Remover and Isolation  
@@ -835,13 +841,21 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Education and Courses
 
-- [Khan Academy](https://www.khanacademy.org/)  
+- [Khan Academy](https://www.khanacademy.org/)
+- [classcentral](https://www.classcentral.com/)  
+- [mit](https://ocw.mit.edu/)  
 - [edX](https://www.edx.org/)  
 - [Harvard Free Courses](https://pll.harvard.edu/catalog/free)  
 - [Stanford Free Courses](https://online.stanford.edu/free-courses)  
 - [Coursera Free Courses](https://www.coursera.org/courses?query=free)  
 - [CORE](https://core.ac.uk/)  
-- [arXiv](https://arxiv.org/)  
+- [arXiv](https://arxiv.org/)
+
+**Premium Courses**
+- [tutflix](https://tutflix.org/)
+- [onehack](https://onehack.us/)
+- [hacksnation](https://hacksnation.com/)
+- [1337x](https://1337x.to/sub/34/0/)     
 
 **AI Tool**    
 - [Atlas](https://www.atlas.org/) - Study, write, and solve faster with the most accurate AI for school  
@@ -2169,7 +2183,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Windows & Microsoft Office Activation**
 - [Microsoft Office 365 Activation Script](https://github.com/abbodi1406/KMS_VL_ALL_AIO)       
-- [MAS](https://github.com/seeumail/OfficeRTool)       
+- [MAS](https://github.com/seeumail/OfficeRTool)
+
+**Download OS**
+- [Massgrave](https://massgrave.dev/genuine-installation-media.html)
+- [OS.click](https://os.click/en)
+- [files.rg](https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5)   
 
 ## World Data  
 
