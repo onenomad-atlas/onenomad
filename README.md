@@ -1630,6 +1630,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Piracy
 
 - [champagne](https://champagne.pages.dev/)
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy)         
 
 
 ## Privacy
@@ -1662,11 +1663,16 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting)  
 - [thehackernews](https://thehackernews.com/) - #1 Trusted Source for Cybersecurity News
 
+**VPN Server**     
+- [wireguard](https://www.wireguard.com/)
+- [tailscale](https://tailscale.com/)
+- [openvpn](https://openvpn.net/)
+- [twingate](https://www.twingate.com/)  
+
 **Other Tools & Devices**    
 - [ipfs](https://ipfs.io/)  
 - [syncthing](https://syncthing.net/)  
 - [puri.sm](https://puri.sm/)  
-- [tailscale](https://tailscale.com/)  
 - [Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
 - [deflock](https://deflock.me/) - you're being tracked
 - [eyesonflock](https://eyesonflock.com/) - Aggregating Flock Safety Transparency Portal Data
