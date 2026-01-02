@@ -1293,7 +1293,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Roopkalsarees](http://roopkalsarees.com/)  
 - [Seasonsindia](http://seasonsindia.com/)  
 - [Manyavar](http://manyavar.com/)  
-- [Tirumala Designers](https://tirumaladesigners.in)  
+- [Tirumala Designers](https://tirumaladesigners.in)
+- [shobitam](https://shobitam.com/)
+- [g3fashion](https://g3fashion.com/en-us)
+- [samyakk](https://www.samyakk.com/)     
 
 **Indian Construction Companies**  
 - [Oberoi](https://www.oberoirealty.com/)  
