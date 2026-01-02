@@ -197,7 +197,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [codedex](https://www.codedex.io/) - start your coding adventure    
 - [roadmap](https://roadmap.sh/) - community effort to create roadmaps, guides and other educational content  
 - [hacksplaining](https://www.hacksplaining.com/)
-- [Visual Studio](https://code.visualstudio.com/)  
+- [Visual Studio](https://code.visualstudio.com/)
+- [codedex](https://www.codedex.io/)      
 
 
 ## Apparel
@@ -537,7 +538,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Other** 
 - [clay](https://clay.earth/) - manage all your personal and professional relationships  
-- [dex](https://getdex.com/) - one place for all your relationships  
+- [dex](https://getdex.com/) - one place for all your relationships
+- [franzy](https://franzy.com/) - Find your perfect franchise
 - [pietrastudio](https://www.pietrastudio.com/) - all-in-one tool to build your business  
 - [homebase](http://www.joinhomebase.com/) - manage your work schedules, time clock, payroll, HR & more  
 - [revenuecat](https://www.revenuecat.com/) - build and grow your subscription business  
@@ -1230,6 +1232,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [britishpathe](https://www.britishpathe.com/) - Explore the world's finest newsreel archives.  
 - [archive](https://archive.org/) - search the digital archive  
 - [archives](https://www.archives.gov/) - search the national digital archive & records
+- [funes](https://funes.world/) - Preserve Our Physical World Together    
 
 ## Home
 
@@ -1475,7 +1478,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [OpenStreetMap](https://www.openstreetmap.org/) - map of the world  
 - [Magic Earth](https://www.magicearth.com/) - free maps & navigation
 - [Earth](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/orthographic=-80.18,29.85,714/loc=85.612,30.115) - a global map of wind, weather, and ocean conditions
-- [True Size](https://www.thetruesize.com/) - find the true size of your country  
+- [True Size](https://www.thetruesize.com/) - find the true size of your country
+- [city roads](https://anvaka.github.io/city-roads/) - website renders every single road within a city     
 
 ## Networking and Storage  
 
@@ -2107,7 +2111,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [NSA](https://www.nsa.gov/) - National Security Agency  
 - [LOC](https://www.loc.gov/) - Library of Congress  
 - [NOAA](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration  
-- [USPTO](https://www.uspto.gov/) - United States Patent and Trademark Office  
+- [USPTO](https://www.uspto.gov/) - United States Patent and Trademark Office
+- [SAM](https://sam.gov/) - Official U.S. Government System for wage, contracting, and other   
 
 **Apparel**    
 - [rangerjoes](https://rangerjoes.com/)  
