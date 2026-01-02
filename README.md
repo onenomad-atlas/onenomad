@@ -877,11 +877,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Teleparty](https://www.teleparty.com/) - Watch TV together  
 - [Before I Play](https://beforeiplay.com/index.php?title=Main_Page) - Tells you things before you play the game  
 - [EmuOS](https://emupedia.net/beta/emuos/) - Old Windows OS emulator  
-- [FutureMe](https://www.futureme.org/) - Write a letter to your future self  
+- [FutureMe](https://www.futureme.org/) - Write a letter to your future self
+- [WS Game Company](https://www.wsgamecompany.com/) - premium editions of iconic games
 - [TasteAtlas](https://www.tasteatlas.com/) - Discover local ingredients, traditional dishes & authentic restaurants  
 - [Atlas Obscura](https://www.atlasobscura.com/) - Explore the world’s hidden wonders  
 - [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes
 - [Line Rider](https://www.linerider.com/)
+- [lostgamer](https://lostgamer.io/) - Get Lost in the Worlds You Love   
 - [autodraw](https://www.autodraw.com/)
 - [z2u](https://www.z2u.com/) - favorite marketplace for game services & products 
 - [Silk](http://weavesilk.com/) - interactive generative art     
@@ -1251,6 +1253,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products  
 - [Vornado](https://www.vornado.com/) - revolutionizing home comfort  
 - [doitbest](https://www.doitbest.com/) - local hardware store
+- [tuolife](https://www.thetuolife.com/) - Circadian Healthy Light   
 
 **Alarm**    
 - [cove](https://www.covesmart.com/)  
@@ -1296,7 +1299,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Tirumala Designers](https://tirumaladesigners.in)
 - [shobitam](https://shobitam.com/)
 - [g3fashion](https://g3fashion.com/en-us)
-- [samyakk](https://www.samyakk.com/)     
+- [samyakk](https://www.samyakk.com/)
+- [koranm](https://koranm.com/)   
 
 **Indian Construction Companies**  
 - [Oberoi](https://www.oberoirealty.com/)  
@@ -1529,7 +1533,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [bypass-paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean#installation) - bypass paywalls
 - [burles](http://burles.co/en/) - Read news without subscribing, bypass the paywall
 - [archivebuttons](https://www.archivebuttons.com/) - Free Paywall Remover
-- [removepaywall](https://www.removepaywall.com/)   
+- [removepaywall](https://www.removepaywall.com/)
+- [smry](https://www.smry.ai/)    
 
 **Bypass Medium's Paywall**
 - [medium-parser](https://github.com/Xatta-Trone/medium-parser-extension?tab=readme-ov-file) - allows you to read members-only articles on medium  
