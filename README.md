@@ -73,10 +73,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [📖 Read it Later](#read-it-later)
 - [🏠 Real Estate](#real-estate) 
 - [🍽️ Recipes](#recipes)
-- [🔴 Reddit](#reddit) 
 - [📦Shipping](#shipping)  
 - [🛍️ Shopping and Products](#shopping-and-products)  
-- [🏠 Smart Home](#smart-home)  
+- [🏠 Smart Home](#smart-home)
+- [🔴 Social](#social) 
 - [⚽ Sports](#sports)  
 - [💡 Startup Investment and Crowdfunding](#startup-investment-and-crowdfunding)  
 - [🖥️ Tech](#tech)  
@@ -230,6 +230,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [mackweldon](https://mackweldon.com/)  
 - [everlane](https://www.everlane.com/)  
 - [thenormalbrand](https://thenormalbrand.com/)
+- [muji](https://www.muji.us/collections/apparel) - japanese, high-quality 
 - [edikted](https://edikted.com/) - womens' clothing
 
 **Outerwear**  
@@ -284,6 +285,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot  
 - [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources
 
+**AI Voice Generator**
+- [Murf](https://murf.ai/)
+- [Eleven Labs](https://elevenlabs.io/) - most realistic voice AI platform
+- [Unreal Speech](https://unrealspeech.com/) - Fast & Affordable Text-to-Speech API      
+
 **Video Generation**    
 - [Grok Imagine](https://grok.com/imagine)
 
@@ -300,9 +306,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
 - [databricks](https://www.databricks.com/) 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+- [rocket](https://www.rocket.new/) - build production ready apps    
 - [twaingpt](https://www.twaingpt.com/) - humanize your writing
 - [replit](https://replit.com/) - Turn your ideas into apps 
 - [weavy](https://www.weavy.ai/) - Turn your creative vision into scalable workflows
+- [flora ai](https://www.florafauna.ai/) - every creative ai tool, connected     
 - [wisprflow](https://wisprflow.ai/) - Seamless speech-to-text in every application on your iPhone or computer
 - [Hugging Face](https://huggingface.co/) - the AI community building the future  
 - [voicenotes](https://voicenotes.com/?via=website)
@@ -491,7 +499,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [onyxbook](https://onyxboox.com/)  
 - [remarkable](https://remarkable.com/)  
 - [kobo](https://www.kobo.com/us/en)  
-- [boox](https://shop.boox.com/)  
+- [boox](https://shop.boox.com/)
+- [xteink](https://www.xteink.com/products/xteink-x4)      
 
 
 
@@ -537,8 +546,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [govdeals](https://www.govdeals.com/en) 
 
 **Other** 
-- [clay](https://clay.earth/) - manage all your personal and professional relationships  
-- [dex](https://getdex.com/) - one place for all your relationships
+- [clay](https://clay.eth/) - manage all your personal and professional relationships  
+- [dex](https://getdex.com/) - one place for all your relationships   
 - [franzy](https://franzy.com/) - Find your perfect franchise
 - [pietrastudio](https://www.pietrastudio.com/) - all-in-one tool to build your business  
 - [homebase](http://www.joinhomebase.com/) - manage your work schedules, time clock, payroll, HR & more  
@@ -665,6 +674,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 - [sigmametalytics](https://www.sigmametalytics.com/) - Protect your investments
 - [Coin USA](https://www.coin-usa.com/) - custom made coins
+- [Find Bullion Prices](https://findbullionprices.com/) - Find the best prices on gold and silver bullion coins, bars and rounds
 - [jmbullion](https://www.jmbullion.com/)  
 - [sdbullion](https://sdbullion.com/)  
 - [monumentmetals](https://monumentmetals.com/)  
@@ -679,7 +689,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [texasdepository](https://texasdepository.com/) - World Class Vaulting
 - [United Kingdom Mint](https://www.royalmint.com/)  
 - [Canadian Mint](https://www.mint.ca/store/template/home.jsp)  
-- [Switzerland Mint](https://www.swissmint.ch/en)  
+- [Switzerland Mint](https://www.swissmint.ch/en)
+- [Germania Mint](https://germaniamint.com/)    
 - [France Mint](https://www.monnaiedeparis.fr/fr)  
 - [Australian Mint](https://www.ramint.gov.au/)  
 - [Perth Mint](https://www.perthmint.com/) - Australian Mint  
@@ -732,7 +743,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [lwks](https://lwks.com/) - video editing  
 - [canva](http://www.canva.com/)  
 - [pixlr](http://www.pixlr.com/)
+- [Opal](https://opal.google/landing/) - Build, edit, and share AI mini-apps using natural language    
+- [animejs](https://animejs.com/) - All-in-one animation engine
+- [solidworks](https://www.solidworks.com/) - The Solution for 3D CAD, Design and Product Development
 - [gimp](https://www.gimp.org/)
+- [content core](https://contentcore.xyz/) - 3D Mockups     
 - [21st.dev](https://21st.dev/home) -  the best way to create UI components
 - [jitter](https://jitter.video/)  
 - [photopea](https://www.photopea.com/)    
@@ -815,7 +830,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Text to Speech Reader**  
 - [Speechify](https://speechify.com/)  
-- [Voicepal](https://voicepal.org/)  
+- [Voicepal](https://voicepal.org/)
+- [unrealspeech](https://unrealspeech.com/) - Text to Speech API     
 - [SpeechCentral](https://speechcentral.net/) - The world-leading text-to-speech AI app  
 - [Eleven Labs](https://elevenlabs.io/text-to-speech)  
 
@@ -852,6 +868,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Coursera Free Courses](https://www.coursera.org/courses?query=free)  
 - [CORE](https://core.ac.uk/)  
 - [arXiv](https://arxiv.org/)
+- [Google Skills](https://www.skills.google/) - Build AI skills for tomorrow, today     
 
 **Premium Courses**
 - [tutflix](https://tutflix.org/)
@@ -885,6 +902,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Atlas Obscura](https://www.atlasobscura.com/) - Explore the world’s hidden wonders  
 - [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes
 - [Line Rider](https://www.linerider.com/)
+- [drifted](https://www.drifted.com/)     
 - [lostgamer](https://lostgamer.io/) - Get Lost in the Worlds You Love   
 - [autodraw](https://www.autodraw.com/)
 - [z2u](https://www.z2u.com/) - favorite marketplace for game services & products 
@@ -1155,7 +1173,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Tech**  
 - [ouraring](https://ouraring.com/)  
 - [owogame](https://owogame.com/)  
-- [Nimo Smart Glasses](https://www.nimoplanet.com/)  
+- [Nimo Smart Glasses](https://www.nimoplanet.com/)
+- [RayNeo](https://www.rayneo.com/)    
 - [Actronika](https://www.actronika.com/)  
 - [magicleap](https://www.magicleap.com/)  
 - [lightyear.one](https://lightyear.one/)
@@ -1303,7 +1322,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [shobitam](https://shobitam.com/)
 - [g3fashion](https://g3fashion.com/en-us)
 - [samyakk](https://www.samyakk.com/)
-- [koranm](https://koranm.com/)   
+- [koranm](https://koranm.com/)
+- [seema gujral](https://seemagujral.com/)
+- [aari](https://aariindia.com/store/)     
 
 **Indian Construction Companies**  
 - [Oberoi](https://www.oberoirealty.com/)  
@@ -1656,7 +1677,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 ## Piracy
 
 - [champagne](https://champagne.pages.dev/)
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy)         
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+- [download pirate](https://www.downloadpirate.com/)      
 
 
 ## Privacy
@@ -1794,15 +1816,6 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Vidcook](https://vidcook.net/) - stop wasting time watching cooking videos  
 - [Recipescal](https://recipescal.com/) - random recipe generator
 
-## Reddit 
-
--  [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
--  [r/BuyItForLife](https://www.reddit.com/r/BuyItForLife/) 
-
-**Threads**
-- [What free software is so good you can't believe it's actually available for free?](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
-- [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) 
-
 ## Shipping
 
 - [Freightos](https://www.freightos.com/)  
@@ -1844,7 +1857,20 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Technology**  
 - [Zigbee](https://csa-iot.org/all-solutions/zigbee/)  
 - [Matter](https://csa-iot.org/all-solutions/matter/)  
-- [Aliro](https://csa-iot.org/all-solutions/aliro/)    
+- [Aliro](https://csa-iot.org/all-solutions/aliro/)
+
+## Social 
+
+**Reddit Channels**
+-  [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+-  [r/BuyItForLife](https://www.reddit.com/r/BuyItForLife/)     
+
+**Reddit Threads**
+- [What free software is so good you can't believe it's actually available for free?](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
+- [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
+
+**Discord** 
+- [Disboard](https://disboard.org/) - discover discord channels     
 
 ## Sports
 
@@ -1932,7 +1958,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Hilti](https://www.hilti.com/)
 - [hychika](https://hychika.com/)   
 - [rubi](https://www.rubi.com/us)
-- [corona](https://coronatools.com/)     
+- [corona](https://coronatools.com/)
+- [leatherman](https://www.leatherman.com/)      
 
 **Knife Sharpener**  
 - [speedysharp](https://www.speedysharp.com/)  
