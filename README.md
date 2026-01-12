@@ -1883,7 +1883,18 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [firstrowsportș](https://xn--firstrowsport-8xe.eu/)  
 - [livetv](http://livetv.sx/)  
 - [streamed](https://streamed.su/)  
-- [sportsurge](https://v2.sportsurge.net/home5/)  
+- [sportsurge](https://v2.sportsurge.net/home5/)
+- [timstreams](https://timstreams.site/)
+- [streameast](https://v2.streameast.ga/)
+- [moviebite](https://sports.moviebite.cc/)
+- [bintv](https://www.bintv.fun/)
+- [ppv](https://ppv.to/)
+- [dlhd](https://dlhd.link/)
+- [sport71](https://beta.sport71.pro/)
+- [watchfooty](https://www.watchfooty.st/en)
+- [ntvstream](https://ntvstream.cx/)
+- [watchsports](https://watchsports.to/)
+- 
 
 ## Startup Investment and Crowdfunding
 
