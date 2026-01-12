@@ -1894,7 +1894,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [watchfooty](https://www.watchfooty.st/en)
 - [ntvstream](https://ntvstream.cx/)
 - [watchsports](https://watchsports.to/)
-- 
+- [sportyhunter](https://sportyhunter.com/)    
 
 ## Startup Investment and Crowdfunding
 
