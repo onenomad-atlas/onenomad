@@ -237,7 +237,10 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [northface](https://www.thenorthface.com/)  
 - [patagonia](https://www.patagonia.com/home/)  
 - [backcountry](https://www.backcountry.com/)  
-- [rei](https://www.rei.com/)  
+- [rei](https://www.rei.com/)
+- [merrell](https://www.merrell.com/)
+- [salomon](https://www.salomon.com/en-us)
+- [better trail](https://bettertrail.com/)     
 
 **Other**  
 - [alphabroder](http://www.alphabroder.com/) - Wholesale  
