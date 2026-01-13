@@ -220,7 +220,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [mango](https://shop.mango.com/us)  
 - [zara](https://www.zara.com/us/)  
 - [charlestyrwhitt](https://www.charlestyrwhitt.com/)     
-- [Todd Snyder](https://www.toddsnyder.com/)     
+- [Todd Snyder](https://www.toddsnyder.com/)
+- [mack weldon](https://mackweldon.com/)
+- [marc o polo](marc-o-polo.com/en-us)     
 
 **Lifestyle**  
 - [billabong](https://www.billabong.com/mens/)  
@@ -231,7 +233,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [everlane](https://www.everlane.com/)  
 - [thenormalbrand](https://thenormalbrand.com/)
 - [muji](https://www.muji.us/collections/apparel) - japanese, high-quality 
-- [edikted](https://edikted.com/) - womens' clothing
+- [edikted](https://edikted.com/) - womens' clothing   
 
 **Outerwear**  
 - [northface](https://www.thenorthface.com/)  
@@ -240,7 +242,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [rei](https://www.rei.com/)
 - [merrell](https://www.merrell.com/)
 - [salomon](https://www.salomon.com/en-us)
-- [better trail](https://bettertrail.com/)     
+- [better trail](https://bettertrail.com/)
+- [goruck](https://www.goruck.com/)
+- [aclima](https://www.aclima.com/en-dk)
+- [firstlite](https://firstlite.com/)
+- [kuiu](https://www.kuiu.com/)        
 
 **Other**  
 - [alphabroder](http://www.alphabroder.com/) - Wholesale  
@@ -287,6 +293,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Vetted](https://vetted.ai/) - AI shopping assistant  
 - [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot  
 - [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources
+- [LMArena](https://lmarena.ai/?mode=direct)     
 
 **AI Voice Generator**
 - [Murf](https://murf.ai/)
@@ -521,7 +528,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Clover](https://www.clover.com/)  
 - [lightspeed](https://www.lightspeedhq.com/)
 - [lemonsqueezy](https://www.lemonsqueezy.com/)
-- [paddle](https://www.paddle.com/) - Put your billing operations on autopilot  
+- [paddle](https://www.paddle.com/) - Put your billing operations on autopilot
+- [Korona POS](https://koronapos.com/)     
 
 
 **For Creators & Selling Digital Products**
@@ -561,6 +569,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [indoorway](https://www.indoorway.com/) - provides real-time location system
 - [swipefile](https://swipefile.com/) - marketing inspiration 
 - [chatfuel](https://chatfuel.com/) - automate workflow
+- [Cogency Global](https://www.cogencyglobal.com) -  representation and corporate compliance services from professionals who are proven industry leaders     
 - [getwherewolf](https://getwherewolf.com/) - Capture Waivers, Drive Bookings, Automate Reviews
 - [oceanstalent](https://www.oceanstalent.com/) - Hire proactive global talent for your team 
 - [openphone](https://www.openphone.com/) - phone system for growing customer relationships
@@ -1278,7 +1287,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products  
 - [Vornado](https://www.vornado.com/) - revolutionizing home comfort  
 - [doitbest](https://www.doitbest.com/) - local hardware store
-- [tuolife](https://www.thetuolife.com/) - Circadian Healthy Light   
+- [tuolife](https://www.thetuolife.com/) - Circadian Healthy Light
+- [singer](https://www.singer.com/) - sewing equipment     
 
 **Alarm**    
 - [cove](https://www.covesmart.com/)  
@@ -1314,6 +1324,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Photoscan](https://www.google.com/photos/scan/) - Photos from the past, meet scanner from the future  
 - [photoroom](https://www.photoroom.com/) - AI Photo Editor
 - [remove](https://www.remove.bg/) - remove background
+- [Pro Image Tool](https://proimagetool.com/?i=2) - Online Image Resizer Free     
 
 ## India  
 
@@ -1327,7 +1338,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [samyakk](https://www.samyakk.com/)
 - [koranm](https://koranm.com/)
 - [seema gujral](https://seemagujral.com/)
-- [aari](https://aariindia.com/store/)     
+- [aari](https://aariindia.com/store/)
+- [Raymond](https://rr.myraymond.com/) - suits & formal wear      
 
 **Indian Construction Companies**  
 - [Oberoi](https://www.oberoirealty.com/)  
@@ -1503,7 +1515,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Magic Earth](https://www.magicearth.com/) - free maps & navigation
 - [Earth](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/orthographic=-80.18,29.85,714/loc=85.612,30.115) - a global map of wind, weather, and ocean conditions
 - [True Size](https://www.thetruesize.com/) - find the true size of your country
-- [city roads](https://anvaka.github.io/city-roads/) - website renders every single road within a city     
+- [city roads](https://anvaka.github.io/city-roads/) - website renders every single road within a city
+- [soar](https://soaratlas.com/discover) - highlighting new discoveries, creative works, and the world as it’s being mapped today     
 
 ## Networking and Storage  
 
@@ -1554,7 +1567,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [hacker news](https://news.ycombinator.com/) - tech  
 - [Lifehacker](https://lifehacker.com/) - do everything better
 - [Read Something Interesting](https://readsomethinginteresting.com/)
-- [harpers index](https://harpers.org/harpers-index/) 
+- [harpers index](https://harpers.org/harpers-index/)
+- [all you can read](https://www.allyoucanread.com/)
+- [spike](https://spike.news/)     
 
 **Bypass News Sites' Paywalls**  
 - [archive](https://archive.is/) - time capsule for web pages  
