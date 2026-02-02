@@ -742,6 +742,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 ## Design and Creativity  
 - [React Development Tips and Code Snippets](https://reactbits.dev/)
+- [React Development Tips and Code Snippets](https://reactbits.dev/)
 
 **Design & Creative Studios**
 - [madebyapricot](https://www.madebyapricot.com/)
