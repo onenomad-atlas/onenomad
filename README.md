@@ -101,7 +101,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Personal Capital](https://www.personalcapital.com/) - Online financial advisor and personal wealth management company  
 - [Monarch Money](https://www.monarchmoney.com/) - The modern way to manage money  
 - [Quicken](https://www.quicken.com/)  
-- [NetSuite](https://www.netsuite.com/portal/home.shtml?noredirect=T)   
+- [NetSuite](https://www.netsuite.com/portal/home.shtml?noredirect=T)
+- [Budget Tracking Spreadsheet Tool](https://themeasureofaplan.com/budget-tracking-tool/)        
 
 ## Africa      
 - [jumia](https://group.jumia.com/) - The Leading E-commerce Platform in Africa    
@@ -148,7 +149,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [tvtap](https://tvtap-pro.net/) - Live TV  
 - [livenettv](https://www.livenettv.vip/) - Live TV    
 - [Modyolo](https://modyolo.com/) - modded apps    
-- [Liteapks](https://liteapks.com/) - modded apps    
+- [Liteapks](https://liteapks.com/) - modded apps
+- [RockMods — Modded Apps and Games](https://www.rockmods.net/)        
 - [TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
 
 
@@ -169,6 +171,17 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [same](https://same.new/) - copy any UI     
 - [Zoo](https://zoo.dev/) - creates infrastructure for hardware design
 - [Windsurf](https://windsurf.com/) - AI Editor
+- [Pencil — Design to Code Tool](https://www.pencil.dev/)
+- [Compound Engineering Plugin for Every](https://github.com/EveryInc/compound-engineering-plugin)
+- [Kiro — Agentic AI Development Tool](https://kiro.dev/)
+- [Base44 — Build Apps with AI Quickly](https://base44.com/lp-en)
+- [shadcn/ui — Design System Component Library](https://ui.shadcn.com/)
+- [Sociavore — Restaurant Website Builder](https://www.sociavore.co/)
+- [Toolbrew — Developer Tool Manager](https://toolbrew.org/)
+- [Toolbrew Commands Reference](https://toolbrew.org/commands)
+- [Emergent — Build Apps with AI](https://app.emergent.sh/landing/)
+- [shadcn GitHub Topics and Projects](https://github.com/topics/shadcn)
+- [Stack Overflow — Newest Questions Feed](https://stackoverflow.com/questions)
 
 **Web Platforms**   
 - [carrd](http://www.carrd.co/)  
@@ -322,6 +335,40 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [weavy](https://www.weavy.ai/) - Turn your creative vision into scalable workflows
 - [flora ai](https://www.florafauna.ai/) - every creative ai tool, connected     
 - [wisprflow](https://wisprflow.ai/) - Seamless speech-to-text in every application on your iPhone or computer
+- [Run Large Language Models on Consumer GPUs](https://github.com/lyogavin/airllm)
+- [Get Shit Done — AI Productivity Agent](https://github.com/glittercowboy/get-shit-done)
+- [Agent37 — AI Skills Directory with Ratings](https://www.agent37.com/skills?minStars=10)
+- [ElizaOS — AI Agent Framework Documentation](https://docs.elizaos.ai/)
+- [Agent Skills Directory](https://skills.sh/)
+- [Firecrawl — Web Scraping API for AI](https://www.firecrawl.dev/)
+- [Twin — AI Company Builder Platform](https://twin.so/)
+- [Turix — AI Assistant Platform](https://turix.ai/)
+- [Moltbook — Agent Internet Front Page](https://www.moltbook.com/)
+- [Blackbox AI — Code Generation Assistant](https://www.blackbox.ai/)
+- [OpenCode — Open Source AI Coding Agent](https://opencode.ai/)
+- [SkillsMP — Agent Skills Marketplace](https://skillsmp.com/)
+- [Gemini CLI Extensions](https://geminicli.com/extensions/)
+- [Kimi AI — Kimi K2 Thinking Model](https://www.kimi.com/en)
+- [Airia — Enterprise AI Platform](https://airia.com/)
+- [Nathan Hodgson's AI Guides Notion Page](https://nathanhodgson.notion.site/AI-Guides-15ddef00ae63804c9ef7c5cfcea6fe67)
+- [Variant AI Platform](https://variant.ai/)
+- [Arcads — AI-Generated Ad Creation](https://www.arcads.ai/?via=hung-truong&gad_source=1&gad_campaignid=23424007399&gbraid=0AAAABCFFkr4cNDv38IgfHagkB1AfMpfU2&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7hC3wIh9ejp3pJvJ9EeAPYF1-mr8c1gazS80n-LAq4zphg-BYns5EMaAkYeEALw_wcB)
+- [Project Genie — Google Labs Experiment](https://labs.google/projectgenie)
+- [Everything Claude Code — Tips and Resources](https://github.com/affaan-m/everything-claude-code)
+- [ComfyUI — AI Video and Image Generation](https://www.comfy.org/)
+- [Moltbot — Personal AI Assistant](https://molt.bot/)
+- [Awesome Clawdbot Skills Collection](https://github.com/VoltAgent/awesome-clawdbot-skills)
+- [NVIDIA PersonaPlex 7B Language Model](https://huggingface.co/nvidia/personaplex-7b-v1)
+- [Claude Code with Ollama API Compatibility](https://ollama.com/blog/claude)
+- [SkillsMP — Agent Skills Marketplace (2)](https://skillsmp.com/)
+- [TestMu AI — AI Testing Platform](https://www.testmu.ai/)
+- [Endex AI — Spreadsheet Navigation Tool](https://endex.ai/#Sheet%20Navigation)
+- [Z.ai Chat — Free AI Chatbot](https://chat.z.ai/)
+- [Craft Agents — AI Agent Builder](https://agents.craft.do/)
+- [ElizaOS Documentation Overview (2)](https://docs.elizaos.ai/)
+- [SkillsMP — Claude and ChatGPT Skills (3)](https://skillsmp.com/)
+- [Cursor — AI-Powered Code Editor](https://cursor.com/home?from=agents&utm_source=google&utm_campaign=[Static]_New_Search_Brand_[B2C]_[Brand]_[Desktop]&utm_term=cursor&utm_creative=&utm_medium=cpc&utm_content=794582651986&cc_platform=google&cc_campaignid=23497968921&cc_adgroupid=190955133574&cc_adid=794582651986&cc_keyword=cursor&cc_matchtype=b&cc_device=m&cc_network=g&cc_placement=&cc_location=1026730&cc_adposition=&gad_source=1&gad_campaignid=23497968921&gbraid=0AAAABAkdGgTSWD60vfH7VvhkGcX10qXis&gclid=CjwKCAiAv5bMBhAIEiwAqP9GuBYASoai6GdZMJwbH3d11oXi7bb2oV7dqjgDH1QZbM1WUhjwIQ0vdxoCIEsQAvD_BwE)
+- [Claude Code Agent Teams and Kimi Swarm](https://pub.towardsai.net/inside-claude-codes-agent-teams-and-kimi-k2-5-s-agent-swarm-0106f2467bd2)
 - [Hugging Face](https://huggingface.co/) - the AI community building the future  
 - [voicenotes](https://voicenotes.com/?via=website)
 - [Prospect](https://www.prospectai.co/) - find leads with contact info with AI
@@ -370,7 +417,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [liveauctioneers](https://www.liveauctioneers.com/) - One-of-a-kind art, antiques & luxury goods   
 - [sothebys](https://www.sothebys.com/en/) - world’s premier destination for art and luxury   
 - [rmsothebys](https://rmsothebys.com) - luxury cars for auction
-- [nellisauction](https://www.nellisauction.com/) - overstock auction 
+- [nellisauction](https://www.nellisauction.com/) - overstock auction
+- [HiBid — Live and Online Auctions in Texas](https://texas-s.hibid.com/)
 
 
 ## Audio and Music
@@ -399,6 +447,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [image-line](https://www.image-line.com/) - FL Studio  
 - [audacity](https://www.audacityteam.org/) - Audio editor  
 - [cobalt.tools](https://cobalt.tools/) - Download music & video from any site
+- [Cobalt — Media Download Tool](https://cobalt.tools/)
+- [Artlist — Generative AI Tools for Creators](https://artlist.io/)
+- [yt-dlp — Video Downloader Installation Guide](https://github.com/yt-dlp/yt-dlp/wiki/Installation#with-pip)
   
 
 ## Aviation and Vessel Tracker  
@@ -427,6 +478,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [rawsugarliving](https://rawsugarliving.com/)  
 - [method](https://methodproducts.com/)
 - [houseofsoap](https://houseofsoap.com/) - Lebanon
+- [Wholesale Goat Milk Soap Loaves](https://thesoapguy.com/wholesale-soap-loaves/goat-milk-soap-loaves)
 
 
 
@@ -495,8 +547,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Search and Download Any Book**    
 - [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
-- [libgen.li](https://libgen.li/)  
-- [z-lib][https://z-lib.id/)  
+- [libgen.li](https://libgen.li/)
+- [Z-Library — Free Book Library](https://z-lib.gs/)
 - [archive.org](https://archive.org/)  
 - [openlibrary](https://openlibrary.org/)  
 - [magazinelib](https://magazinelib.com/) - magazines
@@ -561,7 +613,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [dex](https://getdex.com/) - one place for all your relationships   
 - [franzy](https://franzy.com/) - Find your perfect franchise
 - [pietrastudio](https://www.pietrastudio.com/) - all-in-one tool to build your business  
-- [homebase](http://www.joinhomebase.com/) - manage your work schedules, time clock, payroll, HR & more  
+- [homebase](http://www.joinhomebase.com/) - manage your work schedules, time clock, payroll, HR & more
+- [Free E-Signature and Payments Platform](https://agree.com/)
+- [Skupos Training Manual PDF](https://7551458.fs1.hubspotusercontent-na1.net/hubfs/7551458/Skupos_Training-Manual_2023-1.pdf)
+- [CStorePro — Convenience Store Dashboard](https://secure.cstorepro.com/EmagineNETCOSM/Content/Dashboard/OwnerDashboard.aspx?&enetFoundationMenuID=1825)
+- [Skool — Community Discovery and Creation](https://www.skool.com/)
+- [SponsorApp — Sponsorship Management](https://sponsorapp.io/)
+- [Cronysoft — Warehouse Management System](https://wms.cronysoft.com/#con)
 - [revenuecat](https://www.revenuecat.com/) - build and grow your subscription business  
 - [proof](https://www.proof.com/) - identity-centric security platform  
 - [mintlify](https://mintlify.com/) - meet the modern standard for documentation  
@@ -638,7 +696,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Deepseek](https://www.deepseek.com/) - ChatGPT alternative  
 - [BYD](https://www.byd.com/us) - Electric cars, sedans, SUVs  
 - [Nio](https://www.nio.com/) - Vehicles & tech  
-- [Huawei](https://www.huawei.com/en/) - Smartphones & tech  
+- [Huawei](https://www.huawei.com/en/) - Smartphones & tech
+- [Huawei Central — News and Updates](https://www.huaweicentral.com/)  
 - [Tencent](https://www.tencent.com/en-us/index.html) - Tech company  
 - [Foxconn](https://www.foxconn.com/en-us) - Electronics distributor  
 
@@ -693,7 +752,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [silvergoldbull](https://silvergoldbull.com/)  
 - [apmex](https://www.apmex.com/)
 - [mtbmetals](https://www.mtbmetals.com/)
-- [cacgrading](https://www.cacgrading.com/) 
+- [cacgrading](https://www.cacgrading.com/)
+- [The Coin Channel — Eric Miller Link Hub](https://solo.to/thecoinchannel)
+- [U.S. Silver Smelter Deal for Latin American Metals](https://www.scottsdalemint.com/articles/2026/u-s-secures-silver-smelter-deal-to-process-latam-metals/)
+- [Bullion Trading LLC — Buy Gold and Silver](https://bulliontradingllc.com/)
+- [Tom Vossen — Ancient Coins Dealer](https://www.vcoins.com/en/stores/tom_vossen-165/ancient-coins/Default.aspx)
+- [Baldwin's — Rare Coins and Medals Dealer](https://www.baldwin.co.uk/)
+- [CNG — Ancient Greek and Roman Coins](https://www.cngcoins.com/)
+- [SINCONA — Numismatics Auctions Zurich](https://www.sincona.com/)
 
 **International Mints**     
 - [USA Mint](https://www.usmint.gov/)
@@ -745,7 +811,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Topographic Map Export and Download Tool](Vector Maps & 3D Terrain Models — Architecture & Planning | TopoExport
 https://topoexport.com/)
 - [React Development Tips and Code Snippets](https://reactbits.dev/)
-- [React Development Tips and Code Snippets](https://reactbits.dev/)
+- [Land-book — Website Design Inspiration Gallery](https://land-book.com/)
+- [Lapa Ninja — Landing Page Design Inspiration](https://www.lapa.ninja/)
+- [Photopea — Free Online Photo Editor](https://www.photopea.com/)
+- [Spline — 3D Design Tool in Browser](https://spline.design/)
+- [Krita Features — Digital Painting Software](https://krita.org/en/features/)
+- [Euveka — Design Reference Website](https://www.euveka.com/)
+- [Krita — Free Digital Painting Software](https://krita.org/en/)
+- [Clay — Creative Design Agency](https://clay.global/)
 
 **Design & Creative Studios**
 - [madebyapricot](https://www.madebyapricot.com/)
@@ -792,7 +865,8 @@ https://topoexport.com/)
 **Extensions**   
 - [Rakuten](https://www.rakuten.com/) - Cash back at thousands of stores  
 - [Honey](https://get.joinhoney.com/page/dr-us-simplified-yellow-general/?utm_source=goog&utm_medium=sem&utm_campaign=GOOG_US_210928_Brand_All_All_Brand-Pure-TargetImprShare_ETA_DR-US-Simplified-Yellow-General&utm_content=DR-US-Simplified-Yellow-General&gclid=Cj0KCQjwvLOTBhCJARIsACVldV3g4L1FF5QXBFKzhPgWTw3iLn33J5tcaWrNRGIXDWKtsczP07pYndUaAtEvEALw_wcB&from=r)  
-- [RetailMeNot](https://www.retailmenot.com/) - Promo codes instantly  
+- [RetailMeNot](https://www.retailmenot.com/) - Promo codes instantly
+- [Slickdeals — Community Deal Sharing](https://slickdeals.net/)     
 
 **Coupons**  
 - [Lozo](https://lozo.com/)  
@@ -838,7 +912,12 @@ https://topoexport.com/)
 - [Snapdrop](https://snapdrop.net/)
 - [limewire](https://limewire.com/) - 
 - [Blip](https://blip.net/) - Fastest way to send files across devices  
-- [LocalSend](https://localsend.org/) - Share files to nearby devices  
+- [LocalSend](https://localsend.org/) - Share files to nearby devices
+- [BentoPDF — PDF Conversion Tool](https://www.bentopdf.com/)
+- [PDFCraft — PDF Processing Tool](https://github.com/PDFCraftTool/pdfcraft)
+- [PDF-Craft — PDF Processing Library](https://github.com/oomol-lab/pdf-craft)
+- [Croc — Secure File Transfer Tool](https://github.com/schollz/croc)
+- [Croc Documentation — File Transfer](https://schollz.com/docs/software/croc/)
 
 **File Conversion**  
 - [Zamzar](https://www.zamzar.com/)  
@@ -885,7 +964,9 @@ https://topoexport.com/)
 - [Coursera Free Courses](https://www.coursera.org/courses?query=free)  
 - [CORE](https://core.ac.uk/)  
 - [arXiv](https://arxiv.org/)
-- [Google Skills](https://www.skills.google/) - Build AI skills for tomorrow, today     
+- [Google Skills](https://www.skills.google/) - Build AI skills for tomorrow, today
+- [TypingClub — Online Typing Practice](https://www.typingclub.com/sportal/program-3/140.play)
+- [Keybr — Typing Speed Practice Profile](https://www.keybr.com/profile)    
 
 **Premium Courses**
 - [tutflix](https://tutflix.org/)
@@ -922,6 +1003,10 @@ https://topoexport.com/)
 - [drifted](https://www.drifted.com/)     
 - [lostgamer](https://lostgamer.io/) - Get Lost in the Worlds You Love   
 - [autodraw](https://www.autodraw.com/)
+- [Batocera — Retro Gaming Linux Distribution](https://batocera.org/)
+- [Free Games Claimer — Auto-Claim Free Games](https://github.com/vogler/free-games-claimer)
+- [Y8 — Free Online Games](https://www.y8.com/)
+- [Y8 — CS Command Snipers Game](https://www.y8.com/games/cs_command_snipers)
 - [z2u](https://www.z2u.com/) - favorite marketplace for game services & products 
 - [Silk](http://weavesilk.com/) - interactive generative art     
 - [My Life Elsewhere](https://www.mylifeelsewhere.com/) - Compare quality of life globally  
@@ -966,7 +1051,8 @@ https://topoexport.com/)
 - [Gurufocus](http://gurufocus.com/)  
 - [Moneyshow](http://moneyshow.com/)  
 - [Optionalpha](http://optionalpha.com/)  
-- [Barchart](http://barchart.com/)  
+- [Barchart](http://barchart.com/)
+- [YFINet — Financial Network Platform](https://www.yfinet.com/)  
 - [Katusaresearch](http://katusaresearch.com/)  
 - [Tradingview](http://tradingview.com/)  
 - [Morningstar](http://morningstar.com/)
@@ -1039,7 +1125,9 @@ https://topoexport.com/)
 - [leprino](https://leprino.com/) - cheese distributor
 
 **Other**
-- [mpactbeverage](https://www.mpactbeverage.com/) - the ultimate craft cocktail 
+- [mpactbeverage](https://www.mpactbeverage.com/) - the ultimate craft cocktail
+- [f'real — Frozen Blended Beverages](https://www.freal.com/)
+- [Smoodi — Commercial Smoothie Machine](https://www.getsmoodi.com/)
 
 
 
@@ -1140,7 +1228,9 @@ https://topoexport.com/)
 - [YUSUF BHAI](https://yusufbhaifragrances.com/)
 - [taifalemarat](https://us.taifalemarat.com/)
 - [areejalameerat](https://www.areejalameerat.com/)
-- [mhgboutique](https://www.mhgboutique.com/) 
+- [mhgboutique](https://www.mhgboutique.com/)
+- [Khadlaj Perfumes Online Store](https://khadlaj-perfumes.com/?srsltid=AfmBOopneGTSgUIOKtZb8unwr66JiPeaBNXeilNJw1nJ-_D5RVE1ABws)      
+
 
 **Fragrances Suppliers**
 - [robertet](https://www.robertet.com/)  
@@ -1208,7 +1298,9 @@ https://topoexport.com/)
 - [zennioptical](https://www.zennioptical.com/)  
 - [glassesusa](https://www.glassesusa.com/)
 - [goggles4u](https://www.goggles4u.com/g4u/) 
-- [eyebobs](https://www.eyebobs.com/)  
+- [eyebobs](https://www.eyebobs.com/)
+- [Ra Optics — Blue Light Blocking Glasses](https://raoptics.com/?srsltid=AfmBOorDTWrgH78doNQMY3cSR1f-VYh8B932Q7p3mP7s3-KOVw1fPO10)               
+
 
 **Sunglasses**  
 - [Ray-Ban](https://www.ray-ban.com/usa)  
@@ -1262,6 +1354,7 @@ https://topoexport.com/)
 - [bluebonnetnutrition](https://bluebonnetnutrition.com/)  
 - [newchapter](https://newchapter.com/)  
 - [ancientnutrition](https://ancientnutrition.com/)
+- [Manna Vitality](https://mannavitality.com/)
 
 ## History
 
@@ -1288,7 +1381,8 @@ https://topoexport.com/)
 - [hideawayscreen](https://hideawayscreen.com/) - privacy screens & gates
 - [ufpedge](https://www.ufpedge.com/) - wood
 - [ownwell](https://www.ownwell.com/) - reduce your property taxes  
-- [bldr](https://www.bldr.com/)  
+- [bldr](https://www.bldr.com/)
+- [Unger Global — Professional Cleaning Tools](https://usa.ungerglobal.com/)   
 - [Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products  
 - [Vornado](https://www.vornado.com/) - revolutionizing home comfort  
 - [doitbest](https://www.doitbest.com/) - local hardware store
@@ -1329,7 +1423,9 @@ https://topoexport.com/)
 - [Photoscan](https://www.google.com/photos/scan/) - Photos from the past, meet scanner from the future  
 - [photoroom](https://www.photoroom.com/) - AI Photo Editor
 - [remove](https://www.remove.bg/) - remove background
-- [Pro Image Tool](https://proimagetool.com/?i=2) - Online Image Resizer Free     
+- [Pro Image Tool](https://proimagetool.com/?i=2) - Online Image Resizer Free
+- [Immich — Self-Hosted Photo and Video Backup](https://github.com/immich-app/immich)
+- [ImagineArt — AI Camera Angle Editor](https://www.imagine.art/apps/camera-angles)
 
 ## India  
 
@@ -1344,7 +1440,8 @@ https://topoexport.com/)
 - [koranm](https://koranm.com/)
 - [seema gujral](https://seemagujral.com/)
 - [aari](https://aariindia.com/store/)
-- [Raymond](https://rr.myraymond.com/) - suits & formal wear      
+- [Raymond](https://rr.myraymond.com/) - suits & formal wear
+- [LaPink Fashion Online Store](https://lapinkfashion.co.in/)     
 
 **Indian Construction Companies**  
 - [Oberoi](https://www.oberoirealty.com/)  
@@ -1373,7 +1470,7 @@ https://topoexport.com/)
 - [bluenile](https://www.bluenile.com/)  
 - [gabrielny](https://www.gabrielny.com/)  
 - [swarovski](https://www.swarovski.com/en-US/)
-
+- [TraxNYC — Diamond and Gold Jewelry](https://traxnyc.com/?srsltid=AfmBOork8VPN37zKF9BvqQdKLNzl8zFPPqOMqYD0HXbH4PpZsxlXtMNZ)
 - [beadsmith](https://www.beadsmith.com/) - products needed to make jewelry 
 
 ## Kitchen  
@@ -1432,7 +1529,9 @@ https://topoexport.com/)
 - [zoom](https://www.zoom.com/)  
 - [meet](https://meet.google.com/landing) - Google Meet  
 - [teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Microsoft  
-- [screen.studio](https://screen.studio/) - Beautiful Screen Recordings in Minutes  
+- [screen.studio](https://screen.studio/) - Beautiful Screen Recordings in Minutes
+- [Confer — Collaborative Meeting Tool](https://confer.to/)
+- [Radial — Meeting Productivity Platform](https://www.meetradial.com/)      
 
 ## Money Transfer and Exchange  
 - [remitly](https://www.remitly.com/) - best exchange rates  
@@ -1471,6 +1570,24 @@ https://topoexport.com/)
 - [einthusan](https://einthusan.tv/intro/) - indian  
 - [justwatch](https://www.justwatch.com/)  
 - [TVpass](https://tvpass.org/)
+- [HindiLinks4U — Hindi Movie Streaming](https://hindilinks4u.report/)
+- [PlayDesi — Desi Entertainment Streaming](https://playdesi.net/playdesi/)
+- [Bitcine — Movie Browsing App](https://www.bitcine.app/browse/movie)
+- [Oomoye — Movie Streaming Site](https://oomoye.guru/)
+- [HHD Movies — Movie Streaming Site](https://hhdmovies.skin/)
+- [Downloads AnyMovies — Movie Archive](https://www.downloads-anymovies.co/)
+- [111477 — Movie Streaming Index](https://a.111477.xyz/movies/)
+- [DaddyLive — 24/7 Live TV Channels](https://daddylivehd.sx/24-7-channels.php)
+- [Movie-Web — Movie Search and Streaming](https://movie-web.app/search/movie)
+- [1HD — Free Movie Streaming](https://1hd.to/home)
+- [TheTVApp — Live TV Streaming](https://thetvapp.to/)
+- [FreeDriveMovie — Free Movie Streaming](https://freedrivemovie.com/)
+- [PRMovies — Free Movie Streaming](https://prmovies.taxi/)
+- [MoviesFlix — Movie Downloads](https://moviesflix.com.pl/)
+- [MKVCinemas — Movie Downloads](https://mkvcinemas.kim/)
+- [Pahe — Compressed Movie Downloads](https://pahe.ink/)
+- [VegaMovies — Movie Downloads](https://vegamovies.cr/)
+- [Movi.pk — Pakistani Movie Streaming](https://www.movi.pk/)     
 
 **TV Shows**  
 - [swatchseries](https://swatchseries.is/)  
@@ -1521,7 +1638,9 @@ https://topoexport.com/)
 - [Earth](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/orthographic=-80.18,29.85,714/loc=85.612,30.115) - a global map of wind, weather, and ocean conditions
 - [True Size](https://www.thetruesize.com/) - find the true size of your country
 - [city roads](https://anvaka.github.io/city-roads/) - website renders every single road within a city
-- [soar](https://soaratlas.com/discover) - highlighting new discoveries, creative works, and the world as it’s being mapped today     
+- [soar](https://soaratlas.com/discover) - highlighting new discoveries, creative works, and the world as it’s being mapped today
+- [TopoExport — Vector Maps and 3D Terrain Models](https://topoexport.com/)
+- [MapCN — Beautiful Maps Made Simple](https://mapcn.dev/)    
 
 ## Networking and Storage  
 
@@ -1534,6 +1653,8 @@ https://topoexport.com/)
 - [beszel](https://beszel.dev/) - Simple, lightweight server monitoring
 - [uptimekuma](https://uptimekuma.org/) - Fancy Self-Hosted Monitoring Tool
 - [Twingate](https://www.twingate.com/) - Go beyond VPN
+- [Localhost Status Check Endpoint](https://localhost:6547/status)
+- [Reddit Ubiquiti Networking Community](https://www.reddit.com/r/Ubiquiti/)
 
 **Storage**  
 - [Western Digital](https://www.westerndigital.com/)  
@@ -1574,7 +1695,11 @@ https://topoexport.com/)
 - [Read Something Interesting](https://readsomethinginteresting.com/)
 - [harpers index](https://harpers.org/harpers-index/)
 - [all you can read](https://www.allyoucanread.com/)
-- [spike](https://spike.news/)     
+- [spike](https://spike.news/)
+- [ICIJ Panama Papers Investigation](https://www.icij.org/investigations/panama-papers/)
+- [Freedium — Medium Article Paywall Bypass](https://freedium-mirror.cfd/)
+- [Wikipedia — Portal of Current Events](https://en.m.wikipedia.org/wiki/Portal:Current_events)
+- [ProPublica — Investigative Journalism Nonprofit](https://www.propublica.org/)
 
 **Bypass News Sites' Paywalls**  
 - [archive](https://archive.is/) - time capsule for web pages  
@@ -1604,7 +1729,12 @@ https://topoexport.com/)
 ## Open Source
 
 **Resources**  
-- [opensourcealternative](https://www.opensourcealternative.to/)  
+- [opensourcealternative](https://www.opensourcealternative.to/)
+- [Audiobookshelf — Self-Hosted Audiobook Server](https://github.com/advplyr/audiobookshelf)
+- [Glance — Self-Hosted Dashboard for Feeds](https://github.com/glanceapp/glance?tab=readme-ov-file)
+- [Linkding — Self-Hosted Bookmark Manager](https://github.com/sissbruecker/linkding)
+- [Awesome Self-Hosted Software Directory](https://awesome-selfhosted.net/)
+- [Glance — Self-Hosted Feed Dashboard](https://github.com/glanceapp/glance)
 
 **Sites**   
 - [Docuseal](https://www.docuseal.com/) - Document Signing  
@@ -1701,7 +1831,10 @@ https://topoexport.com/)
 
 - [champagne](https://champagne.pages.dev/)
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
-- [download pirate](https://www.downloadpirate.com/)      
+- [download pirate](https://www.downloadpirate.com/)
+- [FMHY — Free Media Heck Yeah Wiki](https://fmhy.net/)
+- [Freek.to — Free Content Aggregator](https://freek.to/)
+- [Champagne — Media Streaming Index](https://champagne.pages.dev/)    
 
 
 ## Privacy
@@ -1747,13 +1880,22 @@ https://topoexport.com/)
 - [Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
 - [deflock](https://deflock.me/) - you're being tracked
 - [eyesonflock](https://eyesonflock.com/) - Aggregating Flock Safety Transparency Portal Data
-- 
+- [Vaultwarden — Lightweight Bitwarden Server](https://github.com/dani-garcia/vaultwarden)
+- [Proton Lumo — Guest Access](https://lumo.proton.me/guest)
+- [Proton Lumo — Guest Projects](https://lumo.proton.me/guest/projects)
+- [Proton — Privacy-First Email and Services](https://proton.me/)
+- [Standard Notes — Encrypted Notes App](https://standardnotes.com/)
+- [Vx Underground — Malware Research Archive](https://vx-underground.org/)
+- [E2ECP — End-to-End Encrypted Copy](https://schollz.com/docs/software/e2ecp/)    
 
 ## Productivity       
 
-**Remote Support**    
+**Remote Support and Other**    
 - [helpwire](https://www.helpwire.app/)
-- [realvnc](https://www.realvnc.com/en/?lai_vid=qqAqp9zDKudj&lai_sr=0-4&lai_sl=l) 
+- [realvnc](https://www.realvnc.com/en/?lai_vid=qqAqp9zDKudj&lai_sr=0-4&lai_sl=l)
+- [Cap — Screen Recording and Sharing Tool](https://cap.so/?ref=toolfinder.co&via=francesco-d-alessio&dub_id=zNm9uA6ydZqNKqcz)
+- [Ioun.it — Sign In Portal](https://ioun.it/signin?redirect_url=https://ioun.it/)    
+- [Kite — Screen Recorder for Demo Videos](https://kite.video/)   
 
 **Productivity Apps**  
 - [notion](https://www.notion.com/product)  
@@ -1764,7 +1906,7 @@ https://topoexport.com/)
 - [clickup](https://clickup.com/)  
 - [todoist](https://www.todoist.com/)  
 - [kortex](https://www.kortex.co/)  
-- [mymind](https://mymind.com/)  
+- [mymind](https://mymind.com/)
 - [lifestack](https://lifestack.ai/)  
 - [audionotes](https://www.audionotes.app/)  
 - [kosmik](https://www.kosmik.app/) - full visual research platform  
@@ -1799,7 +1941,8 @@ https://topoexport.com/)
 - [flowcv](https://app.flowcv.com/) - resume builder  
 - [Rxresume](https://rxresu.me/) - free and open source resume builder  
 - [remoteok](https://remoteok.com/) - remote jobs  
-- [neverinstall](https://neverinstall.com/)  
+- [neverinstall](https://neverinstall.com/)
+- [ASCII Art Archive — Home of ASCII Art](https://www.asciiart.eu/)    
 - [pov.camera](https://pov.camera/) - A camera to capture every perspective  
 - [fmhy](https://fmhy.net/) - The largest collection of free stuff on the internet!
 
@@ -1838,6 +1981,7 @@ https://topoexport.com/)
 - [noods](https://noods.io/) - Your Recipe Collection, Reimagined  
 - [Vidcook](https://vidcook.net/) - stop wasting time watching cooking videos  
 - [Recipescal](https://recipescal.com/) - random recipe generator
+- [Mealie — Self-Hosted Recipe Manager](https://github.com/mealie-recipes/mealie)     
 
 ## Shipping
 
@@ -1891,6 +2035,9 @@ https://topoexport.com/)
 **Reddit Threads**
 - [What free software is so good you can't believe it's actually available for free?](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
 - [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
+- [Reddit Free Media Resource Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/#wiki_.1F4FA_movies_.2F_tv_.2F_anime_.2F_sports)
+- [Reddit — Best Free Software Recommendations](https://www.reddit.com/r/NoStupidQuestions/comments/1cdil2i/what_free_software_is_so_good_you_cant_believe/)
+- [Reddit — Open Directories Community](https://www.reddit.com/r/opendirectories/?captcha=1)
 
 **Discord** 
 - [Disboard](https://disboard.org/) - discover discord channels     
@@ -1931,7 +2078,8 @@ https://topoexport.com/)
 - [crowdcube](https://www.crowdcube.com/) - European  
 - [ourcrowd](https://www.ourcrowd.com/)  
 - [fundersclub](https://fundersclub.com/)  
-- [equityzen](https://equityzen.com/) - private companies  
+- [equityzen](https://equityzen.com/) - private companies
+- [Loot Drop — Failed Startup Ideas Directory](https://loot-drop.vercel.app/)    
 
 **Crowdfunding**  
 - [kickstarter](https://www.kickstarter.com/)  
@@ -1948,6 +2096,9 @@ https://topoexport.com/)
 - [ASML](https://www.asml.com/en) - the world's supplier to the semiconductor industry
 - [nuro](https://www.nuro.ai/)
 - [meanwell](https://www.meanwell.com/index.aspx) - over 10,000 models of standard power supply products
+- [MagicDVR — DVR Software Downloads](https://www.magicdvr.com/downloads/)
+- [CyberDeck — Carbon Computers Collection](https://carboncomputers.us/collections/cyberdeck)
+- [Artefacto — Augmented Reality Platform](https://www.artefacto.com/default)     
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
@@ -2173,7 +2324,8 @@ https://topoexport.com/)
 - [LOC](https://www.loc.gov/) - Library of Congress  
 - [NOAA](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration  
 - [USPTO](https://www.uspto.gov/) - United States Patent and Trademark Office
-- [SAM](https://sam.gov/) - Official U.S. Government System for wage, contracting, and other   
+- [SAM](https://sam.gov/) - Official U.S. Government System for wage, contracting, and other
+- [U.S. Treasury Auctions Portal](https://home.treasury.gov/services/treasury-auctions)     
 
 **Apparel**    
 - [rangerjoes](https://rangerjoes.com/)  
@@ -2185,7 +2337,8 @@ https://topoexport.com/)
 **Accessories**
 - [americantrucks](https://www.americantrucks.com/)
 - [roughcountry](https://www.roughcountry.com/)
-- [linex](https://www.linex.com/) 
+- [linex](https://www.linex.com/)
+- [Moskomoto — GPS Tracker for Motorcycles](https://moskomoto.com/?srsltid=AfmBOopCmc2ok3vWI6a7Da2fQFavis6RKQNIdYfo06ep8QivwcQkCgzn)     
 
 **Devices**  
 - [wolfbox](https://wolfbox.com/) - dashcam & smart mirror  
@@ -2208,7 +2361,10 @@ https://topoexport.com/)
 - [maya](https://www.autodesk.com/products/maya/free-trial)  
 - [vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)  
 - [unrealengine](https://www.unrealengine.com/en-US)  
-- [unity](https://unity.com/)  
+- [unity](https://unity.com/)
+- [Captions AI — Video Editing with AI](https://www.captions.ai/)
+- [Hera — AI Motion Designer Tool](https://hera.video/)       
+- [LTX-2 — AI Video Generation Model](https://ltx.io/model/ltx-2)      
 
 ## Watches  
 
@@ -2238,7 +2394,8 @@ https://topoexport.com/)
 - [earth](https://earth.nullschool.net/) - global map of wind, weather, and ocean conditions  
 - [weathernext](https://deepmind.google/technologies/weathernext/#access-weathernext) - Google’s AI weather forecast tech  
 - [zoom.earth](https://zoom.earth/) - live weather map  
-- [overdrop](https://get.overdrop.app/) - weather app  
+- [overdrop](https://get.overdrop.app/) - weather app
+- [Earth Nullschool — Global Wind and Weather Map](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/orthographic=-80.18,29.85,714/loc=85.612,30.115)          
 
 ## Windows  
 
@@ -2258,6 +2415,7 @@ https://topoexport.com/)
 **Windows & Microsoft Office Activation**
 - [Microsoft Office 365 Activation Script](https://github.com/abbodi1406/KMS_VL_ALL_AIO)       
 - [MAS](https://github.com/seeumail/OfficeRTool)
+- [Win11Debloat — Windows 11 Bloatware Remover](https://github.com/Raphire/Win11Debloat)    
 
 **Download OS**
 - [Massgrave](https://massgrave.dev/genuine-installation-media.html)
@@ -2268,7 +2426,9 @@ https://topoexport.com/)
 
 - [luminocity3d](https://www.luminocity3d.org/)  
 - [atlas](https://atlas.co/)  
-- [visualcapitalist](https://www.visualcapitalist.com/)  
+- [visualcapitalist](https://www.visualcapitalist.com/)
+- [MoveMap — Explore Where to Live in US](https://www.movemap.io/explore/us)
+- [Luminocity — World Population Density 3D Map](https://luminocity3d.org/WorldPopDen/#6/-29.162/141.372)
 - [voronoi](https://www.voronoiapp.com/)
 - [Movemap](https://www.movemap.io/explore/us)
-- [davidrumsey](https://www.davidrumsey.com/) 
+- [davidrumsey](https://www.davidrumsey.com/)     
