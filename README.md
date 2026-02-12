@@ -182,6 +182,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Emergent — Build Apps with AI](https://app.emergent.sh/landing/)
 - [shadcn GitHub Topics and Projects](https://github.com/topics/shadcn)
 - [Stack Overflow — Newest Questions Feed](https://stackoverflow.com/questions)
+- [Windsurf Wave 9 — SWE-1 Frontier Software Engineering Models](https://windsurf.com/blog/windsurf-wave-9-swe-1)
+- [Star History](https://www.star-history.com/) - View and compare GitHub star history graphs
+- [Warp](https://www.warp.dev/) - AI-Powered Terminal for Developers     
 
 **Web Platforms**   
 - [carrd](http://www.carrd.co/)  
@@ -259,7 +262,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [goruck](https://www.goruck.com/)
 - [aclima](https://www.aclima.com/en-dk)
 - [firstlite](https://firstlite.com/)
-- [kuiu](https://www.kuiu.com/)        
+- [kuiu](https://www.kuiu.com/)
+- [Fjällräven Expedition Series](https://www.fjallraven.com/us/en-us/clothes/expedition-series/) - Down jackets and outerwear since 1974
+- [Inis Meáin](https://inismeain.ie/) - Contemporary luxury Irish Aran knitwear    
 
 **Other**  
 - [alphabroder](http://www.alphabroder.com/) - Wholesale  
@@ -327,6 +332,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **AI Tools**  
 - [thebricks](https://www.thebricks.com/) - AI Spreadsheet
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
+- [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) 100+ specialized Claude Code subagent definitions
+- [Marginlab Claude Code Tracker](https://marginlab.ai/trackers/claude-code/) - Independent daily AI model performance monitoring
+- [OpenRouter — NVIDIA Nemotron 3 Nano 30B](https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b:free/performance) - Free open-source MoE model for agentic AI
+- [LLM Stats](https://llm-stats.com/) - AI model leaderboards, benchmarks, and comparison
+- [LLM Explorer](https://llm-explorer.com/) - Language model discovery and comparison tool
+- [Future Tools](https://www.futuretools.io/?pricing-model=free) - Free AI tools directory
+- [DruidX](https://druidx.co) - Build and deploy custom AI agents without code
 - [databricks](https://www.databricks.com/) 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 - [rocket](https://www.rocket.new/) - build production ready apps    
@@ -479,6 +491,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [method](https://methodproducts.com/)
 - [houseofsoap](https://houseofsoap.com/) - Lebanon
 - [Wholesale Goat Milk Soap Loaves](https://thesoapguy.com/wholesale-soap-loaves/goat-milk-soap-loaves)
+- [SALUX Nylon Japanese Beauty Skin Bath Wash Cloth](https://www.amazon.com/SALUX-Nylon-Japanese-Beauty-Cloth/dp/B000CSDDDG) - Award-winning exfoliating washcloth from Japan    
 
 
 
@@ -510,7 +523,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [rh](https://rh.com/)  
 - [ethanallen](https://www.ethanallen.com/)  
 - [California Design Den](https://www.californiadesignden.com/)  
-- [Dusk](https://us.dusk.com/)  
+- [Dusk](https://us.dusk.com/)
+- [Riley Home](https://rileyhome.com/) - Luxury bed sheets and bath linens from Portuguese textile mills     
 
 **Resources**  
 - [sleeplikethedead](https://www.sleeplikethedead.com/)  
@@ -983,7 +997,8 @@ https://topoexport.com/)
 
 - [ComparePower](https://comparepower.com/) - Search multiple electric companies  
 - [Power to Choose](https://www.powertochoose.org/)  
-- [Power Outage](https://poweroutage.us/)  
+- [Power Outage](https://poweroutage.us/)
+- [Texas Power Guide](https://www.texaspowerguide.com/) - Unbiased electricity rate comparison for Texas     
 
 
 
@@ -1132,6 +1147,9 @@ https://topoexport.com/)
 
 
 ## Footwear
+
+**Resources**       
+[RunRepeat](https://runrepeat.com/) - Running shoe reviews, ratings, and comparisons     
 
 **Hiking and Work Boots**
 - [All American Clothing Co.](https://www.allamericanclothing.com) – men’s  
@@ -1355,6 +1373,7 @@ https://topoexport.com/)
 - [newchapter](https://newchapter.com/)  
 - [ancientnutrition](https://ancientnutrition.com/)
 - [Manna Vitality](https://mannavitality.com/)
+- [ATLAS X 10-in-1 Masculinity Maximiser](https://www.amazon.com/ATLAS-10-Masculinity-Maximiser-Supplement/dp/B0DNRLSJGQ?ref_=ast_sto_dp&th=1&psc=1) - Supplement with Shilajit, Tongkat Ali, Ashwagandha
 
 ## History
 
@@ -2016,7 +2035,8 @@ https://topoexport.com/)
 - [bugaboo](https://www.bugaboo.com/us-en) - strollers & more
 
 ## Smart Home     
-- [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations    
+- [Home Assistant](https://www.home-assistant.io/) - open source home automation with many integrations
+- 
 
 **Products**  
 - [Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs
