@@ -1401,6 +1401,8 @@ https://topoexport.com/)
 - [ufpedge](https://www.ufpedge.com/) - wood
 - [ownwell](https://www.ownwell.com/) - reduce your property taxes  
 - [bldr](https://www.bldr.com/)
+- [SCP Distributors](https://www.scppool.com/) - World's largest wholesale swimming pool supplies distributor
+- [Texas Pressure Washing Store](https://www.texaspressurewashingstore.com/shop/) - Pressure washing equipment and supplies
 - [Unger Global — Professional Cleaning Tools](https://usa.ungerglobal.com/)   
 - [Ewing Outdoor Supply](https://www.ewingoutdoorsupply.com/) - supplier of landscape and irrigation products  
 - [Vornado](https://www.vornado.com/) - revolutionizing home comfort  
@@ -1667,6 +1669,8 @@ https://topoexport.com/)
 - [blackhat](https://blackhat.com/) - internationally recognized cybersecurity event series
 - [mariushosting](https://mariushosting.com/)
 - [using-cloudflare](https://corcoran.medium.com/using-cloudflare-for-ddns-and-tls-certificates-on-synology-dsm6-1549e55d557f)
+- [Dockhand](https://dockhand.pro/#features) - Modern Docker container management with Compose stack support
+- [Termix](https://termix.site/) - Self-hosted web-based server management platform with SSH terminal  
 - [wigle](https://wigle.net/) - all the networks
 - [ezeefiber](https://ezeefiber.com/) - Award-Winning High-Speed Fiber Internet
 - [beszel](https://beszel.dev/) - Simple, lightweight server monitoring
@@ -1853,7 +1857,8 @@ https://topoexport.com/)
 - [download pirate](https://www.downloadpirate.com/)
 - [FMHY — Free Media Heck Yeah Wiki](https://fmhy.net/)
 - [Freek.to — Free Content Aggregator](https://freek.to/)
-- [Champagne — Media Streaming Index](https://champagne.pages.dev/)    
+- [Champagne — Media Streaming Index](https://champagne.pages.dev/)
+- [Virgil](https://virgil.samidy.com/Mobile/#gsc.tab=0&gsc.q=spotify&gsc.sort=) - Search engine for games, APKs, and software            
 
 
 ## Privacy
@@ -2040,6 +2045,7 @@ https://topoexport.com/)
 
 **Products**  
 - [Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs
+- [Dreame X60 Max Ultra Complete](https://www.dreametech.com/products/x60-max-ultra-complete-robot-vacuum?gad_source=1&gad_campaignid=20585612283&gbraid=0AAAAABO4QZ9sARjWpovV95cqaDfu2uts8&gclid=EAIaIQobChMI-66HjdjAkgMV5jYIBR366DgVEAAYASAAEgK-a_D_BwE) - Ultra-slim robot vacuum and mop with 35,000Pa suction     
   
 **Technology**  
 - [Zigbee](https://csa-iot.org/all-solutions/zigbee/)  
@@ -2118,7 +2124,8 @@ https://topoexport.com/)
 - [meanwell](https://www.meanwell.com/index.aspx) - over 10,000 models of standard power supply products
 - [MagicDVR — DVR Software Downloads](https://www.magicdvr.com/downloads/)
 - [CyberDeck — Carbon Computers Collection](https://carboncomputers.us/collections/cyberdeck)
-- [Artefacto — Augmented Reality Platform](https://www.artefacto.com/default)     
+- [Artefacto — Augmented Reality Platform](https://www.artefacto.com/default)
+- [Waveshare 13.3" E-Paper HAT+ (E)](https://www.waveshare.com/product/displays/e-paper/13.3inch-e-paper-hat-plus-e.htm) - Full color E-Ink display for Raspberry Pi, 1600×1200    
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
@@ -2286,7 +2293,8 @@ https://topoexport.com/)
   - [getyourguide](https://www.getyourguide.com/)  
   - [raynatours](https://www.raynatours.com/)  
   - [oceanairtravels](https://www.oceanairtravels.com/)  
-  - [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica  
+  - [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica
+  - [Turkan Travels Istanbul](https://www.tripadvisor.com/Attraction_Review-g293974-d33393864-Reviews-Turkan_Travels-Istanbul.html) - Istanbul travel service on TripAdvisor     
 
 **Traveler Programs**  
 - [Mobile Passport Control](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)  
