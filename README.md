@@ -343,6 +343,21 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
 - [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) 100+ specialized Claude Code subagent definitions
 - [Marginlab Claude Code Tracker](https://marginlab.ai/trackers/claude-code/) - Independent daily AI model performance monitoring
+- [Alethia AI](https://www.alethia.ai/) - AI platform for enterprise knowledge management and information retrieval
+- [The Unwind AI](https://www.theunwindai.com/) - AI newsletter and resource hub covering AI tools, tutorials, and industry news
+- [ML System Design Case Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies) - Curated list of machine learning system design resources on GitHub
+- [NVIDIA Build](https://build.nvidia.com/models) - NVIDIA's platform for building and deploying AI models using NVIDIA NIMs
+- [AgentEvolver](https://github.com/modelscope/AgentEvolver) - ModelScope's open-source framework for evolving AI agents
+- [Agent Lightning](https://github.com/microsoft/agent-lightning) - Microsoft's open-source framework for high-performance AI agents
+- [TRELLIS 2](https://microsoft.github.io/TRELLIS.2/) - Microsoft's 3D asset generation model from text/image prompts
+- [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) - Open-source text-to-speech model on Hugging Face with natural voice synthesis
+- [DruidX](https://druidx.co/) - Build and deploy custom AI agents without code
+- [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - 100+ specialized Claude Code subagent definitions
+- [Marginlab Claude Code Tracker](https://marginlab.ai/trackers/claude-code/) - Independent daily AI model performance monitoring
+- [OpenRouter — NVIDIA Nemotron 3 Nano 30B](https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b:free/performance) - Free open-source MoE model for agentic AI
+- [LLM Stats](https://llm-stats.com/) - AI model leaderboards, benchmarks, and comparison
+- [LLM Explorer](https://llm-explorer.com/) - Language model discovery and comparison tool
+- [Future Tools](https://www.futuretools.io/?pricing-model=free) - Free AI tools directory
 - [OpenRouter — NVIDIA Nemotron 3 Nano 30B](https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b:free/performance) - Free open-source MoE model for agentic AI
 - [LLM Stats](https://llm-stats.com/) - AI model leaderboards, benchmarks, and comparison
 - [LLM Explorer](https://llm-explorer.com/) - Language model discovery and comparison tool
@@ -932,6 +947,9 @@ https://topoexport.com/)
 
 ## Docs and Files
 
+- [Paperless-ngx](https://docs.paperless-ngx.com/) - Open-source document management system that transforms physical documents into a searchable online archive with OCR
+
+
 **File Transfer**  
 - [File Pizza](https://file.pizza/)  
 - [Send Anywhere](https://send-anywhere.com/)  
@@ -993,7 +1011,9 @@ https://topoexport.com/)
 - [arXiv](https://arxiv.org/)
 - [Google Skills](https://www.skills.google/) - Build AI skills for tomorrow, today
 - [TypingClub — Online Typing Practice](https://www.typingclub.com/sportal/program-3/140.play)
-- [Keybr — Typing Speed Practice Profile](https://www.keybr.com/profile)    
+- [Keybr — Typing Speed Practice Profile](https://www.keybr.com/profile)
+- [ML System Design Case Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies) - Curated GitHub repository of machine learning system design interview prep resources
+
 
 **Premium Courses**
 - [tutflix](https://tutflix.org/)
@@ -1028,7 +1048,8 @@ https://topoexport.com/)
 - [Atlas Obscura](https://www.atlasobscura.com/) - Explore the world’s hidden wonders  
 - [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes
 - [Line Rider](https://www.linerider.com/)
-- [drifted](https://www.drifted.com/)     
+- [drifted](https://www.drifted.com/)
+- [Windows 93](https://www.windows93.net/) - Nostalgic parody of Windows 93 — interactive browser-based retro operating system with Easter eggs and games  
 - [lostgamer](https://lostgamer.io/) - Get Lost in the Worlds You Love   
 - [autodraw](https://www.autodraw.com/)
 - [Batocera — Retro Gaming Linux Distribution](https://batocera.org/)
@@ -1040,7 +1061,8 @@ https://topoexport.com/)
 - [My Life Elsewhere](https://www.mylifeelsewhere.com/) - Compare quality of life globally  
 - [WatchParty](https://www.watchparty.me)
 - [radiocast](https://radiocast.co/) - listen to the radio stations around the world
-- [sandspiel](https://sandspiel.club/)       
+- [sandspiel](https://sandspiel.club/)
+- [Zeitgeist: The Movie (Google Search)](https://www.google.com/search?q=zeitgeist%3A+the+movie) - Google search for the 2007 documentary film "Zeitgeist: The Movie"
 - [FitGirl Repacks](https://fitgirl-repacks.site/popular-repacks/) - Download video games  
 - [ColorifyAI](https://colorifyai.art/) - AI Coloring Page Generator  
 - [PlayClassic](https://playclassic.games/) - Play classic games on the web  
@@ -1061,7 +1083,8 @@ https://topoexport.com/)
 **Ratings and Data**
 - [ambest](https://web.ambest.com/home)
 - [spglobal](https://www.spglobal.com/en)
-- [moodys](https://www.moodys.com/) 
+- [moodys](https://www.moodys.com/)
+- [Stata](https://www.stata.com/) - Statistical software for data science, econometrics, and research analysis   
 
 **Platforms**  
 - [robinhood](http://www.robinhood.com/)  
@@ -1080,6 +1103,7 @@ https://topoexport.com/)
 - [Moneyshow](http://moneyshow.com/)  
 - [Optionalpha](http://optionalpha.com/)  
 - [Barchart](http://barchart.com/)
+- [SnapTrade](https://snaptrade.com/) - API platform for connecting trading and investment accounts to fintech applications 
 - [YFINet — Financial Network Platform](https://www.yfinet.com/)  
 - [Katusaresearch](http://katusaresearch.com/)  
 - [Tradingview](http://tradingview.com/)  
@@ -1317,6 +1341,8 @@ https://topoexport.com/)
 - [magicleap](https://www.magicleap.com/)  
 - [lightyear.one](https://lightyear.one/)
 - [beta](https://beta.team/)
+- [Unitree G1 Humanoid Robot](https://www.unitree.com/mobile/g1) - Compact AI-powered humanoid robot ($13,500) with 23-43 joints, force-controlled hands, and reinforcement learning capabilities from Chinese robotics company Unitree
+
 
 ## Glasses
 
@@ -1564,6 +1590,8 @@ https://topoexport.com/)
 - [meet](https://meet.google.com/landing) - Google Meet  
 - [teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Microsoft  
 - [screen.studio](https://screen.studio/) - Beautiful Screen Recordings in Minutes
+- [HelpWire](https://www.helpwire.app) - Free remote desktop support software for Windows, macOS, and Linux with secure peer-to-peer connections
+- [Rust Desk](https://rustdesk.com/)****     
 - [Confer — Collaborative Meeting Tool](https://confer.to/)
 - [Radial — Meeting Productivity Platform](https://www.meetradial.com/)      
 
@@ -1588,6 +1616,7 @@ https://topoexport.com/)
 - [moviemaze](https://moviemaze.cc/) **
 - [a.111477](https://a.111477.xyz/) ** 
 - [cineby](https://www.cineby.app/)
+- [VibeMax](https://vibemax.to/) - Free streaming site for movies and TV shows 
 - [xprime](https://xprime.tv/)
 - [rivestream](https://rivestream.org/)
 - [corsflix](https://watch.corsflix.net/)
@@ -1888,7 +1917,9 @@ https://topoexport.com/)
 **Cloud Storage**  
 - [ente](https://ente.io/)
 - [filen](https://filen.io/about/) 
-- [crypt.ee](https://crypt.ee/)  
+- [crypt.ee](https://crypt.ee/)
+- [Seafile](https://www.seafile.com/en/home/) - Open-source file syncing and sharing platform with end-to-end encryption, self-hosted or cloud   
+
 
 **Encryption**  
 - [cryptomator](https://cryptomator.org/)  
@@ -1937,7 +1968,9 @@ https://topoexport.com/)
 - [realvnc](https://www.realvnc.com/en/?lai_vid=qqAqp9zDKudj&lai_sr=0-4&lai_sl=l)
 - [Cap — Screen Recording and Sharing Tool](https://cap.so/?ref=toolfinder.co&via=francesco-d-alessio&dub_id=zNm9uA6ydZqNKqcz)
 - [Ioun.it — Sign In Portal](https://ioun.it/signin?redirect_url=https://ioun.it/)    
-- [Kite — Screen Recorder for Demo Videos](https://kite.video/)   
+- [Kite — Screen Recorder for Demo Videos](https://kite.video/)
+- [Airpoint](https://www.airpoint.app/) - Presentation and meeting remote control app   
+
 
 **Productivity Apps**  
 - [notion](https://www.notion.com/product)  
@@ -2457,7 +2490,9 @@ https://topoexport.com/)
 - [Windhawk](https://windhawk.net/) - the customization marketplace for Windows and programs  
 - [Libre Office](https://www.libreoffice.org/) - your private, free office suite  
 - [Flow Launcher](https://www.flowlauncher.com/) - quick file search & app launcher for Windows  
-- [Windows 11 Perfect Install](https://christitus.com/windows-11-perfect-install/) - debloat Windows  
+- [Windows 11 Perfect Install](https://christitus.com/windows-11-perfect-install/) - debloat Windows
+- [MiniTool Partition Wizard](https://www.minitool.com/partition-manager/) - Free disk partition manager for Windows — resize, create, format, and manage hard drive partitions
+- [Winslop](https://github.com/builtbybel/Winslop) - Open-source tool to remove bloatware and unwanted apps from Windows
 - [Rufus](https://rufus.ie/en/) - create bootable USBs the easy way  
 
 **Windows & Microsoft Office Activation**
