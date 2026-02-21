@@ -182,6 +182,15 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Emergent — Build Apps with AI](https://app.emergent.sh/landing/)
 - [shadcn GitHub Topics and Projects](https://github.com/topics/shadcn)
 - [Stack Overflow — Newest Questions Feed](https://stackoverflow.com/questions)
+- [Linux Containers](https://linuxcontainers.org/) - Home of LXC, Incus, and related Linux container runtime tools, templates, and libraries
+- [Remotion](https://www.remotion.dev/) - Open-source framework for creating videos programmatically using Reac
+- [Warp](https://www.warp.dev/) - AI-powered terminal for developers with built-in AI command search
+- [Windsurf](https://windsurf.com/) - AI-powered code editor (formerly Codeium)
+- [Windsurf Wave 9 — SWE-1](https://windsurf.com/blog/windsurf-wave-9-swe-1) - Frontier software engineering AI models from Windsurf
+- [Star History](https://www.star-history.com/) - View and compare GitHub star history graphs for open-source projects
+- [LangChain](https://www.langchain.com/) - Framework for developing applications powered by large language models
+- [MapCN](https://mapcn.dev/) - Developer tool for interactive map components in React/Next.js
+- [NimbleLinks](https://www.nimblelinks.com/) - Link management and URL shortening platform
 - [Windsurf Wave 9 — SWE-1 Frontier Software Engineering Models](https://windsurf.com/blog/windsurf-wave-9-swe-1)
 - [Star History](https://www.star-history.com/) - View and compare GitHub star history graphs
 - [Warp](https://www.warp.dev/) - AI-Powered Terminal for Developers     
@@ -491,7 +500,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [method](https://methodproducts.com/)
 - [houseofsoap](https://houseofsoap.com/) - Lebanon
 - [Wholesale Goat Milk Soap Loaves](https://thesoapguy.com/wholesale-soap-loaves/goat-milk-soap-loaves)
-- [SALUX Nylon Japanese Beauty Skin Bath Wash Cloth](https://www.amazon.com/SALUX-Nylon-Japanese-Beauty-Cloth/dp/B000CSDDDG) - Award-winning exfoliating washcloth from Japan    
+- [SALUX Nylon Japanese Beauty Skin Bath Wash Cloth](https://www.amazon.com/SALUX-Nylon-Japanese-Beauty-Cloth/dp/B000CSDDDG) - Award-winning exfoliating washcloth from Japan
+- [Panasonic Nanoe Salon Hair Dryer (EH-ANA6HN)](https://www.amazon.com/Panasonic-Quick-Dry-Oscillating-Attachment-EH-ANA6HN/dp/B0CCGHXNGX?ref_=ast_sto_dp&th=1) - 1875W hair dryer with nanoe moisture-infusing technology and oscillating quick-dry nozzle                      
 
 
 
@@ -832,6 +842,9 @@ https://topoexport.com/)
 - [Krita Features — Digital Painting Software](https://krita.org/en/features/)
 - [Euveka — Design Reference Website](https://www.euveka.com/)
 - [Krita — Free Digital Painting Software](https://krita.org/en/)
+- [Printables](https://www.printables.com/search/models?q=M5C+camera) - Prusa's 3D model repository with millions of free downloadable designs for any 3D printer
+- [Thingiverse](https://www.thingiverse.com/) - Digital designs for physical objects — world's largest 3D printing model repository
+- [OpenSCAD](https://openscad.org/) - Free open-source programmer's solid 3D CAD modeler using script-based parametric design
 - [Clay — Creative Design Agency](https://clay.global/)
 
 **Design & Creative Studios**
@@ -1661,6 +1674,7 @@ https://topoexport.com/)
 - [city roads](https://anvaka.github.io/city-roads/) - website renders every single road within a city
 - [soar](https://soaratlas.com/discover) - highlighting new discoveries, creative works, and the world as it’s being mapped today
 - [TopoExport — Vector Maps and 3D Terrain Models](https://topoexport.com/)
+- [ArcGIS](https://www.arcgis.com/index.html) - Esri's comprehensive GIS mapping and spatial analytics platform for creating maps, analyzing geographic data, and building location-based apps    
 - [MapCN — Beautiful Maps Made Simple](https://mapcn.dev/)    
 
 ## Networking and Storage  
@@ -1677,6 +1691,10 @@ https://topoexport.com/)
 - [uptimekuma](https://uptimekuma.org/) - Fancy Self-Hosted Monitoring Tool
 - [Twingate](https://www.twingate.com/) - Go beyond VPN
 - [Localhost Status Check Endpoint](https://localhost:6547/status)
+- [Twingate YouTube Channel](https://www.youtube.com/@Twingate/videos) - Video content from Twingate, the zero-trust network access platform
+- [Hetzner Cloud](https://www.hetzner.com/cloud) - Affordable European cloud hosting with VPS servers, block storage, and GDPR-compliant data centers in Germany, Finland, USA, and Singapore
+- [Dockhand](https://dockhand.pro/#features) - Modern Docker container management GUI with Compose stack support
+- [Termix](https://termix.site/) - Self-hosted web-based server management platform with SSH terminal
 - [Reddit Ubiquiti Networking Community](https://www.reddit.com/r/Ubiquiti/)
 
 **Storage**  
@@ -2037,6 +2055,7 @@ https://topoexport.com/)
 - [onewheel](https://onewheel.com/) 
 - [dorcousa](https://dorcousa.com/) 
 - [vetted](https://vetted.ai/) - AI shopping research agent
+- [Amazon — Futura Steel](https://www.amazon.com/stores/page/4145F9A8-961B-4BF9-8488-A6CAA68F76D4?ingress=2&lp_context_asin=B00F3EC5E2&lp_context_query=futura%20steel&visitId=2a967856-a3c5-4047-9a90-8c1d2a697f25&store_ref=bl_ast_dp_brandLogo_sto&ref_=ast_bln) - Amazon storefront for Futura brand steel products
 - [bugaboo](https://www.bugaboo.com/us-en) - strollers & more
 
 ## Smart Home     
@@ -2125,7 +2144,8 @@ https://topoexport.com/)
 - [MagicDVR — DVR Software Downloads](https://www.magicdvr.com/downloads/)
 - [CyberDeck — Carbon Computers Collection](https://carboncomputers.us/collections/cyberdeck)
 - [Artefacto — Augmented Reality Platform](https://www.artefacto.com/default)
-- [Waveshare 13.3" E-Paper HAT+ (E)](https://www.waveshare.com/product/displays/e-paper/13.3inch-e-paper-hat-plus-e.htm) - Full color E-Ink display for Raspberry Pi, 1600×1200    
+- [CPU Benchmark — Intel Core 7 150U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+7+150U&id=5944) - PassMark CPU benchmark results and comparison data
+- [Waveshare 13.3" E-Paper HAT+ (E)](https://www.waveshare.com/product/displays/e-paper/13.3inch-e-paper-hat-plus-e.htm) - Full color 1600×1200 E-Ink display for Raspberry Pi             
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
