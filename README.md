@@ -923,7 +923,9 @@ https://topoexport.com/)
 - [Chase Experiences](https://www.chase.com/personal/credit-cards/experiences)  
 - [Slickdeals](https://slickdeals.net/)  
 - [Brickseek](https://brickseek.com/)  
-- [Ibotta](https://home.ibotta.com/)  
+- [Ibotta](https://home.ibotta.com/)
+- [SaveYourDeals](https://saveyourdeals.com/) - Curated Amazon deals with verified discounts and promo codes
+- [Deal Seek](https://dealseek.com/) - AI-powered Amazon deal finder with verified promo codes and real price drops
 - [Doctor of Credit](https://www.doctorofcredit.com/)  
 - [Dan’s Deals](https://www.dansdeals.com/)  
 - [Craigslist](https://www.craigslist.org/)
