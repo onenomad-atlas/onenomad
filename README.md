@@ -163,7 +163,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [firebase](https://firebase.google.com/)  
 - [flutterflow](https://www.flutterflow.io/)
 - [tldraw](https://tldraw.dev/)
-- [base44](https://base44.com/) 
+- [base44](https://base44.com/)
+- [Google ADK](https://google.github.io/adk-docs/) - Google's Agent Development Kit for building, evaluating, and deploying AI agents
+- [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source web crawling framework optimized for AI and LLM data extraction
+- [Scrapy](https://github.com/scrapy/scrapy) - Open-source web scraping framework for Python
+- [Scorecard.dev](https://scorecard.dev/) - OpenSSF Scorecard for automated security health checks on open-source projects
+- [UserWay](https://userway.org/) - Web accessibility widget and compliance platform
 - [co](https://www.co.dev/)  
 - [Vercel](https://vercel.com/) - Your complete platform for the web    
 - [IDX](https://idx.google.com) - Start building your app in the cloud   
@@ -349,6 +354,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [NVIDIA Build](https://build.nvidia.com/models) - NVIDIA's platform for building and deploying AI models using NVIDIA NIMs
 - [AgentEvolver](https://github.com/modelscope/AgentEvolver) - ModelScope's open-source framework for evolving AI agents
 - [Agent Lightning](https://github.com/microsoft/agent-lightning) - Microsoft's open-source framework for high-performance AI agents
+- [Inception Labs Mercury 2](https://www.inceptionlabs.ai/blog/introducing-mercury-2) - First reasoning diffusion LLM at 1,000+ tokens/sec, 5x faster than autoregressive models
+- [AI4Bharat Arena](https://arena.ai4bharat.org/#/chat) - Indian AI research lab's chatbot arena for evaluating language models
 - [TRELLIS 2](https://microsoft.github.io/TRELLIS.2/) - Microsoft's 3D asset generation model from text/image prompts
 - [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) - Open-source text-to-speech model on Hugging Face with natural voice synthesis
 - [DruidX](https://druidx.co/) - Build and deploy custom AI agents without code
@@ -466,7 +473,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [yt](https://ytiz.xyz/)
 - [flvto](https://flvto.click/)
 - [ytmp3.cc](https://ytmp3.ai/) - YouTube to MP3 downloader 
-- [tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another  
+- [tunemymusic](https://www.tunemymusic.com/?mode=youtubemusic) - Transfer your music playlist from one platform to another
+- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Open-source cross-platform GUI video and audio downloader
 - [soundiiz](https://soundiiz.com/) - Transfer your music playlist from one platform to another
 - [wemor](https://wemor.vercel.app/) - Transfer your Spotify playlists to YouTube Music seamlessly
 - [epidemicsound](https://www.epidemicsound.com/) - Bring your story to life with music and sounds  
@@ -737,7 +745,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Nio](https://www.nio.com/) - Vehicles & tech  
 - [Huawei](https://www.huawei.com/en/) - Smartphones & tech
 - [Huawei Central — News and Updates](https://www.huaweicentral.com/)  
-- [Tencent](https://www.tencent.com/en-us/index.html) - Tech company  
+- [Tencent](https://www.tencent.com/en-us/index.html) - Tech company
+- [Origin Quantum — Origin Pilot OS](https://m.originqc.com.cn/en/programming/pilotos) - China's first open-source quantum computer operating system
 - [Foxconn](https://www.foxconn.com/en-us) - Electronics distributor  
 
 ## Credit Cards  
@@ -853,6 +862,8 @@ https://topoexport.com/)
 - [Land-book — Website Design Inspiration Gallery](https://land-book.com/)
 - [Lapa Ninja — Landing Page Design Inspiration](https://www.lapa.ninja/)
 - [Photopea — Free Online Photo Editor](https://www.photopea.com/)
+- [SaveYourDeals](https://saveyourdeals.com/) - Curated Amazon deals with verified discounts and promo codes
+- [DealSeek](https://dealseek.com/) - AI-powered Amazon deal finder with verified promo codes and real price drops
 - [Spline — 3D Design Tool in Browser](https://spline.design/)
 - [Krita Features — Digital Painting Software](https://krita.org/en/features/)
 - [Euveka — Design Reference Website](https://www.euveka.com/)
@@ -950,6 +961,8 @@ https://topoexport.com/)
 ## Docs and Files
 
 - [Paperless-ngx](https://docs.paperless-ngx.com/) - Open-source document management system that transforms physical documents into a searchable online archive with OCR
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-hosted PDF manipulation tool with merge, split, convert, and OCR
+- [Papra](https://papra.app/en/) - Document management and organization tool
 
 
 **File Transfer**  
@@ -1051,6 +1064,8 @@ https://topoexport.com/)
 - [Free Rider HD](https://www.freeriderhd.com/) - Draw tracks and race bikes
 - [Line Rider](https://www.linerider.com/)
 - [drifted](https://www.drifted.com/)
+- [Vinyl Latin Funk Session — Humano Studios](https://www.youtube.com/watch?v=_kPwVTuEDEg&list=RD_kPwVTuEDEg&index=1) - 60s Latin funk, psych & garage vinyl studio session
+- [Jailbreak Your Kindle — Dammit Jeff](https://www.youtube.com/watch?v=Qtk7ERwlIAk) - Guide to jailbreaking Kindle e-readers
 - [Windows 93](https://www.windows93.net/) - Nostalgic parody of Windows 93 — interactive browser-based retro operating system with Easter eggs and games  
 - [lostgamer](https://lostgamer.io/) - Get Lost in the Worlds You Love   
 - [autodraw](https://www.autodraw.com/)
@@ -1102,6 +1117,7 @@ https://topoexport.com/)
 **Other Sites**  
 - [finbar](https://finbar.com/about)  
 - [Gurufocus](http://gurufocus.com/)  
+- [Computershare](https://www.computershare.com/us) - Global stock transfer agent and share registry services
 - [Moneyshow](http://moneyshow.com/)  
 - [Optionalpha](http://optionalpha.com/)  
 - [Barchart](http://barchart.com/)
@@ -1442,6 +1458,7 @@ https://topoexport.com/)
 - [ufpedge](https://www.ufpedge.com/) - wood
 - [ownwell](https://www.ownwell.com/) - reduce your property taxes  
 - [bldr](https://www.bldr.com/)
+- [SUPERthrive](https://www.amazon.com/SUPERthrive-VI30148-Plant-Vitamin-Solution/dp/B000OM82J0) - Original plant vitamin solution with kelp and Vitamin B1 since 1940
 - [SCP Distributors](https://www.scppool.com/) - World's largest wholesale swimming pool supplies distributor
 - [Texas Pressure Washing Store](https://www.texaspressurewashingstore.com/shop/) - Pressure washing equipment and supplies
 - [Unger Global — Professional Cleaning Tools](https://usa.ungerglobal.com/)   
@@ -1593,7 +1610,8 @@ https://topoexport.com/)
 - [teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Microsoft  
 - [screen.studio](https://screen.studio/) - Beautiful Screen Recordings in Minutes
 - [HelpWire](https://www.helpwire.app) - Free remote desktop support software for Windows, macOS, and Linux with secure peer-to-peer connections
-- [Rust Desk](https://rustdesk.com/)****     
+- [Rust Desk](https://rustdesk.com/)****
+- [3CX](https://www.3cx.com/try/) - Business phone system with video conferencing and live chat 
 - [Confer — Collaborative Meeting Tool](https://confer.to/)
 - [Radial — Meeting Productivity Platform](https://www.meetradial.com/)      
 
@@ -1630,6 +1648,10 @@ https://topoexport.com/)
 - [cinegram](https://cinegram.net/)
 - [spenflix](https://watch.spencerdevs.xyz/) 
 - [fmovies](https://www.fmovies.gd/)
+- [67movies](https://67movies.net/) - Free movie streaming site
+- [ShuttleTV](https://shuttletv.su/) - Free movie and TV streaming site
+- [456movie](https://456movie.nl/) - Free movie streaming site
+- [FlixIndia](https://m.flixindia.xyz/) - Indian movie streaming site
 - [xprime](https://xprime.today/)  
 - [supernova](https://supernova.to/) - watch movies & shows/download
 - [einthusan](https://einthusan.tv/intro/) - indian  
@@ -2349,6 +2371,8 @@ https://topoexport.com/)
   - [raynatours](https://www.raynatours.com/)  
   - [oceanairtravels](https://www.oceanairtravels.com/)  
   - [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica
+  - [Kurukahveci Mehmet Efendi](https://www.mehmetefendi.com/eng) - Iconic Istanbul Turkish coffee roaster since 1871
+  - [Experiential Travel Africa](https://experientialtravelafrica.com/) - African safari and experiential travel service
   - [Turkan Travels Istanbul](https://www.tripadvisor.com/Attraction_Review-g293974-d33393864-Reviews-Turkan_Travels-Istanbul.html) - Istanbul travel service on TripAdvisor     
 
 **Traveler Programs**  
@@ -2516,4 +2540,6 @@ https://topoexport.com/)
 - [Luminocity — World Population Density 3D Map](https://luminocity3d.org/WorldPopDen/#6/-29.162/141.372)
 - [voronoi](https://www.voronoiapp.com/)
 - [Movemap](https://www.movemap.io/explore/us)
+- [WorldWideView](https://worldwideview.dev/) - Open-source real-time geospatial intelligence platform on a CesiumJS 3D globe
+- [World Monitor](https://world-monitor.com/) - Real-time global intelligence dashboard with live conflict, weather, and OSINT monitoring
 - [davidrumsey](https://www.davidrumsey.com/)     
