@@ -173,6 +173,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Vercel](https://vercel.com/) - Your complete platform for the web    
 - [IDX](https://idx.google.com) - Start building your app in the cloud   
 - [hackertab](https://hackertab.dev/) - Developer news
+- [GStack](https://github.com/garrytan/gstack) - Garry Tan's open-source Claude Code skill pack — 10 specialist roles as slash commands
+- [Magic.link](https://magic.link/) - Passwordless authentication platform using email magic links and WebAuthn
 - [same](https://same.new/) - copy any UI     
 - [Zoo](https://zoo.dev/) - creates infrastructure for hardware design
 - [Windsurf](https://windsurf.com/) - AI Editor
@@ -286,6 +288,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [tiebar](http://www.thetiebar.com/) - Quality made menswear  
 - [shein](https://us.shein.com/) - Exclusive discounts and latest trends  
 - [italic](https://italic.com/) - Luxury without labels
+- [VIE LORIE](https://vielorie.com/) - New York luxury handbag brand with Italian-crafted leather bags
 
 
 ## Architecture
@@ -356,6 +359,9 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Agent Lightning](https://github.com/microsoft/agent-lightning) - Microsoft's open-source framework for high-performance AI agents
 - [Inception Labs Mercury 2](https://www.inceptionlabs.ai/blog/introducing-mercury-2) - First reasoning diffusion LLM at 1,000+ tokens/sec, 5x faster than autoregressive models
 - [AI4Bharat Arena](https://arena.ai4bharat.org/#/chat) - Indian AI research lab's chatbot arena for evaluating language models
+- [Paperclip](https://paperclip.ing/) - Open-source orchestration platform for zero-human companies — org charts, budgets, and governance for AI agent teams (36K+ GitHub stars)
+- [DeerFlow](https://deerflow.tech/) - ByteDance's open-source SuperAgent harness for deep research, coding, and content creation with sub-agents, memory, and sandboxed execution
+- [MiniMax Agent](https://agent.minimax.io/) - AI supercompanion powered by MiniMax M2 — general-purpose agent for coding, research, and complex multi-step tasks
 - [TRELLIS 2](https://microsoft.github.io/TRELLIS.2/) - Microsoft's 3D asset generation model from text/image prompts
 - [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) - Open-source text-to-speech model on Hugging Face with natural voice synthesis
 - [DruidX](https://druidx.co/) - Build and deploy custom AI agents without code
@@ -595,8 +601,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **Search and Download Any Book**    
 - [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
 - [libgen.li](https://libgen.li/)
-- [Z-Library — Free Book Library](https://z-lib.gs/)
-- [archive.org](https://archive.org/)  
+- [Z-Library](https://z-lib.cv/) - Free book library and download platform  
 - [openlibrary](https://openlibrary.org/)  
 - [magazinelib](https://magazinelib.com/) - magazines
 - [sacred texts](https://sacred-texts.com/index.htm) - search sacred texts     
@@ -653,7 +658,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **Wholesale & Auctions**
 - [bstock](https://bstock.com/)
-- [govdeals](https://www.govdeals.com/en) 
+- [govdeals](https://www.govdeals.com/en)
+- [Accio](https://www.accio.com) - Alibaba's AI-powered B2B sourcing agent — find suppliers, analyze trends, and automate procurement across 400M+ products
 
 **Other** 
 - [clay](https://clay.eth/) - manage all your personal and professional relationships  
@@ -1193,6 +1199,7 @@ https://topoexport.com/)
 - [syscotogo](https://www.syscotogo.com/)
 - [gfsstore](https://gfsstore.com/)
 - [leprino](https://leprino.com/) - cheese distributor
+- [King's Pastry](https://www.kingspastry.com/) - Canadian wholesale bakery since 1996 — artisanal cakes, pastries, and desserts across North America
 
 **Other**
 - [mpactbeverage](https://www.mpactbeverage.com/) - the ultimate craft cocktail
@@ -1829,6 +1836,7 @@ https://topoexport.com/)
 - [Linkding — Self-Hosted Bookmark Manager](https://github.com/sissbruecker/linkding)
 - [Awesome Self-Hosted Software Directory](https://awesome-selfhosted.net/)
 - [Glance — Self-Hosted Feed Dashboard](https://github.com/glanceapp/glance)
+- [Open Source Projects](https://opensourceprojects.dev) - Open-source project discovery and showcase platform
 
 **Sites**   
 - [Docuseal](https://www.docuseal.com/) - Document Signing  
@@ -2178,7 +2186,8 @@ https://topoexport.com/)
 - [angellist](https://www.angellist.com/)  
 - [microventures](https://microventures.com/)  
 - [crowdcube](https://www.crowdcube.com/) - European  
-- [ourcrowd](https://www.ourcrowd.com/)  
+- [ourcrowd](https://www.ourcrowd.com/)
+- [IdeaBrowser](https://www.ideabrowser.com/) - Startup idea discovery platform with trending ideas, market data, validation scores, and go-to-market tactics
 - [fundersclub](https://fundersclub.com/)  
 - [equityzen](https://equityzen.com/) - private companies
 - [Loot Drop — Failed Startup Ideas Directory](https://loot-drop.vercel.app/)    
@@ -2373,7 +2382,8 @@ https://topoexport.com/)
   - [desafiocostarica](https://www.desafiocostarica.com/) - Costa Rica
   - [Kurukahveci Mehmet Efendi](https://www.mehmetefendi.com/eng) - Iconic Istanbul Turkish coffee roaster since 1871
   - [Experiential Travel Africa](https://experientialtravelafrica.com/) - African safari and experiential travel service
-  - [Turkan Travels Istanbul](https://www.tripadvisor.com/Attraction_Review-g293974-d33393864-Reviews-Turkan_Travels-Istanbul.html) - Istanbul travel service on TripAdvisor     
+  - [Turkan Travels Istanbul](https://www.tripadvisor.com/Attraction_Review-g293974-d33393864-Reviews-Turkan_Travels-Istanbul.html) - Istanbul travel service on TripAdvisor
+  - [Timeless Luxury Travels](https://timelessluxurytravels.com) - Luxury travel planning and concierge service
 
 **Traveler Programs**  
 - [Mobile Passport Control](https://www.cbp.gov/travel/us-citizens/mobile-passport-control)  
